@@ -1,0 +1,35 @@
+---
+# An instance of the Blank widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
+widget: blank
+
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 50
+
+# Section title
+title: What can we do differently?
+
+# Section subtitle
+subtitle: 
+
+# Section design
+design:
+  columns: '2'
+  spacing:
+    # Customize the section spacing. Order is top, right, bottom, left.
+    padding: ["20px", "0", "0px", "0"]
+---
+We need a fresh and holistic approach to how we collaborate and manage Challenges. Put the Challenge central. Sounds simple, but with this the focus changes. Desired outcome driven, not activity or organisation driven.
+
+**What do we want to change?** The shared representation (*context*) of the current and desired reality, representing perspectives, interests and insights from all impacted. 
+
+**Who wants to contribute?** The people and organisations (*community*) that wish to collaborate, a social network around the context.
+
+**How are we collaborating?** Making it easier to work together (*collaboration*), as the Challenge moves from initial enthusiasm and prototyping through to delivered change (*continuity*).
+
+{{< figure src="dream-team-notitle.jpg" id="challenge-centric" caption="From challenge fragmentation to one shared representation" numbered="true">}}
+
+By making the Challenge **central**, it gives a foundation / approach to ensuring that the societies needs and societies needs remain the focus. Critically it enables wider engagement – anyone can contribute to building a better future.
