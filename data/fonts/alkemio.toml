@@ -1,0 +1,13 @@
+# Font style metadata
+name = "alkemio"
+
+# Optional Google font URL
+google_fonts = "family=Rubik:wght@400;700"
+
+# Font families
+heading_font = "Rubik"
+body_font = "Rubik"
+nav_font = "Rubik"
+mono_font = "Rubik"
+
+
