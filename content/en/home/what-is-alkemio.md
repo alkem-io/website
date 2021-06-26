@@ -24,6 +24,6 @@ design:
 ---
 **Alkemio** is a new open innovation platform, building a better future together. Open source, a shared platform and community. Everyone can contribute so that everyone can benefit.
 
-Stichting Alkemio is a **not-for-profit, neutral entity** to develop the Alkemio platform, and to grow  a community around it. Together we can create a digital open source public infrastructure whereby our shared Challenges are central. 
+Alkemio is supported by a **not-for-profit, neutral foundation** to develop the platform, and to grow  a community around it. Together we can create a digital open source public infrastructure whereby our shared Challenges are central. 
 
 

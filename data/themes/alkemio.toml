@@ -7,16 +7,16 @@ light = true
 # cherry red color plaette: https://htmlcolors.com/palette/30/cherry-red
 
 # Primary
-#primary = "#cb2b44" # cherry
-primary = "#00bcd4" # teal
-
+#primary = "#00bcd4" # teal
+primary = "#09bcd4" # pacific blue
 
 # Menu
-#menu_primary = "#cb2b44" # for cherry
-menu_primary = "#00bcd4" # for teal
+menu_primary = "#09bcd4" # pacific blue
+#menu_primary = "#00bcd4" # for teal
 menu_text = "#fff"
-#menu_text_active = "#540000" # for cherry
-menu_text_active = "#002428"
+#menu_text_active = "#09bcd4" # pacific blue
+#menu_text_active = "#002428"
+menu_text_active = "#2d546a" # deep blue
 menu_title = "#fff"
 
 # Home sections

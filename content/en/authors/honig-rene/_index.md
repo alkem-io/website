@@ -16,7 +16,7 @@ role: Board Member | Co-founder | Chief Strategy & Innovation
 
 # Organizations/Affiliations
 organizations:
-- name: Stichting Alkemio
+- name: Alkemio
   url: "https://alkem.io"
 
 # Short bio (displayed in user profile at end of posts)
