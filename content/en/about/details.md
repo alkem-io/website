@@ -1,16 +1,14 @@
 ---
-# An instance of the Blank widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
-widget: blank
+widget: contact
 
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 90
+weight: 80
 
 # Section title
-title: Stay informed
+title: Contact details
 
 # Section subtitle
 subtitle: 
@@ -21,7 +19,12 @@ design:
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
     padding: ["20px", "0", "0px", "0"]
----
-Subscribe to our newsletter by completing the form
 
-<script type="text/javascript" src="//mautic.cherrytwist.org/form/generate.js?id=4"></script>
+# ... Put Your Section Options Here (title etc.) ...
+
+content:
+  # Automatically link email and phone or display as text?
+  autolink: true
+  
+  
+---
