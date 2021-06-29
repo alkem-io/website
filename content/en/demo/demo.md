@@ -33,4 +33,4 @@ Note this demo site is work in progress and is not yet 'production grade'.
 
 {{< figure src="demo-sdgs.png"  >}}
 
-- [United Nations Sustainable Development Goals WIP](https://demo-sdgs.alkem.io)
+- [Alkemio demo website](https://demo.cherrytwist.org)
