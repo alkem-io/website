@@ -49,11 +49,11 @@ contact_links:
   - icon: github
     icon_pack: fab
     name: Visit us on Github 
-    link: 'https://github.com/alkemio'
+    link: 'https://github.com/alkem-io'
   - icon: linkedin
     icon_pack: fab
     name: Visit us on LinkedIn
-    link: 'https://www.linkedin.com/company/alkemio-foundation/'
+    link: 'https://www.linkedin.com/company/cherrytwist-foundation/'
 #  - icon: comments
 #    icon_pack: fas
 #    name: Discuss on Forum
