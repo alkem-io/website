@@ -23,7 +23,7 @@ main:
     url: 'about'
     weight: 60
   - name: Github
-    url: 'https://github.com/alkemio'
+    url: 'https://github.com/alkem-io'
     weight: 70
 
 

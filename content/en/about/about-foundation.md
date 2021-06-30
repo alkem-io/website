@@ -10,7 +10,7 @@ headless: true
 weight: 1
 
 # Section title
-title: The Alkemio Foundation
+title: Alkemio
 
 # Section subtitle
 subtitle: Building the future of human collaboration
