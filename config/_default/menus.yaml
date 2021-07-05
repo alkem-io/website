@@ -22,7 +22,9 @@ main:
   - name: About
     url: 'about'
     weight: 60
-  - name: Github
+  - name: 
+    pre: <i class="fab fa-github"></i>
+    post: 
     url: 'https://github.com/alkem-io'
     weight: 70
 
