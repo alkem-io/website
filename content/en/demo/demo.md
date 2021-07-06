@@ -33,4 +33,4 @@ Note this demo site is work in progress and is not yet 'production grade'.
 
 {{< figure src="demo-sdgs.png"  >}}
 
-- [Alkemio demo website](https://demo.cherrytwist.org)
+- [Alkemio demo website](https://demo.alkem.io)
