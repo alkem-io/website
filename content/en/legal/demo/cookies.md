@@ -82,9 +82,9 @@ Any of the above types of Cookie may be a session Cookie. Session Cookies are te
 
 | **Name of Cookie** | **Purpose & Type** | **Strictly Necessary** |
 | ------------------- | ------------------- | ----------------------- |
-| | | |
-| | | |
-| | | |
+| ory_kratos_session| The currently logged in user| Yes |
+| csrf (dynamic name)| Security - protects against CSRF attacks| Yes |
+| cookie_consent| Users have consented to the usage of cookies | Yes |
 
  
 
@@ -93,8 +93,7 @@ Any of the above types of Cookie may be a session Cookie. Session Cookies are te
 | **Name of Cookie** | **Purpose & Type** | **Provider** | **Strictly Necessary** |
 | ------------------- | ------------------- | ------------ | ----------------------- |
 | | | | |
-| | | | |
-| | | | |
+
 
  
 
