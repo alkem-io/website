@@ -26,10 +26,11 @@ design:
   #  text_color_light: true
 ---
 
-We are here to help if you need support with the platform! You can make a support request in one of the following ways:
+We are here to help if you need support with the platform! 
 
-- Browse our support pages hosted at our [Github discussions page](https://github.com/alkem-io/alkemio/discussions) or submit a request
-- Fill in the form below if you cannot share the details publicly (requires email confirmation):
+Our preferred way to provide support is through using our support pages hosted at our [Github discussions page](https://github.com/alkem-io/alkemio/discussions), as other users can benefit from that too.
+
+If you prefer not to share the request publicly you can fill in the form below (requires email confirmation):
 
 <br><br><br>
 <script type="text/javascript" src="//mautic.alkem.io/form/generate.js?id=5"></script>

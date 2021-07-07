@@ -43,11 +43,11 @@ main:
     name: Security
     url: 'security'
     weight: 4
-  #- parent: about-main
-  #  indentifier: about-support
-  #  name: Support
-  #  url: 'support'
-  #  weight: 5
+  - parent: about-main
+    indentifier: about-support
+    name: Support
+    url: 'support'
+    weight: 5
   - name: 
     pre: <i class="fab fa-github"></i>
     post: 
