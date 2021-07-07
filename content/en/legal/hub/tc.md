@@ -6,7 +6,7 @@
 
  
 
-**Please read these Terms and Conditions carefully and ensure that you understand them before using Our Site**. These Terms and Conditions, together with any other documents referred to herein (unless otherwise stated), set out the terms of use governing your use of this website, https://demo.alkem.io (“Our Site”). It is recommended that you print a copy of these Terms and Conditions for your future reference.
+**Please read these Terms and Conditions carefully and ensure that you understand them before using Our Site**. These Terms and Conditions, together with any other documents referred to herein (unless otherwise stated), set out the terms of use governing your use of this website, https://hub.alkem.io (“Our Site”). It is recommended that you print a copy of these Terms and Conditions for your future reference.
 
 These Terms and Conditions were last updated on 6 July 2021. 
 
@@ -16,9 +16,9 @@ The following documents also apply to your use of Our Site:
 
 · Our Privacy Policy, available at https://alkem.io/privacy. This is also referred to below in Parts 3, 7 and 17.
 
-· Our Cookie Policy, available at https://alkem.io/legal/demo. This is also referred to below in Part 17.
+· Our Cookie Policy, available at https://alkem.io/legal/hub. This is also referred to below in Part 17.
 
-· Our Acceptable Usage Policy, available at https://alkem.io/legal/demo. This is also referred to below in Parts 3, 7, 10, 12, and 16.
+· Our Acceptable Usage Policy, available at https://alkem.io/legal/hub. This is also referred to below in Parts 3, 7, 10, 12, and 16.
 
  
 
@@ -32,7 +32,7 @@ The following documents also apply to your use of Our Site:
 | ------------------- | ------------------------------------------------------------ |
 | **“Contact Tools”** | means any online communications facility that We make available on Our Site enabling you to contact Us including, but not limited to, contact forms and live chat; |
 | **“Content”** | means any and all text, images, audio, video, scripts, code, software, databases, and any other form of information capable of being stored on a computer that appears on, or forms part of, Our Site; |
-| **“Our Site”** | means this website, https://demo.alkem.io, and any reference to Our Site also refers to all Content on it, including User Content, unless expressly stated otherwise; |
+| **“Our Site”** | means this website, https://hub.alkem.io, and any reference to Our Site also refers to all Content on it, including User Content, unless expressly stated otherwise; |
 | **“User”** | means a user of Our Site; |
 | **“User Content”** | means any information related to ecoverses, challenges and other innovation related content, shared by Users on Our Site; and |
 | **“We/Us/Our”** | means Stichting Cherrytwist. |
@@ -53,7 +53,7 @@ The following documents also apply to your use of Our Site:
 
 · Community forum, see our website for details
 
-3.3 When using Our Contact Tools or contacting Us by any other means, our Acceptable Usage Policy, available at https://alkem.io/legal/demo, applies.
+3.3 When using Our Contact Tools or contacting Us by any other means, our Acceptable Usage Policy, available at https://alkem.io/legal/hub, applies.
 
 3.4 We may monitor any and all communications made using Our Contact Tools.
 
@@ -141,7 +141,7 @@ We may alter and update Our Site (or any part of it) at any time.
 
 9.2 An Account is required for the submission of User Content to Our Site.
 
-9.3 All User Content and communications with other Users on Our Site must comply with the content standards set out in Our Acceptable Usage Policy, available at https://alkem.io/legal/demo.
+9.3 All User Content and communications with other Users on Our Site must comply with the content standards set out in Our Acceptable Usage Policy, available at https://alkem.io/legal/hub.
 
 9.4 You warrant that you will comply with Part 9.3 and the content standards referred to. You will be liable to Us and will, to the fullest extent permissible by law, indemnify Us for any breach of your warranty. You will be responsible for any loss or damage suffered by Us as a result of such a breach.
 
@@ -239,7 +239,7 @@ We may alter and update Our Site (or any part of it) at any time.
 
 16. Acceptable Usage of Our Site
 
-16.1 In addition to these Terms and Conditions, Our Acceptable Usage Policy, available at https://alkem.io/legal/demo, applies to your use of Our Site.
+16.1 In addition to these Terms and Conditions, Our Acceptable Usage Policy, available at https://alkem.io/legal/hub, applies to your use of Our Site.
 
 16.2 You may only use Our Site in a lawful manner:
 
@@ -269,7 +269,7 @@ f) Any other actions which We deem reasonably appropriate (and lawful).
 
 17. How We Use Your Personal Information
 
-We will only use your personal information as set out in Our Privacy Policy, available from https://alkem.io/legal/demo and Our Cookie Policy, available from https://alkem.io/legal/demo.
+We will only use your personal information as set out in Our Privacy Policy, available from https://alkem.io/legal/hub and Our Cookie Policy, available from https://alkem.io/legal/hub.
 
  
 

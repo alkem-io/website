@@ -153,4 +153,4 @@ Any of the above types of Cookie may be a session Cookie. Session Cookies are te
 
 7.2.1 https://alkem.io/privacy;
 
-7.2.2 https://alkem.io/legal/demo.
+7.2.2 https://alkem.io/legal/hub.
