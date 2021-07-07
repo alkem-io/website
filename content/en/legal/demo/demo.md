@@ -28,6 +28,6 @@ design:
 
 Find below the demo website Terms & Conditions:
 
-- [Acceptable Usage Policy](#tc)
+- [Acceptable Usage Policy](#aup)
 - [Terms & Conditions](#tc)
 - [Cookie policy](#cookies)

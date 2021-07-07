@@ -86,7 +86,7 @@ a) Hosting of Alkemio open innovation platform
 
 6.4 Notwithstanding Part 6.3, We are under no obligation to monitor, moderate, or in any other manner oversee any interactive services provided on Our Site. We hereby exclude any and all liability for any loss or damage arising out of the use of such interactive services by a User who breaches the content standards set out below in Part 7, whether We monitor the interactive service or not.
 
-6.5 may only use the interactive service(s) provided on Our Site with the consent of their parent or guardian.
+6.5 Minors may only use the interactive service(s) provided on Our Site with the consent of their parent or guardian.
 
  
 

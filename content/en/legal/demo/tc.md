@@ -41,7 +41,7 @@ The following documents also apply to your use of Our Site:
 
 2. Information About Us
 
-2.1 Our Site is operated by Stichting Cherrytwist, operating under the name Alkemio. **[**We are a foundation registered in The Netherlands under number 78302633. Our registered address is Park Leeuwenberghlaan 3, 2267 BM Leidschendam, South-Holland, The Netherlands. 
+2.1 Our Site is operated by Stichting Cherrytwist, operating under the name Alkemio. We are a foundation registered in The Netherlands under number 78302633. Our registered address is Park Leeuwenberghlaan 3, 2267 BM Leidschendam, South-Holland, The Netherlands. 
 
  
 
@@ -53,7 +53,7 @@ The following documents also apply to your use of Our Site:
 
 · Community forum, see our website for details
 
-3.3 When using Our Contact Tools or contacting Us by any other means, our Acceptable Usage Policy, available at https://alkem.io/legal.demo, applies.
+3.3 When using Our Contact Tools or contacting Us by any other means, our Acceptable Usage Policy, available at https://alkem.io/legal/demo, applies.
 
 3.4 We may monitor any and all communications made using Our Contact Tools.
 
@@ -109,8 +109,6 @@ We may alter and update Our Site (or any part of it) at any time.
 
  
 
- 
-
 8. How You May Use Our Site and Content (Intellectual Property)
 
 8.1 With the exception of User Content (please refer to Part 10), all Content included on Our Site and the copyright and other intellectual property rights in that Content belongs to or has been licensed by Us, unless specifically labelled otherwise. All Content (including User Content) is protected by applicable Dutch and international intellectual property laws and treaties.
@@ -139,11 +137,11 @@ We may alter and update Our Site (or any part of it) at any time.
 
 9. User Content
 
-9.1 User Content on Our Site includes information related to ecoverses, challenges and innovation..
+9.1 User Content on Our Site includes but is not limited to information related to ecoverses, challenges, communications, profiles, collaboration and innovation.
 
 9.2 An Account is required for the submission of User Content to Our Site.
 
-9.3 All User Content and communications with other Users on Our Site must comply with the content standards set out in Our Acceptable Usage Policy, available at https://alkem.io/legal.demo.
+9.3 All User Content and communications with other Users on Our Site must comply with the content standards set out in Our Acceptable Usage Policy, available at https://alkem.io/legal/demo.
 
 9.4 You warrant that you will comply with Part 9.3 and the content standards referred to. You will be liable to Us and will, to the fullest extent permissible by law, indemnify Us for any breach of your warranty. You will be responsible for any loss or damage suffered by Us as a result of such a breach.
 
@@ -167,7 +165,7 @@ We may alter and update Our Site (or any part of it) at any time.
 
 10. User Content, Your Rights, Our Rights, and Users’ Rights (Intellectual Property)
 
-10.1 User Content on Our Site and the copyright and other intellectual property rights in that User Content, unless specifically labelled otherwise, belongs to or has been licensed by the User identified along with that User Content. All User Content is protected by applicable United Kingdom and international intellectual property laws and treaties.
+10.1 User Content on Our Site and the copyright and other intellectual property rights in that User Content, unless specifically labelled otherwise, belongs to or has been licensed by the User identified along with that User Content. All User Content is protected by applicable Dutch and international intellectual property laws and treaties.
 
 10.2 You (or your licensors, as appropriate) retain the ownership of your User Content and all associated intellectual property rights. When you submit User Content to Our Site, you grant Us an unconditional, non-exclusive, fully transferrable, royalty free, perpetual, worldwide licence to use, store, archive, syndicate, publish, transmit, adapt, edit, reproduce, distribute, prepare derivative works from, display, perform, and sub-licence your User Content to the extent necessary to operate and promote Our Site.
 
