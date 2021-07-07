@@ -10,10 +10,10 @@ headless: true
 weight: 1
 
 # Section title
-title: Experience the platform yourself
+title: Hub website Terms & Conditions
 
 # Section subtitle
-subtitle: The proof of the pudding is in the eating...
+subtitle: 
 
 
 # Section design
@@ -26,11 +26,8 @@ design:
   #  text_color_light: true
 ---
 
-We realise that experiencing our platform is even more fun than talking about it.
-We invite you therefore to try it yourself on our demo site.
+Find below the demo website Terms & Conditions:
 
-Note this demo site is work in progress and is not yet 'production grade'.
-
-{{< figure src="demo-alkemio.png"  >}}
-
-- [Alkemio demo website](https://demo.alkem.io)
+- [Acceptable Usage Policy](#aup)
+- [Terms & Conditions](#tc)
+- [Cookie policy](#cookies)
