@@ -20,8 +20,34 @@ main:
     url: 'feedback'
     weight: 50
   - name: About
+    identifier: about-main
     url: 'about'
     weight: 60
+  - parent: about-main
+    indentifier: about-team
+    name: Our team
+    url: 'about'
+    weight: 1
+  - parent: about-main
+    indentifier: about-foundation
+    name: Contact details
+    url: 'about#details'
+    weight: 2
+  - parent: about-main
+    indentifier: about-privacy
+    name: Privacy
+    url: 'privacy'
+    weight: 3
+  - parent: about-main
+    indentifier: about-security
+    name: Security
+    url: 'security'
+    weight: 4
+  #- parent: about-main
+  #  indentifier: about-support
+  #  name: Support
+  #  url: 'support'
+  #  weight: 5
   - name: 
     pre: <i class="fab fa-github"></i>
     post: 
