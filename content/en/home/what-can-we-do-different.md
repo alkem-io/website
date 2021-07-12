@@ -32,4 +32,4 @@ We need a fresh and holistic approach to how we collaborate and manage Challenge
 
 {{< figure src="dream-team-notitle.jpg" id="challenge-centric" caption="From challenge fragmentation to one shared representation" numbered="true">}}
 
-By making the Challenge **central**, it gives a foundation / approach to ensuring that the societies needs and societies needs remain the focus. Critically it enables wider engagement – anyone can contribute to building a better future.
+By making the Challenge **central**, it gives a foundation / approach to ensuring that the needs of citizens and society remain the focus. Critically it enables wider engagement – anyone can contribute to building a better future.
