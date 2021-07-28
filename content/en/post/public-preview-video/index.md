@@ -8,8 +8,8 @@ math: false
 diagram: false
 summary: Watch the online session from July 8th with Digicampus
 authors:
+- tatjana-lisjak
 - smyth-neil
-- honig-rene
 tags:
 - news
 - digicampus
@@ -36,7 +36,7 @@ They answer some of the most frequent questions, such as why a new open innovati
 
 Since our platform is created for everyone, we are inviting you to try out our [public preview](https://hub.alkem.io) of the Open Innovation Hub. Please sign up, create your profile and connect to the Challenges hosted there that you want to collaborate on!
 
-There is also a [playground / demo version](https://demo.alkem.io) - please reach out if you would like to have a space for hosting your own public/private challenges and discover how it can help collaborating on Challenges.
+There is also a [playground / demo environment](https://demo.alkem.io) - please reach out if you would like to have a space to explore how hosting your own public/private challenges on Alkemio can help you!
 
 
 
