@@ -1,12 +1,12 @@
 ---
 #widget: pages
 #headless: true
-title: Alkemio public preview launch video is available! (dutch)
+title: Video recording now available from Alkemio public preview launch! (dutch)
 date: "2021-07-27"
 lastmod: "2021-07-127"
 math: false
 diagram: false
-summary: Alkemio public preview launch with Digicampus - videos
+summary: Watch the online session from July 8th with Digicampus
 authors:
 - smyth-neil
 - honig-rene
@@ -30,13 +30,14 @@ image:
 
 Thanks to our partner **Digicampus**, all online sessions held during the celebration of their second anniversary on July 8 [are now available online](https://digicampus.tech/terugkijken-online-sessies-2-jaar-digicampus/).
 
-In our [Alkemio launch and demo presentation](https://player.vimeo.com/video/577572460), co-founders Neil Smyth, René Honig, and Digicampus portfolio manager Flori Spoelstra present the possibilities of our open source platform and explain how people and organizations can benefit by using it to work together on solving different societal challenges. 
+In our [Alkemio launch and demo presentation](https://player.vimeo.com/video/577566235), co-founders Neil Smyth, René Honig, and Digicampus portfolio manager Flori Spoelstra present the possibilities of our open source platform and explain how people and organizations can benefit by using it to work together on solving societal challenges. 
 
 They answer some of the most frequent questions, such as why a new open innovation hub is needed; how is Alkemio different; how it is sustainable; what can the platform already enable and plans for the future; and how it can be used for collaboration. 
 
-Since our platform is created for everyone, we are inviting you to try out either our [public preview](https://hub.alkem.io) of the Open Innovation Hub. Please sign up, create your profile and connect to the Challenges hosted there that you want to collaborate on!
+Since our platform is created for everyone, we are inviting you to try out our [public preview](https://hub.alkem.io) of the Open Innovation Hub. Please sign up, create your profile and connect to the Challenges hosted there that you want to collaborate on!
 
-There is also a [playground / demo version](https://demo.alkem.io) - please reach out if you would like to have a space for hosting your own public/private challenges and discover all the possibilities it is offering in tackling various kinds of challenges.
+There is also a [playground / demo version](https://demo.alkem.io) - please reach out if you would like to have a space for hosting your own public/private challenges and discover how it can help collaborating on Challenges.
+
 
 
 
