@@ -31,3 +31,4 @@ Find below the demo website Terms & Conditions:
 - [Acceptable Usage Policy](#aup)
 - [Terms & Conditions](#tc)
 - [Cookie policy](#cookies)
+- [Terms of Sale](#tos-b2b)
