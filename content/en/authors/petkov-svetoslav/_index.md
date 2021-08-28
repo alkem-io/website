@@ -1,25 +1,28 @@
 ---
 # Display name
-title: Rutger van Zuidam
+title: Svetoslav Petkov
 
 # Username (this should match the folder name)
-authors:
-- vanzuidam-rutger
+authors: 
+- petkov-svetoslav
+
+weight: 5
 
 # Is this the primary user of the site?
 superuser: false
 
-weight: 3
-
 # Role/position
-role: Founder | CEO
-
+role: Developer
 
 # Organizations/Affiliations
 organizations:
-- name: Odyssey
-  url: "https://odyssey.org"
+- name: Alkemio
+  url: "https://alkem.io"
 
+
+
+#education:
+#  courses:
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -34,13 +37,13 @@ social:
 #  link: https
 - icon: linkedin
   icon_pack: fab
-  link: https://nl.linkedin.com/in/rutgervz
+  link: https://www.linkedin.com/in/svetoslav-petkov-78a324144/
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-#- icon: github
-#  icon_pack: fab
-#  link: 
+- icon: github
+  icon_pack: fab
+  link: https://github.com/hero101
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -53,7 +56,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- []
+- Core Team
 
 ---
 
