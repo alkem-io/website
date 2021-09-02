@@ -36,7 +36,7 @@ These Terms of Sale set out the terms under which Services are sold and provided
 
 3.2  It is your responsibility to make any and all arrangements necessary in order to access Our Site.
 
-3.3  Access to Our Site is provided “as is” and on an “as available” basis. ** what do other SaaS platforms offer in terms of continuity guarantees?**
+3.3  Access to Our Site is provided “as is” and on an “as available” basis.
 
 3.4  Use of Our Site is subject to Our Website Terms of Use https://alkem.io/legal/hub/#tc. Please ensure that you have read them carefully and that you understand them.
 
@@ -98,7 +98,7 @@ These Terms of Sale set out the terms under which Services are sold and provided
 
 7.3.1 Stripe
 
-7.3.2 Direct invoicing (** to be defined further?**)
+7.3.2 Direct invoicing by bank transfer
 
 7.4  If you do not make any payment to Us by the due We may charge you interest on the overdue sum at the rate of 2% per annum above the base lending rate of De Nederlandse Bank from time to time. Interest will accrue on a daily basis from the due date for payment until the actual date of payment of the overdue sum, whether before or after judgment. You must pay any interest due when paying an overdue sum.
 
