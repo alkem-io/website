@@ -36,7 +36,7 @@ These Terms of Sale set out the terms under which Services are sold and provided
 
 3.2  It is your responsibility to make any and all arrangements necessary in order to access Our Site.
 
-3.3  Access to Our Site is provided “as is” and on an “as available” basis. We may alter, suspend or discontinue Our Site (or any part of it) at any time and without notice. We will not be liable to you in any way if Our Site (or any part of it) is unavailable at any time and for any period.
+3.3  Access to Our Site is provided “as is” and on an “as available” basis.
 
 3.4  Use of Our Site is subject to Our Website Terms of Use https://alkem.io/legal/hub/#tc. Please ensure that you have read them carefully and that you understand them.
 
@@ -66,10 +66,9 @@ These Terms of Sale set out the terms under which Services are sold and provided
 
 5.7  In the event that the price of Services you have ordered changes between your Order being placed and Us processing that Order and taking payment, you will be charged the price shown on Our Site at the time of placing your Order.
 
-5.8  Prices on Our Site are shown exclusive of VAT. If the VAT rate changes between your Order being placed and Us taking payment, the amount of VAT payable will be automatically adjusted when taking payment.
+5.8  Prices on Our Site are by default shown exclusive of VAT. If the VAT rate changes between your Order being placed and Us taking payment, the amount of VAT payable will be automatically adjusted when taking payment.
 
  
-
 6. Orders – How Contracts Are Formed
 
 6.1  Our Site will guide you through the ordering process. Before submitting your Order to Us you will be given the opportunity to review your Order and amend any errors. Please ensure that you have checked your Order carefully before submitting it.
@@ -88,17 +87,6 @@ These Terms of Sale set out the terms under which Services are sold and provided
 
 6.5  If We, for any reason, do not accept or cannot fulfil your Order, no payment shall be taken under normal circumstances. If We have taken payment, any such sums will be refunded to you as soon as possible and in any event within 14 days.
 
-6.6  We may cancel your Order at any time before We begin providing the Services in the following circumstances:
-
-6.6.1 The required personnel and/or required materials necessary for the provision of the Services are not available; or
-
-6.6.2 An event outside of Our control continues for more than 5 days (please refer to Clause 12 for events outside of Our control).
-
-6.7  If We cancel your Order under sub-Clause 6.6 and We have taken payment any such sums will be refunded to you as soon as possible and in any event within 14 days. If We cancel your Order, you will be informed by email and the cancellation will be confirmed in writing by email.
-
-6.8  Any refunds due under this Clause 6 will be made using the same payment method that you used when ordering the Services.
-
- 
 
 7. Payment
 
@@ -110,6 +98,8 @@ These Terms of Sale set out the terms under which Services are sold and provided
 
 7.3.1 Stripe
 
+7.3.2 Direct invoicing by bank transfer
+
 7.4  If you do not make any payment to Us by the due We may charge you interest on the overdue sum at the rate of 2% per annum above the base lending rate of De Nederlandse Bank from time to time. Interest will accrue on a daily basis from the due date for payment until the actual date of payment of the overdue sum, whether before or after judgment. You must pay any interest due when paying an overdue sum.
 
 7.5  The provisions of sub-Clause 7.4 will not apply if you have promptly contacted Us to dispute an invoice in good faith. No interest will be payable while such a dispute is ongoing. Once any such dispute is resolved, We will charge interest on correctly invoiced sums from the original due date.
@@ -118,7 +108,7 @@ These Terms of Sale set out the terms under which Services are sold and provided
 
 8. Provision of the Services
 
-8.1  We will provide the Services with reasonable skill and care We will begin providing the Services on the date agreed when you make your Order (which We shall confirm in the Order Confirmation).
+8.1  We will provide the Services with reasonable skill and care. We will begin providing the Services on the date agreed when you make your Order (which We shall confirm in the Order Confirmation).
 
 8.2  We will continue providing the Services until the estimated completion date set out in the Order Confirmation.
 
@@ -128,19 +118,17 @@ These Terms of Sale set out the terms under which Services are sold and provided
 
 8.5  If the information you provide or the action you take under sub-Clause 8.5 is delayed, incomplete or otherwise incorrect, We will not be responsible for any delay caused as a result. If additional work is required from Us to correct or compensate for a problem arising as a result of delayed, incomplete or otherwise incorrect information or action that you have provided or taken, We may charge you a reasonable additional sum for that work.
 
-8.6  In certain circumstances, for example where there is a delay in you sending Us information or taking action required under sub-Clause 7.4, We may suspend the Services (and will inform you of that suspension by email.
+8.6  In certain circumstances, for example where there is a delay in you sending Us information or taking action required under sub-Clause 7.4, We may suspend the Services (and will inform you of that suspension by email).
 
 8.7  In certain circumstances, for example where We encounter a technical problem, We may need to suspend or otherwise interrupt the Services to resolve the issue. Unless the issue is an emergency that requires immediate action We will inform you in advance by email before suspending or interrupting the Services.
 
-8.8  If the Services are suspended or interrupted under sub-Clauses 7.7, or 7.8 you will not be required to pay for them during the period of suspension. You must, however, pay any sums that may already be due by the appropriate due date(s).
+8.8  If you do not pay Us for the Services as required by Clause 8, We may suspend the Services until you have paid any and all outstanding sums due. If this happens, We will inform you by email. This does not affect Our right to charge you interest on any overdue sums under sub-Clause 7.4.
 
-8.9  If you do not pay Us for the Services as required by Clause 8, We may suspend the Services until you have paid any and all outstanding sums due. If this happens, We will inform you by email. This does not affect Our right to charge you interest on any overdue sums under sub-Clause 7.4.
+8.9  We always use reasonable endeavours to ensure that Our Services are trouble-free. If, however, there is a problem with the Services please contact Us as soon as is reasonable possible via email.
 
-8.10  We always use reasonable endeavours to ensure that Our Services are trouble-free. If, however, there is a problem with the Services please contact Us as soon as is reasonable possible via email.
+8.10  We will use reasonable endeavours to remedy problems with the Services as quickly as is reasonably possible and practical. 
 
-8.11  We will use reasonable endeavours to remedy problems with the Services as quickly as is reasonably possible and practical. 
-
-8.12  We will not charge you for remedying problems under this Clause 9 where the problems have been caused by Us, or any of Our agents or sub-contractors, or where nobody is at fault. If We determine that a problem has been caused by you, including your provision of incorrect or incomplete information or taking of incorrect action, sub-Clause 8.6 will apply and We may charge you for the remedial work.
+8.11  We will not charge you for remedying problems under this Clause 9 where the problems have been caused by Us, or any of Our agents or sub-contractors, or where nobody is at fault. If We determine that a problem has been caused by you, including your provision of incorrect or incomplete information or taking of incorrect action, sub-Clause 8.6 will apply and We may charge you for the remedial work.
 
  
 
@@ -148,18 +136,15 @@ These Terms of Sale set out the terms under which Services are sold and provided
 
 9.1  Cancellation of Contracts shall be subject to the specific terms governing the Services in question and may be subject to a minimum contract duration. Details of the relevant duration, cancellation provisions and minimum notice periods will be provided on our website (https://alkem.io) and confirmed in Our Order Confirmation.
 
-9.2  If you wish to cancel under this Clause 9, you may inform Us of your cancellation in any way you wish, however for your convenience We offer a cancellation form on Our Site and will include it with the Order Confirmation. If you would prefer to contact Us directly, please use the following details:
+9.2  If you wish to cancel under this Clause 9, you may inform Us of your cancellation by sending an email to the following email address:
 
-9.2.1 Email: info@alkem.io;
+9.2.1 Email: subscriptions@alkem.io;
+
+In each case, providing Us with your name, address, email address, telephone number, and Order Number.
 
 9.3  We may ask you why you have chosen to cancel and may use any answers you provide to improve Our services in the future, however please note that you are under no obligation to provide any details if you do not wish to.
 
-9.4  Eligibility for refunds may vary according to the Services ordered. You will be required to pay for Services supplied up until the point at which you inform Us that you wish to cancel (please note that this may include charges for preparatory work that We have undertaken where We have reasonably incurred costs). Such sums will be deducted from any refund due to you or, if no refund is due, We will invoice you for the relevant sums. Details of the relevant terms will be provided on our website and confirmed in Our Order Confirmation.
-
-9.5  Refunds under this Clause 9 will be issued to you as soon as possible, and in any event within 14 calendar days of the day on which you inform Us that you wish to cancel.
-
-9.6  Refunds under this Clause 9 will be made using the same payment method that you used when ordering the Services.
-
+9.4  Subscriptions are non-refundable. 
  
 
 10. Ending the Contract Because of Something We Have Done (or Will Do)
@@ -174,41 +159,23 @@ These Terms of Sale set out the terms under which Services are sold and provided
 
 10.1.4  We are adversely affected by an event outside of Our control that continues for more than 30 days (as under sub-Clause 12.2.5).
 
-10.2  If you wish to cancel under this Clause 10, you may inform Us of your cancellation in any way you wish, however for your convenience We offer a cancellation form on Our Site  and will include it with the Order Confirmation. If you would prefer to contact Us directly, please use the following details:
+10.2  If you wish to cancel under this Clause 10, you may inform Us of your cancellation as per section 9.
 
-10.2.1  Email: info@alkem.io;
-
-In each case, providing Us with your name, address, email address, telephone number, and Order Number.
-
-10.3  We may ask you why you have chosen to cancel and may use any answers you provide to improve Our services in the future, however please note that you are under no obligation to provide any details if you do not wish to.
-
-10.4  Eligibility for refunds may vary according to the Services ordered. You will be required to pay for Services supplied up until the point at which you inform Us that you wish to cancel (please note that this may include charges for preparatory work that We have undertaken where We have reasonably incurred costs). Such sums will be deducted from any refund due to you or, if no refund is due, We will invoice you for the relevant sums. Details of the relevant terms will be provided on our website and confirmed in Our Order Confirmation. 
-
-10.5  Refunds under this Clause 11 will be issued to you as soon as possible, and in any event within 14 calendar days of the day on which you inform Us that you wish to cancel.
-
-10.6  Refunds under this Clause 11 will be made using the same payment method that you used when ordering the Services.
-
- 
 
 11.  Our Rights to Cancel
 
 11.1  For cancellations before We begin providing the Services, please refer to sub-Clause 6.8.
 
-11.2  We may cancel the Contract after We have begun providing the Services due to an Event outside of Our control that continues for more than 30 days (as under sub-Clause 13.2.4), or due to the non-availability of required personnel and/or required materials necessary for the provision of the Services. In such cases, you will only be required to pay for Services that We have already provided up until the point at which We inform you that We are cancelling. Such sums will be deducted from any refund due to you or, if no refund is due, We will invoice you for the relevant sums. 
+11.2  We may cancel the Contract after We have begun providing the Services due to an Event outside of Our control that continues for more than 30 days (as under sub-Clause 13.2.4). In such cases, you will only be required to pay for Services that We have already provided up until the point at which We inform you that We are cancelling. Such sums will be deducted from any refund due to you or, if no refund is due, We will invoice you for the relevant sums. 
 
 11.3  Once We have begun providing the Services, We may cancel the Contract at any time and will give you at least 30 days written notice of such cancellation. You will only be required to pay for Services that you have received. Such sums will be deducted from any refund due to you or, if no refund is due, We will invoice you for the relevant sums.
 
-11.4  We may cancel immediately by giving you written notice in the following circumstances. You will only be required to pay for Services that We have already provided up until the point at which We inform you that We are cancelling. Such sums will be deducted from any refund due to you or, if no refund is due, We will invoice you for the relevant sums:
+11.4  We may cancel immediately by giving you written notice in the following circumstances.
 
 11.4.1  You fail to make a payment by the due date as set out in Clause 8. This does not affect Our right to charge you interest on any overdue sums as set out in sub-Clause 7.4; or
 
 11.4.2  You breach the contract in a material way and fail to remedy the breach within 14 days of Us asking you to do so in writing.
 
-11.5  Refunds under this Clause 11 will be issued to you as soon as possible, and in any event within 14 calendar days of the day on which you inform Us that you wish to cancel.
-
-11.6  Refunds under this Clause 11 will be made using the same payment method that you used when ordering the Services.
-
- 
 
 12.  Our Liability
 
@@ -234,17 +201,10 @@ In each case, providing Us with your name, address, email address, telephone num
 
 13.2.4  If the event outside of Our control continues for more than 30 days We may cancel the Contract and inform you of the cancellation. Any refunds due to you as a result of that cancellation will be paid to you as soon as is reasonably possible and in any event no later than 14 calendar days after the date on which We inform you of the cancellation;
 
-13.2.5  If an event outside of Our control occurs and you wish to cancel the Contract as a result, you may do so in any way you wish, however for your convenience We offer a cancellation form on Our Site. If you would prefer to contact Us directly to cancel, please use the following details:
-
-Email: info@alkem.io;
-
-In each case, providing Us with your name, address, email address, telephone number, and Order Number. Any refunds due to you as a result of such cancellation will be paid to you as soon as is reasonably possible and in any event no later than 14 calendar days after the date on which you inform Us that you wish to cancel.
-
- 
 
 14.  Communication and Contact Details
 
-14.1  If you wish you may contact Us by email at info@alkem.io.
+14.1  If you wish you may contact Us by email at subscriptions@alkem.io.
 
  
 
@@ -264,7 +224,7 @@ In each case, providing Us with your name, address, email address, telephone num
 
 17.  Other Important Terms
 
-17.1  We may transfer (assign) Our obligations and rights under these Terms of Sale (and under the Contract, as applicable) to a third party (this may happen, for example, if We sell Our business). If this occurs, you will be informed by Us in writing. Your rights under these Terms of Sale will not be affected and Our obligations under these Terms of Sale will be transferred to the third party who will remain bound by them.
+17.1  We may transfer (assign) Our obligations and rights under these Terms of Sale (and under the Contract, as applicable) to a third party (this may happen, for example, if We restructure Our business). If this occurs, you will be informed by Us in writing. Your rights under these Terms of Sale will not be affected and Our obligations under these Terms of Sale will be transferred to the third party who will remain bound by them.
 
 17.2  You may not transfer (assign) your  obligations and rights under these Terms of Sale (and under the Contract, as applicable) without Our express written permission.
 
