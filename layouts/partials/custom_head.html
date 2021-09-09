@@ -1,3 +1,9 @@
+<script type="text/javascript">
+  if (window.location.protocol == "http:") {
+      var restOfUrl = window.location.href.substr(5);
+      window.location = "https:" + restOfUrl;
+  }
+</script>
 <!-- Matomo -->
 <script type="text/javascript">
   var _paq = window._paq || [];
