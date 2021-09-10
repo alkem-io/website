@@ -1,7 +1,7 @@
 ---
 #widget: pages
 #headless: true
-title: New grant: EU Next Gen Internet - eSSIF Lab
+title: "New grant: EU Next Gen Internet - eSSIF Lab"
 date: "2021-09-06"
 lastmod: "2021-09-06"
 math: false
