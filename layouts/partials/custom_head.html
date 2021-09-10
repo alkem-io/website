@@ -1,7 +1,7 @@
 <script type="text/javascript">
   if (window.location.protocol == "http:") {
       var restOfUrl = window.location.href.substr(5);
-      if (!restOfUrl.includes('localhost')) {
+      if (!restOfUrl.substr(2).startsWith('localhost')) {
         window.location = "https:" + restOfUrl;
       }
   }
