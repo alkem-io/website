@@ -28,7 +28,7 @@ In essence unless we can effectively understand and frame the full context of a 
 
 The other key message is that unless we learn to collaborate better together (SDG 17), then it will be increasingly difficult to sovle the other UN SDGS (1-16).
 
-The podcast is only 30 minutes long, and is really thought provoking. For us it only  reinforces our drive to really enable society to collaborate, so we can build a better futher, together.
+The podcast is only 30 minutes long, and is really thought provoking. For us it only  reinforces our drive to really enable society to collaborate, so we can build a better future, together.
 
 (for those that want to dive deeper there is also a 2 hour version of the [podcast available](https://www.humanetech.com/podcast/36-unedited-a-problem-well-stated-is-half-solved) - also highly recommended.)
 
