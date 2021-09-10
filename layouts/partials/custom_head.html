@@ -1,7 +1,9 @@
 <script type="text/javascript">
   if (window.location.protocol == "http:") {
       var restOfUrl = window.location.href.substr(5);
-      window.location = "https:" + restOfUrl;
+      if (!restOfUrl.includes('localhost')) {
+        window.location = "https:" + restOfUrl;
+      }
   }
 </script>
 <!-- Matomo -->
