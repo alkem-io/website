@@ -1,12 +1,12 @@
 ---
 #widget: pages
 #headless: true
-title: "New grant: EU Next Gen Internet - eSSIF Lab"
+title: "Grant awarded!"
 date: "2021-09-06"
 lastmod: "2021-09-06"
 math: false
 diagram: false
-summary: Decentralized Open Innovation Platform
+summary: EU Next Gen Internet - eSSIF Lab
 authors:
 - smyth-neil
 tags:
@@ -28,6 +28,7 @@ Delighted to be able to announce that Alkemio has been selected to participate i
 We will be working closely with [The Hague City Council](https://www.denhaag.nl/en.htm) on two key use cases:
 * Citizen Participation
 * Debt relief support 
+
 In both cases we will be looking at how [Verified Credentials](https://www.w3.org/TR/vc-data-model/#what-is-a-verifiable-credentialklj) issued to an individual by a trusted party and held in a digital wallet can be be verified and used for hosted Challenges. 
 
 A key guiding principle of the Alkemio platform from the start has being able to support a more self sovereign and decentralized approach to collaborating. This principle has been key to some technical choices in the platform, such as [credential based authorization](https://github.com/alkem-io/alkemio/blob/develop/docs/credential-based-authorization.md) - but now means that we have a great base for this upcoming work. This technical depth is of course hidden from end users, but is crucial to dealing with some of the key technical trends already underway.
