@@ -12,7 +12,6 @@ authors:
 tags:
 - codeforall
 - collaboration
-- masscollaboration
 #categories:
 #- Demo
 
