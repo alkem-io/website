@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Tatjana Lisjak
+title: Flori Spoelstra
 
 # Username (this should match the folder name)
 authors:
-- tatjana-lisjak
+- spoelstra-flori
 
 weight: 9
 
@@ -12,7 +12,7 @@ weight: 9
 superuser: false
 
 # Role/position
-role: Communications & Marketing Lead
+role: 
 
 # Organizations/Affiliations
 #organizations:
@@ -51,6 +51,6 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Core Team
+#user_groups:
+#- Core Team
 ---
