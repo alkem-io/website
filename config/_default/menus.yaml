@@ -13,8 +13,8 @@ main:
   - name: Blog
     url: 'post'
     weight: 30
-  - name: Demo
-    url: 'demo'
+  - name: Hub
+    url: 'https://hub.alkem.io'
     weight: 40
   - name: Contact
     url: 'feedback'
