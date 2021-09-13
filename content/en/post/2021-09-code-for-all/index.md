@@ -6,12 +6,13 @@ date: "2021-09-013"
 lastmod: "2021-09-13"
 math: false
 diagram: false
-summary: Alkemio participation
+summary: Alkemio will participate in Code for All 2021 summit
 authors:
 - smyth-neil
 tags:
-- ssi
-- grant
+- codeforall
+- collaboration
+- masscollaboration
 #categories:
 #- Demo
 
