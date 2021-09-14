@@ -23,9 +23,9 @@ image:
   
 ---
 
-Delighted to be able to announce that Alkemio has been selected to participate in the upcoming [Business Open Call](https://essif-lab.eu/2nd-business-oriented-call-ongoing/) from [eSSIF Lab](https://essif-lab.eu/), part of the wider [EU NGI](https://www.ngi.eu/) initiative. This was a highly competitive application process, with only a small number of applicants being accepted.
+Delighted to be able to announce that Alkemio has been selected to participate in the upcoming [Business Open Call](https://essif-lab.eu/2nd-business-oriented-call-ongoing/) from [eSSIF Lab](https://essif-lab.eu/), part of the wider [EU NGI](https://www.ngi.eu/) initiative. This was a competitive application process, with only a small number of applicants being accepted.
 
-We will be working closely with the [Digital Innovation Team at The Hague](https://www.denhaag.nl/en.htm) on two key use cases:
+We will be working closely with the [Digital Innovation Team at The Hague](https://www.denhaag.nl/en.htm) to facilitate the innovation communities around two Self Sovereign Identity (SSI) pilots they are participating in:
 * Citizen Participation
 * Debt relief support 
 
