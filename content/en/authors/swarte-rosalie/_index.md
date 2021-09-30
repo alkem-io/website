@@ -1,29 +1,24 @@
 ---
 # Display name
-title:  Evgeni Dimitrov
+title: Rosalie Swarte
 
 # Username (this should match the folder name)
 authors:
-- dimitrov-evgeni
+- swarte-rosalie
 
-
-weight: 5
+weight: 9
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Quality Assurance Lead
+role: "UX/UI Intern [Digicampus]"
 
 # Organizations/Affiliations
 organizations:
-- name: Alkemio
-  url: "https://alkem.io"
+- name: 
+  url: 
 
-
-
-#education:
-#  courses:
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -35,16 +30,16 @@ social:
 #  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
 #  icon_pack: fab
-#  link: https
+#  link: https://twitter.com/GeorgeCushen
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/evgeni-dimitrov-30774744/
+  link: https://www.linkedin.com/in/rosalie-swarte/
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/Comoque1
+#- icon: github
+#  icon_pack: fab
+#  link: 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -57,11 +52,5 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Core Team
+- 
 ---
-
-
-
-
-
-     
