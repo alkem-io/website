@@ -8,7 +8,7 @@ These Terms of Sale set out the terms under which Services are sold and provided
 
   
 
-1. Definitions and Interpretation 
+**1. Definitions and Interpretation**
 
 1.1  In these Terms of Sale, unless the context otherwise requires, the following expressions have the following meanings:
 
@@ -25,13 +25,13 @@ These Terms of Sale set out the terms under which Services are sold and provided
 
  
 
-2. Information About Us
+**2. Information About Us**
 
-2.1  Our Site, https://hub.alkem.io, is owned and operated by Stichting Cherrytwist, operating under the name Alkemio. We are a foundation registered in The Netherlands under number 78302633. Our registered address is Park Leeuwenberghlaan 3, 2267 BM Leidschendam, South-Holland, The Netherlands. Our VAT number is NL861338522B01.
+2.1  Our Site, https://hub.alkem.io, is owned and operated by Stichting Cherrytwist, operating under the name Alkemio. We are a foundation registered in The Netherlands under number 78302633. Our registered address is _Park Leeuwenberghlaan 3, 2267 BM Leidschendam, South-Holland, The Netherlands_. Our VAT number is NL861338522B01.
 
  
 
-3. Access to and Use of Our Site
+**3. Access to and Use of Our Site**
 
 3.1  Access to Our Site is free of charge.
 
@@ -43,7 +43,7 @@ These Terms of Sale set out the terms under which Services are sold and provided
 
  
 
-4. Business Customers and Consumers
+**4. Business Customers and Consumers**
 
 4.1  These Terms of Sale apply to business customers only. These Terms of Sale do not apply to individual consumers purchasing Services for personal purposes (that is, not in connection with, or for use in, their trade, business, craft, or profession). If you are a consumer, please consult Our Consumer Terms of Sale.
 
@@ -51,7 +51,7 @@ These Terms of Sale set out the terms under which Services are sold and provided
 
  
 
-5. Services, Pricing and Availability
+**5. Services, Pricing and Availability**
 
 5.1  We make all reasonable efforts to ensure that all general descriptions of the Services available from Us correspond to the actual Services that will be provided to you, however please note that the exact nature of the Services may vary depending upon your individual requirements and circumstances.
 
@@ -70,7 +70,7 @@ These Terms of Sale set out the terms under which Services are sold and provided
 5.8  Prices on Our Site are by default shown exclusive of VAT. If the VAT rate changes between your Order being placed and Us taking payment, the amount of VAT payable will be automatically adjusted when taking payment.
 
  
-6. Orders – How Contracts Are Formed
+**6. Orders – How Contracts Are Formed**
 
 6.1  When ordering online, Our Site will guide you through the ordering process. Before submitting your Order to Us you will be given the opportunity to review your Order and amend any errors. Please ensure that you have checked your Order carefully before submitting it.
 
@@ -91,11 +91,11 @@ These Terms of Sale set out the terms under which Services are sold and provided
 6.6  If We, for any reason, do not accept or cannot fulfil your Order, no payment shall be taken under normal circumstances. If We have taken payment, any such sums will be refunded to you as soon as possible and in any event within 14 days.
 
 
-7. Payment
+**7. Payment**
 
 7.1  Payment for the Services will be due in the form of an advance payment for a monthly period, unless agreed otherwise. Price and payment details will be confirmed in the Order Confirmation. Your chosen payment method will be charged as indicated.
 
-7.2  We may offer Customers trial usage of the Services. Any trial usage will be time limited. At the end of the Trial Period the Customer will have the option to cancel the Service or to continue using the Service as a paying Customer.
+7.2  We may offer Customers usage of the Services for a Trial Period. Any trial usage will be time limited. At the end of the Trial Period the Customer will have the option to cancel the Service or to continue using the Service as a paying Customer.
 
 7.3  All sums due must be paid in full without any set-off, counterclaim, deduction, or withholding (except where any deduction or withholding of tax is required by law).
 
@@ -111,7 +111,7 @@ These Terms of Sale set out the terms under which Services are sold and provided
 
  
 
-8. Provision of the Services
+**8. Provision of the Services**
 
 8.1  We will provide the Services with reasonable skill and care. We will begin providing the Services on the date agreed when you make your Order (which We shall confirm in the Order Confirmation).
 
@@ -137,7 +137,7 @@ These Terms of Sale set out the terms under which Services are sold and provided
 
  
 
-9. Cancelling the Services
+**9. Cancelling the Services**
 
 9.1  Cancellation of Contracts shall be subject to the specific terms governing the Services in question and may be subject to a minimum contract duration. Details of the relevant duration, cancellation provisions and minimum notice periods will be provided on our website (https://alkem.io) and confirmed in Our Order Confirmation.
 
@@ -152,7 +152,7 @@ In each case, providing Us with your name, address, email address, telephone num
 9.4  Subscriptions are non-refundable. 
  
 
-10. Ending the Contract Because of Something We Have Done (or Will Do)
+**10. Ending the Contract Because of Something We Have Done (or Will Do)**
 
 10.1  You may end the Contract immediately at any time by giving Us written notice in the following circumstances:
 
@@ -167,7 +167,7 @@ In each case, providing Us with your name, address, email address, telephone num
 10.2  If you wish to cancel under this Clause 10, you may inform Us of your cancellation as per section 9.
 
 
-11.  Our Rights to Cancel
+**11.  Our Rights to Cancel**
 
 11.1  For cancellations before We begin providing the Services, please refer to sub-Clause 6.8.
 
@@ -182,7 +182,7 @@ In each case, providing Us with your name, address, email address, telephone num
 11.4.2  You breach the contract in a material way and fail to remedy the breach within 14 days of Us asking you to do so in writing.
 
 
-12.  Our Liability
+**12.  Our Liability**
 
 12.1  Subject to sub-Clause 12.3 We will not be liable to you, whether in contract, tort (including negligence), breach of statutory duty, or otherwise, for any loss of profit, loss of business, interruption to business, for any loss of business opportunity, or for any indirect or consequential loss arising out of or in connection with any contract between you and Us.
 
@@ -192,7 +192,7 @@ In each case, providing Us with your name, address, email address, telephone num
 
  
 
-13.  Events Outside of Our Control (Force Majeure)
+**13.  Events Outside of Our Control (Force Majeure)**
 
 13.1  We will not be liable for any failure or delay in performing Our obligations where that failure or delay results from any cause that is beyond Our reasonable control. Such causes include, but are not limited to: power failure, internet service provider failure, industrial action by third parties, civil unrest, fire, explosion, flood, storms, earthquakes, subsidence, acts of terrorism, acts of war, governmental action, epidemic or other natural disaster, or any other event that is beyond Our reasonable control.
 
@@ -207,19 +207,19 @@ In each case, providing Us with your name, address, email address, telephone num
 13.2.4  If the event outside of Our control continues for more than 30 days We may cancel the Contract and inform you of the cancellation. Any refunds due to you as a result of that cancellation will be paid to you as soon as is reasonably possible and in any event no later than 14 calendar days after the date on which We inform you of the cancellation;
 
 
-14.  Communication and Contact Details
+**14.  Communication and Contact Details**
 
 14.1  If you wish you may contact Us by email at subscriptions@alkem.io.
 
  
 
-15.  Complaints and Feedback
+**15.  Complaints and Feedback**
 
 15.1  We always welcome feedback from Our customers and, whilst We always use all reasonable endeavours to ensure that your experience as a customer of Ours is a positive one, We nevertheless want to hear from you if you have any cause for complaint.
 
  
 
-16.  How We Use Your Personal Information (Data Protection)
+**16.  How We Use Your Personal Information (Data Protection)**
 
 16.1  All personal information of yours that We may use will be collected, processed, and held in accordance with the provisions of the Data Protection Legislation and your rights thereunder.
 
@@ -227,7 +227,7 @@ In each case, providing Us with your name, address, email address, telephone num
 
  
 
-17.  Other Important Terms
+**17.  Other Important Terms**
 
 17.1  We may transfer (assign) Our obligations and rights under these Terms of Sale (and under the Contract, as applicable) to a third party (this may happen, for example, if We restructure Our business). If this occurs, you will be informed by Us in writing. Your rights under these Terms of Sale will not be affected and Our obligations under these Terms of Sale will be transferred to the third party who will remain bound by them.
 
@@ -243,7 +243,7 @@ In each case, providing Us with your name, address, email address, telephone num
 
  
 
-18.  Law and Jurisdiction
+**18.  Law and Jurisdiction**
 
 18.1  These Terms of Sale, and the relationship between you and Us (whether contractual or otherwise) shall be governed by, and construed in accordance with, Dutch law.
 

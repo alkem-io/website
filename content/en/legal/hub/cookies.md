@@ -6,13 +6,13 @@
 
  
 
-​ This website https://demo.alkem.io (“Our Site”) uses Cookies and similar technologies in order to distinguish you from other users. By using Cookies, We are able to provide you with a better experience and to improve Our Site by better understanding how you use it. Please read this Cookie Policy carefully and ensure that you understand it. Your acceptance of Our Cookie Policy is deemed to occur if you continue using Our Site. If you do not agree to Our Cookie Policy, please stop using Our Site immediately.
+​ This website https://hub.alkem.io (“Our Site”) uses Cookies and similar technologies in order to distinguish you from other users. By using Cookies, We are able to provide you with a better experience and to improve Our Site by better understanding how you use it. Please read this Cookie Policy carefully and ensure that you understand it. Your acceptance of Our Cookie Policy is deemed to occur if you continue using Our Site. If you do not agree to Our Cookie Policy, please stop using Our Site immediately.
 
  
 
  
 
-1. Definitions and Interpretation
+**1. Definitions and Interpretation**
 
 1.1 In this Cookie Policy, unless the context otherwise requires, the following expressions have the following meanings:
 
@@ -26,13 +26,13 @@
 
  
 
-2. Information About Us
+**2. Information About Us**
 
 2.1 Our Site is operated by Stichting Cherrytwist, operating under the name Alkemio. We are a foundation registered in The Netherlands under number 78302633. Our registered address is Park Leeuwenberghlaan 3, 2267 BM Leidschendam, South-Holland, The Netherlands. 
 
  
 
-3. How Does Our Site Use Cookies?
+**3. How Does Our Site Use Cookies?**
 
 3.1 Our Site may place and access certain first party Cookies on your computer or device. First party Cookies are those placed directly by Us and are used only by Us. We use Cookies to facilitate and improve your experience of Our Site and to provide and improve Our products and services. We have carefully chosen these Cookies and have taken steps to ensure that your privacy and personal data is protected and respected at all times.
 
@@ -76,7 +76,7 @@ Any of the above types of Cookie may be a session Cookie. Session Cookies are te
 
  
 
-4. What Cookies Does Our Site Use?
+**4. What Cookies Does Our Site Use?**
 
 4.1 The following first party Cookies may be placed on your computer or device:
 
@@ -113,7 +113,7 @@ Any of the above types of Cookie may be a session Cookie. Session Cookies are te
 
  
 
-5. Consent and Control
+**5. Consent and Control**
 
 5.1 Before Cookies are placed on your computer or device, you will be shown a message requesting your consent to set those Cookies. By giving your consent to the placing of Cookies you are enabling Us to provide the best possible experience and service to you. You may, if you wish, deny consent to the placing of Cookies unless those Cookies are strictly necessary; however certain features of Our Site may not function fully or as intended. 
 
@@ -137,7 +137,7 @@ Any of the above types of Cookie may be a session Cookie. Session Cookies are te
 
  
 
-6. Changes to this Cookie Policy
+**6. Changes to this Cookie Policy**
 
 6.1 We may alter this Cookie Policy at any time. Any such changes will become binding on you on your first use of Our Site after the changes have been made. You are therefore advised to check this page from time to time.
 
@@ -145,12 +145,12 @@ Any of the above types of Cookie may be a session Cookie. Session Cookies are te
 
  
 
-7. Further Information
+**7. Further Information**
 
-7.1 If you would like to know more about how We use Cookies, please contact Us at info@alkem.io,.
+7.1 If you would like to know more about how We use Cookies, please contact Us at info@alkem.io.
 
 7.2 For more information about privacy, data protection and our terms and conditions, please visit the following:
 
-7.2.1 https://alkem.io/privacy;
+7.2.1 https://alkem.io/privacy
 
-7.2.2 https://alkem.io/legal/hub.
+7.2.2 https://alkem.io/legal/hub
