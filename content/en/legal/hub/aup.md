@@ -8,7 +8,7 @@
 
 **Please read this Acceptable Usage Policy carefully and ensure that you understand it before using Our Site**. 
 
-Our Acceptable Usage Policy sets out standards which apply to your use of this website, https://demo.alkem.io (“Our Site”) when communicating via Our Site, uploading User Content, or otherwise interacting with it. It is recommended that you print a copy of this Policy for your future reference.
+Our Acceptable Usage Policy sets out standards which apply to your use of this website, https://hub.alkem.io (“Our Site”) when communicating via Our Site, uploading User Content, or otherwise interacting with it. It is recommended that you print a copy of this Policy for your future reference.
 
 This Policy was last updated on 6 July 2021. 
 
@@ -20,7 +20,7 @@ Our Terms and Conditions , available at https://alkem.io/legal/hub.
 
  
 
-1. Definitions and Interpretation 
+**1. Definitions and Interpretation**
 
 1.1 In this Policy, unless the context otherwise requires, the following expressions have the following meanings:
 
@@ -34,19 +34,19 @@ Our Terms and Conditions , available at https://alkem.io/legal/hub.
 
  
 
-2. Information About Us
+**2. Information About Us**
 
-2.1 Our Site is operated by Stichting Cherrytwist, operating under the name Alkemio. We are a foundation registered in The Netherlands under number 78302633. Our registered address is Park Leeuwenberghlaan 3, 2267 BM Leidschendam, South-Holland, The Netherlands. 
+2.1 Our Site is operated by Stichting Cherrytwist, operating under the name Alkemio. We are a foundation registered in The Netherlands under number 78302633. Our registered address is _Park Leeuwenberghlaan 3, 2267 BM Leidschendam, South-Holland, The Netherlands_. 
 
  
 
-3. How to Contact Us
+**3. How to Contact Us**
 
 To contact Us, please email Us at info@alkem.io.
 
  
 
-4. Changes to this Policy
+**4. Changes to this Policy**
 
 4.1 We may alter the terms of this Policy at any time. If We do so, details of the changes will be highlighted at the top of this page. As explained above, your use of Our Site constitutes your acceptance of this Policy. Consequently, any changes made to this Policy will apply to your use of Our Site the first time you use it after the changes have been implemented. You are therefore advised to check this page every time you use Our Site.
 
@@ -54,7 +54,7 @@ To contact Us, please email Us at info@alkem.io.
 
  
 
-5. Acceptable Usage of Our Site
+**5. Acceptable Usage of Our Site**
 
 5.1 You may only use Our Site in a lawful manner:
 
@@ -74,7 +74,7 @@ g) You must not use Our Site , submit User Content, or communicate in any way us
 
  
 
-6. Interactive Services
+**6. Interactive Services**
 
 6.1 The following interactive services are available on Our Site:
 
@@ -90,7 +90,7 @@ a) Hosting of Alkemio open innovation platform
 
  
 
-7. Content Standards
+**7. Content Standards**
 
 7.1 When communicating via Our Site, uploading User Content, or otherwise interacting with Our Site, you must not submit, communicate, or otherwise do anything that:
 
@@ -136,7 +136,7 @@ c) complies fully with any and all local, national, or international laws and re
 
  
 
-8. Breaches of this Policy
+**8. Breaches of this Policy**
 
 8.1 If you fail to comply with the provisions of this Policy, We may take action as set out in this Part 8. A breach of this Policy also constitutes a material breach of the Terms and Conditions of Our Site. We may take one or more of the following actions in response to your breach:
 
@@ -158,7 +158,7 @@ g) Any other actions which We deem reasonably appropriate (and lawful).
 
  
 
-9. Law and Jurisdiction
+**9. Law and Jurisdiction**
 
 9.1 This Policy, and the relationship between you and Us (whether contractual or otherwise) shall be governed by, and construed in accordance with, Dutch law.
 

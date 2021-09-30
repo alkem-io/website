@@ -6,7 +6,7 @@ title: Svetoslav Petkov
 authors: 
 - petkov-svetoslav
 
-weight: 6
+weight: 7
 
 # Is this the primary user of the site?
 superuser: false

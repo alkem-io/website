@@ -22,7 +22,7 @@ The following documents also apply to your use of Our Site:
 
  
 
-1. Definitions and Interpretation
+**1. Definitions and Interpretation**
 
 1.1 In these Terms and Conditions, unless the context otherwise requires, the following expressions have the following meanings:
 
@@ -39,19 +39,19 @@ The following documents also apply to your use of Our Site:
 
  
 
-2. Information About Us
+**2. Information About Us**
 
-2.1 Our Site is operated by Stichting Cherrytwist, operating under the name Alkemio. We are a foundation registered in The Netherlands under number 78302633. Our registered address is Park Leeuwenberghlaan 3, 2267 BM Leidschendam, South-Holland, The Netherlands. 
+2.1 Our Site is operated by Stichting Cherrytwist, operating under the name Alkemio. We are a foundation registered in The Netherlands under number 78302633. Our registered address is _Park Leeuwenberghlaan 3, 2267 BM Leidschendam, South-Holland, The Netherlands_. 
 
  
 
-3. How to Contact Us and Your Use of Our Contact Tools
+**3. How to Contact Us and Your Use of Our Contact Tools**
 
 3.1 To contact Us by email, please email Us at info@alkem.io.
 
 3.2 We provide the following Contact Tools for you to contact Us:
 
-· Community forum, see our website for details
+* [Support page](http://alkem.io/support/) from  Our website
 
 3.3 When using Our Contact Tools or contacting Us by any other means, our Acceptable Usage Policy, available at https://alkem.io/legal/hub, applies.
 
@@ -61,7 +61,7 @@ The following documents also apply to your use of Our Site:
 
  
 
-4. Access to Our Site
+**4. Access to Our Site**
 
 4.1 Access to Our Site and Content is free of charge.
 
@@ -71,13 +71,13 @@ The following documents also apply to your use of Our Site:
 
  
 
-5. Changes to Our Site
+**5. Changes to Our Site**
 
 We may alter and update Our Site (or any part of it) at any time.
 
  
 
-6. Changes to these Terms and Conditions
+**6. Changes to these Terms and Conditions**
 
 6.1 We may alter these Terms and Conditions at any time. If We do so, details of the changes will be highlighted at the top of this page. Any changes made to these Terms and Conditions will apply to your use of Our Site the first time you use it after the changes have been implemented. You are advised to check this page every time you use Our Site.
 
@@ -85,7 +85,7 @@ We may alter and update Our Site (or any part of it) at any time.
 
  
 
-7. Accounts
+**7. Accounts**
 
 7.1 Certain features on Our Site, such as the ability to share User Content, may require an Account.
 
@@ -109,7 +109,7 @@ We may alter and update Our Site (or any part of it) at any time.
 
  
 
-8. How You May Use Our Site and Content (Intellectual Property)
+**8. How You May Use Our Site and Content (Intellectual Property)**
 
 8.1 With the exception of User Content (please refer to Part 10), all Content included on Our Site and the copyright and other intellectual property rights in that Content belongs to or has been licensed by Us, unless specifically labelled otherwise. All Content (including User Content) is protected by applicable Dutch and international intellectual property laws and treaties.
 
@@ -135,7 +135,7 @@ We may alter and update Our Site (or any part of it) at any time.
 
  
 
-9. User Content
+**9. User Content**
 
 9.1 User Content on Our Site includes but is not limited to information related to ecoverses, challenges, communications, profiles, collaboration and innovation.
 
@@ -163,7 +163,7 @@ We may alter and update Our Site (or any part of it) at any time.
 
  
 
-10. User Content, Your Rights, Our Rights, and Users’ Rights (Intellectual Property)
+**10. User Content, Your Rights, Our Rights, and Users’ Rights (Intellectual Property)**
 
 10.1 User Content on Our Site and the copyright and other intellectual property rights in that User Content, unless specifically labelled otherwise, belongs to or has been licensed by the User identified along with that User Content. All User Content is protected by applicable Dutch and international intellectual property laws and treaties.
 
@@ -173,7 +173,7 @@ We may alter and update Our Site (or any part of it) at any time.
 
  
 
-11. Links to Our Site
+**11. Links to Our Site**
 
 11.1 You may link to any page on Our Site.
 
@@ -189,7 +189,7 @@ We may alter and update Our Site (or any part of it) at any time.
 
  
 
-12. Links to Other Sites
+**12. Links to Other Sites**
 
 12.1 Links to other websites may be included on Our Site. Unless expressly stated, these sites are not under Our control. We accept no responsibility or liability for the content of third-party websites.
 
@@ -199,7 +199,7 @@ We may alter and update Our Site (or any part of it) at any time.
 
  
 
-13. Disclaimers
+**13. Disclaimers**
 
 13.1 Nothing on Our Site constitutes professional advice on which you should rely. It is provided for general information purposes only. 
 
@@ -209,7 +209,7 @@ We may alter and update Our Site (or any part of it) at any time.
 
  
 
-14. Our Liability
+**14. Our Liability**
 
 14.1 Nothing in these Terms and Conditions excludes or restricts Our liability for fraud or fraudulent misrepresentation, for death or personal injury resulting from negligence, or for any other forms of liability which cannot be lawfully excluded or restricted.
 
@@ -221,7 +221,7 @@ We may alter and update Our Site (or any part of it) at any time.
 
  
 
-15. Viruses, Malware, and Security
+**15. Viruses, Malware, and Security**
 
 15.1 We exercise reasonable skill and care to ensure that Our Site is secure and free from viruses and malware; however, We do not guarantee that this is the case.
 
@@ -237,7 +237,7 @@ We may alter and update Our Site (or any part of it) at any time.
 
  
 
-16. Acceptable Usage of Our Site
+**16. Acceptable Usage of Our Site**
 
 16.1 In addition to these Terms and Conditions, Our Acceptable Usage Policy, available at https://alkem.io/legal/hub, applies to your use of Our Site.
 
@@ -267,13 +267,13 @@ f) Any other actions which We deem reasonably appropriate (and lawful).
 
  
 
-17. How We Use Your Personal Information
+**17. How We Use Your Personal Information**
 
 We will only use your personal information as set out in Our Privacy Policy, available from https://alkem.io/legal/hub and Our Cookie Policy, available from https://alkem.io/legal/hub.
 
  
 
-18. Communications from Us
+**18. Communications from Us**
 
 18.1 If We have your contact details and/or if you have an Account, We may send you important notices by email from time to time. Such notices may relate to matters including, but not limited to, changes to Our Site or to these Terms and Conditions, or to your Account.
 
@@ -283,7 +283,7 @@ We will only use your personal information as set out in Our Privacy Policy, ava
 
  
 
-19. Law and Jurisdiction
+**19. Law and Jurisdiction**
 
 19.1 These Terms and Conditions, and the relationship between you and Us (whether contractual or otherwise) shall be governed by, and construed in accordance with, Dutch law.
 

@@ -147,10 +147,10 @@ Any of the above types of Cookie may be a session Cookie. Session Cookies are te
 
 7. Further Information
 
-7.1 If you would like to know more about how We use Cookies, please contact Us at info@alkem.io,.
+7.1 If you would like to know more about how We use Cookies, please contact Us at info@alkem.io.
 
 7.2 For more information about privacy, data protection and our terms and conditions, please visit the following:
 
-7.2.1 https://alkem.io/privacy;
+7.2.1 https://alkem.io/privacy
 
-7.2.2 https://alkem.io/legal/demo.
+7.2.2 https://alkem.io/legal/demo
