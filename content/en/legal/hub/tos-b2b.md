@@ -33,13 +33,7 @@ These Terms of Sale set out the terms under which Services are sold and provided
 
 **3. Access to and Use of Our Site**
 
-3.1  Access to Our Site is free of charge.
-
-3.2  It is your responsibility to make any and all arrangements necessary in order to access Our Site.
-
-3.3  Access to Our Site is provided “as is” and on an “as available” basis.
-
-3.4  Use of Our Site is subject to Our Website Terms of Use https://alkem.io/legal/hub/#tc. Please ensure that you have read them carefully and that you understand them.
+3.1  Use of Our Site is subject to Our Website Terms of Use https://alkem.io/legal/hub/#tc. Please ensure that you have read them carefully and that you understand them.
 
  
 

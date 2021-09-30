@@ -8,7 +8,7 @@
 
 **Please read these Terms and Conditions carefully and ensure that you understand them before using Our Site**. These Terms and Conditions, together with any other documents referred to herein (unless otherwise stated), set out the terms of use governing your use of this website, https://hub.alkem.io (“Our Site”). It is recommended that you print a copy of these Terms and Conditions for your future reference.
 
-These Terms and Conditions were last updated on 6 July 2021. 
+These Terms and Conditions were last updated on 30 September 2021. 
 
 Your agreement to comply with these Terms and Conditions is indicated by your use of Our Site. If you do not agree to these Terms and Conditions, you must stop using Our Site immediately. You will also be required to accept these Terms and Conditions if you sign up for an Account.
 
@@ -67,7 +67,7 @@ The following documents also apply to your use of Our Site:
 
 4.2 It is your responsibility to make the arrangements necessary in order to access Our Site.
 
-4.3 Access to Our Site is provided on an “as is” and on an “as available” basis. We may suspend or discontinue Our Site (or any part of it) at any time. We do not guarantee that Our Site will always be available or that access to it will be uninterrupted. As this is a ‘demo site’, it should be assumed that data will not be persistent and may be wiped without notice at any time. Furthermore, the availability of the services is not guaranteed in any way.
+4.3 Access to Our Site is provided on an “as is” and on an “as available” basis. For Business Customers please refer to the [Business Terms of Sale](#b2b-tos) section 5 for continuity guarantees. 
 
  
 
