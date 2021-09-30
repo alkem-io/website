@@ -7,7 +7,7 @@ authors:
 - dimitrov-evgeni
 
 
-weight: 6
+weight: 5
 
 # Is this the primary user of the site?
 superuser: false
