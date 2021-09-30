@@ -1,23 +1,23 @@
 ---
 # Display name
-title: Aleksander Okonski
+title: Nikola Velichkov
 
 # Username (this should match the folder name)
 authors:
-- okonski-aleksander
+- velichkov-nikola
 
-weight: 10
+weight: 8
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Senior DevSecOps Engineer**
+role: "Tech Guru / Pathfinder"
 
 # Organizations/Affiliations
 organizations:
-- name: Cybermundus B.V.
-  url: "https://cybermundus.com"
+- name: 
+  url: 
 
 
 # Social/Academic Networking
@@ -33,13 +33,13 @@ social:
 #  link: https://twitter.com/GeorgeCushen
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/aleksander-o-38b98647/
+  link: https://www.linkedin.com/in/velichkoff/
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/ghostonthefiber
+#- icon: github
+#  icon_pack: fab
+#  link: 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -52,5 +52,5 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 
+- Core Team
 ---
