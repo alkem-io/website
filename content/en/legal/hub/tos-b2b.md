@@ -21,6 +21,7 @@ These Terms of Sale set out the terms under which Services are sold and provided
 | **“Order Number”**| means the reference number for your Order; |
 | **“Services”**  | means the services which are to be provided by Us to you as specified  in your Order (and confirmed in Our Order Confirmation); and |
 | **“We/Us/Our”** | means Stichting Cherrytwist. |
+| **“Trial Period”** | means a period of time whereby Stichting Cherrytwist may offer usage of the Services without payment. |
 
  
 
@@ -60,7 +61,7 @@ These Terms of Sale set out the terms under which Services are sold and provided
 
 5.4  We neither represent nor warrant that all Services will be available at all times and cannot necessarily confirm availability until confirming your Order. 
 
-5.5  We make all reasonable efforts to ensure that all prices shown on Our Site are correct at the time of going online. We reserve the right to change prices and to add, alter, or remove special offers from time to time and as necessary. Changes in price will not affect any Order that you have already placed (please note sub-Clause 5.8 regarding VAT, however).
+5.5  We make all reasonable efforts to ensure that prices shown on Our Site are correct at the time of going online. We reserve the right to change prices and to add, alter, or remove special offers from time to time and as necessary. Changes in price will not affect any Order that you have already placed (please note sub-Clause 5.8 regarding VAT, however).
 
 5.6  All prices are checked by Us when We process your Order. In the unlikely event that We have shown incorrect pricing information, We will contact you in writing before proceeding with your Order to inform you of the mistake and to ask you how you wish to proceed. We will give you the option to purchase the Services at the correct price or to cancel your Order (or the affected part thereof). We will not proceed with processing your Order until you respond. If We do not receive a response from you within 7 days, We will treat your Order as cancelled and notify you of the same in writing.
 
@@ -71,38 +72,42 @@ These Terms of Sale set out the terms under which Services are sold and provided
  
 6. Orders – How Contracts Are Formed
 
-6.1  Our Site will guide you through the ordering process. Before submitting your Order to Us you will be given the opportunity to review your Order and amend any errors. Please ensure that you have checked your Order carefully before submitting it.
+6.1  When ordering online, Our Site will guide you through the ordering process. Before submitting your Order to Us you will be given the opportunity to review your Order and amend any errors. Please ensure that you have checked your Order carefully before submitting it.
 
 6.2  No part of Our Site constitutes a contractual offer capable of acceptance. Your Order constitutes a contractual offer that We may, at Our sole discretion, accept. Our acknowledgement of receipt of your Order does not mean that We have accepted it. Our acceptance is indicated by Us sending you an Order Confirmation by email. Only once We have sent you an Order Confirmation will there be a legally binding contract between Us and you (“the Contract”).
 
-6.3  Order Confirmations shall contain the following information:
+6.3  It is also possible to order via email / other ways of interacting. If an order is placed outside of the online ordering process, then it shall result in the same Order Confirmation as described in 6.4.
 
-6.3.1 Your Order Number;
+6.4  Order Confirmations shall contain the following information:
 
-6.3.2 Confirmation of the Services ordered including full details of the main characteristics of those Services;
+6.4.1 Your Order Number;
 
-6.3.3 Fully itemised pricing for the Services ordered including, where appropriate, taxes and other additional charges;
+6.4.2 Confirmation of the Services ordered including full details of the main characteristics of those Services;
 
-6.4  We can also provide a paper copy of the Order Confirmation on request.
+6.4.3 Fully itemised pricing for the Services ordered including, where appropriate, taxes and other additional charges;
 
-6.5  If We, for any reason, do not accept or cannot fulfil your Order, no payment shall be taken under normal circumstances. If We have taken payment, any such sums will be refunded to you as soon as possible and in any event within 14 days.
+6.5  We can also provide a paper copy of the Order Confirmation on request.
+
+6.6  If We, for any reason, do not accept or cannot fulfil your Order, no payment shall be taken under normal circumstances. If We have taken payment, any such sums will be refunded to you as soon as possible and in any event within 14 days.
 
 
 7. Payment
 
 7.1  Payment for the Services will be due in the form of an advance payment for a monthly period, unless agreed otherwise. Price and payment details will be confirmed in the Order Confirmation. Your chosen payment method will be charged as indicated.
 
-7.2  All sums due must be paid in full without any set-off, counterclaim, deduction, or withholding (except where any deduction or withholding of tax is required by law).
+7.2  We may offer Customers trial usage of the Services. Any trial usage will be time limited. At the end of the Trial Period the Customer will have the option to cancel the Service or to continue using the Service as a paying Customer.
 
-7.3  We accept the following methods of payment on Our Site:
+7.3  All sums due must be paid in full without any set-off, counterclaim, deduction, or withholding (except where any deduction or withholding of tax is required by law).
 
-7.3.1 Stripe
+7.4  We accept the following methods of payment on Our Site:
 
-7.3.2 Direct invoicing by bank transfer
+7.4.1 Stripe
 
-7.4  If you do not make any payment to Us by the due We may charge you interest on the overdue sum at the rate of 2% per annum above the base lending rate of De Nederlandse Bank from time to time. Interest will accrue on a daily basis from the due date for payment until the actual date of payment of the overdue sum, whether before or after judgment. You must pay any interest due when paying an overdue sum.
+7.4.2 Direct invoicing by bank transfer
 
-7.5  The provisions of sub-Clause 7.4 will not apply if you have promptly contacted Us to dispute an invoice in good faith. No interest will be payable while such a dispute is ongoing. Once any such dispute is resolved, We will charge interest on correctly invoiced sums from the original due date.
+7.5  If you do not make any payment to Us by the due We may charge you interest on the overdue sum at the rate of 2% per annum above the base lending rate of De Nederlandse Bank from time to time. Interest will accrue on a daily basis from the due date for payment until the actual date of payment of the overdue sum, whether before or after judgment. You must pay any interest due when paying an overdue sum.
+
+7.6  The provisions of sub-Clause 7.5 will not apply if you have promptly contacted Us to dispute an invoice in good faith. No interest will be payable while such a dispute is ongoing. Once any such dispute is resolved, We will charge interest on correctly invoiced sums from the original due date.
 
  
 

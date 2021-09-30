@@ -12,7 +12,7 @@ weight: 9
 superuser: false
 
 # Role/position
-role: Communications & Marketing Lead
+role: "Communications & Marketing Lead**"
 
 # Organizations/Affiliations
 #organizations:
