@@ -26,7 +26,7 @@ design:
   #  text_color_light: true
 ---
 
-Find below the demo website Terms & Conditions:
+Find below the Hub website Terms & Conditions:
 
 - [Acceptable Usage Policy](#aup)
 - [Terms & Conditions](#tc)
