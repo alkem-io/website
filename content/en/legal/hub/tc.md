@@ -147,30 +147,24 @@ We may alter and update Our Site (or any part of it) at any time.
 
 9.5 We are not responsible for any loss of User Content submitted to Our Site. It is your sole responsibility to secure and backup your User Content.
 
-9.6 All User Content is considered non-confidential and non-proprietary. Please refer to Part 10 for more information on intellectual property rights and licensing.
+9.6 We may reject, reclassify, or remove any User Content from Our Site where, in Our sole opinion, it violates Our Acceptable Usage Policy.
 
-9.7 We may reject, reclassify, or remove any User Content from Our Site where, in Our sole opinion, it violates Our Acceptable Usage Policy.
+9.7 We have the right to disclose your identity to a third party if that third party claims that any User Content submitted by you infringes their intellectual property rights (including, but not limited to, copyright) or their right to privacy.
 
-9.8 We have the right to disclose your identity to a third party if that third party claims that any User Content submitted by you infringes their intellectual property rights (including, but not limited to, copyright) or their right to privacy.
+9.8 User Content is not approved or verified by Us before it is displayed on Our Site. The opinions, views, and values expressed in User Content on Our Site are those of the relevant Users and do not represent Our opinions, views, or values.
 
-9.9 User Content is not approved or verified by Us before it is displayed on Our Site. The opinions, views, and values expressed in User Content on Our Site are those of the relevant Users and do not represent Our opinions, views, or values.
+9.9 We do not store any terrorist content.
 
-9.10 We do not store any terrorist content.
+9.10 If you wish to make a complaint about any User Content, please contact Us using the details provided above in Part 3. 
 
-9.11 If you wish to make a complaint about any User Content, please contact Us using the details provided above in Part 3. 
+9.11 If you wish to remove User Content, you may do so. Please note that caching or references to your User Content may not be made unavailable immediately and may not be made unavailable where they are outside of Our reasonable control.
 
-9.12 If you wish to remove User Content, you may do so. Please note that caching or references to your User Content may not be made unavailable immediately and may not be made unavailable where they are outside of Our reasonable control.
-
- 
 
 **10. User Content, Your Rights, Our Rights, and Users’ Rights (Intellectual Property)**
 
 10.1 User Content on Our Site and the copyright and other intellectual property rights in that User Content, unless specifically labelled otherwise, belongs to or has been licensed by the User identified along with that User Content. All User Content is protected by applicable Dutch and international intellectual property laws and treaties.
 
 10.2 You (or your licensors, as appropriate) retain the ownership of your User Content and all associated intellectual property rights. When you submit User Content to Our Site, you grant Us an unconditional, non-exclusive, fully transferrable, royalty free, perpetual, worldwide licence to use, store, archive, syndicate, publish, transmit, adapt, edit, reproduce, distribute, prepare derivative works from, display, perform, and sub-licence your User Content to the extent necessary to operate and promote Our Site.
-
-10.3 Users have the right to copy, distribute, publicly perform, publicly display, reproduce, and create derivative works based upon each other’s User Content for any purposes.
-
  
 
 **11. Links to Our Site**
