@@ -35,5 +35,5 @@ A key guiding principle of the Alkemio platform from the start has being able to
 
 So a very technical project, but applied to very real world use cases!
 
-Interested in knowing more or contributing, please reach out.
+Interested in knowing more or contributing? Please reach out!
 
