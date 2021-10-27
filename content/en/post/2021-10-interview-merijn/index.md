@@ -25,8 +25,9 @@ image:
 ---
 This spring Alkemio was happy to welcome Merijn Zondag to the team. His focus is on the sustainability of the foundation, ensuring that sufficient resources are available to realize the vision. Merijn brings a huge amount of experience, especially around the venture financing – and has also himself been an entrepreneur in various start-ups and scale-ups. He enjoys working on projects which can make an impact on a small or a big, global scale.
 
+
 >   
->_**“I believe Alkemio can make a huge impact on our society“**_
+> **_"What does excite me is the opportunity of building the communities and networks and creating all the services to help these communities to be successful in achieving their goals."_**
 > 
 
 **You started in the financial sector where you built a successful career. What made you leave?**
@@ -49,23 +50,13 @@ For me, it is always a combination of a number of things. First and foremost it 
 
 Well first of all: 100% certainty is impossible. But what you can do is to create the best (pre)conditions to benefit from the opportunities and circumstances that will arise. We have a couple of essential items pretty well covered, but still need to work on quite a few others. Alkemio is building a very solid technical foundation that can scale, but Alkemio also needs to work on creating more awareness about what it can bring to users and society. This to further develop its partner and customer base and create traction and network effect. Alkemio is a bit too modest in a way with a strong emphasis on content and very different from start-ups that follow the “fake it till you make it” strategy.
 
->   
-> **_"Alkemio is building a very solid technical foundation that can scale, but Alkemio also needs to work on creating more awareness about what it can bring to users and society. "_**
-> 
 
 We are now at a stage when we can go out to the market and see how our story will resonate within the investment community. Hopefully, they will recognize the value Alkemio can bring, what impact can it make and at what scale, and how the organization can develop. What opportunities it will bring to its users, partners, and other stakeholders; as well as to the team.
-
->   
-> **_"We are now at a stage when we can go out to the market and see how our story will resonate within the investment community. Hopefully, they will recognize the value Alkemio can bring."_**
->   
-
+ 
 **How do you see the future of Alkemio?**
 
 What does excite me is the opportunity of building the communities and networks and creating all the services to help these communities to be successful in achieving their goals. And to do this on a scale that has a major impact. This can be for either many groups of users by dealing with their day-to-day challenges but also for our society as a whole in a very impactful way for our massive and super complicated challenges. 
 
->   
-> **_"What does excite me is the opportunity of building the communities and networks and creating all the services to help these communities to be successful in achieving their goals."_**
-> 
 
 The way to go from A to Z is to have many individual users, communities, companies, organizations, governments, etc. that want to cooperate, contribute and stay involved through Alkemio by putting the challenge central and not their individual interests. As an economist, I know that this can feel counterintuitive, but I strongly believe we need to change this behaviour to enable our society to have a meaningful and lasting future.
 

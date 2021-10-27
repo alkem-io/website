@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: 
+title: Advisors
 
 content:
   # Choose which groups/teams of users to display.
