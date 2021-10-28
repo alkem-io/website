@@ -50,8 +50,9 @@ For me, it is always a combination of a number of things. First and foremost it 
 
 Well first of all: 100% certainty is impossible. But what you can do is to create the best (pre)conditions to benefit from the opportunities and circumstances that will arise. We have a couple of essential items pretty well covered, but still need to work on quite a few others. Alkemio is building a very solid technical foundation that can scale, but Alkemio also needs to work on creating more awareness about what it can bring to users and society. This to further develop its partner and customer base and create traction and network effect. Alkemio is a bit too modest in a way with a strong emphasis on content and very different from start-ups that follow the “fake it till you make it” strategy.
 
+**What phase are you in at the moment? How are you standing with investors?**
 
-We are now at a stage when we can go out to the market and see how our story will resonate within the investment community. Hopefully, they will recognize the value Alkemio can bring, what impact can it make and at what scale, and how the organization can develop. What opportunities it will bring to its users, partners, and other stakeholders; as well as to the team.
+Since Alkemio is a purpose driven impact tech-for-good venture, we fit in many boxes: SaaS VC, Impact Venturing, Philanthropic Backers/Angels etc. Now we’re at a stage when we can go out to the market and see how our story will resonate within the investment community. Hopefully, they will recognize the value Alkemio can bring, what impact can it make and at what scale, and how the organization can develop. What opportunities it will bring to its users, partners, and other stakeholders, as well as to the team. If I may add, we are keen to get in touch or to receive suggestions on investors or organizations to reach out to. Anyone who find our mission inspiring and wants to collaborate, is always welcome to knock on my door. 
  
 **How do you see the future of Alkemio?**
 
