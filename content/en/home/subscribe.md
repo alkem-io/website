@@ -24,4 +24,4 @@ design:
 ---
 Subscribe to our newsletter by completing the form
 
-<script type="text/javascript" src="//mautic.alkem.io/form/generate.js?id=4"></script>
+<script type="text/javascript" src="//mailing.alkem.io/form/generate.js?id=4"></script>
