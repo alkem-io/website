@@ -33,5 +33,5 @@ Our preferred way to provide support is through using our support pages hosted a
 If you prefer not to share the request publicly you can fill in the form below (requires email confirmation):
 
 <br><br><br>
-<script type="text/javascript" src="//mautic.alkem.io/form/generate.js?id=5"></script>
+<script type="text/javascript" src="//mailing.alkem.io/form/generate.js?id=5"></script>
 
