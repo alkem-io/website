@@ -19,7 +19,7 @@ tags:
 
 
 featured: false
-draft: false
+draft: true
 image:
   placement: 1
   
