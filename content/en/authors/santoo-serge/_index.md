@@ -1,23 +1,23 @@
 ---
 # Display name
-title: Kalina Hristova
+title: Serge Santoo
 
 # Username (this should match the folder name)
 authors:
-- hristova-kalina
+- santoo-serge
 
-weight: 9
+weight: 12
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: "Visual, UI & UX designer** [NetCompany]"
+role: "Communications Lead** [Polycentric]"
 
 # Organizations/Affiliations
-organizations:
-- name: NetCompany
-  url: "https://www.netcompany.com/nl/"
+#organizations:
+#- name: 
+#  url: 
 
 
 # Social/Academic Networking
@@ -33,7 +33,7 @@ social:
 #  link: https://twitter.com/GeorgeCushen
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/kalinahristova
+  link: https://www.linkedin.com/in/ssantoo/
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
