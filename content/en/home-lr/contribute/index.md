@@ -2,7 +2,7 @@
 # An instance of the Blank widget.
 
 # Section title
-title: Want to contribute to a Chalenge?
+title: Want to contribute to a Challenge?
 weight: 10
 
 summary: 'As a user you are able to see many journeys and contribute and connect into multiple journeys.  
