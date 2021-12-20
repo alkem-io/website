@@ -6,7 +6,7 @@ title: Nikola Velichkov
 authors:
 - velichkov-nikola
 
-weight: 8
+weight: 7
 
 # Is this the primary user of the site?
 superuser: false
