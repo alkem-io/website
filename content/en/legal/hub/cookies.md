@@ -21,13 +21,13 @@
 | ------------------- | ------------------------------------------------------------ |
 | **“Cookie Law”** | means the relevant parts of the Privacy and Electronic Communications (EC Directive) Regulations 2003; |
 | **“personal data”** | means any and all data that relates to an identifiable person who can be directly or indirectly identified from that data, as defined by the Privacy and Electronic Communications (EC Directive) Regulations 2003 and |
-| **“We/Us/Our”** | means Stichting Cherrytwist, operating under the name Alkemio. We are a foundation registered in The Netherlands under number 78302633. Our registered address is Park Leeuwenberghlaan 3, 2267 BM Leidschendam, South-Holland, The Netherlands. |
+| **“We/Us/Our”** | means Stichting Alkemio, operating under the name Alkemio. We are a foundation registered in The Netherlands under number 78302633. Our registered address is Park Leeuwenberghlaan 3, 2267 BM Leidschendam, South-Holland, The Netherlands. |
 
  
 
 **2. Information About Us**
 
-2.1 Our Site is operated by Stichting Cherrytwist, operating under the name Alkemio. We are a foundation registered in The Netherlands under number 78302633. Our registered address is Park Leeuwenberghlaan 3, 2267 BM Leidschendam, South-Holland, The Netherlands. 
+2.1 Our Site is operated by Stichting Alkemio, operating under the name Alkemio. We are a foundation registered in The Netherlands under number 78302633. Our registered address is Park Leeuwenberghlaan 3, 2267 BM Leidschendam, South-Holland, The Netherlands. 
 
  
 

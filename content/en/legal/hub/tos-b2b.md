@@ -20,14 +20,14 @@ These Terms of Sale set out the terms under which Services are sold and provided
 | **“Order Confirmation”** | means Our acceptance and confirmation of your Order;  |
 | **“Order Number”**| means the reference number for your Order; |
 | **“Services”**  | means the services which are to be provided by Us to you as specified  in your Order (and confirmed in Our Order Confirmation); and |
-| **“We/Us/Our”** | means Stichting Cherrytwist. |
-| **“Trial Period”** | means a period of time whereby Stichting Cherrytwist may offer usage of the Services without payment. |
+| **“We/Us/Our”** | means Stichting Alkemio. |
+| **“Trial Period”** | means a period of time whereby Stichting Alkemio may offer usage of the Services without payment. |
 
  
 
 **2. Information About Us**
 
-2.1  Our Site, https://hub.alkem.io, is owned and operated by Stichting Cherrytwist, operating under the name Alkemio. We are a foundation registered in The Netherlands under number 78302633. Our registered address is _Park Leeuwenberghlaan 3, 2267 BM Leidschendam, South-Holland, The Netherlands_. Our VAT number is NL861338522B01.
+2.1  Our Site, https://hub.alkem.io, is owned and operated by Stichting Alkemio, operating under the name Alkemio. We are a foundation registered in The Netherlands under number 78302633. Our registered address is _Park Leeuwenberghlaan 3, 2267 BM Leidschendam, South-Holland, The Netherlands_. Our VAT number is NL861338522B01.
 
  
 
