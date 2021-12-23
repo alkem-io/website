@@ -6,7 +6,7 @@ date: "2021-03-28"
 lastmod: "2021-03-28"
 math: false
 diagram: false
-summary: Stichting Cherrytwist is pleased to announce the award of a Pioneers-grant by the SIDN fonds
+summary: Stichting Alkemio is pleased to announce the award of a Pioneers-grant by the SIDN fonds
 authors:
 - honig-rene
 - smyth-neil

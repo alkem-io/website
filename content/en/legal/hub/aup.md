@@ -30,13 +30,13 @@ Our Terms and Conditions , available at https://alkem.io/legal/hub.
 | -------------------------- | ------------------------------------------------------------ |
 | **“User”** | means a user of Our Site;**[**and |
 | **“User Content”** | means ecoverse, challenge and innovation related information, submitted by Users to Our Site; and |
-| **“We/Us/Our”** | means Stichting Cherrytwist. |
+| **“We/Us/Our”** | means Stichting Alkemio. |
 
  
 
 **2. Information About Us**
 
-2.1 Our Site is operated by Stichting Cherrytwist, operating under the name Alkemio. We are a foundation registered in The Netherlands under number 78302633. Our registered address is _Park Leeuwenberghlaan 3, 2267 BM Leidschendam, South-Holland, The Netherlands_. 
+2.1 Our Site is operated by Stichting Alkemio, operating under the name Alkemio. We are a foundation registered in The Netherlands under number 78302633. Our registered address is _Park Leeuwenberghlaan 3, 2267 BM Leidschendam, South-Holland, The Netherlands_. 
 
  
 

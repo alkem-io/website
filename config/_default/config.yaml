@@ -5,7 +5,7 @@
 
 title: Alkemio - Building a better future, together # Website name
 baseurl: "/" # Website URL
-copyright: '© {year} Stichting Cherrytwist' # Footer text, e.g. '© {year} Me'
+copyright: '© {year} Stichting Alkemio' # Footer text, e.g. '© {year} Me'
 
 # option to set relativeURLs (e.g. for IPFS)
 relativeURLS: false
