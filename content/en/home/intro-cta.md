@@ -10,7 +10,7 @@ headless: true
 weight: 1
 
 # Section title
-title: A new open innovation platform, building a better future together
+title: A new way of working together
 
 # Section subtitle
 subtitle: join us
