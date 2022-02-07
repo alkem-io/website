@@ -10,7 +10,7 @@ summary: 'As a Challenge owner you can show your journey with links to other jou
 
 - What are similar challenges? 
 
-- How to I know what is needed to reach the top? 
+- How do I know what is needed to reach the top? 
 
 - How do I find people with the right skills?  '
 ---
