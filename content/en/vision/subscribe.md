@@ -23,5 +23,11 @@ design:
     padding: ["20px", "0", "0px", "0"]
 ---
 Subscribe to our newsletter by completing the form
-
-<script type="text/javascript" src="//mailing.alkem.io/form/generate.js?id=4"></script>
+<script charset="utf-8" type="text/javascript" src="//js-eu1.hsforms.net/forms/v2.js"></script>
+<script>
+  hbspt.forms.create({
+	region: "eu1",
+	portalId: "25488729",
+	formId: "42985962-b92a-42bc-9af2-c836f68dfad1"
+});
+</script>

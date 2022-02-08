@@ -19,7 +19,7 @@ subtitle: join us
 design:
   columns: '2'
   background:
-    color: '#09bcd4'
+    color: '#068293'
     #gradient_start: '#09bcd4'
     #gradient_end: '#09bcd4'
     #image_parallax: true
