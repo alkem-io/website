@@ -4,18 +4,13 @@ name = "alkemio"
 # Is theme light or dark?
 light = true
 
-# cherry red color plaette: https://htmlcolors.com/palette/30/cherry-red
-
 # Primary
 #primary = "#00bcd4" # teal
-primary = "#09bcd4" # pacific blue
+primary = "#068293" # pacific blue
 
 # Menu
-menu_primary = "#09bcd4" # pacific blue
-#menu_primary = "#00bcd4" # for teal
+menu_primary = "#068293" # pacific blue
 menu_text = "#fff"
-#menu_text_active = "#09bcd4" # pacific blue
-#menu_text_active = "#002428"
 menu_text_active = "#2d546a" # deep blue
 menu_title = "#fff"
 
