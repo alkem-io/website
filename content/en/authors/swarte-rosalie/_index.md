@@ -12,7 +12,7 @@ weight: 10
 superuser: false
 
 # Role/position
-role: "UX/UI Intern [Digicampus]"
+role: "UX/UI Intern"
 
 # Organizations/Affiliations
 organizations:
