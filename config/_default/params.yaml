@@ -83,7 +83,7 @@ highlight_languages:
   - r
 math: false
 diagram: false
-privacy_pack: true
+privacy_pack: false
 edit_page:
   repo_url: ''
   content_dir: ''
