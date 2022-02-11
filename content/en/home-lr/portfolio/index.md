@@ -3,15 +3,13 @@
 weight: 30
 
 # Section title
-title: Managing a portfolio of Challenges?
+title: Managing multiple Challenges?
 
 # Section subtitle
-summary: 'Do you want to coordinate the climbing of many mountains in parallel and together? And having an overview of what the status is of each?
+summary: 'Coordinate the climbing of many mountains, tracking progress [of teams] towards clear destinations
 
-- How to coordinate a set of challenges with a common underlying theme?
+- Monitor on your dashboard each stage of your journeys
 
-- How do I grow a community around a set of challenges?
-
-- How do I bring consistency to a set of challenges?
+-  Grow your community, finding the right help when you need it
 '
 ---
