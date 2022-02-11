@@ -10,14 +10,14 @@ headless: true
 weight: 2
 
 # Section title
-title: A new way of working together
+title: A new way of working on challenges, together
 
 # Section subtitle
 subtitle: join us
 
 # Section design
 design:
-  columns: '1'
+  columns: '2'
   background:
     color: '#068293'
     #gradient_start: '#09bcd4'
@@ -30,7 +30,7 @@ design:
 
 # Hero image (optional). Enter filename of an image in the page folder.
 #hero_media: 'alkemio-visual.png'
-hero_media: 'alkemio-visual-wide.jpg'
+hero_media: alkemio-visual-wide.jpg
 
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `cta`.
@@ -40,11 +40,11 @@ cta:
   label: <strong>Try our public preview!</strong>
   icon_pack: fas
   icon: tablet-alt
-
+# cta_alt:
+#   url: 'https://something.com'
+#   label: Sign up for our newsletter
 # Note. An optional note to show underneath the links.
 cta_note:
-  label: ''
+  label: 'Purpose. Foundation. Open source.'
 
-header: 
-  image: 'alkemio-visual-wide.jpg'
 ---
