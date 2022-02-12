@@ -5,11 +5,11 @@ weight: 30
 # Section title
 title: Managing multiple Challenges?
 
-# Section subtitle
-summary: 'Coordinate the climbing of many mountains, tracking progress [of teams] towards clear destinations
+# Section subtitle 
+summary: 'Enable the climbing of many mountains, tracking progress towards clear destinations
 
-- Monitor on your dashboard each stage of your journeys
+- A shared overview of what is being worked on, status, and who is involved
 
--  Grow your community, finding the right help when you need it
+- Grow your community, finding the right help when you need it
 '
 ---
