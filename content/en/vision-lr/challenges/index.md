@@ -1,6 +1,6 @@
 ---
 # Section title
-title: What are challenges?
+title: What are Challenges?
 
 weight: 20
 

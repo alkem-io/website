@@ -10,7 +10,7 @@ headless: true
 weight: 2
 
 # Section title
-title: A new way of working on challenges, together
+title: A new way of working on Challenges, together
 
 # Section subtitle
 subtitle: join us
@@ -37,7 +37,7 @@ hero_media: alkemio-visual-wide.jpg
 #   Remove a link/note by deleting a cta/note block.
 cta:
   url: 'https://hub.alkem.io'
-  label: <strong>Try our public preview!</strong>
+  label: See Challenges in action!
   icon_pack: fas
   icon: tablet-alt
 # cta_alt:
@@ -45,6 +45,6 @@ cta:
 #   label: Sign up for our newsletter
 # Note. An optional note to show underneath the links.
 cta_note:
-  label: 'Purpose. Foundation. Open source.'
+  label: 'Impact. Foundation. Open source.'
 
 ---
