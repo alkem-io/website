@@ -1,17 +1,12 @@
 ---
 # Section title
-title: Need help with your Challenges?
+title: Need help on your journey?
 
 weight: 20
 
-summary: 'As a Challenge owner you can show your journey with links to other journeys. You can also find new community members to help.  
+summary: 'As a Challenge leader you can connect with similar Challenges and find people to contribute  
 
-- Who wants to join me on my challenge?  
+- Find similar Challenges, learning from shared experiences and connecting communities
 
-- What are similar challenges? 
-
-- How to I know what is needed to reach the top? 
-
-- How do I find people with the right skills?  '
+- Locate community members to solve the issues at hand'
 ---
-

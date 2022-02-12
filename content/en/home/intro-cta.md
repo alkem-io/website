@@ -7,10 +7,10 @@ widget: hero
 headless: true
 
 # Order that this section appears on the page.
-weight: 1
+weight: 2
 
 # Section title
-title: A new way of working together
+title: A new way of working on Challenges, together
 
 # Section subtitle
 subtitle: join us
@@ -19,7 +19,7 @@ subtitle: join us
 design:
   columns: '2'
   background:
-    color: '#09bcd4'
+    color: '#068293'
     #gradient_start: '#09bcd4'
     #gradient_end: '#09bcd4'
     #image_parallax: true
@@ -29,18 +29,22 @@ design:
     padding: ["20px", "0", "10px", "0"]
 
 # Hero image (optional). Enter filename of an image in the page folder.
-hero_media: 'alkemio-visual.png'
+#hero_media: 'alkemio-visual.png'
+hero_media: alkemio-visual-wide.jpg
 
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `cta`.
 #   Remove a link/note by deleting a cta/note block.
 cta:
   url: 'https://hub.alkem.io'
-  label: <strong>Try our public preview!</strong>
+  label: See Challenges in action!
   icon_pack: fas
   icon: tablet-alt
-
+# cta_alt:
+#   url: 'https://something.com'
+#   label: Sign up for our newsletter
 # Note. An optional note to show underneath the links.
 cta_note:
-  label: ''
+  label: 'Impact. Foundation. Open source.'
+
 ---

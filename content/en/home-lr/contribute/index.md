@@ -5,12 +5,11 @@
 title: Want to contribute?
 weight: 10
 
-summary: 'As a user you are able to see many journeys and contribute and connect into multiple journeys.  
+summary: 'As a user you can browse the many journeys underway, choose those that match your interests, and connect  
 
-- This is about me as a person.  
+- This is about me as a person, being part of the solution 
 
-- What topics are being worked on?  
-
-- Where is my help, based on my skills, most needed?'  
+- Easy to engage and to add value'  
 ---
+
 

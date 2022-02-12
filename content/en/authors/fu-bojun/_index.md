@@ -12,7 +12,7 @@ weight: 13
 superuser: false
 
 # Role/position
-role: Fundraising assistent [Intership]
+role: Fundraising assistent [Internship]
 
 # Organizations/Affiliations
 #organizations:
