@@ -30,7 +30,7 @@ design:
 
 # Hero image (optional). Enter filename of an image in the page folder.
 #hero_media: 'alkemio-visual.png'
-hero_media: alkemio-visual-wide.jpg
+hero_media: visualization-main-wide.jpg
 
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `cta`.
