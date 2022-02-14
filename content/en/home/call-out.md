@@ -20,7 +20,7 @@ design:
   columns: '2'
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
-    padding: ["20px", "0", "10px", "0"]
+    padding: ["0px", "0", "0px", "0"]
 
 # Hero image (optional). Enter filename of an image in the page folder.
 hero_media: ''
