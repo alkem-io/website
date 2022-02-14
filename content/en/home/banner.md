@@ -20,7 +20,7 @@ design:
   columns: '1'
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
-    padding: ["280px", "0px", "00px", "0"]
+    padding: ["200px", "0px", "00px", "0"]
   background:
     image: visualization-main-wide.jpg
     image_size: cover
