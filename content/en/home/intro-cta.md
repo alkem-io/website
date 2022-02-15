@@ -26,11 +26,11 @@ design:
     text_color_light: true
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
-    padding: ["20px", "0", "10px", "0"]
+    padding: ["40px", "0", "10px", "0"]
 
 # Hero image (optional). Enter filename of an image in the page folder.
 #hero_media: 'alkemio-visual.png'
-hero_media: visualization-main-wide.jpg
+#visualization-main-wide.jpg
 
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `cta`.
