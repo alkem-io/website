@@ -18,13 +18,15 @@ subtitle:
 # Section design
 design:
   columns: '1'
+  background:
+    color: '#068293'
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
-    padding: ["200px", "0px", "00px", "0"]
-  background:
-    image: visualization-main-wide.jpg
-    image_size: cover
-    image_position: middle
-    image_parallax: false
+    padding: ["0px", "0px", "0px", "0"]
 
 ---
+
+
+<p align="center">
+<img src="/media/visualization-main-wide.jpg" alt="Alkemio Platform" width="1600" />
+</p>
