@@ -16,7 +16,7 @@ main:
   - name: Blog
     url: 'post'
     weight: 30
-  - name: Hub
+  - name: Platform
     url: 'https://hub.alkem.io'
     weight: 40
   - name: Contact
