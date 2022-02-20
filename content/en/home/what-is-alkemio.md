@@ -23,10 +23,10 @@ design:
     padding: ["10px", "0", "0px", "0"]
 ---
 ## **Why Alkemio?**
-Many Challenges in our society and organizations aren’t getting solved. Local and global Challenges, and frustrations. People want to contribute in an effective and meaningful way - but how?
+Many Challenges in our society and organizations aren’t getting solved. Local and global Challenges, and frustrations. People want to contribute in an effective, fun and meaningful way - but how?
 
-The **Alkemio platform** makes it easy to host Challenges and have contributors, from anywhere, working together on solutions. Challenges take centre-stage. Focus is on the destination.
+**Alkemio** makes it easy to host Challenges and have contributors, from anywhere, working together on solutions. Challenges take center-stage. Focus is on the destination.
 
-Backed by a foundation to develop the Alkemio platform and community. Purpose driven.
+Backed by a foundation to develop the Alkemio platform and community of people and organizations. Purpose driven.
 
 Connect, collaborate and contribute.
