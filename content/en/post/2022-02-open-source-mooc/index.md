@@ -25,15 +25,13 @@ image:
   
 ---
 
-Open source is a key focus topic for the Dutch government. And deepending understanding of what open source is about, from the code to the community, is critical to deliver on its potential. 
+Open source is at the core of Alkemio. Open source is also a key topic for the Dutch government: since 2020 [all new software development must be open source unless there is a clear reason not to](https://www.digitaleoverheid.nl/nieuws/staatssecretaris-knops-geef-broncode-van-overheidssoftware-waar-mogelijk-vrij/#:~:text='Open%20tenzij'&text=Dit%20wil%20zeggen%20dat%20overheden,een%20vertrouwelijke%20werkwijze%20wordt%20geschaad.) (dutch). 
 
-For this an [online course](https://omooc.nl/moocs/open-source/) has been created, consisting of 4 episodes each with 3 interviews. 
+But open source is not widely understood. To help address this, the [Ministerie van Binnenlandse Zaken](minbzk.nl) and [Vereniging voor OverheidsManagement](https://www.vom-online.nl/) have created a short [online course](https://omooc.nl/moocs/open-source/) whereby the different aspects, and implications of open source are explored: the code, the community, ways of working with the market, implications for society etc. 
 
-Delighted to have had the chance to contribute (via Neil in his "best" dutch) to this important topic. Kudos to the open source team at the [Ministerie van Binnenlandse Zaken](minbzk.nl) and [Vereniging voor OverheidsManagement](https://www.vom-online.nl/) for putting it in motion. Our contribution is in [episode 2](https://omooc.nl/inzicht/open-source-de-nieuwe-standaard/). 
+Delighted to have had the chance to contribute (via Neil in his "best" dutch) to this important topic. Our contribution is in [episode 2](https://omooc.nl/inzicht/open-source-de-nieuwe-standaard/). It is in Dutch.  
 
-Unfortunately for our non-dutch community the course is in dutch, but you can use on an online translation service to try to follow it. 
-
-Open source is at the core of Alkemio. The principles that underlie we believe are also applicable to many of the collaborations needed to address the Challenges in society. 
+Digitalization is changing society. We need to decide how we build, own and govern that software.
 
 
 
