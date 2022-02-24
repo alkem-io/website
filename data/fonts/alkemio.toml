@@ -5,9 +5,15 @@ name = "alkemio"
 google_fonts = "family=Rubik:wght@400;700"
 
 # Font families
-heading_font = "Rubik"
-body_font = "Rubik"
-nav_font = "Rubik"
-mono_font = "Rubik"
+#heading_font = "Rubik"
+#body_font = "Rubik"
+#nav_font = "Rubik"
+#mono_font = "Rubik"
+
+# Font families
+heading_font = "Helvetica"
+body_font = "Helvetica"
+nav_font = "Helvetica"
+mono_font = "Helvetica"
 
 
