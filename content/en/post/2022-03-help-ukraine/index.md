@@ -1,14 +1,15 @@
 ---
 #widget: pages
 #headless: true
-title: Help Ukraine
+title: Help Ukraine!
 date: "2022-03-15"
 lastmod: "2022-03-15"
 math: false
 diagram: false
-summary: 'Coordinating our responses to helping the suffering from the Ukranian invasion'
+summary: 'Innovative responses to helping the suffering from the Ukranian invasion'
 authors:
 - smyth-neil
+- honig-rene
 tags:
 - ukraine
 - collaboration
