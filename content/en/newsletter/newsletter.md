@@ -7,22 +7,28 @@ widget: blank
 headless: true
 
 # Order that this section appears on the page.
-weight: 90
+weight: 1
 
 # Section title
-title: Stay informed
+title: Alkemio Newsletter
 
 # Section subtitle
 subtitle: 
 
+
 # Section design
 design:
-  columns: '2'
-  spacing:
-    # Customize the section spacing. Order is top, right, bottom, left.
-    padding: ["20px", "0", "0px", "0"]
+  # Use a 1-column layout
+  columns: "1"
+  # Use a dark navy background with light text.
+  #background:
+  #  color: 'navy'
+  #  text_color_light: true
 ---
-Subscribe to our newsletter by completing the form
+
+Alkemio aims to send an email newsletter to the community once per month, with the latest news and updates about both the platform and the community. 
+
+To receive the newsletter please fill out the form below!
 <script charset="utf-8" type="text/javascript" src="//js-eu1.hsforms.net/forms/v2.js"></script>
 <script>
   hbspt.forms.create({
@@ -31,3 +37,5 @@ Subscribe to our newsletter by completing the form
 	formId: "42985962-b92a-42bc-9af2-c836f68dfad1"
 });
 </script>
+
+
