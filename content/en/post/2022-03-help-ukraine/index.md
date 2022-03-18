@@ -42,19 +42,17 @@ Alkemio is built to align contributions from multiple parties. Working towards a
 
 
 ## Our offer
-We are looking to help any initiative responding to the suffering in Ukraine or in what it means for us.
+We are looking to help initiatives responding to the results of the war in Ukraine.
 
-Our offer is to help you to give you a place where your community can connect and work together. Surfacing up ideas for being more effective, enriching your shared context, understanding blockers, connecting to the right skills, new collaborations etc. This is not about another housing matching platform, but about how all busy with this topic can make it more effective. 
+Our offer is to give you a place where you can frame shared goals, manage a community around those goals and together make progress. Surfacing up ideas for being more effective, enriching your shared understanding, working on blockers, connecting to the right skills, new collaborations etc. Making clear what are the different topics being worked, what can be improved and how people can contribute. 
 
-Making clear what are the different topics being worked, what can be improved and how people can contribute. Alkemio is still in public preview, getting better every day. We actively listen to what the community needs and take that forward into the platform. 
+To be clear and taking the example of housing: this is not about matching housing offers and needs, but about understanding what are the challenges in addressing the housing needs, ideas for making more housing available, resolving blockers (e.g. legal) around offering housing etc. Making the overall response more effective. 
 
-Alkemio will host your hub free, and we will also help you setup your space for the collaboration.
+Alkemio will host your hub free, and we will also help you setup your space for the collaboration. 
 
 ## Next steps
 
 Explore the [Help Ukraine](https://hub.alkem.io/help-oekraine) hub that we have already created for the Dutch speaking community. Sign up for an account. Join the Help Ukraine hub and the sub-topics there you care about. 
-
-
 
 Want your own hub, either for specific sub-topic or language? Then please either fill out the form below or [directly email us](61298de4.alkem.io@emea.teams.ms).
 
