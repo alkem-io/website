@@ -3,13 +3,13 @@
 weight: 30
 
 # Section title
-title: Managing multiple Challenges?
+title: Identifying and guiding multiple Challenges?
 
 # Section subtitle 
-summary: 'Enable the climbing of many mountains, tracking progress towards clear destinations
+summary: 'Help your organization identify the right journeys, with clear objectives and the right stakeholders engaged 
 
 - A shared overview of what is being worked on, status, and who is involved
 
-- Grow your community, finding the right help when you need it
+- Gather the right crew around each Challenge, and help frame the journey
 '
 ---

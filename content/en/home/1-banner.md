@@ -19,7 +19,7 @@ subtitle:
 design:
   columns: '1'
   background:
-    image: visualization-main-wide.jpg    
+    image: visualization-main-wide-ukraine.png    
     color: '#068293'
     image_size: cover
     image_position: middle
