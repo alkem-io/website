@@ -10,14 +10,14 @@ headless: true
 weight: 90
 
 # Section title
-title: Stay informed
+# title: Stay informed
 
 # Section subtitle
 subtitle: 
 
 # Section design
 design:
-  columns: '2'
+  columns: '1'
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
     padding: ["20px", "0", "0px", "0"]
@@ -25,9 +25,8 @@ design:
   
 {{< figure src="pexels-aksonsat-uanthoeng-1078850.jpg" >}}
 
-## Get involved, feedback, questions, comments...  
+## We would love to hear from you!
 
-Please fill in the form below to contact us.
 <script charset="utf-8" type="text/javascript" src="//js-eu1.hsforms.net/forms/v2.js"></script>
 <script>
   hbspt.forms.create({
