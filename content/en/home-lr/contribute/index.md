@@ -9,7 +9,7 @@ summary: 'As a user you can browse the many journeys underway, choose those that
 
 - This is about me as a person, being part of the solution 
 
-- Easy to engage and to add value'  
+- Enjoy engaging with others on shared Challenges'  
 ---
 
 
