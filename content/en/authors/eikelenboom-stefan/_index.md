@@ -1,24 +1,26 @@
 ---
 # Display name
-title: Kaylee Scholtes
+title: Stefan Eikelenboom
 
 # Username (this should match the folder name)
 authors:
-- scholtes-kaylee
+- eikelenboom-stefan
 
-weight: 10
+weight: 20
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: "UX/UI Intern"
+role: "UX Intern [Digicampus]"
 
 # Organizations/Affiliations
 organizations:
-- name: 
-  url: 
+- name: HHS
+  url: "https://hhs.nl"
 
+# Short bio (displayed in user profile at end of posts)
+bio: Student at De Haagse Hogeschool / The Hague University of Applied Sciences
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -33,7 +35,7 @@ social:
 #  link: https://twitter.com/GeorgeCushen
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/kaylee-scholtes-a74a53144/
+  link: https://www.linkedin.com/in/stefan-eikelenboom-491723166/
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
