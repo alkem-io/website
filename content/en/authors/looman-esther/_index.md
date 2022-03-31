@@ -1,26 +1,25 @@
 ---
 # Display name
-title: Esther Looman
+title: Stefan Eikelenboom
 
 # Username (this should match the folder name)
 authors:
-- looman-esther
-
-weight: 100
+- eikelenboom-stefan
+weight: 20
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Innovation Analyst
+role: UX Intern [Digicampus]
 
 # Organizations/Affiliations
 organizations:
-- name: UWV
-  url: "https://uwv.nl"
+- name: HHS
+  url: "https://hhs.nl"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Community Manager UWV
+bio: Student at De Haagse Hogeschool / The Hague University of Applied Sciences
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -35,7 +34,7 @@ social:
 #  link: https://twitter.com/neilasmyth
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/esther-looman-dubbeldam-%E2%84%A2-94095631/
+  link: https://www.linkedin.com/in/stefan-eikelenboom-491723166/
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ

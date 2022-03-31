@@ -1,23 +1,23 @@
 ---
 # Display name
-title: Anna Helmus
+title: Kaylee Scholtes
 
 # Username (this should match the folder name)
 authors:
-- helmus-anna
+- scholtes-kaylee
 
-weight: 13
+weight: 10
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: "Communications Advisor** [Polycentric]"
+role: "UX/UI Intern"
 
 # Organizations/Affiliations
-#organizations:
-#- name: 
-#  url: 
+organizations:
+- name: 
+  url: 
 
 
 # Social/Academic Networking
@@ -33,7 +33,7 @@ social:
 #  link: https://twitter.com/GeorgeCushen
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/anna-helmus-7365b672/
+  link: https://www.linkedin.com/in/kaylee-scholtes-a74a53144/
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -52,5 +52,5 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 
+- Core Team
 ---
