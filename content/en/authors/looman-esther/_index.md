@@ -1,24 +1,25 @@
 ---
 # Display name
-title: Anna Helmus
+title: Esther Looman
 
 # Username (this should match the folder name)
 authors:
-- helmus-anna
-
-weight: 13
+- looman-esther
+weight: 100
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: "Communications Advisor** [Polycentric]"
+role: UWV Innovation Community Manager
 
 # Organizations/Affiliations
-#organizations:
-#- name: 
-#  url: 
+organizations:
+- name: UWV
+  url: "https://uwv.nl"
 
+# Short bio (displayed in user profile at end of posts)
+bio: Innovation Community Manager
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -29,17 +30,17 @@ social:
 #  icon_pack: fas
 #  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/GeorgeCushen
+# icon_pack: fab
+#  link: https://twitter.com/neilasmyth
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/anna-helmus-7365b672/
+  link: https://www.linkedin.com/in/esther-looman-dubbeldam-%E2%84%A2-94095631/
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-#- icon: github
-#  icon_pack: fab
-#  link: 
+# - icon: github
+#   icon_pack: fab
+#   link: https://www.linkedin.com/in/denise-larsson-61abb214a/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -53,4 +54,11 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - 
+
 ---
+
+
+
+
+
+     

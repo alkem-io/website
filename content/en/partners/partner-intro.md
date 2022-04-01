@@ -32,6 +32,8 @@ design:
 <br/>
 {{< figure src="logo-digicampus.svg" link="https://digicampus.tech" alt="Digicampus logo" width="65%">}}
 <br/>
+{{< figure src="logo-uwv.png" link="https://uwv.nl" alt="UWV logo" width="30%">}}
+<br/>
 {{< figure src="essif-lab-eu-logos.png" alt="Essif and EU logos" width="50%">}}
 <br/>
 {{< figure src="SIDN.svg" alt="SIDNfonds logo" width="45%">}}
