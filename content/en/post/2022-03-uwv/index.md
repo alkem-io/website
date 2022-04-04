@@ -1,7 +1,7 @@
 ---
 #widget: pages
 #headless: true
-title: UWV Innovatie 
+title: UWV Innovatie (article in Dutch)
 date: "2022-03-31"
 lastmod: "2022-03-31"
 math: false
