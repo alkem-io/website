@@ -5,7 +5,7 @@
 
 title: Alkemio - Building a better future, together # Website name
 baseurl: "/" # Website URL
-copyright: '© {year} Stichting Alkemio' # Footer text, e.g. '© {year} Me'
+copyright: "© {year} Stichting Alkemio" # Footer text, e.g. '© {year} Me'
 
 # option to set relativeURLs (e.g. for IPFS)
 relativeURLS: false
@@ -14,7 +14,6 @@ relativeURLS: false
 # by changing this parameter in the build command to true the default template with allow all setting will be used
 # this is useful for ensuring and draft website is not indexed.
 enableRobotsTXT: false
-
 
 ############################
 ## LANGUAGE
@@ -50,10 +49,10 @@ enableEmoji: true
 footnotereturnlinkcontents: <sup>^</sup>
 ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
 permalinks:
-  event: '/talk/:slug/'
-  tags: '/tag/:slug/'
-  categories: '/category/:slug/'
-  publication_types: '/publication-type/:slug/'
+  event: "/talk/:slug/"
+  tags: "/tag/:slug/"
+  categories: "/category/:slug/"
+  publication_types: "/publication-type/:slug/"
 disableAliases: true
 outputs:
   home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
@@ -87,3 +86,8 @@ related:
       weight: 100
     - name: categories
       weight: 70
+security:
+  funcs:
+    getenv:
+      - ^HUGO_
+      - ^WC_
