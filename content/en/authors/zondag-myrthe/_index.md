@@ -1,26 +1,28 @@
 ---
 # Display name
-title: Stefan Eikelenboom
+title: Myrthe Zondag
 
 # Username (this should match the folder name)
 authors:
-- eikelenboom-stefan
+- zondag-myrthe
 
-weight: 18
+weight: 19
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: "UX Intern [Digicampus]"
+role: Communications
 
 # Organizations/Affiliations
 organizations:
-- name: HHS
-  url: "https://hhs.nl"
+- name: Alkemio
+  url: "https://alkem.io"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Student at De Haagse Hogeschool / The Hague University of Applied Sciences
+bio: Operational communications. 
+
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -32,16 +34,16 @@ social:
 #  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
 #  icon_pack: fab
-#  link: https://twitter.com/GeorgeCushen
+#  link: 
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/stefan-eikelenboom-491723166/
+  link: https://www.linkedin.com/in/myrthe-zondag-610b02b0/
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 #- icon: github
 #  icon_pack: fab
-#  link: 
+#  link: https://github.com/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -55,4 +57,11 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Core Team
+
 ---
+
+
+
+
+
+     
