@@ -16,16 +16,15 @@ design:
 content:
     slides:
         slide1:
-            - media/UWV-logo-long.png
-            - media/vng-logo_283px.png
-            - media/logo-digicampus.svg
-            - media/Ministerie.jpg
+            - media/partners/uwv-long.png
+            - media/partners/vng-logo-283px.png
+            - media/partners/digicampus.svg
+            - media/partners/min-bzk.jpg
 
         slide2:
-            - media/NGI-Essiflab.jpg
-            - media/kvk_logo_cropped.svg    
-            - media/SIDN.svg
-            - media/odyssey_logo.png
+            - media/partners/ngi-essiflab.jpg
+            - media/partners/kvk-cropped.png   
+            - media/partners/sidn.svg
 
 ---
 
