@@ -30,16 +30,19 @@ design:
 
 ### We are proud to partner with and be supported by:
 <br/>
-{{< figure src="logo-digicampus.svg" link="https://digicampus.tech" alt="Digicampus logo" width="65%">}}
+{{< figure src="partners/digicampus.svg" link="https://digicampus.tech" alt="Digicampus" width="65%">}}
 <br/>
-{{< figure src="logo-uwv.png" link="https://uwv.nl" alt="UWV logo" width="30%">}}
+{{< figure src="partners/uwv-long.png" link="https://uwv.nl" alt="UWV" width="30%">}}
 <br/>
-{{< figure src="essif-lab-eu-logos.png" alt="Essif and EU logos" width="50%">}}
+{{< figure src="partners/vng.svg" link="https://vng.nl" alt="VNG" width="20%">}}
 <br/>
-{{< figure src="SIDN.svg" alt="SIDNfonds logo" width="45%">}}
+{{< figure src="partners/essif-lab-eu-logos.png" alt="Essif and EU logos" width="50%">}}
 <br/>
-{{< figure src="KVK_logo_cropped.svg" alt="Kamer van Koophandel logo" width="20%">}}
+{{< figure src="partners/sidn.svg" alt="SIDNfonds logo" width="45%">}}
 <br/>
-{{< figure src="odyssey_logo.png" alt="Odyssey logo" width="35%">}}
+{{< figure src="partners/kvk.svg" link="https://kvk.nl" alt="Kamer van Koophandel logo" width="20%">}}
+<br/>
+{{< figure src="partners/odyssey.png" link="https://odyssey.org" alt="Odyssey" width="30%">}}
+
 
 
