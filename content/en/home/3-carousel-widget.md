@@ -23,7 +23,7 @@ content:
 
         slide2:
             - media/partners/ngi-essiflab.jpg
-            - media/partners/kvk-cropped.png   
+            - media/partners/kvk-small.svg   
             - media/partners/sidn.svg
 
 ---
