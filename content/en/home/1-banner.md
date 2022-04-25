@@ -1,7 +1,7 @@
 ---
 # An instance of the Blank widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: blank
+widget: banner-widget
 
 # This file represents a page section.
 headless: true
@@ -18,16 +18,20 @@ subtitle:
 # Section design
 design:
   columns: '1'
-  background:
-    image: visualization-main-wide-ukraine.png    
-    color: '#068293'
-    image_size: cover
-    image_position: middle
-    image_parallax: false
-    width: 1600
   spacing:
-    # Customize the section spacing. Order is top, right, bottom, left.
-    padding: ["200px", "0px", "0px", "0"]
+    padding: ["0px", "0px","0px","0px"]
+  background:
+    color: '#068293'
+  # background:
+  #   image: alkemio-ukraine-visual-2.png
+  #   color: '#068293'
+  #   image_size: cover
+  #   image_position: center
+  #   image_parallax: false
+  #   width: 1200
+  # spacing: 
+  #   # Customize the section spacing. Order is top, right, bottom, left.
+  #   padding: ["220px", "0px", "0px", "0px"]
   
 ## Not used: <p align="center"><img src="/media/visualization-main-wide.jpg" alt="Alkemio Platform" width="1600" /></p>
 ---
