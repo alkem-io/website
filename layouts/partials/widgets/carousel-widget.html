@@ -1,0 +1,49 @@
+
+{{ $ := .root }}
+{{ $page := .page }}
+{{ $hash_id := .hash_id }}
+
+<div id="carousel" class="carousel slide p-0" data-ride="carousel">
+
+    <!-- Carousel indicator and overlay - Usefull for similiar widget in future. 
+    <ol class="carousel-indicators">
+
+      {{/*  <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+      <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+      <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>  */}}
+       {{ range $index, $slides := $page.Params.content.slides }}
+       {{ $i := eq $index "slide1" }}
+        <li data-target="#carousel" class="{{ if $i }}active{{ end }}" data-slide-to="{{$index}}"></li>
+       {{ end }}
+
+    </ol>
+    -->
+
+    <div class="carousel-inner">
+        {{ range $index, $slides := $page.Params.content.slides }} 
+        {{ $i := eq $index "slide1" }}
+        <div class="carousel-item {{ if $i }} active {{ end }} ">
+            <div class="d-flex justify-content-md-center align-items-center">
+                {{ range $index2, $slide := $slides }}
+                {{$image := resources.Get $slide}}
+                <div class="col-sm text-center">
+                    <img class="d-block mx-auto" style="max-height: 50px;" src="{{$image.Permalink}}" alt="Second slide">
+                </div>
+                {{ end }}
+            </div>
+
+        </div>
+       {{ end }}
+    </div>
+    <!-- Carousel Control's - Usefull for similiar widget in future. 
+    <a class="carousel-control-prev" href="#carousel" role="button" data-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+      </a>
+      <a class="carousel-control-next" href="#carousel" role="button" data-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+      </a>
+    -->
+  </div>
+

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 567 155"
+   width="567"
+   height="155"
+   version="1.1"
+   id="svg446"
+   sodipodi:docname="kvk2.svg"
+   inkscape:version="1.1.2 (08b2f3d93c, 2022-04-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview448"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="2.0696649"
+     inkscape:cx="283.37921"
+     inkscape:cy="77.548786"
+     inkscape:window-width="2560"
+     inkscape:window-height="1308"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg446" />
+  <defs
+     id="defs434">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="cp1">
+      <path
+         d="M0 0L566.7 0L566.7 154.12L0 154.12L0 0Z"
+         id="path425" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="cp2">
+      <path
+         d="M0 0L566.7 0L566.7 154.12L0 154.12L0 0Z"
+         id="path428" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="cp3">
+      <path
+         d="M0 0L566.7 0L566.7 154.12L0 154.12L0 0Z"
+         id="path431" />
+    </clipPath>
+  </defs>
+  <style
+     id="style436">
+		tspan { white-space:pre }
+		.shp0 { fill: #043054 } 
+	</style>
+  <g
+     id="KVK_logo_OP_svg"
+     transform="matrix(0.80662678,0,0,0.67192246,58.474096,25.236018)">
+    <g
+       id="Clip-2" />
+    <g
+       id="Clip-Path: Fill-1"
+       clip-path="url(#cp1)">
+      <path
+         id="Fill-1"
+         fill-rule="evenodd"
+         class="shp0"
+         d="m 496.64,154.17 h 70.28 L 509.4,67.84 562.52,0 H 494.67 L 447.68,65.05 V 0 H 386 v 154.16 l 61.59,0.01 V 99.61 c 0,-1.33 0.01,-5.22 1.01,-6.97 1.56,-2.74 5.15,-3.74 7.74,-2.18 1.14,0.7 2.06,1.88 3.41,4.05 z" />
+    </g>
+    <g
+       id="Clip-Path: Fill-3"
+       clip-path="url(#cp2)">
+      <path
+         id="Fill-3"
+         class="shp0"
+         d="m 186,0.01 h 65.02 l 26.73,85.97 h 0.41 L 305.13,0 h 62.36 L 310.28,154.16 H 240.65 L 186,0.01" />
+    </g>
+    <g
+       id="Clip-Path: Fill-4"
+       clip-path="url(#cp3)">
+      <path
+         id="Fill-4"
+         fill-rule="evenodd"
+         class="shp0"
+         d="m 110.64,154.17 h 70.28 L 123.4,67.84 176.52,0 H 108.67 L 61.68,65.05 V 0 H 0 v 154.16 l 61.59,0.01 V 99.61 c 0,-1.34 0.01,-5.22 1.01,-6.97 1.56,-2.74 5.15,-3.74 7.74,-2.18 1.15,0.7 2.06,1.88 3.41,4.05 z" />
+    </g>
+  </g>
+</svg>
