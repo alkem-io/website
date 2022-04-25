@@ -29,6 +29,8 @@ design:
 Alkemio aims to send an email newsletter to the community once per month, with the latest news and updates about both the platform and the community. 
 
 Previous newsletters:
+<li><a href="http://alkem-25488729.hs-sites-eu1.com/newsletter/2021/july" target="_blank">2021 - July</a> - <i>"Launch of the Alkemio public preview!"</i> </li>
+<li><a href="http://alkem-25488729.hs-sites-eu1.com/newsletter/2021/september" target="_blank">2021 - September</a> - <i>"Solving the challenges facing society is the responsibility of the many, not the privilege of the few"</i> </li>
 <li><a href="http://alkem-25488729.hs-sites-eu1.com/newsletter/2021/november" target="_blank">2021 - November</a> - <i>"Why do we need Alkemio if we already have Teams / Slack / Google Workspace / Whatsapp etc?"</i> </li>
 <li><a href="http://alkem-25488729.hs-sites-eu1.com/newsletter/2021/december" target="_blank">2021 - December</a> - <i>"Why is Alkemio a Foundation?"</i> </li>
 <li><a href="http://alkem-25488729.hs-sites-eu1.com/newsletter/2022/march" target="_blank">2022 - March</a> -     <i>"How can Alkemio help the Ukraine response?"</i> </li>
