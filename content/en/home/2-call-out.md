@@ -29,11 +29,10 @@ design:
 
 ---
 
-<h1 class="mb-0" align="center">A new way of working on Challenges, together</h1>
-</br>
-<p align="center">
+<h2 class="mb-0 " align="center" >A new way of working on Challenges, together</h2>
+<p align="center" class="mt-3 mb-2">
   <a href="https://hub.alkem.io" target="_blank" rel="noopener" class="btn btn-light btn-lg mb-3 mb-md-1"><i class="fas fa-tablet-alt pr-1" aria-hidden="true"></i>See Challenges in action!</a>
 </p>
-<p align="center">
+<p class="mb-2" align="center">
     <i>Impact. Foundation. Open source.</i>
 </p>
