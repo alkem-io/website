@@ -3,12 +3,11 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Alkemio  # Website name
+title: "Alkemio"  # Website name
 baseurl: "/" # Website URL
-copyright: "© {year} Stichting Alkemio" # Footer text, e.g. '© {year} Me'
 
 # option to set relativeURLs (e.g. for IPFS)
-relativeURLS: false
+#elativeURLS: false
 
 # false means that the robots.txt file in /static is used (which is set to disallow everything)
 # by changing this parameter in the build command to true the default template with allow all setting will be used

@@ -41,7 +41,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Stichting Alkemio'
     license:
       enable: false
       allow_derivatives: false
