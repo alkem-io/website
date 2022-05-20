@@ -16,8 +16,10 @@ weight: 20
 #subtitle: 
 
 content:
-  # Page type to display. E.g. project.
-  page_type: home-lr
+  filters:
+    folders:
+      - home-lr
+
 
 # Section design
 design:
@@ -25,6 +27,6 @@ design:
   #spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
   padding: ["0px", "0", "0px", "0"]
-  view: 50
+  view: showcase
   flip_alt_rows: true
 ---
