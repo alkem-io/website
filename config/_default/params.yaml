@@ -5,10 +5,10 @@
 
 # Appearance
 
-theme: alkemio
-day_night: false
-font: alkemio
-font_size: L
+appearance:
+  theme_day: alkemio
+  font: alkemio
+  font_size: L
 
 # SEO
 
