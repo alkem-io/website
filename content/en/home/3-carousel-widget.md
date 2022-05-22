@@ -19,7 +19,7 @@ content:
             - media/partners/uwv-long.png
             - media/partners/vng-logo-283px.png
             - media/partners/digicampus.svg
-            - media/partners/min-bzk.jpg
+            - media/partners/min-bzk-slim.svg
 
         slide2:
             - media/partners/ngi-essiflab.jpg
