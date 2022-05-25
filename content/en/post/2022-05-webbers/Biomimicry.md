@@ -29,11 +29,7 @@ image:
 
 Alkemio joined a ‘Webber’ design session in Utrecht. My takeaway from participating in the Webbers event: **the need for Alkemio is clear!** 
 
-
-::: info
-**Webbers** are professionals from the public sector, universities and the private sector that want to reorganize the energy transition. They want to achieve this by collaborating, learning and innovating. These Webbers have a strong tendency to connect with others (hence the name, referring to the network of a spider web :spider_web:). The Webbers lead multi-disciplinary collaborations, bringing together education, the public sector and the private sector. 
-
-:::
+**Webbers** are professionals from the public sector, universities and the private sector that want to reorganize the energy transition. They want to achieve this by collaborating, learning and innovating. These Webbers have a strong tendency to connect with others (hence the name, referring to the network of a spider web). The Webbers lead multi-disciplinary collaborations, bringing together education, the public sector and the private sector.
 
 Some of the key questions that arose during the session:
 
@@ -48,17 +44,14 @@ The main goal of the session: developing a tool that allows the Webbers to **col
 
 
 ---
-::: info 
+
 **Biomimicry**
 
 Biomimicry (literally: imitation of the living) aims to take inspiration from natural solutions and translate these principles to human engineering. The approach aims to favour choices that are already tested by nature, where these natural solutions have had millions of years to prove themselves. 
 
 ![](https://i.imgur.com/3vwkJby.jpg)
-
-              			
+ 			
 Example: In 1941, Swiss engineer George de Mestral was removing burrs from his dog and decided to take a closer look at how they worked. The small hooks that he found inspired him to create Velcro. Another example is the aerodynamic shape of the bullet train, based on the a kingfisher's beak.
-
-::: 
 
 --- 
 
