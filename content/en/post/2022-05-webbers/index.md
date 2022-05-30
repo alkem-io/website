@@ -28,7 +28,7 @@ image:
 
 # **Innovating using nature’s principles: Biomimicry**
 
-Alkemio joined a ‘Webber’ design session in Utrecht. My takeaway from participating in the Webbers event: **the need for Alkemio is clear!** 
+Alkemio recently joined a ‘Webber’ design session in Utrecht. My takeaway from participating in the Webbers event: **the need for Alkemio is clear!** 
 
 **Webbers** are professionals from the public sector, universities and the private sector that want to reorganize the energy transition. They want to achieve this by collaborating, learning and innovating. These Webbers have a strong tendency to connect with others (hence the name, referring to the network of a spider web). The Webbers lead multi-disciplinary collaborations, bringing together education, the public sector and the private sector.
 
@@ -39,9 +39,7 @@ Some of the key questions that arose during the session:
 - How can you use **AI to connect people**?
 - If you have worked out a solution (e.g. on circularity) in 10 suburbs, how can you make it into a **guideline** such that all other suburbs can easily adopt?
 
-The main goal of the session: developing a tool that allows the Webbers to **collaborate effectively on transition-related challenges**, as they already identified the need for such a platform. The audience was split in groups, where each group would go through several rounds to brainstorm about their pain points in collaborative projects and to identify solutions to these pain points. One central theme: Biomimicry.
-
-
+The main goal of this Webber's session? Developing a tool that allows the Webbers to **collaborate effectively on transition-related challenges**. Clearly for Alkemio great to see that they already identified the need for such a platform! The audience was split in groups, where each group would go through several rounds to brainstorm about their pain points in collaborative projects and to identify solutions to these pain points. One central theme: Biomimicry.
 
 
 ---

@@ -30,7 +30,7 @@ image:
 
 _How to enable everyone to share their insights? Gather input from a diverse set of perspectives?_
 
-There is often a largely untapped set of knowledge, insights and connections in any community. Any user has interests, knowledge and network from their private or professional life that go far beyond their formal role. 
+In any community there is a wealth of knowledge, insights and connections available - and too often this richness is not fully surfaced. Any user has interests, knowledge and network from their private or professional life that go far beyond their formal role. 
 
 For example, you may have helped gather information about initiatives to help *Ukranian refugees*? Or you are concerned about the *climate crisis* and have read a lot about this in your free time? Or you are passionate about *social initiatives* in your local community and are deeply connected there? 
 
@@ -54,9 +54,11 @@ After raising an Aspect, the Community can see who *created* it, *respond* to it
 
 ### What are the various examples of Aspects? 
 
-You can think of many different examples of knowledge to be shared. Alkemio currently enables the categories *Knowledge*, *Stakeholder Persona*, *Related Initiative* and *Idea*. 
+You can think of many different examples of knowledge to be shared. Alkemio currently provides the following default Aspect types: *Knowledge*, *Stakeholder Persona*, *Related Initiative* and *Idea*. 
 
 ![](https://i.imgur.com/Ylkuwgp.png)
+
+However Hub Admins are also able to customise the set of Aspect Types that are used. 
 
 ### How can you gather the wisdom of your Community?
 
