@@ -47,8 +47,6 @@ The main goal of this Webber's session? Developing a tool that allows the Webber
 **Biomimicry**
 
 Biomimicry (literally: imitation of the living) aims to take inspiration from natural solutions and translate these principles to human engineering. The approach aims to favour choices that are already tested by nature, where these natural solutions have had millions of years to prove themselves. 
-
-![](https://i.imgur.com/3vwkJby.jpg)
  			
 Example: In 1941, Swiss engineer George de Mestral was removing burrs from his dog and decided to take a closer look at how they worked. The small hooks that he found inspired him to create Velcro. Another example is the aerodynamic shape of the bullet train, based on the a kingfisher's beak.
 
@@ -75,7 +73,7 @@ Lastly, Alkemio will keep all information hosted on the platform **openly access
 
 Insects, such as ants, have societies with millions of members. These 'social' insects are quite simple individually, but collectively they are brilliant, having complex functional systems within their environment (such as routing traffic and allocating labour or resources). I'm not saying Alkemio's individual users are simple (not at all!), but I want to underline that we can reach much more **collectively**.
 
-![](https://i.imgur.com/TaPSsJE.jpg)
+![](./nemo.jpeg)
 
 
 Next to this intra-specie collaboration, inter-specie collaboration is also often seen in nature. This is also called '**mutualism**'. One example of mutualism is the collaboration between the clownfish (or Nemo for the Disney lovers) and anemones. The anemones provide habitats for the clownfish, and the clownfish fight off predators from the anemones. Such multi-disciplinary collaborations is what Alkemio facilitates. 
