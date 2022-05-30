@@ -2,11 +2,11 @@
 #widget: pages
 #headless: true
 title: Biomimicry
-date: "2022-05-25"
-lastmod: "2022-05-25"
+date: "2022-05-30"
+lastmod: "2022-5-30"
 math: false
 diagram: false
-summary: 'Innovating using nature's principles'
+summary: "Innovating using nature's principles"
 authors:
 - rutteman-hoyte
 tags:
@@ -23,6 +23,7 @@ draft: false
 image:
   placement: 1
   
+
 ---
 
 # **Innovating using nature’s principles: Biomimicry**
