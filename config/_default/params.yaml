@@ -37,16 +37,21 @@ header:
     show_search: false
     highlight_active_link: true
 
-# Site footer
+# Site footer - Turn enable to true to turn on again - See partials for current footer.
 
 footer:
   copyright:
-    notice: '© {year} Stichting Alkemio'
+    notice: '© {year} Stichting Alkemio &nbsp;&nbsp;&nbsp;&nbsp; 
+      <a href="https://www.alkem.io/privacy/" target="_blank">Privacy &nbsp;&nbsp;&nbsp;&nbsp;</a> 
+      <a href="https://www.alkem.io/security/" target="_blank">Security &nbsp;&nbsp;&nbsp;&nbsp;</a>'
     license:
       enable: false
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
+  design: 
+    spacing:
+      padding: ["200px"]
 
 # Localization
 
