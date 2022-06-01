@@ -6,7 +6,7 @@ date: "2022-06-01"
 lastmod: "2022-06-01"
 math: false
 diagram: false
-summary: 'One of our key messages'
+summary: 'Everyone can contribute!'
 authors:
 - smyth-neil
 tags:
