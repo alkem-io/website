@@ -30,7 +30,7 @@ image:
 
 _How to enable everyone to share their insights? Gather input from a diverse set of perspectives?_
 
-There is often a largely untapped set of knowledge, insights and connections in any community. Any user has interests, knowledge and network from their private or professional life that go far beyond their formal role. 
+In any community there is a wealth of knowledge, insights and connections available - and too often this richness is not fully surfaced. Any user has interests, knowledge and network from their private or professional life that go far beyond their formal role. 
 
 For example, you may have helped gather information about initiatives to help *Ukranian refugees*? Or you are concerned about the *climate crisis* and have read a lot about this in your free time? Or you are passionate about *social initiatives* in your local community and are deeply connected there? 
 
@@ -46,17 +46,19 @@ Sharing your insights is easy! As a Member of a Community you can contribute to 
 
 You can choose a type, title and give a brief description to explain why your Aspect is relevant. You can add *tags* to improve the search ability based on for example location, topic, or industry. Lastly, you can refine the Aspect with *references* and *visuals*. 
 
-![](https://i.imgur.com/UStKovV.png)
+![](./aspect-create.png)
 
 After raising an Aspect, the Community can see who *created* it, *respond* to it and in that way start a *discussion* around it. For example, you can find others with knowledge and resources related to your idea and start an Opportunity:
 
-![](https://i.imgur.com/Jb7Zp77.png)
+![](./aspect-example.png)
 
 ### What are the various examples of Aspects? 
 
-You can think of many different examples of knowledge to be shared. Alkemio currently enables the categories *Knowledge*, *Stakeholder Persona*, *Related Initiative* and *Idea*. 
+You can think of many different examples of knowledge to be shared. Alkemio currently provides the following default Aspect types: *Knowledge*, *Stakeholder Persona*, *Related Initiative* and *Idea*. 
 
-![](https://i.imgur.com/Ylkuwgp.png)
+![](./aspect-defaults.png)
+
+However Hub Admins are also able to customise the set of Aspect Types that are used. 
 
 ### How can you gather the wisdom of your Community?
 
@@ -64,7 +66,7 @@ It is also possible that you as a Community Admin want to **personalize** your s
 
 For example, Stop The Traffik using Alkemio to build a Hub around the Ukranian Refugee crisis. They are looking for the Community to share related *risks*, specific *tools*, *demographics*, or the *countries and cities to watch*.
 
-![](https://i.imgur.com/9woMZP3.png)
+![](./aspects-stt.png)
 
 In this way, Challenge leads can make progress on their Challenge based on Community input. And Users can share their valuable insights. 
 
