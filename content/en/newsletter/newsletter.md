@@ -31,6 +31,7 @@ Alkemio sends out newsletters by email with the latest news and updates about bo
 If you have any topics you’d like us to cover in future newsletters please let us know!
 <p></p>
 Previous newsletters:
+<li><a href="http://alkem-25488729.hs-sites-eu1.com/alkemio-may-newsletter" target="_blank">2022 - May</a> -     <i>"How to work Challenge Centric"</i> </li>
 <li><a href="http://alkem-25488729.hs-sites-eu1.com/newsletter/2022/april" target="_blank">2022 - April</a> -     <i>"Building Alkemio together"</i> </li>
 <li><a href="http://alkem-25488729.hs-sites-eu1.com/newsletter/2022/march" target="_blank">2022 - March</a> -     <i>"How can Alkemio help the Ukraine response?"</i> </li>
 <li><a href="http://alkem-25488729.hs-sites-eu1.com/newsletter/2021/december" target="_blank">2021 - December</a> - <i>"Why is Alkemio a Foundation?"</i> </li>
