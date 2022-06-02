@@ -7,7 +7,7 @@ widget: hero
 headless: true
 
 # Order that this section appears on the page.
-weight: 80
+weight: 30
 
 # Section title
 title:
@@ -20,7 +20,7 @@ design:
   columns: "2"
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
-    padding: ["40px", "0", "0px", "0"]
+    padding: ["40px", "0", "30px", "0"]
 
 # Hero image (optional). Enter filename of an image in the page folder.
 hero_media: ""
@@ -40,4 +40,6 @@ cta_alt:
 # Note. An optional note to show underneath the links.
 cta_note:
   label: ""
+
+
 ---
