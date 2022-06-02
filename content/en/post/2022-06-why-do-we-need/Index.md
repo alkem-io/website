@@ -27,7 +27,11 @@ _Why do we need Alkemio if we already have Teams / Slack / Google Workspace / Wh
 
 This is one of the key questions we get when introducing Alkemio. And it is natural as productivity / communication tools dominate our current digital environments and lives.
  
-So why Alkemio? For me a key aspect is **alignment**: “where” do we want to go. Alignment is critical for collaboration of any sort. Especially as collaboration crosses organizational boundaries. And the issues facing our society, large and small, cannot be solved by people or organizations working alone.
+So why Alkemio? The key is **alignment**: _“where” do we want to go_?. 
+
+![](./alignment.jpg)
+
+Alignment is critical for collaboration of any sort. Especially as collaboration crosses organizational boundaries. _And the issues facing our society, large and small, cannot be solved by people or organizations working alone_.
 
 The above tools are all great for interacting and producing - but they do not put the change central. And having a clear shared understanding of the change is critical. To use a quote from the [podcast](https://www.humanetech.com/podcast/a-problem-well-stated-is-half-solved?utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_c9Hd7OQ5drXkKTEoKVrPK7TykDk3vZfe4DCg-bnYFF46UQzIjnZwhXDKovMMebjTC2ogn) we recommended a while back:
 
