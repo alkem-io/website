@@ -25,11 +25,19 @@ design:
     css_style: "text-align: center;" ## todo: align the markdown below centrally
 ---
 
-## **Why Alkemio**
-Many Challenges in society and organizations are hard to solve. From refugee crises to climate change to a digitalizing society to community initiatives. People want to engage in effective and meaningful ways - but how?
+<div style="display:flex">
+  <div style="width:50%">
 
-**Alkemio** makes it easy to manage Challenges and have contributors, from anywhere, working together on solutions. Challenges take center-stage. Focus is on the destination.
+  <h2 class="font-weight-bold">Why Alkemio </h2>
+  Many Challenges in society and organizations are hard to solve. From refugee crises to climate change to a digitalizing society to community initiatives. People want to engage in effective and meaningful ways - but how? <br> <br>
 
-Backed by a foundation to develop the Alkemio platform and community of people, companies, NGOs and public bodies. Purpose driven, with a hugely ambitious agenda. 
+  **Alkemio** makes it easy to manage Challenges and have contributors, from anywhere, working together on solutions. Challenges take center-stage. Focus is on the destination.
 
-Connect, collaborate and contribute!
+  Backed by a foundation to develop the Alkemio platform and community of people, companies, NGOs and public bodies. Purpose driven, with a hugely ambitious agenda. 
+
+  Connect, collaborate and contribute!
+  </div>
+  <div style="width:50%; margin:auto;">
+<iframe src="https://player.vimeo.com/video/708619604?h=35e2fbb603&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+  </div>
+</div>
