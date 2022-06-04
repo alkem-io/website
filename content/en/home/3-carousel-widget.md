@@ -16,8 +16,8 @@ design:
 content:
     slides:
         slide1:
-            - media/partners/uwv-long.png
-            - media/partners/vng-logo-283px.png
+            - media/partners/uwv.svg
+            - media/partners/vng.svg
             - media/partners/digicampus.svg
             - media/partners/min-bzk-slim.svg
 
