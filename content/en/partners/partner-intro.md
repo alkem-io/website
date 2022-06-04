@@ -38,7 +38,7 @@ design:
     </div>
     <div class="col text-center" > 
          <a href="https://www.uwv.nl/particulieren/index.aspx" target="_blank"> 
-      <img src="./logos/uwv without padding.svg" alt="UWV logo" style="max-width:80%; margin:auto; max-height:150px;">
+      <img src="./logos/uwv.svg" alt="UWV logo" style="max-width:80%; margin:auto; max-height:150px;">
       </a>
       <p class="pt-2" style="font-size:smaller"> Authority for employment services and provision of labour market and data services in the Netherlands <br>
        Strategic Partner</p>

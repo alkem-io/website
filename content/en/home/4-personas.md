@@ -24,9 +24,9 @@ content:
 # Section design
 design:
   columns: '1'
-  #spacing:
+  spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
-  padding: ["0px", "0", "0px", "0"]
+    padding: ["40px", "0px","10px","0px"]
   view: showcase
   flip_alt_rows: true
 ---

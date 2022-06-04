@@ -11,13 +11,13 @@ weight: 3
 
 design:
     spacing:
-        padding: ["20px", "0", "20px", "0"]
+        padding: ["20px", "0", "30px", "0"]
 
 content:
     slides:
         slide1:
-            - media/partners/uwv-long.png
-            - media/partners/vng-logo-283px.png
+            - media/partners/uwv.svg
+            - media/partners/vng.svg
             - media/partners/digicampus.svg
             - media/partners/min-bzk-slim.svg
 

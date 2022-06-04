@@ -7,20 +7,23 @@ widget: hero
 headless: true
 
 # Order that this section appears on the page.
-weight: 80
+weight: 25
 
 # Section title
-title:
+#title: 
 
 # Section subtitle
-subtitle:
+##subtitle: 
 
 # Section design
 design:
-  columns: "2"
+  columns: 1
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
-    padding: ["40px", "0", "0px", "0"]
+    padding: ["0px", "0px", "20px", "0px"]
+
+advanced:
+  css_style: "text-align: center;"
 
 # Hero image (optional). Enter filename of an image in the page folder.
 hero_media: ""
@@ -29,13 +32,8 @@ hero_media: ""
 #   Display link(s) by specifying a URL and label below. Icon is optional for `cta`.
 #   Remove a link/note by deleting a cta/note block.
 cta:
-  url: "https://www.linkedin.com/company/alkemio-foundation/"
-  label: Follow us on LinkedIn
-cta_alt:
-  url: "https://github.com/alkem-io"
-  label: Want to contribute?
-  icon_pack: fab
-  icon: github
+  url: "https://hub.alkem.io/identity/registration"
+  label: Want to get started?
 
 # Note. An optional note to show underneath the links.
 cta_note:
