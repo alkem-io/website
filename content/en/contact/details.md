@@ -8,17 +8,17 @@ headless: true
 weight: 80
 
 # Section title
-title: Contact details
+title:  Contact
 
 # Section subtitle
-subtitle: 
+subtitle: Visit us on other platforms!
 
 # Section design
 design:
   columns: '2'
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
-    padding: ["20px", "0", "0px", "0"]
+    padding: ["20px", "0", "20px", "0"]
 
 # ... Put Your Section Options Here (title etc.) ...
 
