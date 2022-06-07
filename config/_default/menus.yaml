@@ -19,9 +19,6 @@ main:
   - name: Platform
     url: 'https://hub.alkem.io'
     weight: 40
-  - name: Contact
-    url: 'feedback'
-    weight: 50
   - name: About
     identifier: about-main
     url: 'about'
@@ -33,8 +30,8 @@ main:
     weight: 1
   - parent: about-main
     indentifier: about-foundation
-    name: Contact details
-    url: 'about#details'
+    name: Contact
+    url: 'feedback'
     weight: 2
  # - parent: about-main
  #   indentifier: about-privacy
