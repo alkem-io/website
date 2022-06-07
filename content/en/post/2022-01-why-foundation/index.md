@@ -2,8 +2,8 @@
 #widget: pages
 #headless: true
 title: Why is Alkemio a foundation?
-date: "2022-06-01"
-lastmod: "2022-06-01"
+date: "2022-01-10"
+lastmod: "2022-01-10"
 math: false
 diagram: false
 summary: 'A fundamental choice'
@@ -18,7 +18,7 @@ tags:
 
 
 featured: false
-draft: true
+draft: false
 image:
   placement: 1
   
