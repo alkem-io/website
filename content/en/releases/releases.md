@@ -25,13 +25,12 @@ design:
   #  color: 'navy'
   #  text_color_light: true
 ---
-
-Alkemio sends out Release notifications once every two weeks. In these releases you will find the latest features and improvements of the platform. 
-
-We would be glad to hear your feedback on these updates. 
+Alkemio makes updates to the production platform approximately every two weeks. 
+<p></p>
+For each such release a summary of the visible changes is shared via email.
 <p></p>
 
-To receive the Release notifications please fill out the form below!
+To receive the Release notifications email please fill out the form below!
 <p></p>
 <script charset="utf-8" type="text/javascript" src="//js-eu1.hsforms.net/forms/v2.js"></script>
 <script>
