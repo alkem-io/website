@@ -19,9 +19,6 @@ main:
   - name: Platform
     url: 'https://hub.alkem.io'
     weight: 40
-  - name: Contact
-    url: 'feedback'
-    weight: 50
   - name: About
     identifier: about-main
     url: 'about'
@@ -33,34 +30,15 @@ main:
     weight: 1
   - parent: about-main
     indentifier: about-foundation
-    name: Contact details
-    url: 'about#details'
+    name: Contact
+    url: 'feedback'
     weight: 2
- # - parent: about-main
- #   indentifier: about-privacy
- #   name: Privacy
- #   url: 'privacy'
- #   weight: 3
- # - parent: about-main
- #   indentifier: about-security
- #   name: Security
- #   url: 'security'
- #   weight: 4
   - parent: about-main
     indentifier: about-support
     name: Support
     url: 'support'
     weight: 5
-  #- parent: about-main
-  ##  indentifier: about-newsletter
-  #  name: Newsletter
-  #  url: 'newsletter'
-  #  weight: 6
-  #- name: 
-  #  pre: <i class="fab fa-github"></i>
- #   post: 
-  #  url: 'https://github.com/alkem-io'
-  #  weight: 70
+
 
 
 # Link to a PDF of your resume/CV from the menu.
