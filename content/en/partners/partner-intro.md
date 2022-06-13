@@ -94,12 +94,12 @@ design:
     <div class="col text-center" > 
         <a href="https://odyssey.org/" target="_blank">
        <img src="./logos/odyssey.png" alt="Odyssey logo" style="max-width:90%; margin:auto; height:100px;"> </a>
-        <p class="pt-2" style="font-size:smaller"> We're building the social network metaverse stack for Web3 Communities. Founding Partner.</p>
+        <p class="pt-2" style="font-size:smaller"> Building the social network metaverse stack for Web3 Communities. Founding Partner.</p>
     </div>
     <div class="col text-center" > 
             <a href="https://www.sidnfonds.nl/" target="_blank">
       <img src="./logos/sidn.svg" alt="SIDN Fonds logo" style="max-width:90%; margin:auto; height:100px;"> </a>
-      <p class="pt-2" style="font-size:smaller"> A foundation, taking internet projects and ideas to the next level, to help increase the social impact of the internet in the Netherlands</p>
+      <p class="pt-2" style="font-size:smaller"> A foundation, taking internet projects and ideas to the next level, to help increase the social impact of the internet in the Netherlands. </p>
     </div>
   </div>
 </div>
