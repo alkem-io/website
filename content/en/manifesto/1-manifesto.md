@@ -119,5 +119,3 @@ Alkemio is the platform founded and operated by our purpose-driven team of profe
 <p align="center">
 We are open, give you our beliefs and successes, and invite all who support the principles of this manifesto <i>to join the community</i>. 
 </p>
-<br/>
-<br/>
