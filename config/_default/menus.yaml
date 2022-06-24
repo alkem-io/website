@@ -7,8 +7,8 @@ main:
   - name: Home
     url: '#home'
     weight: 10
-  - name: Manifesto
-    url: 'manifesto'
+  - name: Vision
+    url: 'vision'
     weight: 15
   - name: Partners
     url: 'partners'
@@ -35,11 +35,11 @@ main:
     name: Support
     url: 'support'
     weight: 5
-  - parent: about-main
-    indentifier: about-vision
-    name: Vision
-    url: 'vision'
-    weight: 8
+  # - parent: about-main
+  #   indentifier: about-vision
+  #   name: Vision
+  #   url: 'vision'
+  #   weight: 8
 
 
 
