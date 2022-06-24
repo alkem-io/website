@@ -13,9 +13,6 @@ main:
   - name: Partners
     url: 'partners'
     weight: 20
-  #- name: Blog
-  #  url: 'post'
-  #  weight: 30
   - name: Platform
     url: 'https://hub.alkem.io'
     weight: 40
@@ -38,6 +35,11 @@ main:
     name: Support
     url: 'support'
     weight: 5
+  # - parent: about-main
+  #   indentifier: about-vision
+  #   name: Vision
+  #   url: 'vision'
+  #   weight: 8
 
 
 

@@ -22,6 +22,7 @@ featured: false
 draft: false
 image:
   placement: 1
+  caption: "[https://unsplash.com/photos/33hWhs61l0o](https://unsplash.com/photos/33hWhs61l0o)"
   
 
 ---
@@ -40,7 +41,6 @@ Some of the key questions that arose during the session:
 - If you have worked out a solution (e.g. on circularity) in 10 suburbs, how can you make it into a **guideline** such that all other suburbs can easily adopt?
 
 The main goal of this Webber's session? Developing a tool that allows the Webbers to **collaborate effectively on transition-related challenges**. Clearly for Alkemio great to see that they already identified the need for such a platform! The audience was split in groups, where each group would go through several rounds to brainstorm about their pain points in collaborative projects and to identify solutions to these pain points. One central theme: Biomimicry.
-
 
 ---
 
@@ -73,7 +73,7 @@ Lastly, Alkemio will keep all information hosted on the platform **openly access
 
 Insects, such as ants, have societies with millions of members. These 'social' insects are quite simple individually, but collectively they are brilliant, having complex functional systems within their environment (such as routing traffic and allocating labour or resources). I'm not saying Alkemio's individual users are simple (not at all!), but I want to underline that we can reach much more **collectively**.
 
-![](./nemo.jpeg)
+![https://unsplash.com/photos/poly_hmhwJs](./nature.jpg)
 
 
 Next to this intra-specie collaboration, inter-specie collaboration is also often seen in nature. This is also called '**mutualism**'. One example of mutualism is the collaboration between the clownfish (or Nemo for the Disney lovers) and anemones. The anemones provide habitats for the clownfish, and the clownfish fight off predators from the anemones. Such multi-disciplinary collaborations is what Alkemio facilitates. 

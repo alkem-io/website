@@ -29,7 +29,7 @@ image:
 
 # Building collaborative platforms: RIConline and Alkemio
 
-[Alkemio](https://alkem.io) is the platform that enables society to work together effectively challenges. We believe in open collaboration and inclusiveness, so working together with other initiatives is something Alkemio is keen on - continuously **learn from and work with the community**. 
+[Alkemio](https://alkem.io) is the platform that enables society to work together more effectively on challenges. We believe in open collaboration and inclusiveness, so working together with other initiatives is something Alkemio is keen on - continuously **learn from and work with the community**. 
 
 In that context Alkemio has had the chance to collaborate with [RIConline](https://online.rijksinnovatiecommunity.nl/users/signup/new), a recently launched **community platform around innovation for the Netherlands government/public sector**. Jointly, we published a short overview to help the wider community understand how the two platforms relate to each other. You can find the item (in Dutch) below.
 
