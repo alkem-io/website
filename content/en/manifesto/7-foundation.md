@@ -45,7 +45,7 @@ By <b>working together</b> with our users, partners, businesses, researchers, an
 <p align="center">
 </p>
 <p align="center">
-Alkemio is empowering society to succeed in working on challenges, together. </p>
+<i>Alkemio is empowering society to succeed in working on challenges, together.</i> </p>
 <p align="center">We invite all who support this mission to join the Alkemio community.
 </p>
 <br/>
