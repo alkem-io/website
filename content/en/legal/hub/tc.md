@@ -6,7 +6,7 @@
 
  
 
-**Please read these Terms and Conditions carefully and ensure that you understand them before using Our Site**. These Terms and Conditions, together with any other documents referred to herein (unless otherwise stated), set out the terms of use governing your use of this website, https://hub.alkem.io (“Our Site”). It is recommended that you print a copy of these Terms and Conditions for your future reference.
+**Please read these Terms and Conditions carefully and ensure that you understand them before using Our Site**. These Terms and Conditions, together with any other documents referred to herein (unless otherwise stated), set out the terms of use governing your use of this website, https://alkem.io (“Our Site”). It is recommended that you print a copy of these Terms and Conditions for your future reference.
 
 These Terms and Conditions were last updated on 30 September 2021. 
 
@@ -14,11 +14,11 @@ Your agreement to comply with these Terms and Conditions is indicated by your us
 
 The following documents also apply to your use of Our Site:
 
-· Our Privacy Policy, available at https://alkem.io/privacy. This is also referred to below in Parts 3, 7 and 17.
+· Our Privacy Policy, available at https://alkemio.foundation/privacy. This is also referred to below in Parts 3, 7 and 17.
 
-· Our Cookie Policy, available at https://alkem.io/legal/hub. This is also referred to below in Part 17.
+· Our Cookie Policy, available at https://alkemio.foundation/legal/hub. This is also referred to below in Part 17.
 
-· Our Acceptable Usage Policy, available at https://alkem.io/legal/hub. This is also referred to below in Parts 3, 7, 10, 12, and 16.
+· Our Acceptable Usage Policy, available at https://alkemio.foundation/legal/hub. This is also referred to below in Parts 3, 7, 10, 12, and 16.
 
  
 
@@ -32,7 +32,7 @@ The following documents also apply to your use of Our Site:
 | ------------------- | ------------------------------------------------------------ |
 | **“Contact Tools”** | means any online communications facility that We make available on Our Site enabling you to contact Us including, but not limited to, contact forms and live chat; |
 | **“Content”** | means any and all text, images, audio, video, scripts, code, software, databases, and any other form of information capable of being stored on a computer that appears on, or forms part of, Our Site; |
-| **“Our Site”** | means this website, https://hub.alkem.io, and any reference to Our Site also refers to all Content on it, including User Content, unless expressly stated otherwise; |
+| **“Our Site”** | means this website, https://alkem.io, and any reference to Our Site also refers to all Content on it, including User Content, unless expressly stated otherwise; |
 | **“User”** | means a user of Our Site; |
 | **“User Content”** | means any information related to ecoverses, challenges and other innovation related content, shared by Users on Our Site; and |
 | **“We/Us/Our”** | means Stichting Alkemio. |
@@ -51,13 +51,13 @@ The following documents also apply to your use of Our Site:
 
 3.2 We provide the following Contact Tools for you to contact Us:
 
-* [Support page](http://alkem.io/support/) from  Our website
+* [Support page](http://alkemio.foundation/support/) from  Our website
 
-3.3 When using Our Contact Tools or contacting Us by any other means, our Acceptable Usage Policy, available at https://alkem.io/legal/hub, applies.
+3.3 When using Our Contact Tools or contacting Us by any other means, our Acceptable Usage Policy, available at https://alkemio.foundation/legal/hub, applies.
 
 3.4 We may monitor any and all communications made using Our Contact Tools.
 
-3.5 Any personal information sent to Us, whether via Our Contact Tools or otherwise (including, but not limited to, your name and contact details) will be collected, used, and held in accordance with your rights and Our obligations under data protection law, as set out in Our Privacy Policy, available from https://alkem.io/privacy.
+3.5 Any personal information sent to Us, whether via Our Contact Tools or otherwise (including, but not limited to, your name and contact details) will be collected, used, and held in accordance with your rights and Our obligations under data protection law, as set out in Our Privacy Policy, available from https://alkemio.foundation/privacy.
 
  
 
@@ -99,9 +99,9 @@ We may alter and update Our Site (or any part of it) at any time.
 
 7.6 You must not use another person’s Account.
 
-7.7 All personal information provided by you in your Account will be collected, used, and held in accordance with your rights and Our obligations under data protection law, as set out in Our Privacy Policy, available from https://alkem.io/privacy.
+7.7 All personal information provided by you in your Account will be collected, used, and held in accordance with your rights and Our obligations under data protection law, as set out in Our Privacy Policy, available from https://alkemio.foundation/privacy.
 
-7.8 If you wish to delete your Account, you may do so at any time. If you delete your Account, you will no longer have access to the features on Our Site requiring an Account. Deleting your Account will result in the removal of your information from Our Site. For further details about the retention and deletion of personal data, please refer to Our Privacy Policy, available from https://alkem.io/privacy.
+7.8 If you wish to delete your Account, you may do so at any time. If you delete your Account, you will no longer have access to the features on Our Site requiring an Account. Deleting your Account will result in the removal of your information from Our Site. For further details about the retention and deletion of personal data, please refer to Our Privacy Policy, available from https://alkemio.foundation/privacy.
 
 7.9 If you delete your Account, any User Content that you have shared on Our Site may be deleted.
 
@@ -141,7 +141,7 @@ We may alter and update Our Site (or any part of it) at any time.
 
 9.2 An Account is required for the submission of User Content to Our Site.
 
-9.3 All User Content and communications with other Users on Our Site must comply with the content standards set out in Our Acceptable Usage Policy, available at https://alkem.io/legal/hub.
+9.3 All User Content and communications with other Users on Our Site must comply with the content standards set out in Our Acceptable Usage Policy, available at https://alkemio.foundation/legal/hub.
 
 9.4 You warrant that you will comply with Part 9.3 and the content standards referred to. You will be liable to Us and will, to the fullest extent permissible by law, indemnify Us for any breach of your warranty. You will be responsible for any loss or damage suffered by Us as a result of such a breach.
 
@@ -233,7 +233,7 @@ We may alter and update Our Site (or any part of it) at any time.
 
 **16. Acceptable Usage of Our Site**
 
-16.1 In addition to these Terms and Conditions, Our Acceptable Usage Policy, available at https://alkem.io/legal/hub, applies to your use of Our Site.
+16.1 In addition to these Terms and Conditions, Our Acceptable Usage Policy, available at https://alkemio.foundation/legal/hub, applies to your use of Our Site.
 
 16.2 You may only use Our Site in a lawful manner:
 
@@ -263,7 +263,7 @@ f) Any other actions which We deem reasonably appropriate (and lawful).
 
 **17. How We Use Your Personal Information**
 
-We will only use your personal information as set out in Our Privacy Policy, available from https://alkem.io/legal/hub and Our Cookie Policy, available from https://alkem.io/legal/hub.
+We will only use your personal information as set out in Our Privacy Policy, available from https://alkemio.foundation/legal/hub and Our Cookie Policy, available from https://alkemio.foundation/legal/hub.
 
  
 

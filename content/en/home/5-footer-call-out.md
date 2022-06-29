@@ -32,7 +32,7 @@ hero_media: ""
 #   Display link(s) by specifying a URL and label below. Icon is optional for `cta`.
 #   Remove a link/note by deleting a cta/note block.
 cta:
-  url: "https://hub.alkem.io/identity/registration"
+  url: "https://alkem.io/identity/registration"
   label: Want to get started?
 
 # Note. An optional note to show underneath the links.

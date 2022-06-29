@@ -48,9 +48,9 @@ Note that we did choose to keep our **key terminology** in English, such as *Cha
 
 Many thanks to UWV for their on-going contributions and feedback!
 
-Interested in this translation (or the Bulgarian or Ukranian)? Please visit our [Hub](https://hub.alkem.io/)!
+Interested in this translation (or the Bulgarian or Ukranian)? Please visit our [Hub](https://alkem.io/)!
 
-Any thoughts on this? Please [contact us](https://alkem.io/feedback/)! 
+Any thoughts on this? Please [contact us](https://alkemio.foundation/feedback/)! 
 
 
 
