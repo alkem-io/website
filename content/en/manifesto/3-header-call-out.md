@@ -7,7 +7,7 @@ widget: hero
 headless: true
 
 # Order that this section appears on the page.
-weight: 25
+weight: 3
 
 # Section title
 #title: 
@@ -33,7 +33,7 @@ hero_media: ""
 #   Remove a link/note by deleting a cta/note block.
 cta:
   url: "https://alkemio.foundation/contact"
-  label: Are you ready to participate?
+  label: Join the community!
 
 # Note. An optional note to show underneath the links.
 cta_note:
