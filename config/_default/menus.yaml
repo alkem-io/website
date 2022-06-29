@@ -7,14 +7,14 @@ main:
   - name: Home
     url: '#home'
     weight: 10
-  - name: Manifesto
-    url: 'manifesto'
+  - name: Vision
+    url: 'vision'
     weight: 15
   - name: Partners
     url: 'partners'
     weight: 20
   - name: Platform
-    url: 'https://hub.alkem.io'
+    url: 'https://alkem.io'
     weight: 40
   - name: About
     identifier: about-main

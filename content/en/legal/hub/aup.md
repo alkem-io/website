@@ -8,7 +8,7 @@
 
 **Please read this Acceptable Usage Policy carefully and ensure that you understand it before using Our Site**. 
 
-Our Acceptable Usage Policy sets out standards which apply to your use of this website, https://hub.alkem.io (“Our Site”) when communicating via Our Site, uploading User Content, or otherwise interacting with it. It is recommended that you print a copy of this Policy for your future reference.
+Our Acceptable Usage Policy sets out standards which apply to your use of this website, https://alkem.io (“Our Site”) when communicating via Our Site, uploading User Content, or otherwise interacting with it. It is recommended that you print a copy of this Policy for your future reference.
 
 This Policy was last updated on 6 July 2021. 
 
@@ -16,7 +16,7 @@ Your agreement to comply with this Policy is indicated by your use of Our Site. 
 
 The following document also apply to your use of Our Site:
 
-Our Terms and Conditions , available at https://alkem.io/legal/hub.
+Our Terms and Conditions , available at https://alkemio.foundation/legal/hub.
 
  
 

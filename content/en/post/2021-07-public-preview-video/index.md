@@ -34,7 +34,7 @@ In our [Alkemio launch and demo presentation](https://player.vimeo.com/video/577
 
 They answer some of the most frequent questions, such as why a new open innovation hub is needed; how is Alkemio different; how it is sustainable; what can the platform already enable and plans for the future; and how it can be used for collaboration. 
 
-Since our platform is created for everyone, we are inviting you to try out our [public preview](https://hub.alkem.io) of the Open Innovation Hub. Please sign up, create your profile and connect to the Challenges hosted there that you want to collaborate on!
+Since our platform is created for everyone, we are inviting you to try out our [public preview](https://alkem.io) of the Open Innovation Hub. Please sign up, create your profile and connect to the Challenges hosted there that you want to collaborate on!
 
 There is also a [playground / demo environment](https://demo.alkem.io) - please reach out if you would like to have a space to explore how hosting your own public/private challenges on Alkemio can help you!
 

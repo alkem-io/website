@@ -44,7 +44,7 @@ It can be on-going, or ad-hoc. It can be small or large. It could be as part of 
 
 A nice recent example is the [blog post](https://www.alkem.io/post/2022-04-translation-uwv/?utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_7Rb5RD9q5PDdPgxtFkg_BB2zpi1cKxJbyX948CudbUFIP1N83tqb_n7wlyhMQ25ipfiAd) in this newsletter: UWV is currently using the platform internally, for which Dutch language support is important. The UWV Innovation Team gave feedback to improve the initial NL translation, so that everyone who wishes to work with Alkemio in Dutch (so public sector community members like Digicampus, VNG, Ministerie BZK, Belastingdienst) benefits.
 
-And for those enjoying Canvases (whiteboards with best practices), it is worth sharing that the initial path finding work in that space was done by a developer assigned by Digicampus. Building on that capability, Digicampus also recently made available on the platform [one of their innovation canvases](https://hub.alkem.io/digicampus/canvases?utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_7Rb5RD9q5PDdPgxtFkg_BB2zpi1cKxJbyX948CudbUFIP1N83tqb_n7wlyhMQ25ipfiAd).
+And for those enjoying Canvases (whiteboards with best practices), it is worth sharing that the initial path finding work in that space was done by a developer assigned by Digicampus. Building on that capability, Digicampus also recently made available on the platform [one of their innovation canvases](https://alkem.io/digicampus/canvases?utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_7Rb5RD9q5PDdPgxtFkg_BB2zpi1cKxJbyX948CudbUFIP1N83tqb_n7wlyhMQ25ipfiAd).
 
 It is a classic open source story: *everyone can contribute so that everyone can benefit.*
 
