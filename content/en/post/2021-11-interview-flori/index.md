@@ -90,7 +90,7 @@ That is what Alkemio is doing for the start-up market.
 
 The next phase for us is to form coalitions and get them on board of these coalitions. That way they can see where to offer their services and find potential customers. 
 
-For example, Alkemio has the organization's profile page, and when you click on a specific organization, such as [Digicampus](https://hub.alkem.io/organization/digicampus), you see what challenges and opportunities they are involved with. For commercial parties it is interesting to have a page like that. It is transparent and makes them visible and people can see how they are contributing to, for example, public services in The Netherlands. 
+For example, Alkemio has the organization's profile page, and when you click on a specific organization, such as [Digicampus](https://alkem.io/organization/digicampus), you see what challenges and opportunities they are involved with. For commercial parties it is interesting to have a page like that. It is transparent and makes them visible and people can see how they are contributing to, for example, public services in The Netherlands. 
 
 **Since you are setting challenges on the platform and building a community around it, do you have any learnings to share or feedback?**
 
@@ -104,7 +104,7 @@ Yes, it is still in an early stage, so the real community function that should d
 
 The major challenge going forward is that just posting challenges and opportunities online, is not going to make a change. It makes a difference, that’s for sure because people are ‘screaming’ for insight and oversight. But to really make the change needed we should also use the platform to better coordinate the challenges we put out there, discuss what next steps are needed and provide guidance to the coalitions working on an innovation-pipeline. 
 
->That is why we have named our hub not Digicampus, but [Public Services](https://hub.alkem.io/digicampus) (In Dutch: publieke dienstverlening), and we co-operate with other public bodies such as VNG and BZK to get our joint portfolio on there. 
+>That is why we have named our hub not Digicampus, but [Public Services](https://alkem.io/digicampus) (In Dutch: publieke dienstverlening), and we co-operate with other public bodies such as VNG and BZK to get our joint portfolio on there. 
 
 Also important to mention is that people are key to making the innovation happen. So while Alkemio can support this sort of collaboration every step of the way, it is of course real people that manage the processes surrounding that.
 

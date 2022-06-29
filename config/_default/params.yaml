@@ -104,6 +104,7 @@ extensions:
   cms:
     branch: develop
     local_backend: false
+    publish_mode: editorial_workflow
   isotope:
     # Enable if you use the Portfolio widget or Publication filter
     enable: true

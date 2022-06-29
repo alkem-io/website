@@ -7,7 +7,7 @@ widget: hero
 headless: true
 
 # Order that this section appears on the page.
-weight: 25
+weight: 3
 
 # Section title
 #title: 
@@ -32,8 +32,8 @@ hero_media: ""
 #   Display link(s) by specifying a URL and label below. Icon is optional for `cta`.
 #   Remove a link/note by deleting a cta/note block.
 cta:
-  url: "https://alkem.io/identity/registration"
-  label: Want to get started?
+  url: "https://alkemio.foundation/contact"
+  label: Join the community!
 
 # Note. An optional note to show underneath the links.
 cta_note:

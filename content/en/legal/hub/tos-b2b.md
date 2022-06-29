@@ -4,7 +4,7 @@
 
 **BACKGROUND:** 
 
-These Terms of Sale set out the terms under which Services are sold and provided by Us to business customers through this website, https://hub.alkem.io (“Our Site”). Please read these Terms of Sale carefully and ensure that you understand them before ordering any Services from Our Site. You will be required to read and accept these Terms of Sale when ordering Services. If you do not agree to comply with and be bound by these Terms of Sale, you will not be able to order Services through Our Site. These Terms of Sale, as well as any and all Contracts are in the English language only.
+These Terms of Sale set out the terms under which Services are sold and provided by Us to business customers through this website, https://alkem.io (“Our Site”). Please read these Terms of Sale carefully and ensure that you understand them before ordering any Services from Our Site. You will be required to read and accept these Terms of Sale when ordering Services. If you do not agree to comply with and be bound by these Terms of Sale, you will not be able to order Services through Our Site. These Terms of Sale, as well as any and all Contracts are in the English language only.
 
   
 
@@ -27,13 +27,13 @@ These Terms of Sale set out the terms under which Services are sold and provided
 
 **2. Information About Us**
 
-2.1  Our Site, https://hub.alkem.io, is owned and operated by Stichting Alkemio, operating under the name Alkemio. We are a foundation registered in The Netherlands under number 78302633. Our registered address is _Park Leeuwenberghlaan 3, 2267 BM Leidschendam, South-Holland, The Netherlands_. Our VAT number is NL861338522B01.
+2.1  Our Site, https://alkem.io, is owned and operated by Stichting Alkemio, operating under the name Alkemio. We are a foundation registered in The Netherlands under number 78302633. Our registered address is _Park Leeuwenberghlaan 3, 2267 BM Leidschendam, South-Holland, The Netherlands_. Our VAT number is NL861338522B01.
 
  
 
 **3. Access to and Use of Our Site**
 
-3.1  Use of Our Site is subject to Our Website Terms of Use https://alkem.io/legal/hub/#tc. Please ensure that you have read them carefully and that you understand them.
+3.1  Use of Our Site is subject to Our Website Terms of Use https://alkemio.foundation/legal/hub/#tc. Please ensure that you have read them carefully and that you understand them.
 
  
 
@@ -217,7 +217,7 @@ In each case, providing Us with your name, address, email address, telephone num
 
 16.1  All personal information of yours that We may use will be collected, processed, and held in accordance with the provisions of the Data Protection Legislation and your rights thereunder.
 
-16.2  For complete details of Our collection, processing, storage, and retention of personal data including, but not limited to, the purpose(s) for which personal data is used, the legal basis or bases for using it, details of your rights and how to exercise them, and personal data sharing (where applicable), please refer to Our Privacy Policy https://alkem.io/privacy and Cookie Policy https://alkem.io/legal/hub/#cookies.
+16.2  For complete details of Our collection, processing, storage, and retention of personal data including, but not limited to, the purpose(s) for which personal data is used, the legal basis or bases for using it, details of your rights and how to exercise them, and personal data sharing (where applicable), please refer to Our Privacy Policy https://alkemio.foundation/privacy and Cookie Policy https://alkemio.foundation/legal/hub/#cookies.
 
  
 

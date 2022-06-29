@@ -24,14 +24,14 @@ image:
   placement: 1
   
 ---
-The public preview of Alkemio was [launched this past July](https://alkem.io/post/2021-07-public-preview/) in partnership with [Digicampus](https://digicampus.tech). 
+The public preview of Alkemio was [launched this past July](https://alkemio.foundation/post/2021-07-public-preview/) in partnership with [Digicampus](https://digicampus.tech). 
 
 Five intense and productive months have flown by, so time for an update! As part of this event we will also be formally releasing our brand new user interface, aiming to make the collaboration around Challenges much easier. 
 
 In this session we would like to share with you:
 - What has been achieved by [Digicampus](https://digicampus.tech) in bringing insight and oversight across the public sector innovation landscape in The Netherlands?
 - How does putting the Challenge central help with alignment? Within and critically across organizational boundaries?
-- What can [Alkemio](https://hub.alkem.io) do now to help with managing Challenges at multiple horizons? And what are the plans / roadmap for 2022?
+- What can [Alkemio](https://alkem.io) do now to help with managing Challenges at multiple horizons? And what are the plans / roadmap for 2022?
 - What are the key trends seen for 2022 in terms of public sector collaboration and innovation?
 
 The webinars take place on December 13th, and there are two sessions planned:

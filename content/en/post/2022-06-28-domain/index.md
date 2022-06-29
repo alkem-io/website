@@ -14,7 +14,7 @@ tags:
 - platform
 
 
-draft: true
+draft: false
 #categories:
 #- Demo
 
