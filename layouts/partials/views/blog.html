@@ -1,0 +1,59 @@
+{{ $item := .item }}
+
+{{/* Dynamic view adjusts to content type. */}}
+{{ $has_attachments := partial "functions/has_attachments" $item }}
+
+{{ $link := $item.RelPermalink }}
+{{ $target := "" }}
+{{ if $item.Params.external_link }}
+  {{ $link = $item.Params.external_link }}
+  {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
+{{ end }}
+
+{{/* Get summary. */}}
+{{ $summary := "" }}
+{{ if $item.Params.summary }}
+  {{ $summary = $item.Params.summary | markdownify | emojify }}
+{{ else if $item.Params.abstract }}
+  {{ $summary = $item.Params.abstract | markdownify | emojify }}
+{{ else if $item.Summary }}
+  {{ $summary = $item.Summary }}
+{{ end }}
+
+{{ $index := .index }}
+
+<div class="col-md-4">
+    <div class="card">
+        {{ $resource := ($item.Resources.ByType "image").GetMatch "*featured*" }}
+        {{ $anchor := $item.Params.image.focal_point | default "Smart" }}
+        {{ with $resource }}
+        {{ $image := .Fill (printf "808x455 webp %s" $anchor) }}
+
+        <img src="{{ $image.RelPermalink }}" height="{{ $image.Height }}" width="{{ $image.Width }}" class="card-img-top" alt="example" />
+        
+        {{ end }}
+        <div class="card-body d-flex flex-column" style="height:300px;">
+            <div class="card-title m-0 pb-2">
+              <a href="{{ $link }}" 
+              style="-webkit-line-clamp: 2;
+              overflow : hidden;
+              text-overflow: ellipsis;
+              display: -webkit-box;
+              -webkit-box-orient: vertical;" {{ $target | safeHTMLAttr }}>
+                {{ $item.Title }}
+              </a>
+            </div>
+            {{ with $summary }}
+            <p class="card-text m-0 p-0 article-style" style="font-size: 14px;-webkit-line-clamp: 3;
+            overflow : hidden;
+            text-overflow: ellipsis;
+            display: -webkit-box;
+            -webkit-box-orient: vertical;">{{.}}</p>
+            {{ end }}
+            <div class="mt-auto">
+              {{ partial "page_metadata" (dict "page" $item "is_list" 1) }}
+            </div>
+        </div>
+    </div>
+</div>
+
