@@ -32,7 +32,7 @@ image:
 
 The release on JUne 29th brings a **refreshed home page**. Bringing users directly to the content you care about! 
 
-## Home page for logged in Users
+## Home page for users that are logged 
 
 When you are logged in, you want to immediately see the content that is **relevant** for you. These are the Hubs that you are a member of!
 
@@ -41,7 +41,7 @@ When you are logged in, you want to immediately see the content that is **releva
 In the future, your 'my home page' may include many additional functionalities such as an activity feed, or recommendations specific to you about relevant content. But with this first refresh, we have taken the first step.
 
 
-## Home page for not logged in Users
+## Home page for users who are not logged in 
 For users that are not logged in, there is now stronger guidance to help with their next steps:
 * **Existing users** can sign in or find out more about the **organization and vision** behind Alkemio. 
 * **New users** can watch the **demo video** with an explanation and sign up.
