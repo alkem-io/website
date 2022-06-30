@@ -23,9 +23,9 @@ featured: false
 draft: false
 image:
   placement: 1
-  
+  preview_only: true
 ---
-
+![](./header.png)
 # Product: Wisdom of the Community
 
 _How to enable everyone to share their insights? Gather input from a diverse set of perspectives?_

@@ -24,9 +24,9 @@ featured: false
 draft: false
 image:
   placement: 1
-  
+  preview_only: true
 ---
-
+![](./header.png)
 # Mijn boodschap aan de innovatie community? We hadden Alkemio al eerder moeten inzetten!
 
 Nog meer goed nieuws! Onlangs heeft VNG zich aangesloten bij Alkemio als **Innovation Partner**. 

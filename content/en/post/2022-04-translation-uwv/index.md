@@ -22,8 +22,9 @@ featured: false
 draft: false
 image: 
   placement: 1
-  
+  preview_only: true
 ---
+![](./header.png)
 # 
 Alkemio is being built **with** the Community as well as **for** the Community! That has been one of the key messages from the start. Each Individual User as well as Organization can submit their feedback, for example through [GitHub](https://github.com/alkem-io/alkemio/discussions) - gathering the **wisdom of the Community** as we together develop the platform. 
 

@@ -23,9 +23,9 @@ featured: false
 draft: false
 image:
   placement: 1
-  
+  preview_only: true
 ---
-
+![](./header.png)
 # Building Alkemio together
 
 This has been one of the key messages since we started Alkemio. The code is 100% open source, and a public good.

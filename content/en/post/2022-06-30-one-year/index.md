@@ -23,9 +23,9 @@ featured: false
 draft: false
 image:
   placement: 1
-  
+  preview_only: true
 ---
-
+![](./header.png)
 # One year old!
 
 One year ago the [Alkemio platform](https://alkem.io) was launched. We made available the [public preview](https://www.alkemio.foundation/post/2021-07-public-preview-video/) in partnership with [Digicampus](https://digicampus.tech). 

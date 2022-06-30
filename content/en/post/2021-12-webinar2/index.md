@@ -23,9 +23,9 @@ featured: false
 draft: false
 image:
   placement: 1
-  
+  preview_only: true
 ---
-
+![](./header.jpg)
 Please join us for a [lunchtime webinar (12:00 - 13:00 CET) on December 20th](https://www.linkedin.com/events/6875096263688380416/about/), where we would like to share with you progress by Alkemio, and look forward to 2022. It promises to be an exciting year!
 
 _Note: this webinar is partially covering topics we had planned for a joint webinar with our partner Digicampus on December 13th. That event needed to be cancelled for personal reasons. We will reschedule that event for January..._

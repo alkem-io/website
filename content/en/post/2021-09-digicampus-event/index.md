@@ -22,9 +22,9 @@ featured: false
 draft: false
 image:
   placement: 1
-  
+  preview_only: true
 ---
-
+![](./header.png)
 [Digicampus](https://digicampus.tech), founding partner and launching customer for Alkemio, is hosting a one day summit on October 12th on "International Collaboration & Innovation". 
 
 The topic clearly aligns with the purpose of Alkemio: bringing society together to find innovative ways to address the Challenges facing us. A very interesting line up of talks. 
