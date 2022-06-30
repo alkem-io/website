@@ -21,8 +21,9 @@ featured: false
 draft: false
 image:
   placement: 1
-  
+  preview_only: true
 ---
+![](./header.jpg)
 This spring Alkemio was happy to welcome Merijn Zondag to the team. His focus is on the sustainability of the foundation, ensuring that sufficient resources are available to realize the vision. Merijn brings a huge amount of experience, especially around the venture financing – and has also himself been an entrepreneur in various start-ups and scale-ups. He enjoys working on projects which can make an impact on a small or a big, global scale.
 
 

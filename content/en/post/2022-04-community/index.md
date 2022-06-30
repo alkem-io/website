@@ -23,8 +23,9 @@ featured: false
 draft: false
 image: 
   placement: 1
-  
+  preview_only: true
 ---
+![](./header.jpg)
 Each Challenge has a Community of Users and Organizations that work together to make progress. And just as there is a diversity in Challenges, there also needs to be a diversity in how the Communities around those Challenges operate. And this starts with how a User becomes a **member** a Community...  
 
 Every two weeks Alkemio releases new and improved functionalities on the platform based on the feedback of all involved stakeholders. An important topic in the past month has been Community membership, and in particular to provide more flexibility with regards to how *Community membership* happens!

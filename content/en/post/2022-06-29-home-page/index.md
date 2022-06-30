@@ -24,8 +24,9 @@ featured: false
 draft: false
 image:
   placement: 1
-  
+  preview_only: true
 ---
+![](./header.png)
 # Product update: Home page refresh
 
 *Active user engagement*. This is key focus for the platform. How to make it easier to contribute? How to stimulate users to actively participate and share knowledge? How can we make it easy for them to jump right back into the topics they care about? 

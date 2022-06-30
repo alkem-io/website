@@ -24,9 +24,9 @@ featured: false
 draft: false
 image:
   placement: 1
-  
+  preview_only: true
 ---
-
+![](./header.png)
 # “Alkemio speelt een belangrijke rol bij het brengen van inzicht en overzicht rondom innovatie initiatieven”
 
 _Onlangs hebben een aantal belangrijke partners zich aangesloten bij Alkemio, waaronder UWV. Wij gingen kort in gesprek met Esther Looman, Communitymanager UWV Innovatie, over deze samenwerking._

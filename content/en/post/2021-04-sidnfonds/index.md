@@ -23,8 +23,9 @@ featured: false
 draft: false
 image:
   placement: 1
-
+  preview_only: true
 ---
+![](./header.png)
 
 We are very pleased to announce the award of a 'Pioneers-grant' by the [SIDN fonds](https://www.sidnfonds.nl) for the development
 of a [*'self-sovereign identity module'*](https://www.sidnfonds.nl/projecten/cherrytwist-self-sovereign-identity-module) for the platform.

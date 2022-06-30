@@ -24,9 +24,9 @@ featured: false
 draft: false
 image:
   placement: 1
-  
+  preview_only: true
 ---
-
+![](./header.png)
 # Building collaborative platforms: RIConline and Alkemio
 
 [Alkemio](https://alkem.io) is the platform that enables society to work together more effectively on challenges. We believe in open collaboration and inclusiveness, so working together with other initiatives is something Alkemio is keen on - continuously **learn from and work with the community**. 
