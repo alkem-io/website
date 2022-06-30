@@ -24,8 +24,9 @@ featured: false
 draft: false
 image:
   placement: 1
-  
+  preview_only: true
 ---
+![](./header.png)
 Proud to be able to contribute to the wider discussion on what [**open source**](https://opensource.pleio.nl/news/view/09270d3d-c823-40e8-b2e4-ab562be114e6/alkemio-het-kloppende-hart-van-het-innovatielandschap) means for the Dutch Government. 
 
 Background: the Dutch Government now has a policy of "open source, unless" since April 2020. Broadly speaking, this is aiming to ensure that as much of the software used within and created by public sector organisations in The Netherlands is open source - unless there are very clear reasons not to do so. 

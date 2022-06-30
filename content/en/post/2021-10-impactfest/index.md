@@ -21,9 +21,9 @@ featured: false
 draft: false
 image:
   placement: 1
-  
+  preview_only: true
 ---
-
+![](./header.png)
 > *'Innovation never stops, and making a positive impact on the world  becomes more important every day. That’s why we are bringing together  impact makers from around the world in The Hague (NL) escalate doing  good and doing business to a new level during the 6th edition of  ImpactFest'*
 
 

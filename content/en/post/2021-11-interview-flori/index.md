@@ -22,8 +22,9 @@ featured: false
 draft: false
 image:
   placement: 1
-  
+  preview_only: true
 ---
+![](./header.jpg)
 *We recently managed to grab some time in busy agendas to sit down for a conversation with Flori Spoelstra, a key champion for Alkemio.* 
 
 Flori is a portfolio manager at [Digicampus](https://digicampus.tech). Digicampus is a Founding Partner and launching customer for Alkemio. 
