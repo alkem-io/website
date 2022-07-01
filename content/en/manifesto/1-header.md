@@ -1,32 +1,30 @@
 ---
 # An instance of the Blank widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: portfolio
+widget: blank
 
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 5
+weight: 1
+
+draft: false
 
 # Section title
-#title: What is the problem?
+title: 
 
 # Section subtitle
-#subtitle: 
-
-content:
-  filters:
-    folders:
-      - manifesto-lr
-
+subtitle:
 
 # Section design
 design:
+  # Use a 1-column layout
   columns: '1'
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
-    padding: ["20px", "0px","10px","0px"]
-  view: showcase
-  flip_alt_rows: true
+    padding: ['10px', '0', '0px', '0']
 ---
+<p align="center">
+Alkemio Manifesto
+</p>
