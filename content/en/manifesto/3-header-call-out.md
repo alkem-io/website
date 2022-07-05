@@ -32,7 +32,7 @@ hero_media: ""
 #   Display link(s) by specifying a URL and label below. Icon is optional for `cta`.
 #   Remove a link/note by deleting a cta/note block.
 cta:
-  url: "https://alkemio.foundation/contact"
+  url: "https://www.alkemio.foundation/feedback/"
   label: Join the community!
 
 # Note. An optional note to show underneath the links.
