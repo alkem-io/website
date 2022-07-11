@@ -6,8 +6,13 @@ weight: 20
 title: Across all boundaries
 
 # Section subtitle 
-summary: 'Alkemio is the platform for bringing people together around challenges, <b>sharing knowledge and ideas</b>. Working together on solutions. 
+summary: '
+Alkemio is a platform for <b>channelling</b> all the effort and ambition around challenges into solutions.
 <br/>
 <br/>
-The community around a challenge helps to identify next steps and <b>make progress</b>, using best practices. Moving in the right direction, connecting on the topics you care about.'
+Bringing people together, <b>sharing knowledge and ideas</b>, with a clear focus on the <b>opportunities</b>.
+<br/>
+<br/>
+Using <b>best practices</b>, the community around a challenge works together to identify next steps and <b>make progress</b>.
+' 
 ---
