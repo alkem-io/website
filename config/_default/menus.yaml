@@ -7,8 +7,8 @@ main:
   - name: Home
     url: '#home'
     weight: 10
-  - name: Vision
-    url: 'vision'
+  - name: Manifesto
+    url: 'manifesto'
     weight: 15
   - name: Partners
     url: 'partners'

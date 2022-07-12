@@ -29,7 +29,7 @@ This is one of the key questions we get when introducing Alkemio. And it is natu
  
 So why Alkemio? The key is **alignment**: _“where” do we want to go_?. 
 
-![](./alignment.jpg)
+![alignment](./alignment.jpg) 
 
 Alignment is critical for collaboration of any sort. Especially as collaboration crosses organizational boundaries. _And the issues facing our society, large and small, cannot be solved by people or organizations working alone_.
 
