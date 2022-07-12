@@ -30,9 +30,9 @@ image:
 
 ![](./header.png)
 
-*You are managing a project, consisting of many stakeholders and numerous elements. The first thing you do, is structure all data in a spreadsheet, as this is the easiest way of processing the data. But.. what now?*
+*You are managing a project, consisting of many stakeholders and numerous elements. The first thing you do is structure all data in a spreadsheet, as this is the easiest way of processing the data. But.. what now?*
 
-Sounds familiar, right? This is something Alkemio regularly sees: innovation efforts being managed by spreadsheets. This can be so much more effective, and also less work for you. VNG, the Association of Dutch Municipalities, also encountered this in their program 'Digitale Leefomgeving', which focuses on creating *digital twins* in the Netherlands. Alkemio helped VNG to transform this information from a simple aggregation of data in a spreadsheet to pieces of manageable information that can actually be **worked on**, together with **all relevant stakeholders**. In this interview, [Wouter Heijnen](https://nl.linkedin.com/in/wtrhnn) from VNG, one of the driving forces of the program gives you insights on their progress.
+Sounds familiar, right? This is something Alkemio regularly sees: innovation efforts being managed by spreadsheets. This can be so much more effective, and also less work for you. VNG, the Association of Dutch Municipalities, also encountered this in their program 'Digitale Leefomgeving', which focuses on creating *digital twins* in the Netherlands. Alkemio helped VNG to transform this information from a simple aggregation of data in a spreadsheet to pieces of manageable information that can actually be **worked on**, together with **all relevant stakeholders**. In this interview, [Wouter Heijnen](https://nl.linkedin.com/in/wtrhnn) - one of the driving forces of the program - gives you insights on their progress.
 
 ![](./spreadsheet.png)
 
