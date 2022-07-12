@@ -28,14 +28,14 @@ design:
 ---
 
 <p>
-Alkemio is the platform launched by a purpose-driven team of professionals. By <b>working together</b> with  users, partners, businesses, researchers, and citizens we believe that: . 
+Alkemio is the platform launched by a purpose-driven team of professionals. By <b>working together</b> with  users, partners, businesses, researchers, and citizens we believe that: 
 </p>
 
 <li>
 Every day we can reveal the <b>infinite potential of collaboration</b>. This is the key to success.
 </li>
 <li>
-To achieve <b>systematic change</b> in how we work together on challenges requires inclusion and transparency. Enabled by an <b>independent digital platform</b> to support this way of <b>working together on challenges</b>.
+To achieve <b>systematic change</b> in how we work together on <b>challenges</b> requires inclusion and transparency. Enabled by an <b>independent digital platform</b> to support this way of <b>working together on challenges</b>.
 </li>
 <li>
 <b>Public values should be central</b>. We love tech. But not how it is often used. We do not want data and digital tools to exploit people. Interactions should benefit public values, rather than commercial or other interests.

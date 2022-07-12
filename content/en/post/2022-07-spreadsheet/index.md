@@ -30,9 +30,11 @@ image:
 
 ![](./header.png)
 
-*You are managing a project, consisting of many stakeholders and numerous elements. The first thing you do is structure all data in a spreadsheet, as this is the easiest way of processing the data. But.. what now?*
+*You are managing a project, consisting of many stakeholders and types of information. The first thing you do is structure all data in a spreadsheet, as this is the easiest way of processing the data. But.. what now?*
 
-Sounds familiar, right? This is something Alkemio regularly sees: innovation efforts being managed by spreadsheets. This can be so much more effective, and also less work for you. VNG, the Association of Dutch Municipalities, also encountered this in their program 'Digitale Leefomgeving', which focuses on creating *digital twins* in the Netherlands. Alkemio helped VNG to transform this information from a simple aggregation of data in a spreadsheet to pieces of manageable information that can actually be **worked on**, together with **all relevant stakeholders**. In this interview, [Wouter Heijnen](https://nl.linkedin.com/in/wtrhnn) - one of the driving forces of the program - gives you insights on their progress.
+Sounds familiar, right? This is something Alkemio regularly sees: innovation efforts being managed by spreadsheets. This can be so much more effective, and also less work for you! 
+
+[VNG](https://vng.nl), the Association of Dutch Municipalities, also encountered this in their program *'Digitale Leefomgeving'*, which focuses on creating *digital twins* in the Netherlands. Alkemio helped VNG to transform this information from a simple aggregation of data in a spreadsheet to manageable information that can actually be **worked on**, together with **all relevant stakeholders**. In this interview, [Wouter Heijnen](https://nl.linkedin.com/in/wtrhnn) - one of the driving forces of the program - shares his insights on their progress.
 
 ![](./spreadsheet.png)
 
@@ -62,7 +64,7 @@ The next step is to **address the topics** of shared interest to work on. The pr
 
 "I hope that the platform economy is no longer used as a tool to lock out gatekeepers of public values or rules of operation. We have seen platforms breaking open traditional markets, with good intentions initially, but in the end they focus on market dominance and shareholder value. In many cases, they are using public space and public funded facilities to make their profit. I hope this will change and I have faith it will happen"
 
-Alkemio believes that a platform for collaboration across organizational boundaries should have **public values central**. Interactions should benefit public values, rather than commercial or other interests. In the case of Alkemio this is achieved by having Alkemio backed by a foundation to guarantee its purpose. You can read more about the rational for being a foundation in [this blogpost](https://www.alkemio.foundation/post/2022-01-why-foundation/).
+Alkemio believes that a platform for collaboration across organizational boundaries should have **public values central**. Interactions should benefit public values, rather than commercial or other interests. In the case of Alkemio this is achieved by having Alkemio backed by a foundation to guarantee its purpose. You can read more about the rational for being a foundation in [this blogpost](https://alkemio.foundation/post/2022-01-why-foundation/).
 
  ### When is the 'Digitale Leefomgeving' program on Alkemio succesful?
 

@@ -10,6 +10,6 @@ summary: '
 Building an online <b>community</b> around a challenge. Turning individuals and organizations into co-workers. 
 <br/>
 <br/>
-Spot the right organizations, capabilities and resources to <b>make progress</b> on solutions in our fast-moving world.
+Spotting the right organizations, capabilities and resources to <b>make progress</b> on solutions in our fast-moving world.
 '
 ---
