@@ -28,8 +28,6 @@ image:
   preview_only: true
 ---
 
-# From a static spreadsheet to a living community
-
 ![](./header.png)
 
 *You are managing a project, consisting of many stakeholders and numerous elements. The first thing you do, is structure all data in a spreadsheet, as this is the easiest way of processing the data. But.. what now?*
