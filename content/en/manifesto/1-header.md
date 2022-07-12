@@ -25,6 +25,8 @@ design:
     # Customize the section spacing. Order is top, right, bottom, left.
     padding: ['10px', '0', '0px', '0']
 ---
-<p align="center">
+<h2>
+<p align="center"><b>
 Alkemio Manifesto
-</p>
+</p></b>
+</h2>

@@ -7,7 +7,7 @@ title: Open for all
 
 # Section subtitle 
 summary: '
-Everyone can contribute. Making it straightforward to find, follow and directly <b>add value</b>.
+Everyone can contribute. Making it straightforward to find, follow and directly <b>add value</b> on challenges.
 <br/>
 <br/>
 You can easily engage, learn from or add to the collective <b>wisdom of the community</b>. 
