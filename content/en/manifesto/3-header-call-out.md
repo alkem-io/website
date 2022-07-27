@@ -7,7 +7,7 @@ widget: hero
 headless: true
 
 # Order that this section appears on the page.
-weight: 3
+weight: 4
 
 # Section title
 #title: 
@@ -18,9 +18,11 @@ weight: 3
 # Section design
 design:
   columns: 1
+  background:
+     color: '#fff'
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
-    padding: ["20px", "0px", "10px", "0px"]
+    padding: ["20px", "0px", "30px", "0px"]
 
 advanced:
   css_style: "text-align: center;"

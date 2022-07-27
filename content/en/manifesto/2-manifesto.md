@@ -12,11 +12,11 @@ weight: 2
 draft: false
 
 # Section title
-title: Empowering society
+title: Alkemio Manifesto
 
 # Section subtitle
 subtitle:
-  The platform to succeed in working on challenges, together
+
 
 # Section design
 design:
@@ -26,6 +26,8 @@ design:
     # Customize the section spacing. Order is top, right, bottom, left.
     padding: ['20px', '0', '20px', '0']
 ---
-<p align="center">
+
+<h2 class="text-center p-3"> Empowering society <br> The platform to succeed in working on challenges, <br>together </h2>
+<p class="font-italic text-center pb-2">
 We are open, and invite all who support the principles of this manifesto to join
 </p>
