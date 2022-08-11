@@ -7,7 +7,7 @@ widget: hero
 headless: true
 
 # Order that this section appears on the page.
-weight: 9
+weight: 7
 
 # Section title
 #title: 
@@ -20,7 +20,7 @@ design:
   columns: 1
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
-    padding: ["20px", "0px", "10px", "0px"]
+    padding: ['20px', '0px', '0px', '0px']
 
 advanced:
   css_style: "text-align: center;"

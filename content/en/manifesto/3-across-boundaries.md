@@ -7,7 +7,7 @@ widget: blank
 headless: true
 
 # Order that this section appears on the page.
-weight: 5
+weight: 3
 
 # Section title
 title:
@@ -22,15 +22,16 @@ design:
     color: 'greywhite'
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
-    padding: ['30px', '0px', '25px', '0px']
+    padding: ['0px', '0px', '0px', '0px']
   advanced:
     css_style: 'text-align: center;' ## todo: align the markdown below centrally
 ---
 
 <div class="container">
   <div class="row">
-    <div class="col-sm px-4">
-      <h1 class="card-img-top pb-3"> Across all boundaries </h1>
+    <div class="col-sm">
+    <div class="px-3">
+      <h2 class="card-img-top font-weight-bold "> Across all boundaries </h2>
       <p>
         Alkemio is a platform for <b>channelling</b> all the effort and ambition around challenges into solutions.
       </p>
@@ -41,8 +42,9 @@ design:
         Using <b>best practices</b>, the community around a challenge works together to identify next steps and <b>make
           progress</b>.
       </p>
+    </div>
     </div>  
-    <div class="col-sm align-content-center mb-4 px-4">
+    <div class="col-sm align-content-center">
       <img src="../manifesto-lr/2-across-boundaries/featured.png" width="100%" class="align-center">
     </div>
   </div>
