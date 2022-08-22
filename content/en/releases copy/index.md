@@ -8,5 +8,5 @@ title:
 headless: false
 
 # add alias for contact form for ecoverses that point to /feedback 
-url: "/faq/"
+url: "/releases/"
 ---

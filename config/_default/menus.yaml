@@ -45,7 +45,7 @@ main:
     name: FAQ
     url: 'faq'
     weight: 9
-  - parent: a
+  - parent: about-main
     indentifier: about-releases
     name: Releases
     url: 'releases'
