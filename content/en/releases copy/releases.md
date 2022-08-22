@@ -46,12 +46,11 @@ their Canvas or Aspect with a 'Callout'.
     - The **Admin section** can be reached through the cogwheel icon.
 <p></p>
 Previous releases:
-<li><a href="http://alkem-25488729.hs-sites-eu1.com/alkemio-may-newsletter" target="_blank">2022 - May</a> -     
-<i>"How to work Challenge Centric"</i> </li>
-<li><a href="http://alkem-25488729.hs-sites-eu1.com/newsletter/2021/december" target="_blank">2021 - December</a> - 
-<i>"Why is Alkemio a Foundation?"</i> </li>
-<li><a href="http://alkem-25488729.hs-sites-eu1.com/newsletter/2021/july" target="_blank">2021 - July</a> - <i>"Launch 
-of the Alkemio public preview!"</i> </li>
+<li><a href="https://alkem-25488729.hs-sites-eu1.com/alkemio-release-2022-07-13" target="_blank">2022-07-13</a> -     
+<i>"Title"</i> </li>
+<li><a href="https://alkem-25488729.hs-sites-eu1.com/alkemio-release-2022-06-29" target="_blank">2021-06-29</a> - 
+<i>"Title"</i> </li>
+<li><a href="https://alkem-25488729.hs-sites-eu1.com/alkemio-release-2022-06-16" target="_blank">2021-06-16</a> - <i>"Title"</i> </li>
 <p>
 <p>
 <hr>
