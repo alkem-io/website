@@ -42,14 +42,14 @@ their Canvas or Aspect with a 'Callout'.
     - The **Challenges** and **Opportunities** tabs have remained the same.
     - The **About** tab now contains all information from the former Context and Community tabs.
     - The **Admin section** can be reached through the cogwheel icon.
-<img src="../releases-copy/featured.png" width="100%" class="align-center">
+<img src="./releases-copy/featured.png" width="100%" class="align-center">
 <p></p>
-<b>Previous releases:</b>
-<li><a href="https://alkem-25488729.hs-sites-eu1.com/alkemio-release-2022-07-13" target="_blank">2022-07-13</a> -     
+<b>Previous releases</b>
+<li><a href="https://alkem-25488729.hs-sites-eu1.com/alkemio-release-2022-07-13" target="_blank">2022-07-13</a>:     
 <i>"Canvases as Cards, managing the Community, less User logins, and displaying character limits"</i> </li>
-<li><a href="https://alkem-25488729.hs-sites-eu1.com/alkemio-release-2022-06-29" target="_blank">2022-06-29</a> - 
-<i>"Title"</i> </li>
-<li><a href="https://alkem-25488729.hs-sites-eu1.com/alkemio-release-2022-06-16" target="_blank">2022-06-16</a> - <i>"Title"</i> </li>
+<li><a href="https://alkem-25488729.hs-sites-eu1.com/alkemio-release-2022-06-29" target="_blank">2022-06-29</a>: 
+<i>"New home page, new platform and website domain, and Aspect management templates"</i> </li>
+<li><a href="https://alkem-25488729.hs-sites-eu1.com/alkemio-release-2022-06-16" target="_blank">2022-06-16</a>: <i>"Real time updates and display of rich content"</i> </li>
 <p>
 <p>
 <hr>
