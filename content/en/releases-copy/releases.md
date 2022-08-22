@@ -25,13 +25,11 @@ design:
   #  color: 'navy'
   #  text_color_light: true
 ---
-Alkemio makes updates to the production platform approximately every two weeks. For each release a summary of the 
-visible changes is shared via email. Below you can find the latest release notes as well as links to previous notes.
+Alkemio makes updates to the production platform approximately every two weeks. Below you can find the latest release note as well as links to previous notes.
 <p></p>
-<b>Release 22--8-22</b>
-Over the summer months, we have made some big changes to the lay-out! 
-
-As part of our aim to simplify the platform and increase the user engagement, we have made several changes.  
+<b>Release 2022-8-22</b>
+<p></p>
+<i>Over the summer months, we have made some big changes to the platform lay-out and functionalities! Mainly as part of our aim to simplify the platform and increase user engagement. These changes include:</i>
 
 - The overall layout has changed, now placing the Hub title central, with the tagline underneath it. The banner images 
 are are now centered too.  
@@ -44,13 +42,14 @@ their Canvas or Aspect with a 'Callout'.
     - The **Challenges** and **Opportunities** tabs have remained the same.
     - The **About** tab now contains all information from the former Context and Community tabs.
     - The **Admin section** can be reached through the cogwheel icon.
+<img src="../releases-copy/featured.png" width="100%" class="align-center">
 <p></p>
-Previous releases:
+<b>Previous releases:</b>
 <li><a href="https://alkem-25488729.hs-sites-eu1.com/alkemio-release-2022-07-13" target="_blank">2022-07-13</a> -     
+<i>"Canvases as Cards, managing the Community, less User logins, and displaying character limits"</i> </li>
+<li><a href="https://alkem-25488729.hs-sites-eu1.com/alkemio-release-2022-06-29" target="_blank">2022-06-29</a> - 
 <i>"Title"</i> </li>
-<li><a href="https://alkem-25488729.hs-sites-eu1.com/alkemio-release-2022-06-29" target="_blank">2021-06-29</a> - 
-<i>"Title"</i> </li>
-<li><a href="https://alkem-25488729.hs-sites-eu1.com/alkemio-release-2022-06-16" target="_blank">2021-06-16</a> - <i>"Title"</i> </li>
+<li><a href="https://alkem-25488729.hs-sites-eu1.com/alkemio-release-2022-06-16" target="_blank">2022-06-16</a> - <i>"Title"</i> </li>
 <p>
 <p>
 <hr>
