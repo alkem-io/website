@@ -34,7 +34,7 @@ design:
 
 <div id="platform-challenges" class="collapse">
   <div class="content">
-    <p>Under the Challenges tab, you can search for the Challenges that you care about based on tags.
+    <p>Under Challenges, you can search for the Challenges that you care about based on tags.
   </p>
   </div>
 </div>
@@ -64,7 +64,7 @@ design:
 <!-- Content of collapisible -->
 <div id="platform-facilitating" class="collapse">
   <div class="content">
-    <p>On the Hub level, there is one Organization responsible for the content of the Hub, the Facilitating Organization. However, multiple Organizations can be leading a Challenge or Opportunity, the Leading Organizations.
+    <p>On the Hub level, there is one Organization responsible for the content of the Hub, the Facilitating Organization. However, on a Challenge as well as Opportunity level multiple Organizations can be leading, the Leading Organizations.
   </p>
   </div>
 </div>
