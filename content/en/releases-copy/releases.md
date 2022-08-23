@@ -29,7 +29,7 @@ Alkemio makes updates to the production platform approximately every two weeks. 
 <p></p>
 <b>Release 2022-8-22</b>
 <p></p>
-<i>Ooooover the summer months, we have made some big changes to the platform lay-out and functionalities! Mainly as part of our aim to simplify the platform and increase user engagement. These changes include:</i>
+<i>Over the summer months, we have made some big changes to the platform lay-out and functionalities! Mainly as part of our aim to simplify the platform and increase user engagement. These changes include:</i>
 
 - The overall layout has changed, now placing the Hub title central, with the tagline underneath it. The banner images 
 are are now centered too.  
