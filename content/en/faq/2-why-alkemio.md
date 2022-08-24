@@ -48,14 +48,18 @@ why Alkemio is an open source platform, to benefit everyone. Generally, Open
 Source software is software that can be freely accessed, used, changed, and 
 shared (in modified or unmodified form) by anyone. Open source software is 
 made by many people, and distributed under licenses that comply with the Open 
-Source Definition. The internationally recognized Open Source Definition 
-provides ten criteria that must be met for any software license, and the 
-software distributed under that license, to be labeled "Open Source software." 
+Source Definition. The license used by Alkemio is the 
+<a href="https://en.wikipedia.org/wiki/European_Union_Public_Licence" target="_blank">EU-PL license</a>.
+</p>
+<p>
 Alkemio is proud to be contributing as a practical example of how to do <a 
 href="https://www.alkemio.foundation/post/2021-07-open-source-pleio"> open 
 source</a> in a societal innovation context. Perhaps more importantly we are 
 also keen to share our learnings on the challenges and barriers faced in our 
-journey. Explore the <a href="https://github.com/alkem-io" target="_blank"> 
+journey. 
+</p>
+<p>
+Explore our code base at the <a href="https://github.com/alkem-io" target="_blank"> 
 Alkemio Github repository</a>.</p>
   </div>
 </div>

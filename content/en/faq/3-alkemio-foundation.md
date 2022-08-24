@@ -31,7 +31,7 @@ design:
 
 <div id="foundation-difference" class="collapse">
   <div class="content">
-    <p>The relationship between both websites is the following: Alkemio is the platform. It helps you make progress on challenges, together. It is backed by the Alkemio Foundation to guarantee it’s purpose.</p>
-      <p>You will therefore find all the Challenges and contributors at Alkem.io. On Alkemio.foundation you can find more about the foundation behind Alkemio, such as our Manifesto, the team and our partners, as well as relevant content such as blogposts and recent newsletters.</p>
+    <p>The relationship between both websites is the following: <b>Alkemio</b> is the platform. It helps you make progress on challenges, together. It is backed by the <b>Alkemio Foundation</b> to guarantee it’s purpose.</p>
+      <p>You will therefore find all the Challenges and contributors at <i>https://alkem.io</i>. On then on <i>https://alkemio.foundation</i> you can find more about the foundation behind Alkemio, such as our Manifesto, the team and our partners, as well as relevant content such as blogposts and recent newsletters.</p>
   </div>
 </div>
