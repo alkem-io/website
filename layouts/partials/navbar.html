@@ -110,16 +110,9 @@
           {{end}}
 
           <li class="nav-item">
-            {{ if eq .Name "Platform" }} 
-              <button type="button" class="btn btn-light btn-lg mb-3 mb-md-1" style="color: #068293;">{{.Name}}</button>
-            {{/*  <a class="nav-link {{if and $highlight_active_link $is_link_in_current_path }} active{{end}}" href="{{.URL | relLangURL}}"{{ if and $is_widget_page $is_same_page }} data-target="{{$hash}}"{{ end }}{{ ($.Scratch.Get "target") | safeHTMLAttr }}>
-              {{- .Pre -}}<span>{{ .Name | safeHTML }}</span>{{- .Post -}}
-            </a>  */}}
-            {{else}}
             <a class="nav-link {{if and $highlight_active_link $is_link_in_current_path }} active{{end}}" href="{{.URL | relLangURL}}"{{ if and $is_widget_page $is_same_page }} data-target="{{$hash}}"{{ end }}{{ ($.Scratch.Get "target") | safeHTMLAttr }}>
               {{- .Pre -}}<span>{{ .Name | safeHTML }}</span>{{- .Post -}}
             </a>
-            {{end}}
           </li>
 
           {{ end }}
@@ -140,11 +133,19 @@
           {{ end }}
           {{ end }}
 
+          {{ if eq .Name "Platform" }} 
           <li class="nav-item">
-            <a class="nav-link" href="{{ .URL | relLangURL }}"{{ if $.IsHome }} data-target="{{ .URL }}"{{ end }}{{ ($.Scratch.Get "target") | safeHTMLAttr }}>
-              {{- .Pre -}}<span>{{ .Name | safeHTML }}</span>{{- .Post -}}
+            <a href="{{ .URL | relLangURL }}"{{ if $.IsHome }} data-target="{{ .URL }}"{{ end }}{{ ($.Scratch.Get "target") | safeHTMLAttr }} class="nav-link">
+              <button type="button" class="btn btn-light btn-lg mb-3 mb-md-1" style="color: #068293;">{{.Name}}</button>
             </a>
           </li>
+          {{else}}
+            <li class="nav-item">
+              <a class="nav-link" href="{{ .URL | relLangURL }}"{{ if $.IsHome }} data-target="{{ .URL }}"{{ end }}{{ ($.Scratch.Get "target") | safeHTMLAttr }}>
+                {{- .Pre -}}<span>{{ .Name | safeHTML }}</span>{{- .Post -}}
+              </a>
+            </li>
+          {{end}}
 
           {{ end }}
         </ul>

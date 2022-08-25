@@ -13,13 +13,10 @@ main:
   - name: Partners
     url: 'partners'
     weight: 20
-  - name: Platform
-    url: 'https://alkem.io'
-    weight: 40
   - name: About
     identifier: about-main
     url: 'about'
-    weight: 60
+    weight: 40
   - parent: about-main
     indentifier: about-team
     name: Our team
@@ -40,7 +37,11 @@ main:
     name: Vision
     url: 'vision'
     weight: 8
-
+    
+main_right:
+  - name: Platform
+    url: 'https://alkem.io'
+    weight: 60
 
 
 # Link to a PDF of your resume/CV from the menu.
