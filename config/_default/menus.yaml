@@ -48,7 +48,7 @@ main:
   - parent: about-main
     indentifier: about-releases
     name: Releases
-    url: 'releases2'
+    url: 'releases'
     weight: 10
 
 
