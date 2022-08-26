@@ -35,7 +35,7 @@ image:
 This knowledge base will overtime include a FAQ, how-to guides, tips and tricks for using the platform, relevant articles, etc. 
 
 ### Frequently Asked Questions
-The good news is, we have put up our first version of the **Frequently Asked Questions** that you can access via [alkemio.foundation/faq/](https://www.alkemio.foundation/faq/) and the help icon on alkem.io. The FAQ currently includes several questions related to the use of our platform, Alkemio in general, and the foundation behind Alkemio. Please have a look and share your suggestions!
+The good news is, we have put up our first version of the **Frequently Asked Questions** that you can access via [alkemio.foundation/faq/](https://www.alkemio.foundation/faq/) and the help icon on [alkem.io](https://alkem.io). The FAQ currently includes several questions related to the use of our platform, Alkemio in general, and the foundation behind Alkemio. Please have a look and share your suggestions!
 
 ![](./faq.png)
 
