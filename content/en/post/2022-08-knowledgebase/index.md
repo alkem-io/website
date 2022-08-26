@@ -50,4 +50,4 @@ For example, you can insert *links* in your Hub Context to relevant Opportunitie
 
 ![](./markdown-underlined.png)
 
-The possibilities are endless, and you can find them online via for example via the [Guides provided by Markdown](https://www.markdownguide.org/). Have a look and play around with it on our platform! 
+The possibilities are endless, and you can find them online via for example the [Guides provided by Markdown](https://www.markdownguide.org/). Have a look and play around with it on our platform! 
