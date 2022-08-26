@@ -28,7 +28,7 @@ image:
   preview_only: true
 ---
 
-
+![](./header.png)
 
 *The Alkemio platform is growing! With the expansion of our users, guidance becomes more and more important. That is why we have made the first step towards building our **knowledge base**!*
 
