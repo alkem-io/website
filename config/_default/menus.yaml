@@ -45,11 +45,6 @@ main:
     name: FAQ
     url: 'faq'
     weight: 9
-  - parent: about-main
-    indentifier: about-releases
-    name: Releases
-    url: 'releases'
-    weight: 10
 
 
 # Link to a PDF of your resume/CV from the menu.
