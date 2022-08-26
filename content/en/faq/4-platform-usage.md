@@ -22,7 +22,12 @@ design:
 
 <div id="platform-structured" class="collapse">
   <div class="content">
-    <p>We can distinguish several levels on the Alkemio platform. The hierarchial order hereby is the Alkemio platform (a Hub of Hubs), Challenge Hub, Challenge, and Opportunity.</p>
+    <p>There are multiple levels on the Alkemio platform:
+    <li><b>Hub</b>: Frame of reference</li>
+    <li><b>Challenge</b>: Understanding the issues to be addressed within the frame of reference</li>
+    <li><b>Opportunity</b>: Identifying solutions for how to make progress together on the Challenges</li> 
+    </p>
+    <p>It is hierarchical in that Hubs contain Challenges, which in turn contain Opportunities - with the Alkemio Platform hosting many Hubs.</p>
     <p>Each level has a Community around it. Individuals and Organizations can choose to join a Hub to contribute to multiple Challenges around a certain theme. It is also possible to join seperate Challenges in different Hubs.</p>
     <p>Within all three levels, Users can discuss the topic, share relevant information in a structured manner, and brainstorm by using canvases.</p>
   </div>
@@ -86,7 +91,7 @@ design:
 
 <div id="platform-owner-challenge" class="collapse">
   <div class="content">
-    <p>On the Alkemio platform, both individual Users as well as Organizations can be the owner of a Challenge. You can find them under the Leading Users and/or Organizations.
+    <p>There is no "owner" of Challenges :) But there are "Leads", either Users or Organizations that care about the Challenge being addressed. You can find them under the Leading Users and/or Organizations.
   </p>
   </div>
 </div>
