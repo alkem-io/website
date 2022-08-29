@@ -30,17 +30,22 @@ image:
 
 ![](./header.png)
 
-*The Alkemio platform is growing! With the expansion of our users, guidance becomes more and more important. That is why we have made the first step towards building our **knowledge base**!*
+*The Alkemio platform is growing! With the expansion of our users, guidance becomes more and more important. That is why we have made the first step towards sharing our **knowledge base**!*
 
 This knowledge base will overtime include a FAQ, how-to guides, tips and tricks for using the platform, relevant articles, etc. 
 
 ### Frequently Asked Questions
-The good news is, we have put up our first version of the **Frequently Asked Questions** that you can access via [alkemio.foundation/faq/](https://www.alkemio.foundation/faq/) and the help icon on [alkem.io](https://alkem.io). The FAQ currently includes several questions related to the use of our platform, Alkemio in general, and the foundation behind Alkemio. Please have a look and share your suggestions!
+A good addition is that we have put up our first version of the **Frequently Asked Questions**. 
+
+
+The FAQ can be accessed via [Alkemio Foundation website](https://www.alkemio.foundation/faq/) and the help icon on the [Alkemio Platform](https://alkem.io). The FAQ currently includes several questions related to the use of our platform, Alkemio in general, and the Foundation behind Alkemio. 
 
 ![](./faq.png)
 
-### Tips and Tricks with Markdown
-With help from our partners, we learn about how Alkemio can be used on a daily basis. To give you an example of some tips and tricks for the platform, we will dive a bit deeper into the **Markdown** functionality. 
+It is an initial set of questions that we will be expanding over the coming weeks, so please have a look and share your suggestions!
+
+### Tips and Tricks: Markdown
+As usage of Alkemio grows, we see how Alkemio is used on a daily basis. One example topic that is worth diving deeper into is **Markdown**.
 
 Markdown is an easy way to add **formatting elements** to text documents. On the Alkemio platform, Markdown fields are for example used for *Updates*, *Context* of your Hub/Challenge/Opportunity, or Aspect *descriptions*. As visualized below, it can be used in many ways. 
 
