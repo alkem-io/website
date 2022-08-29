@@ -47,19 +47,23 @@ are are now centered too.
 <p>
 <b>Hub / Challenge / Opportunity Tabs</b>
 <p>
-The set of tabs are reduced from **six to four**:
+The set of tabs are reduced from <b>six to four</b>:
 <p>
-- The **Dashboard** tab has mostly remained the same, including a summary of the content.
-- The **Explore** tab becomes the place where all the wisdom of the community is gathered, either through 
+- The <b>Dashboard</b> tab has mostly remained the same, including a summary of the content.
+<p>
+- The <b>Explore</b> tab becomes the place where all the wisdom of the community is gathered, either through 
 Canavases or Aspects. On Hub, Challenge and Opportunity level, the leads can now ask their community to submit 
 their Canvas or Aspect with a 'Callout'. 
-- The **Challenges** and **Opportunities** tabs have remained the same.
-- The **About** tab now contains all information from the former Context and Community tabs.
-- The **Admin section** can be reached through the cogwheel icon.
+<p>
+- The <b>Challenges</b> and <b>Opportunities</b> tabs have remained the same.
+<p>
+- The <b>About</b> tab now contains all information from the former Context and Community tabs.
+<p>
+- The <b>Admin section</b> can be reached through the cogwheel icon.
 <p>
 <b>Callouts</b>
 <p>
-**Callouts** are a key new concept introduced with this release. A Callout is for engaging the community! 
+<b>Callouts</b> are a key new concept introduced with this release. A Callout is for engaging the community! 
 <p>
 Previously, your Community was able to share their knowledge via Aspects or Canvases. But this approach did not allow for providing context to the request to the Community, nor to have multiple requests to the Community.
 <p>
@@ -76,9 +80,9 @@ The Explore tab becomes the central page where the interaction with the Communit
 <img src="./innovationflow.png" width="70%" 
 class="align-center">
 <p>
-The platform also now supports '**Innovation Flow Templates**'. These are best practice Innovation Flows that can be used throughout the Hub. They are available via the Templates tab on the settings for a Hub.
+The platform also now supports '<b>Innovation Flow Templates</b>'. These are best practice Innovation Flows that can be used throughout the Hub. They are available via the Templates tab on the settings for a Hub.
 <p>
-*The creation of new Innovation Flow Templates is one that for now should be done with our assistance, but we would love to work with you to get your best practices available to your Community!*
+<i>The creation of new Innovation Flow Templates is one that for now should be done with our assistance, but we would love to work with you to get your best practices available to your Community!</i>
 <img src="./innovationflow-templates.png" width="70%" 
 class="align-center">
 <p>
@@ -102,3 +106,4 @@ And finally, when new releases are deployed, users will now see a Release Notifi
 <p>
 <img src="./releasenotification-1.png" width="70%" 
 class="align-center">
+<p>
