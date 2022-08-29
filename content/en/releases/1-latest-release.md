@@ -48,6 +48,7 @@ are are now centered too.
 <b>Hub / Challenge / Opportunity Tabs</b>
 <p>
 The set of tabs are reduced from **six to four**:
+<p>
 - The **Dashboard** tab has mostly remained the same, including a summary of the content.
 - The **Explore** tab becomes the place where all the wisdom of the community is gathered, either through 
 Canavases or Aspects. On Hub, Challenge and Opportunity level, the leads can now ask their community to submit 
