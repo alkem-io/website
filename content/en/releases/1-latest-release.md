@@ -93,7 +93,7 @@ Innovation Flows, and the related Innovation Flow Templates, are core platform f
 <p>
 The navigation on mobiles has also been fully refreshed:
 <p>
-<img src="./mobilemenu.png" width="70%" 
+<img src="./mobilemenu.png" width="20%" 
 class="align-center">
 <p>
 <b>Release notifications</b>
