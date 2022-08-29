@@ -50,17 +50,13 @@ are are now centered too.
 The set of tabs are reduced from <b>six to four</b>:
 <p>
 - The <b>Dashboard</b> tab has mostly remained the same, including a summary of the content.
-<p>
 - The <b>Explore</b> tab becomes the place where all the wisdom of the community is gathered, either through 
 Canavases or Aspects. On Hub, Challenge and Opportunity level, the leads can now ask their community to submit 
 their Canvas or Aspect with a 'Callout'. 
-<p>
 - The <b>Challenges</b> and <b>Opportunities</b> tabs have remained the same.
-<p>
 - The <b>About</b> tab now contains all information from the former Context and Community tabs.
-<p>
 - The <b>Admin section</b> can be reached through the cogwheel icon.
-<p>
+
 <b>Callouts</b>
 <p>
 <b>Callouts</b> are a key new concept introduced with this release. A Callout is for engaging the community! 
