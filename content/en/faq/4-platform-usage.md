@@ -95,13 +95,3 @@ design:
   </p>
   </div>
 </div>
-<h2 class="pb-2 font-weight-bold"> Other suggestions? </h2>
-Hopefully this FAQ has been helpful! If you have any other questions that you have or that should be added, please fill out this form below.
-<script charset="utf-8" type="text/javascript" src="//js-eu1.hsforms.net/forms/v2.js?pre=1"></script>
-<script>
-  hbspt.forms.create({
-    region: "eu1",
-    portalId: "25488729",
-    formId: "24eae078-aad9-4008-8006-bf6d219c0706"
-  });
-</script>
