@@ -32,30 +32,38 @@ Alkemio makes updates to the production platform approximately every two weeks. 
 <p></p>
 <b>Release 2022-8-26</b>
 <p></p>
-<i>A major release, bringing a simplified user experience and new functionalities! These changes include:</i>
+<i>This is a major release. It simplifies hugely the user experience, brings key new functionality such as Callouts and Innovation Flows, improves mobile navigation and much more. These changes are all part of our drive to increase user engagement.</i>
+<p>
 
-- <b>Platform navigation</b>: The platform menu has been removed, and the key links for Challenges and Contributors are now icons on the top menu bar: 
-<img src="./topmenu.png" width="70%" class="align-center">
+- <b>Platform menu</b>: Platform level pages such as the Challenges and Contributors pages are now accessed via icons top right. For Admins, the platform level administration is now available via your profile. This allowed us to remove the previous platform menu bar: 
+<img src="./topmenu.png" width="80%" class="align-center">
 
-
-- <b>Hub / Challenge / Opportunity Navigation</b>: The overall layout has changed, now placing the Hub title central, with the tagline underneath it. The banner images 
-are are now centered too.  
-<img src="./hubnavigation.png" width="70%" class="align-center">
+- <b>Hub / Challenge / Opportunity Navigation</b>: the *banner* for Hub, Challenge, and Opportunity now becomes a banner across the page with the title and tagline centered. If you are on Challenge or Opportunity level, you can also navigate back to the parent Hub or Challenge level via the *labels* top left. 
+<img src="./menulabels.png" width="80%" class="align-center">
 
 
 - <b>Hub / Challenge / Opportunity Tabs</b>: The set of tabs are reduced from six to four:
-    - The **Dashboard** tab has mostly remained the same, including a summary of the content.
-    - The **Explore** tab becomes the place where all the wisdom of the community is gathered, either through 
-Canavases or Aspects. On Hub, Challenge and Opportunity level, the leads can now ask their community to submit 
-their Canvas or Aspect with a 'Callout'. 
-    - The **Challenges** and **Opportunities** tabs have remained the same.
-    - The **About** tab now contains all information from the former Context and Community tabs.
-    - The **Admin section** can be reached through the cogwheel icon.
+    - The *Dashboard* tab has mostly remained the same, including a summary of the content.
+    - The *Explore* tab becomes the place where all the wisdom of the community is gathered, supporting multiple Callouts containing Canvases or Aspects. 
+    - The *Challenges* and *Opportunities* tabs have remained the same.
+    - The *About* tab now contains all information from the former Context and Community tabs.
 
-- <b>Callouts</b>: Callouts are a key new concept introduced with this release. A Callout is for engaging the community! 
-<img src="./callouts.png" width="70%" class="align-center">
-    - The previous Aspects and Canvases functionality are now available via Callouts on the Explore Tab
-    - It is now possible to create many Callouts to a Community, for example asking for the issues they face, finding related initiatives, identifying stakeholder groups etc. 
-    - There are additional Callout types coming, watch this space!
+  Finally, the <b>administration</b> is now done in the context of the containing entity. This can be reached via the cogwheel icon on the right. Note that it is now possible to directly navigate back to different areas of a Hub / Challenge / Opportunity from within the settings.
 
-
+- <b>Callouts</b>: Callouts are a core new platform concept to engage the Community. 
+    - Previously, your Community was able to share their knowledge via Aspects or Canvases. But this approach did not allow for *providing context to the request* to the Community, nor to have multiple requests to the Community.
+    - With the addition of Callouts, admins can frame *multiple requests* to the Community on different topics. The Community can answer by submitting a Card (previously known as Aspects) or Canvas.
+    - Also, you can keep your Callout in <i>draft</i> (only visible to admins) or <i>publish</i> it (also visible for your community). The cogwheel on the right allows you to publish/unpublish as well as <i>edit</i> your Callout. <img src="./callout.png" width="60%" class="align-center">
+- <b>Innovation Flows</b>: 'Innovation Flows' are another new core platform concept! They encapsulate the set of phases that a Challenge or Opportunity goes through as it progresses.
+<img src="./innovationflow.png" width="60%" class="align-center">
+The platform also now supports <b>'Innovation Flow Templates'</b>. These are best practice Innovation Flows that can be used throughout the Hub. They are available via the Templates tab on the settings for a Hub. 
+  <i>The creation of new Innovation Flow Templates is one that for now should be done with our assistance, but we would love to work with you to get your best practices available to your Community!</i>
+  <img src="./innovationflow-templates.png" width="60%" class="align-center">
+  The Innovation Flow Templates are then available to admins when creating a new Challenge or Opportunity:
+  <img src="./innovationflow-select.png" width="60%" class="align-center">
+Innovation Flows, and the related Innovation Flow Templates, are core platform functionality that has been there since the first version of Alkemio - so it is great to start exposing this to our Community. We would love to hear your feedback on this!!
+- <b>Mobile Menu</b>: also, we have refreshed the navigation for your mobile device:
+<img src="./mobilemenu.png" width="30%" class="align-center">
+- <b>Release Notifications</b>: and finally, when new releases are deployed, users will now see a <i>Release Notification banner</i> to inform them both that the release has happened as well as where they can find additional information about what has changed:
+<img src="./releasenotification.png" width="70%" class="align-center">
+This is all about ensuring the Community is informed about what has changed, certainly when such major updates are made available.
