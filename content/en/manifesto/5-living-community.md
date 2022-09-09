@@ -28,9 +28,9 @@ design:
 ---
 <div class="container">
    <div class="row">
-      <div class="col-sm px-4">
+      <div class="col-sm px-4 m-auto">
          <div class="px-3">
-            <h2 class="card-img-top font-weight-bold  pb-3"> Living community</h2>
+            <h2 class="font-weight-bold  pb-3"> Living community</h2>
             <p>
                Building an online <b>community</b> around a challenge. Turning individuals and organizations into co-workers. 
             </p>
@@ -39,7 +39,7 @@ design:
             </p>
          </div>
       </div>
-      <div class="col-sm align-content-center">
+      <div class="col-sm">
          <img src="../manifesto-lr/4-community/featured.png" width="100%" class="align-center">
       </div>
    </div>

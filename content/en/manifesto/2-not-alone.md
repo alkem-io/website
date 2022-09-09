@@ -28,12 +28,12 @@ design:
 ---
 <div class="container">
 <div class="row">
-   <div class="col-sm align-content-center ">
-      <img src="../manifesto-lr/1-not-alone/featured.jpg" width="100%" class="align-center">
-   </div>
    <div class="col-sm">
+      <img src="../manifesto-lr/1-not-alone/featured.jpg" width="100%">
+   </div>
+   <div class="col-sm m-auto">
       <div class="px-3">
-         <h2 class="card-img-top font-weight-bold pb-3"> We cannot progress alone </h2>
+         <h2 class="font-weight-bold pb-3"> We cannot progress alone </h2>
          <p> Today, issues such as <b>refugee crises</b>, <b>fake news</b>, <b>online safety</b> and <b>climate change</b>
             are not being sufficiently solved. 
          </p>

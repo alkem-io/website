@@ -28,12 +28,12 @@ design:
 ---
 <div class="container">
 <div class="row">
-   <div class="col-sm align-content-center">
+   <div class="col-sm m-auto">
       <img src="../manifesto-lr/3-open/featured.png" width="100%" class="align-center">
    </div>
-   <div class="col-sm">
+   <div class="col-sm m-auto">
       <div class="px-3">
-         <h2 class="card-img-top  font-weight-bold"> Open for all </h2>
+         <h2 class="font-weight-bold"> Open for all </h2>
          <p>Everyone can contribute. Making it straightforward to find, follow and directly <b>add value</b> on challenges.
          </p>
          <p>

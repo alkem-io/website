@@ -34,7 +34,7 @@ design:
    padding:0px;
    }
 </style>
-<h2 class="text-center p-3"> Empowering society <br> The platform to succeed in working on challenges, <br>together </h2>
+<h2 class="text-center font-weight-light p-3"> Empowering society <br> The platform to succeed in working on challenges, <br>together </h2>
 <p class="font-italic text-center pb-2">
    We are open, and invite all who support the principles of this manifesto to join <a href="https://alkem.io/" target="_blank"> click here</a>.
 </p>

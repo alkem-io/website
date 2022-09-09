@@ -29,9 +29,9 @@ design:
 
 <div class="container">
   <div class="row">
-    <div class="col-sm">
+    <div class="col-sm m-auto">
     <div class="px-3">
-      <h2 class="card-img-top font-weight-bold "> Across all boundaries </h2>
+      <h2 class="font-weight-bold "> Across all boundaries </h2>
       <p>
         Alkemio is a platform for <b>channelling</b> all the effort and ambition around challenges into solutions.
       </p>
