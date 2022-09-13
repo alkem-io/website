@@ -31,8 +31,8 @@ design:
     <div class="col text-center" > 
       <p class="pt-2"> Promote social and economic development in Western Ireland</p></div>
           <div class="col text-center" > 
-             <a href="" target="_blank"> 
-      <img src="" alt="" style="max-width:90%; margin:auto; height:100px;">
+             <a href="https://westerndevelopment.ie/" target="_blank"> 
+      <img src="./logos/western-development-commission-300x129.png" alt="Western Development Commission logo" style="max-width:90%; margin:auto; height:100px;">
       </a>
     </div>
   </div> 

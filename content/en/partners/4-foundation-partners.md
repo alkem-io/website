@@ -30,8 +30,7 @@ design:
     <div class="row align-items-top text-center mt-4 mb-5">
         <div class="col text-center">
             <p class="pt-2">
-                Ministry of the Interior and Kingdom Relations in the Netherlands <br />
-                Foundation Partner
+                Ministry of the Interior and Kingdom Relations in the Netherlands
             </p>
         </div>
         <div class="col text-center">
