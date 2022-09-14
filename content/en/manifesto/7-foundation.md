@@ -38,7 +38,7 @@ Every day we can reveal the <b>infinite potential of collaboration</b>. This is 
 To achieve <b>systematic change</b> in how we work together on <b>challenges</b> requires inclusion and transparency. Enabled by an <b>independent digital platform</b> to support this way of <b>working together on challenges</b>.
 </li>
 <li>
-<b>Public values should be central</b>. We love tech. But not how it is often used. We do not want data and digital tools to exploit people. Interactions should benefit public values, rather than commercial or other interests.
+<b>Public values should be central</b>. We love tech. But not how it is often used. We do not want digital tools and data to be used to exploit people. They should benefit society.
 </li>
 <li>
 <b>We enable change</b>. We put our energy and capabilities into building a solid <b>open-source platform</b>, best practices and trusted partnerships to innovate, develop, collaborate and <b>make progress together</b>. 
