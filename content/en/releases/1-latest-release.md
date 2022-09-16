@@ -28,13 +28,11 @@ design:
   #  color: 'navy'
   #  text_color_light: true
 ---
-All,
-
-The 2022-09-15 release went to production yesterday!
-
-Most of the improvements are again related to user engagement: simpler Comments, Discussion Callout and the displaying of Activity in communities.
-
-The enhancements that users will experience include: 
+Alkemio makes updates to the production platform approximately every two weeks. Below you can find the latest release note as well as links to previous notes.
+<p></p>
+<b>Release 2022-9-15</b>
+<p></p>
+<i>Most of the improvements in the release are again related to user engagement: simpler Comments, Discussion Callout and the displaying of Activity in communities.</i>
 
 ### Discussion Callout
 
