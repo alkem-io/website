@@ -34,7 +34,7 @@ Alkemio makes updates to the production platform approximately every two weeks. 
 <p></p>
 <i>Most of the improvements in the release are again related to user engagement: simpler Comments, Discussion Callout and the displaying of Activity in communities.</i>
 
-### Discussion Callout
+#### Discussion Callout
 
 As an Admin, I want to be able to engage the Community, and as a User I want to be easily able to contribute.
  
@@ -54,7 +54,7 @@ The draft Callout on a <b>Challenge</b> asks members to share their first though
 <img src="./callout-challenge.png" width="60%" 
 class="align-center">
 
-### Comments
+#### Comments
 
 As a User I want to be easily able to Contribute, via a simple interface.
 
@@ -66,7 +66,7 @@ class="align-center">
 <img src="./comments-new.png" width="40%" 
 class="align-center">
 
-### Latest activities
+#### Latest activities
 
 As a user I want to see what is happening in a Community. This is now directly available :)
 
@@ -75,7 +75,7 @@ Each Dashboard tab now has a first version of a <b>timeline feed with activities
 <img src="./activity-log.png" width="40%" 
 class="align-center">
 
-### User and Organization profile banners
+#### User and Organization profile banners
 
 As a User I want to be able to see information about Users and Organizations that are Contributing. And I want that my profile looks great!
 
@@ -84,7 +84,7 @@ The profile page for Users and Organizations has been refreshed to display key i
 <img src="./org-banner.png" width="70%" 
 class="align-center">
 
-### Email Notifications
+#### Email Notifications
 
 As a User I want to be notified of what is happening in my Communities. This has been supported via Notification emails for a long time - but has been extended in this release. A new notification email for when a <b>Callout is published</b> has been added.
 
