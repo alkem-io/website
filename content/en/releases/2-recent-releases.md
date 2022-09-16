@@ -29,11 +29,12 @@ design:
   #  text_color_light: true
 ---
 <b>Previous releases</b>
+<li><a href="https://alkem-25488729.hs-sites-eu1.com/alkemio-release-2022-08-26" target="_blank">2022-08-26</a>: 
+<i>"UX refresh, Callouts, Innovation Flows, +++"</i> </li>
 <li><a href="https://alkem-25488729.hs-sites-eu1.com/alkemio-release-2022-07-13" target="_blank">2022-07-13</a>:     
 <i>"Canvases as Cards, managing the Community, less User logins, and displaying character limits"</i> </li>
 <li><a href="https://alkem-25488729.hs-sites-eu1.com/alkemio-release-2022-06-29" target="_blank">2022-06-29</a>: 
 <i>"New home page, new platform and website domain, and Aspect management templates"</i> </li>
-<li><a href="https://alkem-25488729.hs-sites-eu1.com/alkemio-release-2022-06-16" target="_blank">2022-06-16</a>: <i>"Real time updates and display of rich content"</i> </li>
 <p>
 <p>
 <hr>
