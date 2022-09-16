@@ -75,7 +75,7 @@ Finally, the <i>administration</i> is now done in the context of the Hub, Challe
 ### Mobile Menu 
 These updates are all taken into consideration for our refreshed mobile menu as well.
 
-<img src="./mobilemenu.png" width="50%" 
+<img src="./mobile-menu.png" width="50%" 
 class="align-center">
 
 We continue to look for ways to support our users and we welcome all the feedback and input!   
