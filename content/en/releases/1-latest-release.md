@@ -48,12 +48,12 @@ A <i>draft</i> Discussion Callout has been added to each Hub and each Challenge.
 
 The draft Callout on a <b>Hub</b> asks members to introduce themselves to the rest of the Community:
 
-<img src="./callout-hub.png" width="70%" 
+<img src="./callout-hub.png" width="60%" 
 class="align-center">
 
 The draft Callout on a <b>Challenge</b> asks members to share their first thoughts, experience and expertise with others!
 
-<img src="./callout-challenge.png" width="70%" 
+<img src="./callout-challenge.png" width="60%" 
 class="align-center">
 
 ### Comments
@@ -62,10 +62,10 @@ As a User I want to be easily able to Contribute, via a simple interface.
 
 From the Discussion Callout images above, you can spot another update: the refresh of the comments interface. Previously, placing a comment on an Aspect had a really "heavy" interface with a lot of (often) unnecessary functionalities to choose from (left). This is now much <b>simpler</b>, but still supports markdown formatting, such as bold, italic, links (right). 
 
-<img src="./comments-old.png" width="70%" 
+<img src="./comments-old.png" width="40%" 
 class="align-center">
 
-<img src="./comments-new.png" width="70%" 
+<img src="./comments-new.png" width="40%" 
 class="align-center">
 
 ### Latest activities
@@ -74,7 +74,7 @@ As a user I want to see what is happening in a Community. This is now directly a
 
 Each Dashboard tab now has a first version of a <b>timeline feed with activities</b>. If someone adds a Card, a new Callout is published, a new member joins etc - you can see all that now directly on the activity feed:
 
-<img src="./activity-log.png" width="70%" 
+<img src="./activity-log.png" width="40%" 
 class="align-center">
 
 ### User and Organization profile banners
