@@ -35,25 +35,33 @@ image:
 ### Platform menu
 The key elements of our platform menu can now be found as icons on the top right: <b>Challenges</b>, <b>Contributors</b>, your <b>Profile</b> and - if applicable - your <b>Admin</b> settings. This is where you can explore all the Challenges on the platform as well as the individuals and organizations contributing to those Challenges.  
 
+New menu:
 ![](./new-platform-menu.png)
 
-As you can see in the old menu below, this allowed us to remove one additional 'menu line'. Also, when new releases are deployed, users will now see a <b>Release Notification banner</b> to inform them that the release has happened as well as where they can find additional information about what has changed.
-
+Old menu:
 ![](./old-platform-menu.png)
 
-In the future, we will work towards a third key element: <b>Knowledge</b>. This will be a place to gather articles with best practices related to multi-stakeholder collaboration, use cases that demonstrate how others use the platform, and templates that you can directly apply in your Hub.
+As you can see, a whole "menu line" has been removed!
+
+### Release Notification
+Also, when new releases are deployed, users will now see a <b>Release Notification banner</b> to inform them that the release has happened as well as where they can find additional information about what has changed:
+![](./new-release-notification.png)
 
 ### Hub, Challenge and Opportunity
 
-When you dive into your Hub, Challenge or Opportunity, you may have several questions. Where am I? Where do I start? What can I do? Previously, the old menu below had six or seven different tabs that highlighted the various functionalities but it didn't give you a real <b>direction</b> on where to start or to go.
+When you dive into your Hub, Challenge or Opportunity, you may have several questions. Where am I? Where do I start? What can I do? The tabs offered now are much more oriented on giving the user a <b>direction</b> on where to start or to go
 
+New menu:
+![](./new-opportunity-menu.png)
+
+Old menu:
 ![](./old-menu.png)
+
+As you can see, the new menu is a big simplification!  
 
 First of all, the new layout places the <i>banner, title, and tagline</i> centered across the page. Making it immediately clear where you are and what the purpose of this Hub / Challenge / Opportunity is. The labels on the top left have replaced the endless breadcrumbs that we previously had, making it much easier to navigate between the different 'levels'.
 
-![](./new-menu.png)
-
-Furthermore, based on the feedback of partners and platform users, we reduced the tabs to a <b>set of four</b>, making it more explicit where you should go for what:
+Furthermore, based on the feedback of partners and platform users, we reduced the tabs to a <b>set of four</b>, making it more explicit where you should go for what. 
 
 #### Dashboard
 Where am I? What are all the things that I can do or see here? The Dashboard combines this information and has mostly remained the same. It is the starting point and highlights the <i>summary</i> of the Hub/ Challenge / Opportunity. It includes the Updates as well as previews of the Community, latest activity, and the Challenges or Opportunities. 
