@@ -30,40 +30,64 @@ design:
 ---
 Alkemio makes updates to the production platform approximately every two weeks. Below you can find the latest release note as well as links to previous notes.
 <p></p>
-<b>Release 2022-8-26</b>
+<b>Release 2022-9-15</b>
 <p></p>
-<i>This is a major release. It simplifies hugely the user experience, brings key new functionality such as Callouts and Innovation Flows, improves mobile navigation and much more. These changes are all part of our drive to increase user engagement.</i>
-<p>
+<i>Most of the improvements in the release are again related to user engagement: simpler Comments, Discussion Callout and the displaying of Activity in communities.</i>
 
-- <b>Platform menu</b>: Platform level pages such as the Challenges and Contributors pages are now accessed via icons top right. For Admins, the platform level administration is now available via your profile. This allowed us to remove the previous platform menu bar: 
-<img src="./topmenu.png" width="80%" class="align-center">
+#### Discussion Callout
 
-- <b>Hub / Challenge / Opportunity Navigation</b>: the *banner* for Hub, Challenge, and Opportunity now becomes a banner across the page with the title and tagline centered. If you are on Challenge or Opportunity level, you can also navigate back to the parent Hub or Challenge level via the *labels* top left. 
-<img src="./menulabels.png" width="80%" class="align-center">
+As an Admin, I want to be able to engage the Community, and as a User I want to be easily able to contribute.
+ 
+In the previous release, we introduced <b>Callouts</b> as a core concept for engaging the Community. That release came with Callouts for Cards and Canvases. However the Callout concept is designed to be very flexible - and in this release we introduce a third Callout type: <b>Discussions</b>!
 
+Members of the Community can contribute by replying with a <b>simple text</b>. For example, community members can introduce themselves, share relevant thoughts on a topic etc.
 
-- <b>Hub / Challenge / Opportunity Tabs</b>: The set of tabs are reduced from six to four:
-    - The *Dashboard* tab has mostly remained the same, including a summary of the content.
-    - The *Explore* tab becomes the place where all the wisdom of the community is gathered, supporting multiple Callouts containing Canvases or Aspects. 
-    - The *Challenges* and *Opportunities* tabs have remained the same.
-    - The *About* tab now contains all information from the former Context and Community tabs.
+A <i>draft</i> Discussion Callout has been added to each Hub and each Challenge. As an Admin you can then edit the wording if you wish and choose to publish it to your Community (or delete it).
 
-  Finally, the <b>administration</b> is now done in the context of the containing entity. This can be reached via the cogwheel icon on the right. Note that it is now possible to directly navigate back to different areas of a Hub / Challenge / Opportunity from within the settings.
+The draft Callout on a <b>Hub</b> asks members to introduce themselves to the rest of the Community:
 
-- <b>Callouts</b>: Callouts are a core new platform concept to engage the Community. 
-    - Previously, your Community was able to share their knowledge via Aspects or Canvases. But this approach did not allow for *providing context to the request* to the Community, nor to have multiple requests to the Community.
-    - With the addition of Callouts, admins can frame *multiple requests* to the Community on different topics. The Community can answer by submitting a Card (previously known as Aspects) or Canvas.
-    - Also, you can keep your Callout in <i>draft</i> (only visible to admins) or <i>publish</i> it (also visible for your community). The cogwheel on the right allows you to publish/unpublish as well as <i>edit</i> your Callout. <img src="./callout.png" width="60%" class="align-center">
-- <b>Innovation Flows</b>: 'Innovation Flows' are another new core platform concept! They encapsulate the set of phases that a Challenge or Opportunity goes through as it progresses.
-<img src="./innovationflow.png" width="60%" class="align-center">
-The platform also now supports <b>'Innovation Flow Templates'</b>. These are best practice Innovation Flows that can be used throughout the Hub. They are available via the Templates tab on the settings for a Hub. 
-  <i>The creation of new Innovation Flow Templates is one that for now should be done with our assistance, but we would love to work with you to get your best practices available to your Community!</i>
-  <img src="./innovationflow-templates.png" width="60%" class="align-center">
-  The Innovation Flow Templates are then available to admins when creating a new Challenge or Opportunity:
-  <img src="./innovationflow-select.png" width="60%" class="align-center">
-Innovation Flows, and the related Innovation Flow Templates, are core platform functionality that has been there since the first version of Alkemio - so it is great to start exposing this to our Community. We would love to hear your feedback on this!!
-- <b>Mobile Menu</b>: also, we have refreshed the navigation for your mobile device:
-<img src="./mobilemenu.png" width="30%" class="align-center">
-- <b>Release Notifications</b>: and finally, when new releases are deployed, users will now see a <i>Release Notification banner</i> to inform them both that the release has happened as well as where they can find additional information about what has changed:
-<img src="./releasenotification.png" width="70%" class="align-center">
-This is all about ensuring the Community is informed about what has changed, certainly when such major updates are made available.
+<img src="./callout-hub.png" width="60%" 
+class="align-center">
+
+The draft Callout on a <b>Challenge</b> asks members to share their first thoughts, experience and expertise with others!
+
+<img src="./callout-challenge.png" width="60%" 
+class="align-center">
+
+#### Comments
+
+As a User I want to be easily able to Contribute, via a simple interface.
+
+From the Discussion Callout images above, you can spot another update: the refresh of the comments interface. Previously, placing a comment on an Aspect had a really "heavy" interface with a lot of (often) unnecessary functionalities to choose from (left). This is now much <b>simpler</b>, but still supports markdown formatting, such as bold, italic, links (right). 
+
+<img src="./comments-old.png" width="40%" 
+class="align-center">
+
+<img src="./comments-new.png" width="40%" 
+class="align-center">
+
+#### Latest activities
+
+As a user I want to see what is happening in a Community. This is now directly available :)
+
+Each Dashboard tab now has a first version of a <b>timeline feed with activities</b>. If someone adds a Card, a new Callout is published, a new member joins etc - you can see all that now directly on the activity feed:
+
+<img src="./activity-log.png" width="40%" 
+class="align-center">
+
+#### User and Organization profile banners
+
+As a User I want to be able to see information about Users and Organizations that are Contributing. And I want that my profile looks great!
+
+The profile page for Users and Organizations has been refreshed to display key information in the Banner:
+
+<img src="./org-banner.png" width="70%" 
+class="align-center">
+
+#### Email Notifications
+
+As a User I want to be notified of what is happening in my Communities. This has been supported via Notification emails for a long time - but has been extended in this release. A new notification email for when a <b>Callout is published</b> has been added.
+
+In addition, the titles and contents of the notification emails have been updated. For example, the <b>community name</b> now always comes first to make it easy for you to see what is happening in which community!
+
+So a bunch of visible enhancements in this release, glad as always to hear any feedback on the above updates. Enjoy!
