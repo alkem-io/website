@@ -18,9 +18,11 @@ weight: 7
 # Section design
 design:
   columns: 1
+  background:
+    color: 'white'
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
-    padding: ['20px', '0px', '0px', '0px']
+    padding: ['0px', '0px', '40px', '0px']
 
 advanced:
   css_style: "text-align: center;"
