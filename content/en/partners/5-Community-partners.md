@@ -36,6 +36,8 @@ design:
         <div class="col text-center">
             <p class="pt-2">People shouldn't be bought and sold</p>
         </div>
+    </div>
+</div>   
     <!-- Second row -->
     <div class="row align-items-top text-center mt-4 mb-5">
         <div class="col text-center">
