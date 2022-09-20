@@ -34,6 +34,15 @@ design:
              <a href="https://westerndevelopment.ie/" target="_blank"> 
       <img src="./logos/western-development-commission-300x129.png" alt="Western Development Commission logo" style="max-width:90%; margin:auto; height:100px;">
       </a>
+    <!-- Second row -->
+    <div class="row align-items-top text-center mt-4 mb-5">
+        <div class="col text-center">
+            <p class="pt-2">People shouldn't be bought and sold</p>
+        </div>
+        <div class="col text-center">
+            <a href="https://www.stopthetraffik.org/" target="_blank">
+                <img src="./logos/traffik-logo-hand.png" alt="Stop the traffik logo" style="max-width:90%;margin:auto;height:100px"/>
+            </a>
     </div>
   </div> 
 
