@@ -36,6 +36,18 @@ design:
         <div class="col text-center">
             <p class="pt-2">People shouldn't be bought and sold</p>
         </div>
+    <!-- Second row -->
+    <div class="row align-items-top text-center mt-4 mb-5">
+        <div class="col text-center">
+            <a href="https://vng.nl/" target="_blank">
+                <img src="./logos/vng.svg" alt="VNG logo" style="max-width: 90%; margin: auto; height: 100px;" />
+            </a>
+        </div>
+        <div class="col text-center">
+            <p class="pt-2">The Association of Netherlands Municipalities</p>
+        </div>
+    </div>
+</div>
     </div>
 </div>
 
