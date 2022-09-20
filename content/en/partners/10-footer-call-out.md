@@ -7,7 +7,7 @@ widget: hero
 headless: true
 
 # Order that this section appears on the page.
-weight: 9
+weight: 10
 
 # Section title
 #title: 
@@ -18,6 +18,8 @@ weight: 9
 # Section design
 design:
   columns: 1
+  background:
+    color: '#f7f7f7'
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
     padding: ["20px", "0px", "10px", "0px"]
@@ -32,8 +34,8 @@ hero_media: ""
 #   Display link(s) by specifying a URL and label below. Icon is optional for `cta`.
 #   Remove a link/note by deleting a cta/note block.
 cta:
-  url: "https://alkem.io/"
-  label: Join the Community!
+  url: "https://alkemio.foundation/feedback"
+  label: Get in touch
 
 # Note. An optional note to show underneath the links.
 cta_note:
