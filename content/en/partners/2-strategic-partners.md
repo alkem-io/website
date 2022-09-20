@@ -25,7 +25,7 @@ design:
 
 <div class="container mb-5">
     <!-- Title -->
-    <h2 class="text-center font-weight-bold">Stragetic Partner</h2>
+    <h2 class="text-center font-weight-bold">Stragetic Partners</h2>
     <!-- First row -->
     <div class="row align-items-top text-center mt-4 mb-5">
         <div class="col text-center">
