@@ -40,5 +40,3 @@ design:
         </div>
     </div>
 </div>
-
-
