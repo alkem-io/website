@@ -41,7 +41,7 @@ design:
     <!-- Second row -->
     <div class="row align-items-top text-center mt-4 mb-5">
         <div class="col text-center">
-            <a href="https://vng.nl/" target="_blank">
+            <a href="https://westerndevelopment.ie/"_blank">
                 <img src="./logos/western-development-commission-300x129.png" alt="Western Development Commission logo" style="max-width:90%;margin:auto;height:100px" />
             </a>
         </div>
