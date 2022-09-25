@@ -14,7 +14,7 @@ main:
     url: 'partners'
     weight: 20
   - name: News
-    url: 'post'
+    url: 'news'
     weight: 30
   - name: About
     identifier: about-main
