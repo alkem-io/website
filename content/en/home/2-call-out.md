@@ -28,6 +28,4 @@ design:
     padding: ["0px", "0", "10px", "0"]
 
 ---
-<p class="text-white text-center pt-2"><a href="https://www.linkedin.com/jobs/view/3215087264" target="_blank" class="text-white font-weight-bold"><i>Apply here to join</i></a> our team as a Lead React Developer</P>
-
-
+<p class="text-white text-center pt-2"><a href="https://alkem.io" target="_blank" class="text-white font-weight-bold"><i>Join the Alkemio platform and community here</i></a></P>
