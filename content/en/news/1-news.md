@@ -10,10 +10,10 @@ headless: true
 weight: 1
 
 # Section title
-title: Alkemio News
+title: Alkemio Newsroom
 
 # Section subtitle
-subtitle:
+subtitle: Read the latest blogs, platform releases, partner announcements, and more.
 
 # Section design
 design:
@@ -28,7 +28,7 @@ design:
   #  text_color_light: true
 ---
 
-Interested in keeping up to date on the latest Alkemio news? Here you can find out how to do so!
+Interested in keeping up to date on the latest Alkemio news? Sign up for the our monthly newsletter <a href="https://share-eu1.hsforms.com/1QphZYrkqQrya8sg29o360Qf6b89">here</a>!
 <ul>
 <li>
     <b><a class="px-1" href="/post" style="color:#068293">Blogs</a></b>: The team posts regular updates related to Alkemio foundation, the product itself, or relevant content for the Alkemio vision. <br/>
@@ -39,12 +39,6 @@ Interested in keeping up to date on the latest Alkemio news? Here you can find o
 <li>
     <b><a class="px-1" href="/releases/"  style="color:#068293">Releases</a></b>: For updates on the latest releases for the Alkemio Platform. New releases are deployed onto production approximately every 1 to 2 weeks. <br/>
 </li>
-</ul>
-<p></p>
-<p></p>
-
-Alkemio also posts regularly to the following social media platforms:
-<ul>
 <li>
     <b><a class="text-white px-2" href="https://github.com/alkem-io" target="_blank">
         <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" style="color:#068293" viewBox="0 0 24 24">
