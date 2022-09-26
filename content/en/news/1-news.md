@@ -13,7 +13,7 @@ weight: 1
 title: Alkemio Newsroom
 
 # Section subtitle
-subtitle: Read the latest blogs, platform releases, partner announcements, and more.
+subtitle: Links to the latest blogs, platform releases, partner announcements, and more.
 
 # Section design
 design:
