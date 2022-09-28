@@ -45,7 +45,8 @@ As you can see, a whole "menu line" has been removed!
 
 ### Release Notification
 Also, when new releases are deployed, users will now see a <b>Release Notification banner</b> to inform them that the release has happened as well as where they can find additional information about what has changed:
-![](./new-release-notification.png)
+
+![](./new-release-notificaiton.png)
 
 ### Hub, Challenge and Opportunity
 
