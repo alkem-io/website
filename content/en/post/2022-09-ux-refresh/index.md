@@ -33,7 +33,7 @@ image:
 <i>We believe that our platform can enable individuals and organizations to solve Challenges, together. But we do understand that it is again a new platform, with new functionalities and an unknown interface. The simplification of our menu structures has therefore been an important focal point the last weeks.</i>
 
 ### Platform menu
-The key elements of our platform menu can now be found as icons on the top right: <b>Challenges</b>, <b>Contributors</b>, your <b>Profile</b> and - if applicable - your <b>Admin</b> settings. This is where you can explore all the Challenges on the platform as well as the individuals and organizations contributing to those Challenges.  
+The key elements of our platform menu can now be found as icons on the <a href="https://alkem.io/"> top right: </a> <b>Challenges</b>, <b>Contributors</b>, your <b>Profile</b> and - if applicable - your <b>Admin</b> settings. This is where you can explore all the Challenges on the platform as well as the individuals and organizations contributing to those Challenges.  
 
 New menu:
 ![](./new-platform-menu.png)
@@ -45,7 +45,8 @@ As you can see, a whole "menu line" has been removed!
 
 ### Release Notification
 Also, when new releases are deployed, users will now see a <b>Release Notification banner</b> to inform them that the release has happened as well as where they can find additional information about what has changed:
-![](./new-release-notification.png)
+
+![](./new-release-notificaiton.png)
 
 ### Hub, Challenge and Opportunity
 
