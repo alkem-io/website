@@ -26,4 +26,5 @@
     X-Frame-Options = "SAMEORIGIN"
     X-XSS-Protection = "1; mode=block"
     X-Content-Type-Options = "nosniff"
+    Report-To = "{"group":"default","max_age":31536000,"endpoints":[{"url":"https://alkemio.report-uri.com/a/d/g"}],"include_subdomains":true}"
     Content-Security-Policy = "default-src 'self' cdn.jsdelivr.net fonts.googleapis.com fonts.gstatic.com netlify.com *.netlify.com *.hs-analytics.com *.hs-banner.com *.hs-scripts.com *.hscollectedforms.net *.hsforms.net *.hsforms.com *.vimeo.com *.vimeocdn.com www.google.com www.gstatic.com; style-src 'self' 'unsafe-hashes' 'unsafe-inline' *.alkemio.foundation cdn.jsdelivr.net fonts.googleapis.com fonts.gstatic.com *.netlify.app; form-action 'self' *.hsforms.com; script-src 'self' 'unsafe-hashes' 'unsafe-inline' *.netlify.com *.hs-scripts.com *.hscollectedforms.net *.hs-analytics.net *.hs-banner.com *.hsforms.net player.vimeo.com cdn.jsdelivr.net *.netlify.app www.google.com www.gstatic.com; connect-src 'self' cdn.segment.com *.hs-banner.com *.hubspot.com *.hsforms.com; img-src 'self' *.hsforms.com data: https:; base-uri 'self'; report-uri https://alkemio.report-uri.com/r/d/csp/enforce"
