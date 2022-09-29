@@ -40,6 +40,7 @@ header:
 # Site footer - Turn enable to true to turn on again - See partials for current footer.
 
 footer:
+  widget: minimal
   copyright:
     notice: '© {year} Stichting Alkemio &nbsp;&nbsp;&nbsp;&nbsp; 
       <a href="https://www.alkem.io/privacy/" target="_blank">Privacy &nbsp;&nbsp;&nbsp;&nbsp;</a> 
@@ -51,7 +52,7 @@ footer:
       allow_commercial: false
   design: 
     spacing:
-      padding: ["200px"]
+      padding: ["0px"]
 
 # Localization
 
