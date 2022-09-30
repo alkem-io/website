@@ -3,3 +3,8 @@
         "develop"
     ]
 }
+{
+    "githubPullRequests.ignoredPullRequestBranches": [
+        "develop"
+    ]
+}
