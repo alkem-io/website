@@ -15,7 +15,7 @@ title: Partners
 # Section subtitle
 subtitle:
   Working with the Alkemio Foundation to develop the platform and community
-  with sustainablity, neutrality and impact
+  with sustainability, neutrality and impact
 
 # Section design
 design:
