@@ -25,7 +25,7 @@ design:
 
 <div class="container mb-5">
 <!-- Title -->
-<h2 class="text-center font-weight-bold"> Other Partners </h2>
+<h2 class="text-center font-weight-bold"> Ecosystem Supporters </h2>
 <!-- First row -->
 <div class="row align-items-top text-center  mt-4 mb-5">
   <div class="col text-center" > 
@@ -46,4 +46,10 @@ design:
     <a href="https://www.kvk.nl/" target="_blank"> 
     <img src="./logos/kvk.svg" alt="Kamer van Koophandel logo" style="max-width:90%; margin:auto; height:75px;"> </a>
   </div>
+<div class="container mb-5">
+<!-- First row -->
+<div class="row align-items-top text-center mt-4 mb-5">
+    <div>*eSSIF-Lab is funded by the European Commission, as part of the Horizon 2020 Research and Innovation Programme, under Grant Agreement Nº 871932 and it’s framed under Next Generation Internet Initiative.</div>
+  </div>
+</div>
 </div>
