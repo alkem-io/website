@@ -49,5 +49,4 @@ design:
 <div class="container mb-5">
 <!-- First row -->
 <div class="row align-items-top text-center mt-4 mb-5">
-    <div>*eSSIF-Lab is funded by the European Commission, as part of the Horizon 2020 Research and Innovation Programme, under Grant Agreement Nº 871932 and it’s framed under Next Generation Internet Initiative.</div>
-</div>
+    <div>*eSSIF-Lab is funded by the European Commission, as part of the Horizon 2020 Research and Innovation Programme, under Grant Agreement Nº 871932 and it’s framed under Next Generation Internet Initiative.
