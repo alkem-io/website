@@ -31,6 +31,7 @@ Alkemio sends out newsletters by email with the latest news and updates about bo
 If you have any topics you’d like us to cover in future newsletters please let us know!
 <p></p>
 Previous newsletters:
+<li><a href="https://alkem-25488729.hs-sites-eu1.com/sharing-knowledge-is-caring.-alkemio-makes-it-easy-to-lead-with-challenges-and-questions.-not-solutions-and-answers" target="_blank">2022 - September</a> - <i>"What's new or changed on Alkemio?"</i> </li>
 <li><a href="http://alkem-25488729.hs-sites-eu1.com/2022-alkemio-summer-newsletter" target="_blank">2022 - Summer</a> - <i>"The Alkemio Manifesto is out"</i> </li>
 <li><a href="http://alkem-25488729.hs-sites-eu1.com/alkemio-june-newsletter" target="_blank">2022 - June</a> - <i>"Celebrating 1 Year of community power"</i> </li>
 <li><a href="http://alkem-25488729.hs-sites-eu1.com/alkemio-may-newsletter" target="_blank">2022 - May</a> - <i>"How to work Challenge Centric"</i> </li>
