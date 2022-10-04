@@ -38,7 +38,7 @@ Alkemio makes updates to the production platform approximately every two weeks. 
 
 As a User I want to find content on the platform easily. 
 
-Our previous search page still included an old design and was therefore in need of a good refresh... so the [search page](https://alkem.io/search?utm_source=hs_email&utm_medium=email&utm_content=64508637&_hsenc=p2ANqtz-9flNzEbc0S7uJQ3Nf5i34zKSG029nPsS5YU2FhnqukY8iyK6_dAbrF4cg-ysgqnZLCzODpCImke1Nk71Qs-djoUQf5VQ) was a key focus the previous sprint. Highlights:
+Our previous search page still included an old design and was therefore in need of a good refresh... so the <u>[search page](https://alkem.io/search?utm_source=hs_email&utm_medium=email&utm_content=64508637&_hsenc=p2ANqtz-9flNzEbc0S7uJQ3Nf5i34zKSG029nPsS5YU2FhnqukY8iyK6_dAbrF4cg-ysgqnZLCzODpCImke1Nk71Qs-djoUQf5VQ)</u> was a key focus the previous sprint. Highlights:
 - <b>Search cards</b>: each result now has a fresh new card to show what was matched
 - <b>Display of results</b>: Results are grouped by type: Journeys (Hubs / Challenges / Opportunities) and Contributors (Users / Organizations)
 
@@ -49,7 +49,7 @@ class="align-center">
 
 As a User I want to easily be able to browse through the Contributors on the platform.
 
-When clicking on the [Contributors page](https://alkem.io/contributors?utm_source=hs_email&utm_medium=email&utm_content=64508637&_hsenc=p2ANqtz-9flNzEbc0S7uJQ3Nf5i34zKSG029nPsS5YU2FhnqukY8iyK6_dAbrF4cg-ysgqnZLCzODpCImke1Nk71Qs-djoUQf5VQ), you want to <b>immediately see</b> some users and organizations. The old design only showed them after searching. In the refreshed design you can easily search for, and scroll through, all contributors.
+When clicking on the <u>[Contributors page](https://alkem.io/contributors?utm_source=hs_email&utm_medium=email&utm_content=64508637&_hsenc=p2ANqtz-9flNzEbc0S7uJQ3Nf5i34zKSG029nPsS5YU2FhnqukY8iyK6_dAbrF4cg-ysgqnZLCzODpCImke1Nk71Qs-djoUQf5VQ)</u>, you want to <b>immediately see</b> some users and organizations. The old design only showed them after searching. In the refreshed design you can easily search for, and scroll through, all contributors.
 
 Keep in mind that users are only visible after logging in!
 
