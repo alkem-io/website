@@ -30,64 +30,57 @@ design:
 ---
 Alkemio makes updates to the production platform approximately every two weeks. Below you can find the latest release note as well as links to previous notes.
 <p></p>
-<b>Release 2022-9-15</b>
+<b>Release 2022-09-28</b>
 <p></p>
-<i>Most of the improvements in the release are again related to user engagement: simpler Comments, Discussion Callout and the displaying of Activity in communities.</i>
+<i>Most of the improvements in the release are again related to user engagement: search refresh, contributors page refresh, translation updates, and ... emoji's 😀.</i>
 
-#### Discussion Callout
+#### Search User Experience
 
-As an Admin, I want to be able to engage the Community, and as a User I want to be easily able to contribute.
- 
-In the previous release, we introduced <b>Callouts</b> as a core concept for engaging the Community. That release came with Callouts for Cards and Canvases. However the Callout concept is designed to be very flexible - and in this release we introduce a third Callout type: <b>Discussions</b>!
+As a User I want to find content on the platform easily. 
 
-Members of the Community can contribute by replying with a <b>simple text</b>. For example, community members can introduce themselves, share relevant thoughts on a topic etc.
+Our previous search page still included an old design and was therefore in need of a good refresh... so the [search page](https://alkem.io/search?utm_source=hs_email&utm_medium=email&utm_content=64508637&_hsenc=p2ANqtz-9flNzEbc0S7uJQ3Nf5i34zKSG029nPsS5YU2FhnqukY8iyK6_dAbrF4cg-ysgqnZLCzODpCImke1Nk71Qs-djoUQf5VQ) was a key focus the previous sprint. Highlights:
+- <b>Search cards</b>: each result now has a fresh new card to show what was matched
+- <b>Display of results</b>: Results are grouped by type: Journeys (Hubs / Challenges / Opportunities) and Contributors (Users / Organizations)
 
-A <i>draft</i> Discussion Callout has been added to each Hub and each Challenge. As an Admin you can then edit the wording if you wish and choose to publish it to your Community (or delete it).
-
-The draft Callout on a <b>Hub</b> asks members to introduce themselves to the rest of the Community:
-
-<img src="./callout-hub.png" width="60%" 
+<img src="./journeys-search.png" width="60%" 
 class="align-center">
 
-The draft Callout on a <b>Challenge</b> asks members to share their first thoughts, experience and expertise with others!
+#### Contributors Page
 
-<img src="./callout-challenge.png" width="60%" 
+As a User I want to easily be able to browse through the Contributors on the platform.
+
+When clicking on the [Contributors page](https://alkem.io/contributors?utm_source=hs_email&utm_medium=email&utm_content=64508637&_hsenc=p2ANqtz-9flNzEbc0S7uJQ3Nf5i34zKSG029nPsS5YU2FhnqukY8iyK6_dAbrF4cg-ysgqnZLCzODpCImke1Nk71Qs-djoUQf5VQ), you want to <b>immediately see</b> some users and organizations. The old design only showed them after searching. In the refreshed design you can easily search for, and scroll through, all contributors.
+
+Keep in mind that users are only visible after logging in!
+
+<img src="./contributors-refresh.png" width="50%" 
 class="align-center">
 
-#### Comments
+#### Translations: Spanish (new!), Dutch
 
-As a User I want to be easily able to Contribute, via a simple interface.
+Alkemio recently participated in an event in Málaga to discuss how technology can support open and collaborative communities. An interesting reason to add a <b>new language</b> to our platform!
 
-From the Discussion Callout images above, you can spot another update: the refresh of the comments interface. Previously, placing a comment on an Aspect had a really "heavy" interface with a lot of (often) unnecessary functionalities to choose from (left). This is now much <b>simpler</b>, but still supports markdown formatting, such as bold, italic, links (right). 
+Credits to our team member Carlos from Madrid! 
 
-<img src="./comments-old.png" width="40%" 
+<img src="./spanish.png" width="60%" 
 class="align-center">
 
-<img src="./comments-new.png" width="40%" 
-class="align-center">
-
-#### Latest activities
-
-As a user I want to see what is happening in a Community. This is now directly available :)
-
-Each Dashboard tab now has a first version of a <b>timeline feed with activities</b>. If someone adds a Card, a new Callout is published, a new member joins etc - you can see all that now directly on the activity feed:
-
-<img src="./activity-log.png" width="40%" 
-class="align-center">
+Also for our innovators in the Netherlands, we have carried out a significant update to the <b>Dutch translations</b>! 
 
 #### User and Organization profile banners
 
-As a User I want to be able to see information about Users and Organizations that are Contributing. And I want that my profile looks great!
+A small update to the user and organization banners, that now include a transparent <b>Alkemio banner</b> instead of the full banner or a white background.
 
-The profile page for Users and Organizations has been refreshed to display key information in the Banner:
-
-<img src="./org-banner.png" width="70%" 
+<img src="./user-banner.png" width="60%" 
 class="align-center">
 
-#### Email Notifications
+#### Support of emoji's
 
-As a User I want to be notified of what is happening in my Communities. This has been supported via Notification emails for a long time - but has been extended in this release. A new notification email for when a <b>Callout is published</b> has been added.
+And last but not least, some fun 😉 The Alkemio platform now supports the use of emoji's.
 
-In addition, the titles and contents of the notification emails have been updated. For example, the <b>community name</b> now always comes first to make it easy for you to see what is happening in which community!
+Available in comments, updates, describing your challenge etc - bring some more emotions into the description!
+
+<img src="./emoji.png" width="60%" 
+class="align-center">
 
 So a bunch of visible enhancements in this release, glad as always to hear any feedback on the above updates. Enjoy!
