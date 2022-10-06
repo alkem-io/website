@@ -22,7 +22,7 @@ design:
     color: '#f7f7f7'
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
-    padding: ["20px", "0px", "10px", "0px"]
+    padding: ["0px", "0px", "10px", "0px"]
 
 advanced:
   css_style: "text-align: center;"
