@@ -32,7 +32,7 @@ Alkemio makes updates to the production platform approximately every two weeks. 
 <p></p>
 <b>Release 2022-09-28</b>
 <p></p>
-<i>This release focuses on simplifying the **creation and updating** of Challenges and Opportunities - important for a Challenge centric platform :) To help users in how the platform can be used there is also now *inspiration* for Callouts, and a refreshed *Challenges page* to help new users find relevant Challenges!
+<i>This release focuses on simplifying the <b>creation and updating</b> of Challenges and Opportunities - important for a Challenge centric platform :) To help users in how the platform can be used there is also now <b>inspiration</b> for Callouts, and a refreshed <b>Challenges page</b> to help new users find relevant Challenges!
 
 Interested in trying out the changes? Go directly to [Alkemio](https://alkem.io/?utm_source=hs_email&utm_medium=email&utm_content=64703278&_hsenc=p2ANqtz-9Giqo8QcZnf1CWdBLUSBKzmp4iMt-wvwbXM0qYcnNA30kdtBPsKqaaj3shSIvFGGfK-BM2cl2xAbSLj-JRK7VDK9TgcQ)!</i>
 
@@ -56,7 +56,7 @@ When I am creating a Hub, Challenge or Opportunity, I want to be guided through 
 
 Previously, all the context fields were **similar** (Background, Vision, Impact, Who). To help you frame the journey, we have further specified all the questions and added guidance to each of these fields. Especially key for users that are new to working Challenge Centric!
 
-<img src="./challenge.png" width="50%" 
+<img src="./challenge.png" width="60%" 
 class="align-center">
 
 #### Allowing members to create Challenges
