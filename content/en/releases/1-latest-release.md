@@ -32,55 +32,77 @@ Alkemio makes updates to the production platform approximately every two weeks. 
 <p></p>
 <b>Release 2022-09-28</b>
 <p></p>
-<i>Most of the improvements in the release are again related to user engagement: search refresh, contributors page refresh, translation updates, and ... emoji's 😀.</i>
+<i>This release focuses on simplifying the <b>creation and updating</b> of Challenges and Opportunities - important for a Challenge centric platform :) To help users in how the platform can be used there is also now <b>inspiration</b> for Callouts, and a refreshed <b>Challenges page</b> to help new users find relevant Challenges!
 
-#### Search User Experience
+Interested in trying out the changes? Go directly to [Alkemio](https://alkem.io/?utm_source=hs_email&utm_medium=email&utm_content=64703278&_hsenc=p2ANqtz-9Giqo8QcZnf1CWdBLUSBKzmp4iMt-wvwbXM0qYcnNA30kdtBPsKqaaj3shSIvFGGfK-BM2cl2xAbSLj-JRK7VDK9TgcQ)!</i>
 
-As a User I want to find content on the platform easily. 
+#### Simplified Challenge & Opportunity creation flow
 
-Our previous search page still included an old design and was therefore in need of a good refresh... so the <u>[search page](https://alkem.io/search?utm_source=hs_email&utm_medium=email&utm_content=64508637&_hsenc=p2ANqtz-9flNzEbc0S7uJQ3Nf5i34zKSG029nPsS5YU2FhnqukY8iyK6_dAbrF4cg-ysgqnZLCzODpCImke1Nk71Qs-djoUQf5VQ)</u> was a key focus the previous sprint. Highlights:
-- <b>Search cards</b>: each result now has a fresh new card to show what was matched
-- <b>Display of results</b>: Results are grouped by type: Journeys (Hubs / Challenges / Opportunities) and Contributors (Users / Organizations)
+As a Challenge or Opportunity lead, you want a low-threshold way of creating a new one.
 
-<img src="./journeys-search.png" width="60%" 
+The option to create a new Challenge is **now directly available** on the Challenges tab for users with that permission. Similarly for the option to create a new Opportunity under the Opportunities tab.
+
+<img src="./create.png" width="60%" 
 class="align-center">
 
-#### Contributors Page
+In addition, we have **simplified the creation process**, asking only for essential information and giving the user more guidance. The goal is to have you up and running in no time! 
 
-As a User I want to easily be able to browse through the Contributors on the platform.
-
-When clicking on the <u>[Contributors page](https://alkem.io/contributors?utm_source=hs_email&utm_medium=email&utm_content=64508637&_hsenc=p2ANqtz-9flNzEbc0S7uJQ3Nf5i34zKSG029nPsS5YU2FhnqukY8iyK6_dAbrF4cg-ysgqnZLCzODpCImke1Nk71Qs-djoUQf5VQ)</u>, you want to <b>immediately see</b> some users and organizations. The old design only showed them after searching. In the refreshed design you can easily search for, and scroll through, all contributors.
-
-Keep in mind that users are only visible after logging in!
-
-<img src="./contributors-refresh.png" width="50%" 
+<img src="./create-opportunity.png" width="60%" 
 class="align-center">
 
-#### Translations: Spanish (new!), Dutch
+#### Guidance for describing Hub / Challenge / Opportunity
 
-Alkemio recently participated in an event in Málaga to discuss how technology can support open and collaborative communities. An interesting reason to add a <b>new language</b> to our platform!
+When I am creating a Hub, Challenge or Opportunity, I want to be guided through a set of questions that help me frame it correctly.
 
-Credits to our team member Carlos from Madrid! 
+Previously, all the context fields were **similar** (Background, Vision, Impact, Who). To help you frame the journey, we have further specified all the questions and added guidance to each of these fields. Especially key for users that are new to working Challenge Centric!
 
-<img src="./spanish.png" width="60%" 
+<img src="./challenge.png" width="60%" 
 class="align-center">
 
-Also for our innovators in the Netherlands, we have carried out a significant update to the <b>Dutch translations</b>! 
+#### Allowing members to create Challenges
 
-#### User and Organization profile banners
+As an admin I want to be able to allow Hub members to create Challenges. 
 
-A small update to the user and organization banners, that now include a transparent <b>Alkemio banner</b> instead of the full banner or a white background.
+Hub Admins have a **new preference to allow Hub Members to create Challenges**
 
-<img src="./user-banner.png" width="60%" 
+<img src="./members-challenges.png" width="60%" 
 class="align-center">
 
-#### Support of emoji's
+#### Innovation flow management
 
-And last but not least, some fun 😉 The Alkemio platform now supports the use of emoji's.
+As an admin I want to be able to manage the Innovation Flow used in the Challenge / Opportunity. 
 
-Available in comments, updates, describing your challenge etc - bring some more emotions into the description!
+Related to the simplifying of the creation of Challenges and Opportunities, the management of Innovation Flows has also been refreshed. There is **new Innovation Flow tab** for admins to interact with and update the state of the Innovation Flow:
 
-<img src="./emoji.png" width="60%" 
+<img src="./innovationflow.png" width="60%" 
 class="align-center">
 
-So a bunch of visible enhancements in this release, glad as always to hear any feedback on the above updates. Enjoy!
+For the sharp eyed, you will notice that there is also now the option to **change the current Innovation Flow definition**. This is something we advise you to do in consultation with us. So for now, if you wish to use a custom Innovation Flow, please take up contact with us so that we can help you.
+
+#### Callout inspiration
+
+As an admin, I want to create Callouts to engage my Community and gather important insights, knowledge, and experiences.
+
+But if you are just starting, it may be difficult. What is a Callout exactly? How do I use it in a Hub, Challenge, or an Opportunity? And what are the differences between discussions, cards, and canvases?
+
+The Callout page now includes an **inspiration button**, that will direct you to our inspiration page. Over time we will also include inspiration for other functionalities or concepts. 
+
+<img src="./inspiration-button.png" width="60%" 
+class="align-center">
+
+Working on your Challenge? Please have a look at this [inspiration page](https://alkem.io/inspiration/callouts?utm_source=hs_email&utm_medium=email&utm_content=64703278&_hsenc=p2ANqtz-9Giqo8QcZnf1CWdBLUSBKzmp4iMt-wvwbXM0qYcnNA30kdtBPsKqaaj3shSIvFGGfK-BM2cl2xAbSLj-JRK7VDK9TgcQ), directly apply them, and start engaging the community!
+
+<img src="./inspiration-page.png" width="60%" 
+class="align-center">
+
+#### Challenges page refresh
+As a not logged in user, I want to see what is happening on this platform. What are the Challenges that people work on? What is the structure?
+
+The previous [Challenges page](https://alkem.io/challenges) was just an empty page and didn't give much guidance. That is why we have added an **explanatory box** on the top right, and display all the public Challenges. In that way, users can start exploring immediately. 
+
+<img src="./challenge-page.png" width="60%" 
+class="align-center">
+
+So quite a focus on Challenges this release, improving what is really the heart of the platform. 
+
+As always please share your feedback and comments. Enjoy!
