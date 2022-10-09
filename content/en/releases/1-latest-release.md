@@ -30,7 +30,7 @@ design:
 ---
 Alkemio makes updates to the production platform approximately every two weeks. Below you can find the latest release note as well as links to previous notes.
 <p></p>
-<b>Release 2022-09-28</b>
+<b>Release 2022-10-06</b>
 <p></p>
 <i>This release focuses on simplifying the <b>creation and updating</b> of Challenges and Opportunities - important for a Challenge centric platform :) To help users in how the platform can be used there is also now <b>inspiration</b> for Callouts, and a refreshed <b>Challenges page</b> to help new users find relevant Challenges!
 
