@@ -29,7 +29,7 @@ design:
   #  text_color_light: true
 ---
 <b>Previous releases</b>
-<li><a href="https://alkem-25488729.hs-sites-eu1.com/alkemio-release-2022-09-28" target="_blank">2022-09-15</a>: 
+<li><a href="https://alkem-25488729.hs-sites-eu1.com/alkemio-release-2022-09-28" target="_blank">2022-09-28</a>: 
 <i>"Search refresh, Contributors page, translation updates, user/organization profile banners, emoji's "</i> </li>
 <li><a href="https://alkem-25488729.hs-sites-eu1.com/alkemio-release-2022-09-15" target="_blank">2022-09-15</a>: 
 <i>"Discussion Callout, comments, latest activities, user and organization banners, email notifications"</i> </li>
