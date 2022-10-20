@@ -1,3 +1,19 @@
 .article-container{
     max-width: 1300px;
 }
+
+
+.partner-logo-3-row{
+    object-fit: contain;
+    max-width:90%; 
+    margin:auto; 
+    height:75px !important;
+}
+
+
+.partner-logo-2-row{
+    object-fit: contain; 
+    max-width:90%; 
+    margin:auto; 
+    height:75px !important;
+}
