@@ -28,25 +28,30 @@ design:
 <h2 class="text-center font-weight-bold"> Ecosystem Supporters </h2>
 <!-- First row -->
 <div class="row align-items-top text-center  mt-4 mb-5">
-  <div class="col text-center" > 
-    <a href="https://www.sidnfonds.nl/" target="_blank">
-    <img src="./logos/sidn.svg" alt="SIDN Fonds logo" style="max-width:90%; margin:auto; height:75x;"> </a> </div>     <div class="col text-center" > 
-    <a href="https://essif-lab.eu/" target="_blank"> 
-    <img src="./logos/ngi-essiflab.jpg" alt="NGI Essif Lab logo" style=" margin:auto; height:75px;">
-    </a> </div>     <div class="col text-center" > 
-    <a href="https://jolocom.io/" target="_blank">
-    <img src="./logos/jolocom_h@3x.png" alt="Jolocom logo" style="max-width:90%; margin:auto; height:75px;"> </a>
-  </div>
+   <div class="col partner-logo-3-row" > 
+      <a href="https://www.sidnfonds.nl/" target="_blank">
+      <img src="./logos/sidn.svg" alt="SIDN Fonds logo"> </a> 
+   </div>
+   <div class="col partner-logo-3-row" > 
+      <a href="https://essif-lab.eu/" target="_blank"> 
+      <img src="./logos/ngi-essiflab.jpg" alt="NGI Essif Lab logo">
+      </a> 
+   </div>
+   <div class="col partner-logo-3-row" > 
+      <a href="https://jolocom.io/" target="_blank">
+      <img src="./logos/jolocom_h@3x.png" alt="Jolocom logo"> </a>
+   </div>
 </div>
 <!-- Second row -->
-<div class="row align-items-top text-center  mt-4 mb-5">
-  <div class="col text-center"> 
+<div class="row align-items-top text-center  mt-4 ">
+  <div class="col partner-logo-2-row"> 
     <a href="https://odyssey.org/" target="_blank">
-    <img src="./logos/odyssey.png" alt="Odyssey logo" style="max-width:90%; margin:auto; height:75px;"> </a> </div>     <div class="col text-center" > 
+    <img src="./logos/odyssey.png" alt="Odyssey logo" style="object-fit: contain; max-width:90%; margin:auto; height:75px;"> </a> </div>     
+    <div class="col partner-logo-2-row" > 
     <a href="https://www.kvk.nl/" target="_blank"> 
-    <img src="./logos/kvk.svg" alt="Kamer van Koophandel logo" style="max-width:90%; margin:auto; height:75px;"> </a>
+    <img src="./logos/kvk.svg" alt="Kamer van Koophandel logo" style="object-fit: contain; max-width:90%; margin:auto; height:75px;"> </a>
   </div>
-<div class="container mb-5">
+<div class="container mt-3 mb-1">
 <!-- First row -->
 <div class="col text-center">
     <div>*eSSIF-Lab is funded by the European Commission, as part of the Horizon 2020 Research and Innovation Programme, under Grant Agreement Nº 871932 and it’s framed under Next Generation Internet Initiative.
