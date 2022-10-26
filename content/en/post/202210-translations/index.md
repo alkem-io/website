@@ -50,12 +50,12 @@ We're using a tool called [Crowdin](https://crowdin.com/), a crowdsourcing tool 
 2. (Optional) Update your profile on the [this page](https://crowdin.com/settings#account).
 3. Go to the Alkemio project by searching in the top search bar, or by directly going to [our page](https://crowdin.com/project/alkemio).
 4. Click the green 'Join' button to join the Alkemio project and select the language that you want to translate to (from English)
-![](./screenshot1.png)
+![](./selectlanguage.png)
 5. Hit the green "Translate All" button to get started and click through the tutorial.
-![](./screenshot2.png)
+![](./translateall.png)
 7. You're ready to start translating! See the screenshot below how to!
 
-![](./screenshot3.png)
+![](./steps.png)
 
 7. That's all! Easy, right?
 <br/>
@@ -67,7 +67,7 @@ We want to assure that the translations meet our standards and match with our te
 **Did you know?**
 You can also use Crowdin to improve translations! Just use the "Search strings" and type in the string that you want to change: 
 
-![](https://i.imgur.com/mNV2lsm.png)
+![](./searchstrings.png)
 
 <br/>
 
