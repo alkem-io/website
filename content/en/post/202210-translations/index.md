@@ -1,7 +1,7 @@
 ---
 #widget: pages
 #headless: true
-title: 'Wisdom of the community: help us translate!'
+title: 'Help us translate!'
 date: "2022-10-26"
 lastmod: "2022-10-26"
 math: false
@@ -29,8 +29,6 @@ image:
 
 ![](./header.png)
 
-# Wisdom of the community: help us translate! 
-
 
 ## Contributing to the platform
 Alkemio is all about building something together: not only a better future for society, but also a platform that can facilitate these journeys. We are fully open source, which means that your contributions to the platform are very valuable and welcome. 
@@ -50,7 +48,7 @@ We're using a tool called [Crowdin](https://crowdin.com/), a crowdsourcing tool 
 2. (Optional) Update your profile on the [this page](https://crowdin.com/settings#account).
 3. Go to the Alkemio project by searching in the top search bar, or by directly going to [our page](https://crowdin.com/project/alkemio).
 4. Click the green 'Join' button to join the Alkemio project and select the language that you want to translate to (from English)
-![](./selectlanguage.png)
+<img src="./selectlanguage.png" alt="drawing" width="500"/>
 5. Hit the green "Translate All" button to get started and click through the tutorial.
 ![](./translateall.png)
 7. You're ready to start translating! See the screenshot below how to!
