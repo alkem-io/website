@@ -1,9 +1,9 @@
 ---
 #widget: pages
 #headless: true
-title: ''Building up our Community''
-date: "2022-10-27"
-lastmod: "2022-10-27"
+title: 'Building up our Community'
+date: "2022-10-26"
+lastmod: "2022-10-26"
 math: false
 diagram: false
 summary: 'Building up our Community'
@@ -27,6 +27,7 @@ image:
   preview_only: true
 ---
 ![](./header.png)
+
 # Building up our community
 
 ![](https://i.imgur.com/jTOjoMi.png)
