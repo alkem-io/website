@@ -26,8 +26,8 @@ image:
   placement: 1
   preview_only: true
 ---
-![](./header.jpg)
 
+<img src="./header.jpg" alt="drawing" width="500"/>
 
 
 
