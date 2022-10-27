@@ -47,33 +47,38 @@ With profits serving purpose there is a growing steward ownership community in N
 
 **Events**
 
-27&28 September 2022 • Malaga
-𝗘𝗺𝗽𝗼𝗱𝗲𝗿𝗮 𝗟𝗶𝘃𝗲 - 𝗗𝗲𝗻𝗶𝘀𝗲 𝗟𝗮𝗿𝘀𝘀𝗼𝗻 - 𝗢𝗽𝗲𝗻 𝗮𝗻𝗱 𝗦𝗲𝗰𝘂𝗿𝗲 𝗖𝗼𝗹𝗹𝗮𝗯𝗼𝗿𝗮𝘁𝗶𝘃𝗲 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝗶𝗲𝘀 https://lnkd.in/eGCWGkgA
+27 & 28 September 2022 • Malaga (Spain)
+<br/>
+**[Empodera Live](https://lnkd.in/eGCWGkgA) - Denise Larsson - Open and Secure Collaborative Communities**
+<br/>
 
-6 October 2022 • Amersfoort
-**Eigendom Anders Festival - 𝗡𝗲𝗶𝗹 𝗦𝗺𝘆𝘁𝗵 - Steward Ownership**
+6 October 2022 • Amersfoort 
+<br/>
+**[Eigendom Anders Festival](https://eigendomanders.nl/) - Neil Smyth - Steward Ownership**
 
-18 October 2022 • hybride/Ghent • 
-**Discover New Encouters on the Horizon - 𝗗𝗲𝗻𝗶𝘀𝗲 𝗟𝗮𝗿𝘀𝘀𝗼𝗻 - societal and digital transformation**
-https://lnkd.in/eMuBfr2Z
-
+18 October 2022 • Ghent (Belgium)
+<br/>
+**[Discover New Encounter](https://lnkd.in/eMuBfr2Z) - Denise Larsson & Neil Smyth - Societal and digital transformation**
 
 1 November 2022 • World Forum • The Hague
-**𝗚𝗼𝘃 𝗧𝗲𝗰𝗵 𝗦𝘂𝗺𝗺𝗶𝘁 - 𝗡𝗲𝗶𝗹 𝗦𝗺𝘆𝘁𝗵 - More founders, less barriers: is procurement the single biggest blocker to innovation?**
-𝗚𝗼𝘃 𝗧𝗲𝗰𝗵 𝗦𝘂𝗺𝗺𝗶𝘁 - 𝗧𝗲𝗮𝗺 - 𝗘𝘅𝗽𝗼
-https://lnkd.in/e8Qwqqmh
+<br/>
+**[Gov Tech Summit](https://www.govtechsummit.eu/agenda) - Neil Smyth - More founders, less barriers: is procurement the single biggest blocker to innovation**
+<br/>
+**[Gov Tech Summit](https://lnkd.in/e8Qwqqmh) - Team - Expo**
 
-𝗜𝗡𝗡𝗢𝘃𝗲𝗺𝗯𝗲𝗿 • hybride • (In Dutch)
-2 November - 𝗡𝗲𝗶𝗹 𝗦𝗺𝘆𝘁𝗵 - 𝗣𝗿𝗼𝗮𝗰𝘁𝗶𝗲𝘃𝗲 𝗱𝗶𝗲𝗻𝘀𝘁𝘃𝗲𝗿𝗹𝗲𝗻𝗶𝗻𝗴
-https://lnkd.in/eja5VKB3
-17 November - 𝗧𝗲𝗮𝗺 - 𝗡𝗲𝘁𝘄𝗲𝗿𝗸𝗯𝗼𝗿𝗿𝗲𝗹
-https://lnkd.in/eKmMmjWJ
-25 November - 𝗡𝗲𝗶𝗹 𝗦𝗺𝘆𝘁𝗵 - 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝗶𝗲𝘀 𝗮𝗹𝘀 𝗶𝗻𝗻𝗼𝘃𝗮𝘁𝗶𝗲𝘃𝗲 𝘄𝗲𝗿𝗸𝘄𝗶𝗷𝘇𝗲 𝗯𝗶𝗻𝗻𝗲𝗻 𝗱𝗲 𝗿𝗶𝗷𝗸𝘀𝗼𝘃𝗲𝗿𝗵𝗲𝗶𝗱
-https://lnkd.in/eaeRanWn
+November 2022 • Hybrid (In Dutch)
+<br/>
+**INNOvember** 
+<br/>
+2 November - **Neil Smyth - [Proactieve Dienstverlening](https://lnkd.in/eja5VKB3)**
+<br/>
+17 November - **Team - [Networkborrel](https://lnkd.in/eKmMmjWJ)**
+<br/>
+25 November - **Neil Smyth - [Communities als innovatieve werkwijze binnen de rijksoverheid](https://lnkd.in/eaeRanWn)**
+<br/>
 
 15 November • Fokker Terminal • The Hague
-𝗜𝗺𝗽𝗮𝗰𝘁𝗙𝗲𝘀𝘁 - 𝗡𝗲𝗶𝗹 𝗦𝗺𝘆𝘁𝗵 - **How to succeed in working on Challenges, together**
-𝗜𝗺𝗽𝗮𝗰𝘁𝗙𝗲𝘀𝘁 - 𝗧𝗲𝗮𝗺 - 𝗖𝗿𝗲𝗮𝘁𝗶𝗻𝗴 𝘁𝗵𝗲 𝗙𝘂𝘁𝘂𝗿𝗲 𝗼𝗳 𝗜𝗺𝗽𝗮𝗰𝘁 https://lnkd.in/ePquRz4r
-
-
-
+<br/>
+**[ImpactFest](https://lnkd.in/ePquRz4r) - Neil Smyth - How to succeed in working on Challenges, together**
+<br/>
+**[ImpactFest](https://www.govtechsummit.eu/partners) - Team - Creating the Future of Impact**
