@@ -26,7 +26,7 @@ image:
   placement: 1
   preview_only: true
 ---
-![](./header.png)
+![](./header.jpg)
 
 # Building up our community
 
