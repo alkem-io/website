@@ -1,12 +1,12 @@
 ---
 #widget: pages
 #headless: true
-title: 'Building up our Community'
+title: 'Building our Community'
 date: "2022-10-26"
 lastmod: "2022-10-26"
 math: false
 diagram: false
-summary: 'Building up our Community'
+summary: 'Building our Community'
 authors:
 - ros-birgit
 tags:
@@ -27,8 +27,6 @@ image:
   preview_only: true
 ---
 ![](./header.jpg)
-
-# Building up our community
 
 
 
