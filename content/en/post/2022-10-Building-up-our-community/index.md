@@ -30,7 +30,7 @@ image:
 
 # Building up our community
 
-![](https://i.imgur.com/jTOjoMi.png)
+![](./steward-ownership.png)
 
 
 
