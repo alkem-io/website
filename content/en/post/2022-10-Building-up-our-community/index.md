@@ -34,6 +34,7 @@ image:
 
 
 **At lot of engagement to enable change**
+
 Our calender is full of very cool events to discuss, meet and know more about how communities are currently working on challenges. All part of our purpose driven mission to enable people to work challenge centric, on an open-source platform with public values central.
 
 
