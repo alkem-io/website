@@ -30,7 +30,6 @@ image:
 
 # Building up our community
 
-![](./steward-ownership.png)
 
 
 
@@ -42,7 +41,7 @@ Our calender is full of very cool events to discuss, meet and know more about ho
 **Purpose before profits, public values central**
 
 Imagine a company structure where your independence and purpose are guaranteed. Around for a long time, think Patagonia, Bosch and Zeiss. Now in the 2020s more stakeholders are looking for companies with a clear and guaranteed purpose. In the Netherlands good examples are [TBI and Moonback](https://wearestewards.nl/bedrijven/). What's needed are more businesses like Patagonia that model a viable ethical business and make meaningful commitments in line with their purpose.
-![](https://i.imgur.com/FUbFHF1.png)
+![](./steward-ownership.png)
 For Alkemio, it is about ensuring public values remain central. Established as a foundation in 2020, we are now ready for the next step towards Steward Ownership. Setting up steward ownership and growing the community will guarantee that Alkemio remains purpose driven and all stakeholders can work together with this clear vision written up in our manifesto > https://www.alkemio.foundation/manifesto/. 
 
 With profits serving purpose there is a growing steward ownership community in NL, Europe and globally - recognising that there are many types of value and it is not all about shareholder returns. We invite all who support this mission to join the [Alkemio community](https://alkem.io/). We have joined or will join these events, working with these communities to see what is needed to realize change, together!
