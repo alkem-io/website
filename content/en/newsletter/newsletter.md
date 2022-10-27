@@ -31,9 +31,12 @@ Alkemio sends out newsletters by email with the latest news and updates about bo
 If you have any topics you’d like us to cover in future newsletters please let us know!
 <p></p>
 Previous newsletters:
-<li><a href="http://alkem-25488729.hs-sites-eu1.com/alkemio-may-newsletter" target="_blank">2022 - May</a> -     <i>"How to work Challenge Centric"</i> </li>
-<li><a href="http://alkem-25488729.hs-sites-eu1.com/newsletter/2022/april" target="_blank">2022 - April</a> -     <i>"Building Alkemio together"</i> </li>
-<li><a href="http://alkem-25488729.hs-sites-eu1.com/newsletter/2022/march" target="_blank">2022 - March</a> -     <i>"How can Alkemio help the Ukraine response?"</i> </li>
+<li><a href="https://alkem-25488729.hs-sites-eu1.com/sharing-knowledge-is-caring.-alkemio-makes-it-easy-to-lead-with-challenges-and-questions.-not-solutions-and-answers" target="_blank">2022 - September</a> - <i>"What's new or changed on Alkemio?"</i> </li>
+<li><a href="http://alkem-25488729.hs-sites-eu1.com/2022-alkemio-summer-newsletter" target="_blank">2022 - Summer</a> - <i>"The Alkemio Manifesto is out"</i> </li>
+<li><a href="http://alkem-25488729.hs-sites-eu1.com/alkemio-june-newsletter" target="_blank">2022 - June</a> - <i>"Celebrating 1 Year of community power"</i> </li>
+<li><a href="http://alkem-25488729.hs-sites-eu1.com/alkemio-may-newsletter" target="_blank">2022 - May</a> - <i>"How to work Challenge Centric"</i> </li>
+<li><a href="http://alkem-25488729.hs-sites-eu1.com/newsletter/2022/april" target="_blank">2022 - April</a> - <i>"Building Alkemio together"</i> </li>
+<li><a href="http://alkem-25488729.hs-sites-eu1.com/newsletter/2022/march" target="_blank">2022 - March</a> - <i>"How can Alkemio help the Ukraine response?"</i> </li>
 <li><a href="http://alkem-25488729.hs-sites-eu1.com/newsletter/2021/december" target="_blank">2021 - December</a> - <i>"Why is Alkemio a Foundation?"</i> </li>
 <li><a href="http://alkem-25488729.hs-sites-eu1.com/newsletter/2021/november" target="_blank">2021 - November</a> - <i>"Why do we need Alkemio if we already have Teams / Slack / Google Workspace / Whatsapp etc?"</i> </li>
 <li><a href="http://alkem-25488729.hs-sites-eu1.com/newsletter/2021/september" target="_blank">2021 - September</a> - <i>"Solving the challenges facing society is the responsibility of the many, not the privilege of the few"</i> </li>

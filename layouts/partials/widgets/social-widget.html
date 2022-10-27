@@ -1,0 +1,56 @@
+{{ $github := resources.Get "media/socials/github.png" }}
+{{ $twitter := resources.Get "media/socials/twitter.png" }}
+{{ $linkedin := resources.Get "media/socials/linkedin.png" }}
+{{ $blog := resources.Get "media/socials/blog.png" }}
+{{ $newsletter := resources.Get "media/socials/newsletter.png" }}
+{{ $releases := resources.Get "media/socials/releases.png" }}
+
+
+<div class='container'>
+  <div class='row justify-content-between'>
+    <div class='col text-center'>
+      <a href='https://github.com/alkem-io' target='_blank'>
+        <button class='btn text-white font-weight-bold'>
+          <img src='{{ $github.Permalink }}' />
+        </button>
+      </a>
+    </div>
+    <div class='col text-center'>
+      <a href='https://twitter.com/alkem_io' target='_blank'>
+        <button class='btn text-white font-weight-bold'>
+          <img src='{{ $twitter.Permalink }}' />
+        </button>
+      </a>
+    </div>
+    <div class='col text-center'>
+      <a href='https://www.linkedin.com/company/alkemio-foundation/' target='_blank'>
+        <button class='btn text-white font-weight-bold'>
+          <img src='{{ $linkedin.Permalink }}' />
+        </button>
+      </a>
+    </div>
+  </div>
+  <div class='row justify-content-between'>
+    <div class='col text-center'>
+      <a href='/post/' target='_blank'>
+        <button class='btn text-white font-weight-bold'>
+          <img src='{{ $blog.Permalink }}' />
+        </button>
+      </a>
+    </div>
+    <div class='col text-center'>
+      <a href='https://www.alkemio.foundation/newsletter/' target='_blank'>
+        <button class='btn text-white font-weight-bold'>
+          <img src='{{ $newsletter.Permalink }}' />
+        </button>
+      </a>
+    </div>
+    <div class='col text-center'>
+      <a href='/releases/' target='_blank'>
+        <button class='btn text-white font-weight-bold'>
+          <img src='{{ $releases.Permalink }}' />
+        </button>
+      </a>
+    </div>
+  </div>
+</div>
