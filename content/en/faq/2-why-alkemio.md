@@ -65,7 +65,7 @@ Alkemio Github repository</a>.</p>
 </div>
 <!-- Title of collapisble -->
 <button type="button" class="collapsible" data-toggle="collapse" 
-data-target="#why-alkemio">What's the meaning behind the name of this platform?
+data-target="#why-alkemio">What is the meaning behind the name of this platform?
 </button>
 <!-- Content of collapisible -->
 
