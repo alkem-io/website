@@ -85,6 +85,17 @@ design:
   </div>
 </div>
 <!-- Title of collapisble -->
+<button type="button" class="collapsible" data-toggle="collapse" data-target="#platform-make-challenge">Can I create a Hub on my own?
+</button>
+<!-- Content of collapisible -->
+
+<div id="platform-make-challenge" class="collapse">
+  <div class="content">
+    <p>You cannot create a Hub on your own but you can contact us and we can create it with you and guide you in the process.
+  </p>
+  </div>
+</div>
+<!-- Title of collapisble -->
 <button type="button" class="collapsible" data-toggle="collapse" data-target="#platform-owner-challenge">Who is the owner of a Challenge?
 </button>
 <!-- Content of collapisible -->
