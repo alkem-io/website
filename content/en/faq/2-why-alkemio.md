@@ -63,7 +63,6 @@ Explore our code base at the <a href="https://github.com/alkem-io" target="_blan
 Alkemio Github repository</a>.</p>
   </div>
 </div>
-<h2 class="pb-2 font-weight-bold"> why alkemio? </h2>
 <!-- Title of collapisble -->
 <button type="button" class="collapsible" data-toggle="collapse" 
 data-target="#why-alkemio">What's the meaning behind the name of this platform?
