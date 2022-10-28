@@ -96,6 +96,17 @@ design:
   </div>
 </div>
 <!-- Title of collapisble -->
+<button type="button" class="collapsible" data-toggle="collapse" data-target="#platform-make-challenge">What services does Alkemio offer?
+</button>
+<!-- Content of collapisible -->
+
+<div id="platform-make-challenge" class="collapse">
+  <div class="content">
+    <p>Alkemio offers the possibility to create, share and get knowledge on topics that are meaningful to more than one person and it gives you the tools to connect with those people and figure out solutions together.The platform fulfils three functions: challenge management, social network and marketplace. Through these functions users willing to cooperate will be able to connect, coomunicate and cooperate to solve common challenges. Facing big challenges within a community increases the chances of solvig the issues.
+  </p>
+  </div>
+</div>
+<!-- Title of collapisble -->
 <button type="button" class="collapsible" data-toggle="collapse" data-target="#platform-owner-challenge">Who is the owner of a Challenge?
 </button>
 <!-- Content of collapisible -->
