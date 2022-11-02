@@ -20,7 +20,6 @@ design:
 data-target="#why-alkemio">Why do we need Alkemio?
 </button>
 <!-- Content of collapisible -->
-
 <div id="why-alkemio" class="collapse">
   <div class="content">
     <p>The key is alignment: “where” do we want to go? Alignment is critical for 
@@ -34,13 +33,13 @@ href="https://draft.alkem.io/post/2022-01-why-do-we-need/" target="_blank">
 blogpost</a>.</p>
   </div>
 </div>
+
 <!-- Title of collapisble -->
 <button type="button" class="collapsible" data-toggle="collapse" 
 data-target="#why-alkemio-opensource">Alkemio is an open source platform. What 
 does open source mean?
 </button>
 <!-- Content of collapisible -->
-
 <div id="why-alkemio-opensource" class="collapse">
   <div class="content">
     <p> We believe that we can succeed in working on challenges, together. That is 
@@ -61,5 +60,16 @@ journey.
 <p>
 Explore our code base at the <a href="https://github.com/alkem-io" target="_blank"> 
 Alkemio Github repository</a>.</p>
+  </div>
+</div>
+
+<!-- Title of collapisble -->
+<button type="button" class="collapsible" data-toggle="collapse" 
+data-target="#why-alkemio-meaning">What is the meaning behind the name of this platform?
+</button>
+<!-- Content of collapisible -->
+<div id="why-alkemio-meaning" class="collapse">
+  <div class="content">
+    <p>Alkemio comes from the idea that to create something good that also works there is a need of mixed elements. Our new name reflects that solving complex challenges needs a mix of knowledge, collaboration, creativity, dedication and some magic. Alkemio started from an idea and some core values attached to it. The idea was to create an innovative web space where people can interact and cooperate on things they share interests in. The core values and purpose are explained in the Foundation page, but the sense of community is a core one. After consultign that page you will understand what do we stand for and what we want to achieve. </p>
   </div>
 </div>
