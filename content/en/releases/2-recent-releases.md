@@ -29,16 +29,30 @@ design:
   #  text_color_light: true
 ---
 <b>Previous releases</b>
+<li><a href="https://alkem-25488729.hs-sites-eu1.com/alkemio-release-2022-10-31" target="_blank">2022-10-31</a>: 
+<i>"Closing Callouts, overview of latest activities extended, Contributors page refresh"</i> </li>
+
+<li><a href="https://alkem-25488729.hs-sites-eu1.com/alkemio-release-2022-10-11" target="_blank">2022-10-11</a>: 
+<i>"Sharing of Hubs, Challenges or Opportunities as well as Callouts, Cards or Canvases, latest activities on dashboard"</i> </li>
+
+<li><a href="https://alkem-25488729.hs-sites-eu1.com/alkemio-release-2022-10-06" target="_blank">2022-10-06</a>: 
+<i>"Simplified Challenge & Opportunity creation flow as well as more guidance, members allowed to create Challenges, innovation flow management, Callout inspiration, Challenges page refresh"</i> </li>
+
 <li><a href="https://alkem-25488729.hs-sites-eu1.com/alkemio-release-2022-09-28" target="_blank">2022-09-28</a>: 
-<i>"Search refresh, Contributors page, translation updates, user/organization profile banners, emoji's "</i> </li>
+<i>"Search refresh, Contributors page, translation updates, user/organization profile banners, emoji's"</i> </li>
+
 <li><a href="https://alkem-25488729.hs-sites-eu1.com/alkemio-release-2022-09-15" target="_blank">2022-09-15</a>: 
 <i>"Discussion Callout, comments, latest activities, user and organization banners, email notifications"</i> </li>
+
 <li><a href="https://alkem-25488729.hs-sites-eu1.com/alkemio-release-2022-08-26" target="_blank">2022-08-26</a>: 
 <i>"UX refresh, Callouts, Innovation Flows, +++"</i> </li>
+
 <li><a href="https://alkem-25488729.hs-sites-eu1.com/alkemio-release-2022-07-13" target="_blank">2022-07-13</a>:     
 <i>"Canvases as Cards, managing the Community, less User logins, and displaying character limits"</i> </li>
+
 <li><a href="https://alkem-25488729.hs-sites-eu1.com/alkemio-release-2022-06-29" target="_blank">2022-06-29</a>: 
 <i>"New home page, new platform and website domain, and Aspect management templates"</i> </li>
+
 <p>
 <p>
 <hr>
