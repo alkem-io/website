@@ -7,10 +7,10 @@ widget: blank
 headless: true
 
 # Order that this section appears on the page.
-weight: 1
+weight: 30
 
 # Section title
-title: Alkemio support
+# title: Need additional help?
 
 # Section subtitle
 subtitle: 
@@ -24,7 +24,13 @@ design:
   #background:
   #  color: 'navy'
   #  text_color_light: true
+  spacing:
+    padding: ['60px', '0px', '60px', '0px']
 ---
+
+<div class="section-heading col-12 mb-3 text-center">
+    <h1 class="mb-0" id="needhelp">Need additional help?</h1>
+</div>
 
 We are here to help if you need support with the platform! 
 
