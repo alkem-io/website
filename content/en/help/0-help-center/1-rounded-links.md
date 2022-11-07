@@ -29,18 +29,18 @@ design:
 
 content:
     buttons:
-        - title: "Alkemio foundation"
+        - title: "Getting started"
           image: "/media/button-links/rounded links-01.png"
-          link: /manifesto/
-        - title: "Work challenge centric"
+          link: /help/getting-started/
+        - title: "Key concepts"
           image: "/media/button-links/rounded links-02.png"
-          link: https://alkem.io/challengecentric/dashboard
-        - title: "Alkemio sign in"
+          link: /help/key-concepts
+        - title: "Community Management"
           image: "/media/button-links/rounded links-03.png"
-          link: /faq/
-        - title: "Alkemio community"
+          link: /help/community-management
+        - title: "FAQ"
           image: "/media/button-links/rounded links-04.png"
-          link: https://alkem.io/
+          link: /faq/
         - title: "Github"
           image: "/media/button-links/rounded links-05.png"
           link: https://github.com/alkem-io/alkemio
