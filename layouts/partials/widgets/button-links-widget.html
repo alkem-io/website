@@ -1,0 +1,10 @@
+{{ $ := .root }}
+{{ $page := .page }}
+
+<div class="section-heading col-12 mb-3 text-center">
+    <h1 class="mb-0">{{ $page.Params.title }}</h1>
+</div>
+
+{{ range $index, $button := $page.Params.content.buttons }}
+    <a class="btn btn-block btn-lg btn-primary" style="font-size:2rem;" href="{{ $button.link }}" target="_blank">{{ $button.title }}</a>
+{{ end }}

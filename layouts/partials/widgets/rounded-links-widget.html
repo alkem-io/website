@@ -1,0 +1,21 @@
+{{ $ := .root }}
+{{ $page := .page }}
+
+<div class='container'>
+    {{ range $index, $button := $page.Params.content.buttons }}
+    {{ $image := resources.Get $button.image }}
+        {{ if modBool $index 3 }}
+            <div class='row justify-content-between'>
+        {{ end }}
+        <div class='col text-center'>
+            <a href='{{ $button.link }}'>
+            <button class='btn text-white font-weight-bold'>
+                <img src='{{ $image.Permalink }}' />
+            </button>
+            </a>
+        </div>
+        {{ if eq (mod $index 3) 2 }}
+        </div>
+        {{ end }}
+    {{end}}
+</div>
