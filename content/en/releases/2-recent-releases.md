@@ -30,6 +30,9 @@ design:
 ---
 <b>Previous releases</b>
 
+<li><a href="https://alkem-25488729.hs-sites-eu1.com/alkemio-release-2022-10-31" target="_blank">2022-10-31</a>: 
+<i>"Closing Callouts, Activity log: real time updates, performance + new activities, Home Page Contributors"</i> </li>
+
 <li><a href="https://alkem-25488729.hs-sites-eu1.com/alkemio-release-2022-10-11" target="_blank">2022-10-11</a>: 
 <i>"Sharing of Hubs, Challenges or Opportunities as well as Callouts, Cards or Canvases, latest activities on dashboard"</i> </li>
 
