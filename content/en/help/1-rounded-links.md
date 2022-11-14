@@ -15,7 +15,7 @@ title: Help & Frequently Asked Questions
 # Section subtitle
 subtitle: Select the topic you need help withWe'll show you self-support options first. Additional help is available if you need it, by completing the form below.
 
-rowCount: 5
+rowCount: 6
 
 
 # Section design
@@ -32,18 +32,18 @@ design:
 content:
     buttons:
         - title: "Alkemio foundations"
-          image: "/media/button-links/roundedlinks-07.png"
+          image: "/media/button-links/roundedlinks-12.png"
           link: /manifesto/
         - title: "Work Challenge Centric"
-          image: "/media/button-links/roundedlinks-08.png"
+          image: "/media/button-links/roundedlinks-13.png"
           link: https://alkem.io/challengecentric/dashboard
         - title: "Alkemio Sign in"
-          image: "/media/button-links/roundedlinks-09.png"
+          image: "/media/button-links/roundedlinks-14.png"
           link: https://alkem.io/identity/login?returnUrl=/
         - title: "Book Demo"
-          image: "/media/button-links/roundedlinks-10.png"
+          image: "/media/button-links/roundedlinks-15.png"
           link: /help/#needhelp
         - title: "Alkemio Community"
-          image: "/media/button-links/roundedlinks-11.png"
+          image: "/media/button-links/roundedlinks-16.png"
           link: https://alkem.io/
 ---

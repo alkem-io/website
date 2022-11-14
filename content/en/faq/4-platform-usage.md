@@ -90,7 +90,7 @@ design:
 </div>
 
 <!-- Title of collapisble -->
-<button type="button" class="collapsible" data-toggle="collapse" data-target="#platform-own-hub">Can I create a Hub on my own?
+<button type="button" id="create-hub" class="collapsible" data-toggle="collapse" data-target="#platform-own-hub">Can I create a Hub on my own?
 </button>
 <!-- Content of collapisible -->
 <div id="platform-own-hub" class="collapse">

@@ -20,22 +20,21 @@ design:
     color: 'white'
   #  text_color_light: true
   spacing:
-    padding: ['60px', '0px', '20px', '0px']
+    padding: ['40px', '0px', '20px', '0px']
 ---
 <div class="container" >
   <div class="row">
     <div class="col-sm mb-4 mr-4 bg-light fixed-height-help">
     <h2>Manuals</h2>
-    <a href=""><p class="mb-1"> Structuur van het platform </p></a>
-    <a href="/help/getting-started/"><p class="mb-1"> Getting started </p></a>
-    <a href="/help/key-concepts/"><p class="mb-1"> Key Concepts </p></a>
+    <a href="/help/getting-started/"><p class="mb-1"> How to get started </p></a>
+    <a href="/help/key-concepts/"><p class="mb-1"> Key concepts of the platform </p></a>
     <a href="/help/community-management/" target="_blank"><p class="mb-1"> Building your community </p></a>
     </div>
     <div class="col-sm mb-4 bg-light fixed-height-help">
     <h2>Frequently Asked Questions</h2>
-    <a href="/faq/"><p class="mb-1"> Hoe vind ik de challenge waarvoor ik <br> uitgenodigd ben?</p></a>
-    <a href="/faq/"><p class="mb-1"> Waarom kan ik niks zien op de Contribute pagina? </p></a>
-    <a href="/faq/"><p class="mt-5 text-right"> → zie alle vragen </p></a>
+    <a href="/faq/#createhub"><p class="mb-1"> Can I create a Hub on my own?</p></a>
+    <a href="/faq/#whyneedalkemio"><p class="mb-1"> Why do we need Alkemio? </p></a>
+    <a href="/faq/"><p class="mt-5 text-right"> → find more</p></a>
     </div>
   </div>
 </div>
