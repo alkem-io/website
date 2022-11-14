@@ -31,19 +31,19 @@ design:
 
 content:
     buttons:
-        - title: "Alkemio foundations"
-          image: "/media/button-links/roundedlinks-12.png"
-          link: /manifesto/
+        # - title: "Alkemio foundations"
+        #   image: "/media/button-links/roundedlinks-12.png"
+        #   link: /manifesto/
         - title: "Work Challenge Centric"
           image: "/media/button-links/roundedlinks-13.png"
-          link: https://alkem.io/challengecentric/dashboard
+          link: https://alkem.io/challengecentric
         - title: "Alkemio Sign in"
           image: "/media/button-links/roundedlinks-14.png"
           link: https://alkem.io/identity/login?returnUrl=/
         - title: "Book Demo"
           image: "/media/button-links/roundedlinks-15.png"
           link: /help/#needhelp
-        - title: "Alkemio Community"
-          image: "/media/button-links/roundedlinks-16.png"
-          link: https://alkem.io/
+        # - title: "Alkemio Community"
+        #   image: "/media/button-links/roundedlinks-16.png"
+        #   link: https://alkem.io/
 ---
