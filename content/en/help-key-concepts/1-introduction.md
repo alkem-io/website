@@ -46,12 +46,12 @@ First, follow our new member [onboarding steps](https://www.alkemio.foundation/h
 <img src="./challenge.png" alt="Concepts illustration" width="600" />
 </p>
 
-##### What's a Challenge?
+_What's a Challenge?_ <br/>
 A Challenge is a specific issue within the more general topic and frame of reference introduced by the Hub. It is a place to explore the issue and of everything that can lead towards finding solutions. Challenges variate from Hub to Hub and can develop in different ways based on the necessities of the community in the Hub.
 
 Through the creation of a Challenge, one has the chance to shine light on urgent issues, big or small, on a local, national or international level, that need to be solved. One should create new challenges because, through it, people will get more knowledge on the issue as well as the opportunity to meet people with the same concerns or with potential solutions to help you out. Or simply it can give you the right network which will bring you closer to finding the solution of the issue.
 
-##### What value can I get from a Challenge Community?
+_What value can I get from a Challenge Community?_<br/>
 Finally, creating a challenge means tackling the general issue into specifics and making people cooperate around these specific issues in orther to work out solutions, together. Only together we will be able to successfully solve these problems.
 
 #### 2. What is a Hub? What can you do through it, why should you create one and what happens after you created a Hub?
@@ -62,10 +62,10 @@ Finally, creating a challenge means tackling the general issue into specifics an
 
 Picture a Hub as a virtual space created for you to engage on something you care about and that you would like to find solutions for. It is a community with a specific frame of reference, under the responsibility of the lead user or organization. The key goal is to gather people and identify their Challenges.
 
-##### Who can create a Hub?
-A Hub can be created by members of the platform, together with us, based on a general topic that the creator has interest in. You can start a Hub to gather further ideas or simply see it as a place to raise awareness on an issue that you believe is urgent and can be relatable to others. A demo of an example Hub can be found here:["Air pollution"](https://alkem.io/reducingpollution/dashboard)
+_Who can create a Hub?_ <br/>
+A Hub can be created by members of the platform, together with us, based on a general topic that the creator has interest in. You can start a Hub to gather further ideas or simply see it as a place to raise awareness on an issue that you believe is urgent and can be relatable to others. A demo of an example Hub can be found [here](https://alkem.io/reducingpollution/dashboard).
 
-##### What value can I get from a Hub Community?
+_What value can I get from a Hub Community?_ <br/>
 Through a hub, you can raise attention on a topic of your interest and find more people that share your same interest but have different visions. It is important to create Hubs because through different Hubs the topics of interest that regard different people will lead to inspiration for more. This will allow the creation of different communities around meaningful topics that are relevant to many. Creating a Hub means generating knowledge on relevant areas that can then be divided into specific "Challenges", a step that brings us to the next key concept of our platform.
 
 #### 3. What are opportunities, why should you create one, what can you do by creating one and what happens after creating one?
