@@ -25,7 +25,7 @@ design:
   #  color: 'navy'
   #  text_color_light: true
   spacing:
-    padding: ['60px', '0px', '60px', '0px']
+    padding: ['20px', '0px', '60px', '0px']
 ---
 
 <div class="section-heading col-12 mb-3 text-center">
