@@ -10,10 +10,12 @@ headless: true
 weight: 10
 
 # Section title
-title: 
+title: Help & Frequently Asked Questions
 
 # Section subtitle
-subtitle: 
+subtitle: Select the topic you need help withWe'll show you self-support options first. Additional help is available if you need it, by completing the form below.
+
+rowCount: 5
 
 
 # Section design
@@ -25,26 +27,23 @@ design:
   #  color: 'navy'
   #  text_color_light: true
   spacing:
-    padding: ['60px', '0px', '60px', '0px']
+    padding: ['60px', '0px', '20px', '0px']
 
 content:
     buttons:
-        - title: "Getting started"
-          image: "/media/button-links/rounded links-01.png"
-          link: /help/getting-started/
-        - title: "Key concepts"
-          image: "/media/button-links/rounded links-02.png"
-          link: /help/key-concepts
-        - title: "Community Management"
-          image: "/media/button-links/rounded links-03.png"
-          link: /help/community-management
-        - title: "FAQ"
-          image: "/media/button-links/rounded links-04.png"
-          link: /faq/
-        - title: "Github"
-          image: "/media/button-links/rounded links-05.png"
-          link: https://github.com/alkem-io/alkemio
-        - title: "Book demo"
-          image: "/media/button-links/rounded links-06.png"
-          link: /support/#needhelp
+        - title: "Alkemio foundations"
+          image: "/media/button-links/roundedlinks-07.png"
+          link: /manifesto/
+        - title: "Work Challenge Centric"
+          image: "/media/button-links/roundedlinks-08.png"
+          link: https://alkem.io/challengecentric/dashboard
+        - title: "Alkemio Sign in"
+          image: "/media/button-links/roundedlinks-09.png"
+          link: https://alkem.io/identity/login?returnUrl=/
+        - title: "Book Demo"
+          image: "/media/button-links/roundedlinks-10.png"
+          link: #needhelp
+        - title: "Alkemio Community"
+          image: "/media/button-links/roundedlinks-11.png"
+          link: https://alkem.io/
 ---
