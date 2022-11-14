@@ -33,8 +33,8 @@ design:
     </div>
     <div class="col-sm mb-4 bg-light fixed-height-help">
     <h2>Frequently Asked Questions</h2>
-    <a href="link"><p class="mb-1"> Hoe vind ik de challenge waarvoor ik <br> uitgenodigd ben?</p></a>
-    <a href="link"><p class="mb-1"> Waarom kan ik niks zien op de Contribute pagina? </p></a>
+    <a href="/faq/"><p class="mb-1"> Hoe vind ik de challenge waarvoor ik <br> uitgenodigd ben?</p></a>
+    <a href="/faq/"><p class="mb-1"> Waarom kan ik niks zien op de Contribute pagina? </p></a>
     <a href="/faq/"><p class="mt-5 text-right"> → zie alle vragen </p></a>
     </div>
   </div>
