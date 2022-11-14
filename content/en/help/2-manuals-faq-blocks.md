@@ -31,7 +31,7 @@ design:
     <a href="/help/key-concepts/"><p class="mb-1"> Key Concepts </p></a>
     <a href="/help/community-management/" target="_blank"><p class="mb-1"> Building your community </p></a>
     </div>
-    <div class="col-sm mb-4 ml-4 bg-light fixed-height-help">
+    <div class="col-sm mb-4 bg-light fixed-height-help">
     <h2>Frequently Asked Questions</h2>
     <a href="link"><p class="mb-1"> Hoe vind ik de challenge waarvoor ik <br> uitgenodigd ben?</p></a>
     <a href="link"><p class="mb-1"> Waarom kan ik niks zien op de Contribute pagina? </p></a>
