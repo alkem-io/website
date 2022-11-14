@@ -42,13 +42,13 @@ As a new user enterying the platform for the first time you may be asking yourse
 I'm ready to get going! What next? Let's dive into the understanding of the platform's core concepts:
 
 <p align="center"git >
-<img src="https://i.imgur.com/qaN1vwZ.gif" alt="Concepts illustration" width="600" />
+<img src="./animation.gif" alt="Concepts illustration" width="600" />
 </p>
 
 #### 1. We are a platform that works Challenge-Centric, so let's start with understanding what a Challenge is, what can you do through it, why should you create one, and what happens afterwards
 
 <p align="center"git >
-<img src="https://i.imgur.com/D5SG3H5.png" alt="Concepts illustration" width="600" />
+<img src="./challenge.png" alt="Concepts illustration" width="600" />
 </p>
 
 ##### What's a Challenge?
@@ -59,10 +59,10 @@ Through the creation of a Challenge, one has the chance to spread light on urgen
 ##### What value can I get from a Challenge Community?
 Finally, creating a challenge means tackling the general issue into specifics and making people cooperate around these specific issues in orther to work out solutions together. Working in a community and cooperating is the fastest way to successfully solve problems.
 
-#### 2. What is a Hub? What can you do through it, why should you create one and what happens after you created a Hub
+#### 2. What is a Hub? What can you do through it, why should you create one and what happens after you created a Hub?
 
 <p align="center"git >
-<img src="https://i.imgur.com/VLTuqhK.png" alt="Concepts illustration" width="600" />
+<img src="./hubs.png" alt="Concepts illustration" width="600" />
 </p>
 
 
@@ -78,7 +78,7 @@ Through a hub, you can raise attention to a topic of your interest and find more
 #### 3. What are opportunities, why should you carate one, what can you do by creating one and what happens after creating one
 
 <p align="center"git >
-<img src="https://i.imgur.com/GXxyDGo.png" alt="Concepts illustration" width="600" />
+<img src="./challenge-opps.png" alt="Concepts illustration" width="600" />
 </p>
 
 
@@ -88,7 +88,7 @@ Opportunities represent the actions that people within the community can take co
 ##### 4. What is a callout, why should callouts be created, what can you do by creating callouts
 
 <p align="center"git >
-<img src="https://i.imgur.com/rPv9zki.png" alt="Concepts illustration" width="600" />
+<img src="./callout.png" alt="Concepts illustration" width="600" />
 </p>
 
                  
