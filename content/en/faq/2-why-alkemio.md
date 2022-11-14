@@ -17,7 +17,7 @@ design:
 <h2 class="pb-2 font-weight-bold"> Why Alkemio? </h2>
 <!-- Title of collapisble -->
 <button type="button" class="collapsible" data-toggle="collapse" 
-data-target="#why-alkemio">Why do we need Alkemio?
+data-target="#why-alkemio" id="whyneedalkemio">Why do we need Alkemio?
 </button>
 <!-- Content of collapisible -->
 <div id="why-alkemio" class="collapse">

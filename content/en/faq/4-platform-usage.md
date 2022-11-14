@@ -57,7 +57,7 @@ design:
 </div>
 
 <!-- Title of collapisble -->
-<button type="button" class="collapsible" data-toggle="collapse" data-target="#platform-organization-verified">What does ‘verified’ mean under an organization?
+<button type="button" id="org-verified" class="collapsible" data-toggle="collapse" data-target="#platform-organization-verified">What does ‘verified’ mean under an organization?
 </button>
 <!-- Content of collapisible -->
 <div id="platform-organization-verified" class="collapse">
@@ -68,7 +68,7 @@ design:
 </div>
 
 <!-- Title of collapisble -->
-<button type="button" class="collapsible" data-toggle="collapse" data-target="#platform-facilitating">What is the difference between a Facilitating and Leading organization?
+<button type="button" id="platform-facilitate" class="collapsible" data-toggle="collapse" data-target="#platform-facilitating">What is the difference between a Facilitating and Leading organization?
 </button>
 <!-- Content of collapisible -->
 <div id="platform-facilitating" class="collapse">
@@ -79,7 +79,7 @@ design:
 </div>
 
 <!-- Title of collapisble -->
-<button type="button" class="collapsible" data-toggle="collapse" data-target="#platform-make-challenge">Who can make a Challenge or Opportunity?
+<button type="button" id="make-challenge" class="collapsible" data-toggle="collapse" data-target="#platform-make-challenge">Who can make a Challenge or Opportunity?
 </button>
 <!-- Content of collapisible -->
 <div id="platform-make-challenge" class="collapse">
@@ -90,10 +90,10 @@ design:
 </div>
 
 <!-- Title of collapisble -->
-<button type="button" class="collapsible" data-toggle="collapse" data-target="#platform-own-hub">Can I create a Hub on my own?
+<button type="button" id="createhub" class="collapsible" data-toggle="collapse" data-target="#platformownhub">Can I create a Hub on my own?
 </button>
 <!-- Content of collapisible -->
-<div id="platform-own-hub" class="collapse">
+<div id="platformownhub" class="collapse">
   <div class="content">
     <p>You cannot create a Hub on your own but you can contact us and we can create it with you and guide you in the process.
   </p>
