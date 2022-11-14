@@ -41,7 +41,9 @@ As a new user enterying the platform for the first time you may be asking yourse
 
 I'm ready to get going! What next? Let's dive into the understanding of the platform's core concepts:
 
-![](https://i.imgur.com/qaN1vwZ.gif)
+<p align="center">
+<img src="https://i.imgur.com/qaN1vwZ.gif" alt="Concepts illustration" width="600" />
+</p>
 
 
 #### 1. We are a platform that works Challenge-Centric, so let's start with understanding what a Challenge is, what can you do through it, why should you create one, and what happens afterwards
