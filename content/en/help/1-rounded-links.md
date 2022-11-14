@@ -31,16 +31,16 @@ content:
     buttons:
         - title: "Getting started"
           image: "/media/button-links/rounded links-01.png"
-          link: /help/getting-started/
+          link: /manifesto/
         - title: "Key concepts"
           image: "/media/button-links/rounded links-02.png"
-          link: /help/key-concepts
+          link: https://alkem.io/challengecentric/dashboard
         - title: "Community Management"
           image: "/media/button-links/rounded links-03.png"
-          link: /help/community-management
+          link: https://alkem.io/
         - title: "FAQ"
           image: "/media/button-links/rounded links-04.png"
-          link: /faq/
+          link: /help/key-concepts/
         - title: "Github"
           image: "/media/button-links/rounded links-05.png"
           link: https://github.com/alkem-io/alkemio
