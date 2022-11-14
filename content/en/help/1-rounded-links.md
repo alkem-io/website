@@ -42,7 +42,7 @@ content:
           link: https://alkem.io/identity/login?returnUrl=/
         - title: "Book Demo"
           image: "/media/button-links/roundedlinks-10.png"
-          link: #needhelp
+          link: /help/#needhelp
         - title: "Alkemio Community"
           image: "/media/button-links/roundedlinks-11.png"
           link: https://alkem.io/
