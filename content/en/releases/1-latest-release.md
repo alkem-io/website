@@ -30,7 +30,7 @@ design:
 ---
 Alkemio makes updates to the production platform approximately every two weeks. Below you can find the latest release note as well as links to previous notes.
 <p></p>
-<b>Release 2022-11-09</b>
+<b>Release 2022-11-14</b>
 <p></p>
 
 <i>[This release](https://alkem-25488729.hs-sites-eu1.com/alkemio-release-2022-11-09?ecid=AOKeC1YX48QAXjyE0YmWogEOrr3YxHwFB6ZSTJOj5QzqrGVfSTOapeq2qsDfmy_FcQzQjFU9RQgA&utm_medium=email&_hsmi=65738171&_hsenc=p2ANqtz-8wvpzKjuPH_dC0bN0911OqVkJ8A2nHxkDzkClX5rnkhyYRLQBN7sYgEwskxwsH2_5KbairoaCnNGRj6J2SXyAkuljcEA&utm_content=65738171&utm_source=hs_email) focuses on two primary updates. First, there is a <b>redesigned mobile experience</b>, which makes it easier to navigate through Hubs, Challenges and Opportunities. Secondly, we have made a first version of a <b>help center</b>. [This page](https://www.alkemio.foundation/help/) includes guidance on how to get started and the key concepts of the platform as well as FAQs. </i>
