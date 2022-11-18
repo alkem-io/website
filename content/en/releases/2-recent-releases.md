@@ -30,6 +30,9 @@ design:
 ---
 <b>Previous releases</b>
 
+<li><a href="https://alkem-25488729.hs-sites-eu1.com/alkemio-release-2022-11-09" target="_blank">2022-11-09</a>: 
+<i>"Rich content editing (WYSIWYG), simplified Callout creation, Single Card Type Callout, moving Cards between Callouts"</i> </li>
+
 <li><a href="https://alkem-25488729.hs-sites-eu1.com/alkemio-release-2022-10-31" target="_blank">2022-10-31</a>: 
 <i>"Closing Callouts, Activity log: real time updates, performance + new activities, Home Page Contributors"</i> </li>
 
