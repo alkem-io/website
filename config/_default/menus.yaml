@@ -33,7 +33,7 @@ main:
   - parent: about-main
     indentifier: about-support
     name: Support
-    url: 'support'
+    url: 'help'
     weight: 5
   - parent: about-main
     indentifier: about-vision
