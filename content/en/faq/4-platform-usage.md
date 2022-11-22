@@ -35,7 +35,7 @@ design:
 </div>
 
 <!-- Title of collapisble -->
-<button type="button" class="collapsible" data-toggle="collapse" data-target="#platform-challenges">How can I most easily find the Challenges that I am interested in?
+<button type="button" class="collapsible" data-toggle="collapse" data-target="#platform-challenges" id="platformchallenges">How can I most easily find the Challenges that I am interested in?
 </button>
 <!-- Content of collapisible -->
 <div id="platform-challenges" class="collapse">
@@ -90,7 +90,7 @@ design:
 </div>
 
 <!-- Title of collapisble -->
-<button type="button" id="createhub" class="collapsible" data-toggle="collapse" data-target="#platformownhub">Can I create a Hub on my own?
+<button type="button" class="collapsible" data-toggle="collapse" data-target="#platformownhub" id="platformownhub">Can I create a Hub on my own?
 </button>
 <!-- Content of collapisible -->
 <div id="platformownhub" class="collapse">
@@ -112,10 +112,10 @@ design:
 </div>
 
 <!-- Title of collapisble -->
-<button type="button" class="collapsible" data-toggle="collapse" data-target="#platform-owner-challenge">Who is the owner of a Challenge?
+<button type="button" class="collapsible" data-toggle="collapse" data-target="#challenge-owner" id="challengeowner">Who is the owner of a Challenge?
 </button>
 <!-- Content of collapisible -->
-<div id="platform-owner-challenge" class="collapse">
+<div id="challenge-owner" class="collapse">
   <div class="content">
     <p>There is no "owner" of Challenges :) But there are "Leads", either Users or Organizations that care about the Challenge being addressed. You can find them under the Leading Users and/or Organizations.
   </p>
