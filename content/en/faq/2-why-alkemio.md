@@ -65,10 +65,10 @@ Alkemio Github repository</a>.</p>
 
 <!-- Title of collapisble -->
 <button type="button" class="collapsible" data-toggle="collapse" 
-data-target="#why-alkemio-meaning" id="whyalkemiomeaning">What is the meaning behind the name of this platform?
+data-target="#why-alkemio-meaning" id="why-alkemio-meaning">What is the meaning behind the name of this platform?
 </button>
 <!-- Content of collapisible -->
-<div id="whyalkemiomeaning" class="collapse">
+<div id="why-alkemio-meaning" class="collapse">
   <div class="content">
     <p>Alkemio comes from the idea that to create something good that also works there is a need of mixed elements. Our new name reflects that solving complex challenges needs a mix of knowledge, collaboration, creativity, dedication and some magic. Alkemio started from an idea and some core values attached to it. The idea was to create an innovative web space where people can interact and cooperate on things they share interests in. The core values and purpose are explained in the Foundation page, but the sense of community is a core one. After consultign that page you will understand what do we stand for and what we want to achieve. </p>
   </div>
