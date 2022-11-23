@@ -2,7 +2,7 @@
 widget: pages
 headless: true
 title: Recent blog posts
-weight: 3
+weight: 2
 
 content:
     count: 3
