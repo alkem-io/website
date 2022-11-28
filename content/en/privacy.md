@@ -12,7 +12,7 @@ header:
   image: ""
 ---
 
-## Alkemio Privacy Policy - 10 November 2020
+## Alkemio Privacy Policy - 28 November 2022
 
 ### What do we mean by "personal information?"
 
@@ -74,5 +74,5 @@ The following rights are granted under the GDPR and California Consumer Privacy 
 
 In many cases, you can access, update, or delete your personal information directly from our product settings.
 
-If you have a question or concern, please [contact us](https://alkemio.foundation/about)  and we hope to resolve it for you. If we cannot, you have the right to lodge a complaint with your local data protection authority.
+If you have a question or concern, please [contact us](https://www.alkemio.foundation/feedback/) using the contact form or email our [privacy officer](mailto:dpo@alkem.io) and we hope to resolve it for you. If we cannot, you have the right to lodge a complaint with your local data protection authority.
 
