@@ -28,6 +28,8 @@ image:
   preview_only: true
 ---
 
+![](./header.png)
+
 # 'Platforms must ensure public values'
 
 It's widespread 'NEWS' in the Netherlands and Europe: Participation, trust, and control in the digital society. Partly because it has to be done - the European regulations have been tightened up - and on the other hand, it shows how demand is increasing. 
