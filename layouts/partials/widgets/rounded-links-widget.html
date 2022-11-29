@@ -1,6 +1,14 @@
 {{ $ := .root }}
 {{ $page := .page }}
 
+<div class="section-heading col-12 mb-3 text-center">
+    <h1 class="mb-0">{{ $page.Params.title }}</h1>
+</div>
+
+<div class="section-heading col-12 mb-3 text-center">
+    <p class="mt-1">{{ $page.Params.subtitle }}</p>
+</div>
+
 <div class='container'>
     {{ range $index, $button := $page.Params.content.buttons }}
     {{ $image := resources.Get $button.image }}
