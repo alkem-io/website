@@ -10,7 +10,7 @@ headless: true
 weight: 10
 
 # Section title
-title: Help & Frequently Asked Questions
+title: Help Centre
 
 # Section subtitle
 subtitle: Select the topic you need help withWe'll show you self-support options first. Additional help is available if you need it, by completing the form below.
