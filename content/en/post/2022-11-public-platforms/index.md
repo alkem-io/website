@@ -45,6 +45,8 @@ Big and small businesses play a big role in the public domain. This implies the 
 On Alkemio we are creating focus and we showcase the opportunities for public institutions and private organizations
 We do not want digital tools and data to be used to exploit people. They should benefit society. Working together in one online space on common goals, putting the shared value central, rather than the organization, will reveal the infinite potential of collaboration. We believe this is the key to success. 
 
+![](./value-driven.png)
+
 ### How Public Platforms can enable collaboration and transparency for users with *[Provicie Zuid Holland](https://www.zuid-holland.nl/onderwerpen/digitaal-zuid-holland/ethiek-digitalisering/)*
 
 An expedition that started in the spring explored the possibilities of the province Zuid Holland, as a connector in the platform economy. During an open symposium, the results of the six months of explorations were launched in an expedition report. It was handed over from the acting provincial secretary Jan van Ginkel to the deputy Willy de Zoete. The results show that there is a need to enable the user and the community around public challenges. Platforms are steering and maintaining the rules of engagement and they can lower transaction costs.  
@@ -52,6 +54,8 @@ An expedition that started in the spring explored the possibilities of the provi
 ### Across all boundaries?! The [European Digital Markets Act (DMA)](https:ec.Europa.eu/commission/presscorner/detail/en/qanda_20_2349) is published. 
 
 In the Netherlands, Alexandra van Huffelen presented the 'digitale werkagenda' which enables tech companies to collaborate to achieve the goals of the DMA. And online platforms and search engines failing to comply with the DMA can be fined up to 6% of their worldwide turnover. Enabling digital transparency is an important step and at the core of Alkemio's beliefs: **A platform should be: open for all for everyone to contribute; independent and solid to make progress together, and work across all boundaries.**
+
+![](./werkagenda.png)
 
 Key measures in the DMA include the following:
 
