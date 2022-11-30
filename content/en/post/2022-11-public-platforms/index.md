@@ -13,8 +13,8 @@ tags:
 - online
 - platform
 - community
-- value
-- impact
+- news
+- collaboration
 
 draft: false
 #categories:
