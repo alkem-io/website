@@ -29,7 +29,7 @@ design:
   #  text_color_light: true
 ---
 <b>Previous releases</b>
-<li><a href="https://alkem-25488729.hs-sites-eu1.com/alkemio-release-2022-11-09" target="_blank">2022-11-14</a>: 
+<li><a href="https://alkem-25488729.hs-sites-eu1.com/alkemio-release-2022-11-14" target="_blank">2022-11-14</a>: 
 <i>"Mobile experience improvements for Hub / Challenges / Opportunities and a Help Center, "</i> </li>
 
 <li><a href="https://alkem-25488729.hs-sites-eu1.com/alkemio-release-2022-11-09" target="_blank">2022-11-09</a>: 
