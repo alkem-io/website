@@ -1,20 +1,20 @@
 ---
 #widget: pages
 #headless: true
-title: 'Digital platforms'
+title: 'Platforms must ensure public values'
 date: "2022-11-28"
 lastmod: "2022-11-28"
 math: false
 diagram: false
-summary: 'Towards platforms that ensure public values.'
+summary: 'We love tech but not how it is often used'
 authors:
 - ros-birgit
 tags:
 - online
 - platform
 - community
-- value
-- impact
+- news
+- collaboration
 
 draft: false
 #categories:
