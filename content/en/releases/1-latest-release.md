@@ -30,10 +30,10 @@ design:
 ---
 Alkemio makes updates to the production platform approximately every two weeks. Below you can find the latest release note as well as links to previous notes.
 <p></p>
-<b>Release 2022-11-14</b>
+<b>Release 2022-11-28</b>
 <p></p>
 
-<i>[This release](https://alkem-25488729.hs-sites-eu1.com/alkemio-release-2022-11-09?ecid=AOKeC1YX48QAXjyE0YmWogEOrr3YxHwFB6ZSTJOj5QzqrGVfSTOapeq2qsDfmy_FcQzQjFU9RQgA&utm_medium=email&_hsmi=65738171&_hsenc=p2ANqtz-8wvpzKjuPH_dC0bN0911OqVkJ8A2nHxkDzkClX5rnkhyYRLQBN7sYgEwskxwsH2_5KbairoaCnNGRj6J2SXyAkuljcEA&utm_content=65738171&utm_source=hs_email) focuses on two primary updates. First, there is a <b>redesigned mobile experience</b>, which makes it easier to navigate through Hubs, Challenges and Opportunities. Secondly, we have made a first version of a <b>help center</b>. [This page](https://www.alkemio.foundation/help/) includes guidance on how to get started and the key concepts of the platform as well as FAQs. </i>
+<i>[This release](https://alkem-25488729.hs-sites-eu1.com/alkemio-release-2022-11-28) focuses on two key updates. First, happy to anounce that it is now possible to <b>upload documents</b>! Instead of storing the document online, you can now directly upload documents from your computer. Secondly, a key part of the Alkemio vision is to allow much better sharing of knowledge on how to effectively achieve change together. Therefore, it is now possible to find best practices via the <b>Alkemio Innovation library</b>. Organizations can share their knowledge and insights as innovation packs and these packs can directly be imported in the Hub. </i>
 
 <i>Interested in trying out these new changes? Go directly to [Alkemio](https://alkem.io/?utm_source=hs_email&utm_medium=email&utm_content=64703278&_hsenc=p2ANqtz-9Giqo8QcZnf1CWdBLUSBKzmp4iMt-wvwbXM0qYcnNA30kdtBPsKqaaj3shSIvFGGfK-BM2cl2xAbSLj-JRK7VDK9TgcQ). As always, please share your feedback and comments. Enjoy!</i>
 <p></p>
