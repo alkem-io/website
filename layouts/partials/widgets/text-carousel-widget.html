@@ -6,7 +6,7 @@
 <div id="quote-carousel" class="carousel slide p-0" data-ride="quote-carousel">
 
 <!-- Indicators for carousel -->
-    <ol class="carousel-indicators" style="top:100px;">
+    <ol class="carousel-indicators" style="top:200px;">
         {{ range $index, $quotes := $page.Params.content.quotes }}
         {{ $i := eq $index "quote1" }}
         <li data-target="#quote-carousel" class="{{ if $i }}active{{ end }}"
@@ -14,8 +14,8 @@
             data-slide-to="{{$index}}"></li>
         {{ end }}
      </ol>
-<!-- Image section of carousel -->
-    <div class="carousel-inner" style="max-width: 85%; margin: 0 auto; height:125px;">
+<!-- Text section of carousel -->
+    <div class="carousel-inner" style="max-width: 85%; margin: 0 auto; height:230px;">
         {{ range $index, $quotes := $page.Params.content.quotes }} 
         {{ $i := eq $index "quote1" }}
         <div class="carousel-item {{ if $i }} active {{ end }} ">

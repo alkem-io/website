@@ -16,12 +16,9 @@ subtitle: Strategic
 content:
     quotes:
         quote1: 
-            - "<i>LOREM IPSUM</i> </br> <h5>Lorem Ipsem</h5>"
-            - "<i>LOREM IPSUM</i> </br> <h5>Lorem Ipsem</h5>"
+            - "<i>“(…)The community members are from the triple helix: education, government and market. Together we are facing huge challenges in which we believe technology can be part of the solution. On the short term, we will all benefit on a business/personal level. That benefit is an enabler for communal benefits.”</i> </br> <h5>Wouter Heijnen, VNG</h5>"
         quote2:
-            - "<i>LOREM IPSUM</i> </br> <h5>Lorem Ipsem</h5>"
-        quote3: 
-            - "<i>LOREM IPSUM</i> </br> <h5>Lorem Ipsem</h5>"
+            - "<i>Working together in online communities on innovations is… super innovative! There’s not one best way of doing that. RIConline and Alkemio exchange knowledge on what works, how to help the community and what the impact of online collaboration on a platform can be. We want to reinforce each other (…)</i> </br> <h5>Kathleen Torrance, Programme Manager at Rijks Innovatie Community</h5>"
 
 # Section design
 design:
@@ -29,5 +26,5 @@ design:
   columns: '1'
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
-    padding: ['20px', '0', '10px', '0']
+    padding: ['40px', '0', '20px', '0']
 ---
