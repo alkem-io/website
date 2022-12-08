@@ -23,8 +23,8 @@ design:
     padding: ['40px', '0px', '20px', '0px']
 ---
 <div class="container" >
-  <div class="row">
-    <div class="col-sm mb-4 mr-4 bg-light fixed-height-help">
+  <div class="row d-flex">
+    <div class="col-sm mr-sm-5 mb-4 bg-light fixed-height-help">
     <h2>Manuals</h2>
     <a href="/help/getting-started/"><p class="mb-1"> How to get started </p></a>
     <a href="/help/key-concepts/"><p class="mb-1"> Key concepts of the platform </p></a>
