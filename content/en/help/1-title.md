@@ -1,7 +1,7 @@
 ---
 # An instance of the Blank widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: rounded-links-widget
+widget: blank
 
 # This file represents a page section.
 headless: true
@@ -13,8 +13,7 @@ weight: 10
 title: Help Centre
 
 # Section subtitle
-subtitle: Select the topic you need help with. We'll show you self-support options first. Additional help is available if you need it, by completing the form below.
-
+subtitle: Select the topic you need help with. We'll show you self-support options first. <br> Additional help is available if you need it, by completing the form below.   <br>      [Click here to go back to the platform](www.alkem.io)
 rowCount: 6
 
 
@@ -27,22 +26,19 @@ design:
   #  color: 'navy'
   #  text_color_light: true
   spacing:
-    padding: ['60px', '0px', '20px', '0px']
+    padding: ['40px', '0px', '00px', '0px']
 
 content:
     buttons:
-        # - title: "Alkemio foundations"
-        #   image: "/media/button-links/roundedlinks-12.png"
-        #   link: /manifesto/
-        - title: "Work Challenge Centric"
-          image: "/media/button-links/roundedlinks-13.png"
-          link: https://alkem.io/challengecentric
-        - title: "Alkemio Sign in"
-          image: "/media/button-links/roundedlinks-14.png"
-          link: https://alkem.io/identity/login?returnUrl=/
+        - title: "Alkemio foundations"
+          image: "/media/button-links/roundedlinks-12.png"
+          link: https://www.alkemio.foundation/manifesto/
         - title: "Book Demo"
           image: "/media/button-links/roundedlinks-15.png"
           link: /help/#needhelp
+        - title: "To the Platform"
+          image: "/media/button-links/roundedlinks-18.png"
+          link: https://alkem.io/
         # - title: "Alkemio Community"
         #   image: "/media/button-links/roundedlinks-16.png"
         #   link: https://alkem.io/
