@@ -1,0 +1,49 @@
+
+{{ $ := .root }}
+{{ $page := .page }}
+{{ $hash_id := .hash_id }}
+
+<div id="quote-carousel" class="carousel slide p-0" data-ride="quote-carousel">
+
+<!-- Indicators for carousel -->
+    <ol class="carousel-indicators" style="top:200px;">
+        {{ range $index, $quotes := $page.Params.content.quotes }}
+        {{ $i := eq $index "quote1" }}
+        <li data-target="#quote-carousel" class="{{ if $i }}active{{ end }}"
+            style="filter: invert(43%) sepia(90%) saturate(3543%) hue-rotate(161deg) brightness(81%) contrast(95%); height:3px; margin-bottom:5px;"
+            data-slide-to="{{$index}}"></li>
+        {{ end }}
+     </ol>
+<!-- Text section of carousel -->
+    <div class="carousel-inner" style="max-width: 85%; margin: 0 auto; height:230px;">
+        {{ range $index, $quotes := $page.Params.content.quotes }} 
+        {{ $i := eq $index "quote1" }}
+        <div class="carousel-item {{ if $i }} active {{ end }} ">
+            <div class="d-flex justify-content-md-center align-items-center">
+                {{ range $index2, $quote := $quotes }}
+                <div class="col-sm text-center">
+                    {{$quote | safeHTML }}
+                </div>
+                {{ end }}
+            </div>
+
+        </div>
+       {{ end }}
+    </div>
+<!-- Arrows/Navigation of carousel -->
+<div class="d-none d-md-block">
+    <a class="carousel-control-prev"
+        style="filter: invert(43%) sepia(90%) saturate(3543%) hue-rotate(161deg) brightness(81%) contrast(95%);  @media(max-width:1000px){display:none;}"
+        role="button" data-target="#quote-carousel" data-slide="prev">
+        <span class="carousel-control-prev-icon" style="width:25px; height:25px;" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+    </a>
+    <a class="carousel-control-next"
+        style="filter: invert(43%) sepia(90%) saturate(3543%) hue-rotate(161deg) brightness(81%) contrast(95%);"
+        role="button" data-target="#quote-carousel" data-slide="next">
+        <span class="carousel-control-next-icon" style="width:25px; height:25px;" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+    </a>
+</div>
+     
+</div>
