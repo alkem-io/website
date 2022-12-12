@@ -123,10 +123,10 @@ design:
 </div>
 
 <!-- Title of collapisble -->
-<button type="button" class="collapsible" data-toggle="collapse" data-target="#challenge-owner" id="challengeowner">Can you assign an Opportunity to multiple Challenges?
+<button type="button" class="collapsible" data-toggle="collapse" data-target="#challenge-opportunity" id="challengeopportunity">Can you assign an Opportunity to multiple Challenges?
 </button>
 <!-- Content of collapisible -->
-<div id="challenge-owner" class="collapse">
+<div id="challenge-opportunity" class="collapse">
   <div class="content">
     <p>Each Opportunity lives in exactly one Challenge. A Challenge can (and hopefully does!) have many Opportunities. <br/> If you want to "include" an Opportunity in another Challenge, then we suggest to make a hyperlink as each Opportunity has a dedicated URL that can be used to refer to it. This link could then for example be in the “References” section or in a Callout Card.  
   </p>
@@ -134,10 +134,10 @@ design:
 </div>
 
 <!-- Title of collapisble -->
-<button type="button" class="collapsible" data-toggle="collapse" data-target="#challenge-owner" id="challengeowner">Is it possible to have a public and a private part in my Hub?
+<button type="button" class="collapsible" data-toggle="collapse" data-target="#challenge-visibility" id="challengevisibility">Is it possible to have a public and a private part in my Hub?
 </button>
 <!-- Content of collapisible -->
-<div id="challenge-owner" class="collapse">
+<div id="challenge-visibility" class="collapse">
   <div class="content">
     <p>Each Hub, and each Challenge, can choose (a) who can see the content (b) who can contribute. This is tied to membership, and how a user becomes a member of a Hub or Challenge is also a setting. <br/> <br/> The default setup is that when a user is a member of a Hub, then the member can access all content in Challenges and can contribute to all Challenges. So it is by default open as we want everyone to be able to contribute! <br/> <br/> However each Challenge can then choose to (a) require users to become members of a Challenge to see the content in the Challenge (a "private" Challenge) (b) require users to become members to be able to contribute (add comments in a Challenge etc). There are also other settings available e.g. related to who can create Opportunities in a Challenge. 
   </p>
@@ -145,12 +145,12 @@ design:
 </div>
 
 <!-- Title of collapisble -->
-<button type="button" class="collapsible" data-toggle="collapse" data-target="#challenge-owner" id="challengeowner">Alkemio is open-source. Does this mean anyone can access my data?
+<button type="button" class="collapsible" data-toggle="collapse" data-target="#open-source-data" id="opensourcedata">Alkemio is open-source. Does this mean anyone can access my data?
 </button>
 <!-- Content of collapisible -->
-<div id="challenge-owner" class="collapse">
+<div id="open-source-data" class="collapse">
   <div class="content">
-    <p>Open-source refers to the source code that provides the functionality on the Alkemio platform. It does not imply that the data is open. <br/> <br/> The data, such as the content of the Hub, can be only accessed by the users that have the right credentials. As a member of a certain Hub, you will be able to access the data from the Hub you’re a member of, but not from other (private) Hubs. The data is protected at the api level, with there being an explicit authorization model for all key pieces of data on the platform that determines who can access each piece of data. <br/> <br/> The platform adheres to GDPR, and the data is stored within the EU (in particular, using a Microsoft data center in The Netherlands). <br/> <br/> Note that the data for a Hub is also accessible in a structured way for users of the Hub (through [this datamodel](https://github.com/alkem-io/alkemio/blob/develop/docs/images/design-logical-data-model.png)), which makes it very easy to transfer to a different environment. 
+    <p>Open-source refers to the source code that provides the functionality on the Alkemio platform. It does not imply that the data is open. <br/> <br/> The data, such as the content of the Hub, can be only accessed by the users that have the right credentials. As a member of a certain Hub, you will be able to access the data from the Hub you’re a member of, but not from other (private) Hubs. The data is protected at the api level, with there being an explicit authorization model for all key pieces of data on the platform that determines who can access each piece of data. <br/> <br/> The platform adheres to GDPR, and the data is stored within the EU (in particular, using a Microsoft data center in The Netherlands). <br/> <br/> Note that the data for a Hub is also accessible in a structured way for users of the Hub (through <a href="https://github.com/alkem-io/alkemio/blob/develop/docs/images/design-logical-data-model.png" target="_blank">this datamodel</a>), which makes it very easy to transfer to a different environment. 
   </p>
   </div>
 </div>
