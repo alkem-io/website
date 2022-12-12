@@ -13,7 +13,7 @@ weight: 10
 title: Help Centre
 
 # Section subtitle
-subtitle: Select the topic you need help with. We'll show you self-support options first. <br> Additional help is available if you need it, by completing the form below.   <br>      [Click here to go back to the platform](www.alkem.io)
+subtitle: Select the topic you need help with. We'll show you self-support options first. <br> Additional help is available if you need it, by completing the form below.   <br>      [Click here to go back to the platform](https://alkem.io/)
 rowCount: 6
 
 
