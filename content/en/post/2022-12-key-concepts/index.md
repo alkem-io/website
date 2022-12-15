@@ -6,7 +6,7 @@ date: "2022-12-16"
 lastmod: "2022-12-16"
 math: false
 diagram: false
-summary: 'Discover the meaning behind our platform's terminology!'
+summary: "Discover the meaning behind our platform's terminology!"
 authors:
 - ragni-mayte
 tags:
