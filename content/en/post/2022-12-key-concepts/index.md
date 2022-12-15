@@ -64,7 +64,7 @@ A Hub is another word to represent a community of people that are driven by the 
 
 In this example hub the community is interested in finding ways to recude air pollution on different levels and in different contexts. The creation of a hub can help different people to connect and share with others ideas, knowledge and useful insights to efficently get to the solution of the Challenge.
 
-![](./hub-page.jpg)
+![](./hub-page.png)
 
 Here above, the example Hub is shown. This represents a space where a community can come together to work on a specific topic with different communication tools all in one platform. This will gurantee efficiency and effectivness and cross the borders between diffet parties that are not used to working together but that have the same end goal.
 
@@ -73,7 +73,7 @@ Here above, the example Hub is shown. This represents a space where a community 
 
 An opportunity represents possible **ways to solve a challenge**. There can be different opportunities to the same challenge based on the needs and resources of the people working around a certain issue. The community is the resource and potential solution to the challenge. The only thing needed is to work out every step of the process with the right people, that have the same interests and that can work in the right space all together.
 
-![](./opportunity-page.jpg)
+![](./opportunities-page.png)
 
 In the above screenshot, there is the visualization of one of the opportunities within the "reducing air pollution" hub related to the challenge of "awarness". This is to show, how the interface looks like, and to give a sense of the many possible solutions to be found depending on the challenge and the community around it. 
 
