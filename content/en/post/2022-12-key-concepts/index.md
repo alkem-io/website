@@ -2,8 +2,8 @@
 #widget: pages
 #headless: true
 title: 'Why Challenges, Hubs and Opportunities?'
-date: "2022-12-16"
-lastmod: "2022-12-16"
+date: "2022-12-15"
+lastmod: "2022-12-15"
 math: false
 diagram: false
 summary: "Discover the meaning behind our platform's terminology!"
@@ -22,7 +22,6 @@ draft: false
 
 
 featured: false
-draft: false
 image:
   placement: 1
   preview_only: true

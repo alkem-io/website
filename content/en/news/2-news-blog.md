@@ -8,7 +8,7 @@ content:
     count: 3
 
 design:
-    view: normal
+    view: compact
     columns: '1'
     spacing:
         padding: ['30px', '0px', '40px', '0px']
