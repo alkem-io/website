@@ -21,7 +21,6 @@ draft: false
 
 
 featured: false
-draft: false
 image:
   placement: 1
   preview_only: true
