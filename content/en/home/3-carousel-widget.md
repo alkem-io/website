@@ -1,7 +1,7 @@
 ---
 # An instance of the hero widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: github.alkem-io.carousel-widget
+widget: 'github.alkem-io.carousel-widget'
 
 # This file represents a page section.
 headless: true

@@ -1,7 +1,7 @@
 ---
 # An instance of the Blank widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: github.alkem-io.rounded-links-widget
+widget: 'github.alkem-io.rounded-links-widget'
 
 # This file represents a page section.
 headless: true

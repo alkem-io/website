@@ -42,9 +42,7 @@ header:
 footer:
   widget: minimal
   copyright:
-    notice: '© {year} Stichting Alkemio &nbsp;&nbsp;&nbsp;&nbsp; 
-      <a href="https://www.alkem.io/privacy/" target="_blank">Privacy &nbsp;&nbsp;&nbsp;&nbsp;</a> 
-      <a href="https://www.alkem.io/security/" target="_blank">Security &nbsp;&nbsp;&nbsp;&nbsp;</a>'
+    notice: ''
     license:
       enable: false
       allow_derivatives: false
@@ -102,10 +100,6 @@ features:
 # Extensions
 
 extensions:
-  cms:
-    branch: develop
-    local_backend: false
-    publish_mode: editorial_workflow
   isotope:
     # Enable if you use the Portfolio widget or Publication filter
     enable: true

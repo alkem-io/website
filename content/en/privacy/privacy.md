@@ -1,4 +1,7 @@
 ---
+# An instance of the Blank widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
+widget: blank
 title: Privacy Policy
 date: "2018-06-28T00:00:00+01:00"
 draft: false
@@ -6,10 +9,22 @@ share: false
 commentable: false
 editable: false
 
-# Optional header image (relative to `static/media/` folder).
-header:
-  caption: ""
-  image: ""
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 1
+
+
+
+# Section design
+design:
+  # Use a 1-column layout
+  columns: "1"
+  # Use a dark navy background with light text.
+  #background:
+  #  color: 'navy'
+  #  text_color_light: true
 ---
 
 ## Alkemio Privacy Policy - 28 November 2022
