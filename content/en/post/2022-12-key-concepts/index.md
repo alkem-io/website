@@ -16,18 +16,19 @@ tags:
 - innovative
 - cooperation
 
-draft: false
+
 #categories:
 #- Demo
 
 
 featured: false
+draft: false
 image:
   placement: 1
   preview_only: true
 ---
 
-# WHY "CHALLENGES, HUBS, OPPORTUNITIES"?
+
 ## Discover the meaning behind our platform's terminology!
 
 ![](./header.png)
