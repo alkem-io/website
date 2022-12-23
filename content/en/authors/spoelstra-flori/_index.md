@@ -46,6 +46,10 @@ social:
 #   icon_pack: ai
 #   link: files/cv.pdf
 
+
+# Role/position
+role: Public sector innovation expert, ex-Digicampus
+
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
