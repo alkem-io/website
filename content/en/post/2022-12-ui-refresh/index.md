@@ -29,10 +29,10 @@ image:
 
 ![](./header.png)
 
-_After adding a lot of new functionality, it was time to have a look at the user interface of our platform. Over the last month, we have been preparing a completely new interface for you. Since it has quite a different look and feel, we will use this blogpost to talk you through it._
+After adding a lot of new functionalities, it was time to have a look at the user interface of our platform. This month, we have been preparing a completely new interface for you. Since it has quite a different look and feel, we wrote this blogpost to talk you through it.
 
 ### Global changes
-First of all, you will immediately see some global changes across the platform. This includes styling updates with regards to o.a. colors, spacing, and textstyles. These improvements result in a more **modern look and feel** and are in accordance with **accessibility standards**.
+First of all, you will immediately see some global changes across the platform. This includes styling updates with regards to o.a. colors, spacing, and textstyles. Improvements resulting in a more **modern look and feel** and according the **accessibility standards**.
 
 Also, you can see the new design of the **cards**. When a new user enters the platform, they want to see the topic/vision of each community. In that way they can more easily join the ones of their interest. To guide the user, the cards now includes more context instead of metrics. The cards are *expandable* for more content and show a preview of the *tagline*, part of the *vision*, the *innovation flow* state, and the *community/challenge* they are a part of.
 ![](./cards.png)
