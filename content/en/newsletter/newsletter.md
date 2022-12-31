@@ -31,7 +31,8 @@ Alkemio sends out newsletters by email with the latest news and updates about bo
 If you have any topics you’d like us to cover in future newsletters please let us know!
 <p></p>
 Previous newsletters:
-<li><a href="http://alkem-25488729.hs-sites-eu1.com/newsletter/2022/november" target="_blank">2022 - November</a> - <i>"Exploring digital plaforms & public values, new onboarding steps and community building."</i> </li>
+<li><a href="http://alkem-25488729.hs-sites-eu1.com/alkemio-newsletter-2022-december" target="_blank">2022 - December</a> - <i>"Ready for solving challenges in 2023!"</i> </li>
+<li><a href="https://alkem-25488729.hs-sites-eu1.com/alkemio/newsletter/2022/november" target="_blank">2022 - November</a> - <i>"Exploring digital plaforms & public values, new onboarding steps and community building."</i> </li>
 <li><a href="http://alkem-25488729.hs-sites-eu1.com/newsletter/2022/october" target="_blank">2022 - October</a> - <i>"Insights about the journey towards steward ownership, Alkemio’s team, partners and platform."</i> </li>
 <li><a href="https://alkem-25488729.hs-sites-eu1.com/sharing-knowledge-is-caring.-alkemio-makes-it-easy-to-lead-with-challenges-and-questions.-not-solutions-and-answers" target="_blank">2022 - September</a> - <i>"What's new or changed on Alkemio?"</i> </li>
 <li><a href="http://alkem-25488729.hs-sites-eu1.com/2022-alkemio-summer-newsletter" target="_blank">2022 - Summer</a> - <i>"The Alkemio Manifesto is out"</i> </li>
