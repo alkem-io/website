@@ -33,7 +33,7 @@ hero_media: ""
 #   Remove a link/note by deleting a cta/note block.
 cta:
   url: "https://alkem.io/identity/registration"
-  label: Want to get started?
+  label: See Challenges in action!
 
 # Note. An optional note to show underneath the links.
 cta_note:
