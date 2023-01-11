@@ -2,6 +2,10 @@ github.com/alkem-io/website-wowchemy-blocks v0.0.0-20221219201658-0607ea6ca9b4 h
 github.com/alkem-io/website-wowchemy-blocks v0.0.0-20221219201658-0607ea6ca9b4/go.mod h1:1C1jhefvdXC8bEFELiP096Ev/1aSBHqmMO9GWit6tno=
 github.com/alkem-io/website-wowchemy-blocks v0.0.0-20221220172130-428e1aec7041 h1:va+h4xKFw2BlV9UbG4gNdIOCHgLFQJTOio/Pg3GuVWI=
 github.com/alkem-io/website-wowchemy-blocks v0.0.0-20221220172130-428e1aec7041/go.mod h1:1C1jhefvdXC8bEFELiP096Ev/1aSBHqmMO9GWit6tno=
+github.com/alkem-io/website-wowchemy-blocks v0.0.0-20221222112023-1f94a2a8cc2d h1:S0zds9eSRqkEhTXT0Xbwx+QA7MaspIoVOj3H/QLQ51U=
+github.com/alkem-io/website-wowchemy-blocks v0.0.0-20221222112023-1f94a2a8cc2d/go.mod h1:1C1jhefvdXC8bEFELiP096Ev/1aSBHqmMO9GWit6tno=
+github.com/alkem-io/website-wowchemy-blocks v0.0.0-20230111221855-d15e3ba3e7db h1:43N1KPCLwwHw0c0xVH5YMSH5GP/NuuvNLNZsaOxutso=
+github.com/alkem-io/website-wowchemy-blocks v0.0.0-20230111221855-d15e3ba3e7db/go.mod h1:1C1jhefvdXC8bEFELiP096Ev/1aSBHqmMO9GWit6tno=
 github.com/renehonig/website-wowchemy-blocks v0.0.0-20221220162257-c7d1b82b1079 h1:irs6yugL5J9hJrlO6+/L8Lp0KBFwmxJHbATye4s+iU4=
 github.com/renehonig/website-wowchemy-blocks v0.0.0-20221220162257-c7d1b82b1079/go.mod h1:m6l+mfWQKBVZRDoKtF+LPOLN+g1lq/oaPsXUm/qZQhw=
 github.com/renehonig/website-wowchemy-blocks v0.0.0-20221220164532-a64c3d9e7122 h1:BotsFwpbOjKxts1AcPOHbPAiKZgiXT9GifG3OETBYC8=
