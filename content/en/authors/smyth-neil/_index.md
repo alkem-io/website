@@ -12,7 +12,7 @@ weight: 1
 superuser: true
 
 # Role/position
-role: Board Member | Co-founder | Chief Technology Officer
+role: Board Member | Co-founder | CEO / CTO
 
 # Organizations/Affiliations
 organizations:
