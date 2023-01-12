@@ -1,7 +1,7 @@
 ---
 # An instance of the Blank widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: text-carousel-widget
+widget: 'github.alkem-io.text-carousel-widget'
 
 # This file represents a page section.
 headless: true
