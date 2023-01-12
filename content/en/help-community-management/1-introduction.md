@@ -72,7 +72,7 @@ Besides some descriptive information, it is key to engage and guide your communi
 ##### Recommendations
 Each dashboard has three recommendations that you can use to guide your community to the most relevant content of the Hub. This can be a link to for example a getting started in this Hub document, the most relevant callout, a sign up link for the next community event, etc. 
 
-![](./recommendations.png)
+<img src="./recommendations.png" alt="recommendations" width="400"/>
 
 These links can and will change over time as the focus of the Hub will mature. You can update the recommendations under `settings > profile`.
 
@@ -89,7 +89,7 @@ It is your key way to **engage the Community**, so it is important to customize 
 
 You can find more information on the [inspiration page](https://alkem.io/inspiration/callouts) or this [blogpost](https://www.alkemio.foundation/post/2022-09-callouts/).
 
-<img src="./inspiringex.png" alt="inspiringex" width="500"/>
+<img src="./inspiringex.png" alt="inspiringex" width="600"/>
 
 ##### Sharing
 When you have populated the Hub, you can start sharing it in your network. Pretty much all content on Alkemio is shareable via direct links. On the Hub tab there is a prominent button for this:
