@@ -123,6 +123,6 @@ Also, you can always find further guidance on our [support page](https://alkemio
 
 ------------------
 
-### Next to add
-- more about how the manage your challenges/opportunities
-- more about how to use templates within your Hub
+### Coming up
+- more about how the manage your Challenges & Opportunities
+- more about how to use the platform library and templates within your Hub
