@@ -72,7 +72,7 @@ Besides some descriptive information, it is key to engage and guide your communi
 ##### Recommendations
 Each dashboard has three recommendations that you can use to guide your community to the most relevant content of the Hub. This can be a link to for example a getting started in this Hub document, the most relevant callout, a sign up link for the next community event, etc. 
 
-<img src="./recommendations.png" alt="recommendations" width="400"/>
+![](./recommendations.png)
 
 These links can and will change over time as the focus of the Hub will mature. You can update the recommendations under `settings > profile`.
 
