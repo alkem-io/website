@@ -80,12 +80,12 @@ These links can and will change over time as the focus of the Hub will mature. Y
 ##### Callouts
 On the Contribute tab, you will find the key functionality to engage your community: the **Callouts**. 
 
-Callouts allow you to ask the community for their knowledge, experiences, methods, etc. on various topics that are relevant for the Hub. By default there are callouts already added so that new can immediately start engaging e.g. by introducing themselves or sharing their insights. 
+Callouts allow you to ask the community for their knowledge, experiences, methods, etc. on various topics that are relevant for the Hub. By default, some callouts are already added so that new members can immediately start engaging e.g. by introducing themselves or sharing their insights. 
 
 <img src="./callouts.png" alt="callouts" width="400"/>
 
 
-It is your key way to **engage the Community**, so it is important to customize the Callouts to your community. For example ask your community about who else should join the Hub, relevant articles or other initiatives that should be considered. 
+It is your key way to **engage the Community**, so it is important to customize the Callouts to your community. For example ask your community about who else should join the Hub, to share relevant articles or other initiatives that should be considered. 
 
 You can find more information on the [inspiration page](https://alkem.io/inspiration/callouts) or this [blogpost](https://www.alkemio.foundation/post/2022-09-callouts/).
 
@@ -109,12 +109,12 @@ Updates are a powerful way to keep your Community informed and engaged. They all
 
 Updates are accessed via ``settings > updates``.
 
-For example with an introduction why the Hub started or when you will have a webinar/presentation to explain.
+Example usage of Updates is to provide members with an introduction on why the Hub started, or when you want to share a webinar/presentation with the entire community.
 
 #### **V. Challenges**
 If you already have a few Challenges in mind for this community, you can directly add them under the Challenges tab. Our context questions will guide you through the process of framing your Challenge. 
 
-Note that for Challenges, you can follow similar steps as the ones above for the Hub to further populate it.
+Note that for Challenges, you can follow similar steps as the ones above for the Hub to further populate it. The structure of the Hub and its Challenges is very similar.
 
 ### Check?
 Hopefully these few steps will get you up and running on the platform! There is a lot more to discover with regards to functionalities or best practices. Have a look at our [blogposts](https://alkemio.foundation/post/) to find more content on various topics. 
