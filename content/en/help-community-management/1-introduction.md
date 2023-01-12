@@ -99,7 +99,7 @@ When you have populated the Hub, you can start sharing it in your network. Prett
 On other places the possibility to share is via this icon:
 ![](./share.png)
 
-In both cases a sharing dialog will popp up:
+In both cases a sharing dialog will pop up:
 <img src="./copylink.png" alt="copylink" width="400"/>
 
 You can then **share the link directly** via email, on LinkedIn, or direct message in platforms such as WhatsApp. 
