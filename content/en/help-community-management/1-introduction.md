@@ -82,23 +82,25 @@ On the Contribute tab, you will find the key functionality to engage your commun
 
 Callouts allow you to ask the community for their knowledge, experiences, methods, etc. on various topics that are relevant for the Hub. By default there are callouts already added so that new can immediately start engaging e.g. by introducing themselves or sharing their insights. 
 
-![](./callouts.png)
+<img src="./callouts.png" alt="callouts" width="400"/>
+
 
 It is your key way to **engage the Community**, so it is important to customize the Callouts to your community. For example ask your community about who else should join the Hub, relevant articles or other initiatives that should be considered. 
 
 You can find more information on the [inspiration page](https://alkem.io/inspiration/callouts) or this [blogpost](https://www.alkemio.foundation/post/2022-09-callouts/).
 
-![](./inspiringex.png)
+<img src="./inspiringex.png" alt="inspiringex" width="500"/>
 
 ##### Sharing
 When you have populated the Hub, you can start sharing it in your network. Pretty much all content on Alkemio is shareable via direct links. On the Hub tab there is a prominent button for this:
-![](./sharebutton.png)
+
+<img src="./sharebutton.png" alt="sharebutton" width="400"/>
 
 On other places the possibility to share is via the following icon:
 ![](./share.png)
 
 In both cases a sharing dialog is popped up:
-![](./copylink.png)
+<img src="./copylink.png" alt="copylink" width="400"/>
 
 The link can then be **shared directly** with those that you want to engage in your community e.g. via email, on LinkedIn, or direct message in platforms such as WhatsApp.
 
