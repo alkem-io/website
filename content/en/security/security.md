@@ -32,7 +32,8 @@ If you know of a publicly disclosed security vulnerability for Alkemio, please *
  
 **IMPORTANT: Do not file public issues on GitHub for security vulnerabilities**
 
-To report a vulnerability or a security-related issue, please email the private address security@alkem.io with the details of the vulnerability. The email will be fielded by the Alkemio Security Team, which is made up of Alkemio maintainers who have committer and release permissions. Emails will be addressed within 5 business days, including a detailed plan to investigate the issue and any potential workarounds to perform in the meantime. Do not report non-security-impacting bugs through this channel. 
+To report a vulnerability or a security-related issue, please email the private address security@alkem.io with the details of the vulnerability. The email will be fielded by the Alkemio Security Team, which is made up of Alkemio maintainers who have committer and release permissions. We also maintain a PGP-signed security.txt file at [our website](https://www.alkemio.foundation/.well-known/security.txt) in line with [RFC 9116](https://www.rfc-editor.org/rfc/rfc9116). Emails will be addressed within 5 business days, including a detailed plan to investigate the issue and any potential workarounds to perform in the meantime. Do not report non-security-impacting bugs through this channel. 
+
 
 ### Proposed Email Content
 Provide a descriptive subject line and in the body of the email include the following information:
@@ -72,7 +73,7 @@ Provide a descriptive subject line and in the body of the email include the foll
 - We will keep you informed of the progress towards resolving the problem.
 - In the public information concerning the reported problem, we will give your name as the discoverer of the problem (unless you desire otherwise).
 
-We strive to resolve all problems as quickly as possible, and we  would like to play an active role in the ultimate publication on the  problem after it is resolved.
+We strive to resolve all problems as quickly as possible, and we would like to play an active role in the ultimate publication on the problem after it is resolved. We are not in the postion to make any financial award for reporting vulnerabilities, but really appreciate anybody helping us in keeping Alkemio safe and secure.
 
 This Responsible Disclosure policy is based on an example written by [Harbor](https://goharbor.io/) and the [Responsible Disclosure Guideline of the NCSC](https://english.ncsc.nl/publications/publications/2019/juni/01/coordinated-vulnerability-disclosure-the-guideline).
 
