@@ -1,7 +1,7 @@
 ---
-# An instance of the people widget.
+# This is used to force some spacing between the title and images.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: people
+widget: blank
 
 # Activate this widget? true/false
 active: true
@@ -10,15 +10,9 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 25
 
-title: Core Team
-
-content:
-  # Choose which groups/teams of users to display.
-  #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-  user_groups:
-    - Core Team
+title: Meet the Team
 
 design:
   # Show user's social networking links? (true/false)
@@ -33,5 +27,6 @@ design:
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
     padding: ["20px", "0", "0px", "0"]
-
+  background:
+    color: white
 ---

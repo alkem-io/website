@@ -18,7 +18,7 @@ subtitle:
 # Section design
 design:
   background:
-    color: rgb(247, 247, 247)
+    color: white
   # Use a 1-column layout
   columns: "1"
   spacing:

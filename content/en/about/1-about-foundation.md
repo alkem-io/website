@@ -24,4 +24,6 @@ design:
     padding: ["20px", "0", "20px", "0"]
 ---
 
-The Alkemio Foundation has been founded by a team who believe that society needs to find new ways to collaborate. Because collaboration fuels trust, and trust fuels collaboration. The conviction is that by enabling anyone and all aspects of society to collaborate in the context of shared goals that we can help realise massive wider societal benefits. 
+<div class="col text-center">
+  "Every day we can reveal the <b>infinite potential of collaboration.</b> " The Alkemio Foundation and its platform are run by a purpose-driven team of professionals who believe that societ needs to find new ways to collaborate.
+</div>

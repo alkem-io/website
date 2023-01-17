@@ -7,22 +7,19 @@ widget: blank
 headless: true
 
 # Order that this section appears on the page.
-weight: 35
+weight: 1
 
 # Section title
-title: 
+title: Innovation Analyst 
 
 # Section subtitle
-subtitle: 
+subtitle: We zoeken een Innovation Analyst voor 3-5 dagen per week. We zijn een Tech-for-good SaaS startup, gevestigd in Den Haag.  
 
-
-# purpose of this file is to force change of background for next section
 # Section design
 design:
   # Use a 1-column layout
   columns: "1"
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
-    padding: ["0px", "0", "0px", "0"]
+    padding: ["20px", "0", "20px", "0"]
 ---
-
