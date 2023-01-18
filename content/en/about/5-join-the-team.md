@@ -12,9 +12,6 @@ weight: 5
 # Section title
 title: Join the Team 
 
-# Section subtitle
-subtitle: Building the future of human collaboration
-
 # Incase of mailto needed :   <a href="mailto:hr@alkem.io?subject=Join%20Alkemio"> </a>
 
 # Section design
@@ -26,7 +23,7 @@ design:
     padding: ["20px", "0", "30px", "0"]
 ---
 
-  Coming up with innovative collaborations every day for large and smaller sustainable communities the Alkemio team is growing.  
+  Coming up with innovative collaborations every day, for large and smaller sustainable communities, the Alkemio team is growing.  
 
   Are you ready to set a new standard for cross-sector collaboration and want to join us? Have a look at the vacancies below or send an email to hr@alkem.io with the topic "Join Alkemio". Attach your resume and an idea on how to improve cooperation between public organizations, businesses, startups, and academia. 
   
