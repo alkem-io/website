@@ -27,7 +27,5 @@ design:
 
   Are you ready to set a new standard for cross-sector collaboration and want to join us? Have a look at the vacancies below or send an email to hr@alkem.io with the topic "Join Alkemio". Attach your resume and an idea on how to improve cooperation between public organizations, businesses, startups, and academia. 
   
-  [Innovation Analyst](/about/vacany/innovation-analyst)
-
-
+  Come join us as our new colleague: [Innovation Analyst](/about/vacany/innovation-analyst)
 
