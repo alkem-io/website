@@ -22,5 +22,6 @@ design:
 ---
 
 <div class="col text-center">
-  "Every day we can reveal the <b>infinite potential of collaboration.</b> " The Alkemio Foundation and its platform are run by a purpose-driven team of professionals who believe that society needs to find new ways to collaborate.
+  "Every day we can reveal the <b>infinite potential of collaboration.</b>" 
+  The Alkemio Foundation and its platform are run by a purpose-driven team of professionals who believe that society needs to find new ways to collaborate.
 </div>
