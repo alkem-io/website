@@ -23,9 +23,8 @@ design:
     padding: ["20px", "0", "30px", "0"]
 ---
 
-  Coming up with innovative collaborations every day, for large and smaller sustainable communities, the Alkemio team is growing.  
-
-  Are you ready to set a new standard for cross-sector collaboration and want to join us? Have a look at the vacancies below or send an email to hr@alkem.io with the topic "Join Alkemio". Attach your resume and an idea on how to improve cooperation between public organizations, businesses, startups, and academia. 
+Are you ready to set a new standard for cross-sector collaboration and want to join our growing team? Have a look at the vacancies below or send an email     to hr@alkem.io with the topic “Join Alkemio”. Attach your resume and describe how you would like to contribute to the vision of Alkemio. 
   
-  Come join us as our new colleague: [Innovation Analyst](/about/vacany/innovation-analyst)
+**Vacancies**
+- [Innovation Analyst](/about/vacany/innovation-analyst)
 
