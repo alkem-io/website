@@ -7,22 +7,21 @@ widget: blank
 headless: true
 
 # Order that this section appears on the page.
-weight: 35
+weight: 1
 
 # Section title
-title: 
+title: Our Team
 
-# Section subtitle
-subtitle: 
-
-
-# purpose of this file is to force change of background for next section
 # Section design
 design:
   # Use a 1-column layout
   columns: "1"
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
-    padding: ["0px", "0", "0px", "0"]
+    padding: ["20px", "0", "20px", "0"]
 ---
 
+<div class="col text-center">
+  "Every day we can reveal the <b>infinite potential of collaboration.</b>" 
+  The Alkemio Foundation and its platform are run by a purpose-driven team of professionals who believe that society needs to find new ways to collaborate.
+</div>
