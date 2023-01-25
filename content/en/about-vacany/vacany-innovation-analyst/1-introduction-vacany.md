@@ -13,7 +13,7 @@ weight: 1
 title: Innovation Analyst 
 
 # Section subtitle
-subtitle: We zoeken een Innovation Analyst voor 3-5 dagen per week. We zijn een Tech-for-good SaaS startup, gevestigd in Den Haag.  
+subtitle: We zoeken een startende Innovation Analyst voor 3-5 dagen per week. We zijn een Tech-for-good SaaS startup, gevestigd in Den Haag.  
 
 # Section design
 design:
