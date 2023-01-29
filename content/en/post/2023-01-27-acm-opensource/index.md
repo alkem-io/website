@@ -1,12 +1,12 @@
 ---
 #widget: pages
 #headless: true
-title: 'Reclaiming our digital sovereignty!'
+title: 'Open source in the public sector - allowed!'
 date: "2023-01-27"
 lastmod: "2023-01-27"
 math: false
 diagram: false
-summary: "Open source, limits on big tech data usage"
+summary: "Positive steps in reclaiming our digital sovereignty"
 authors:
 - larsson-denise
 - smyth-neil
