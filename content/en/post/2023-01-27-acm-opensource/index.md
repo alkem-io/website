@@ -1,7 +1,7 @@
 ---
 #widget: pages
 #headless: true
-title: 'Open source in the public sector - allowed!'
+title: 'Open source in the public sector allowed!'
 date: "2023-01-27"
 lastmod: "2023-01-27"
 math: false
