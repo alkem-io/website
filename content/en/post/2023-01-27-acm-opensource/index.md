@@ -34,11 +34,11 @@ image:
 
 <img src="./header.png" alt="header" width="700"/>
 
-*As stated in our [manifesto](alkem.foundation/manifesto), we love big tech, but not how it is often used. We should ensure that technology supports and works for society instead of the other way around."*
+*Do you love tech, but not how it is often used? Do you believe we should ensure that technology supports and works for society instead of the other way around? So, do we. We do not want digital tools and data to be used to exploit people. They should benefit society, as stated in our [manifesto](alkem.foundation/manifesto).*
 
-We are a digital society, and the platforms offered by big tech companies are embedded in our society. However we can and must take much stronger steps to ensure that public values are embedded in these platforms that we depend on. We have learned from the dominating positions of Facebook, Google, Amazon, etc. While they all started as disruptive innovators, they have become very powerful and influential in society.
+In our digital society, the platforms offered by big tech companies are embedded in our society. However, we can and must take much stronger steps to ensure that public values are embedded in these platforms that we depend on. We have learned from the dominating positions of Facebook, Google, Amazon, etc. While they all started as disruptive innovators, they have become very powerful and influential in society.
 
-Lately, several Dutch institutions have demonstrated that you should not underestimate a small country. The Netherlands was already famous for it's landmark decisions in the two well-known climate cases, the [Urgenda case](https://www.nytimes.com/2019/12/20/climate/netherlands-climate-lawsuit.html) and the [class action case](https://www.theguardian.com/business/2021/may/26/court-orders-royal-dutch-shell-to-cut-carbon-emissions-by-45-by-2030) against Royal Dutch Shell. Recent decisions focused on two other aspects to ensure technology is used the right way.
+Several Dutch institutions have demonstrated that you should not underestimate a small country. The Netherlands was already famous for it's landmark decisions in the two well-known climate cases, the [Urgenda case](https://www.nytimes.com/2019/12/20/climate/netherlands-climate-lawsuit.html) and the [class action case](https://www.theguardian.com/business/2021/may/26/court-orders-royal-dutch-shell-to-cut-carbon-emissions-by-45-by-2030) against Royal Dutch Shell. Recent decisions focused on two other aspects to ensure technology is used the right way.
 
 ### ACM ruling on open source 
 In the beginning of this year, there was a dispute concerning whether or not sharing open source software was an infringement of competition. The Netherlands Competition Authority has now [confirmed](https://www.acm.nl/nl/publicaties/acm-verklaart-het-bezwaar-tegen-prioriteringsbesluit-ongegrond) its previous decision that a public administration **can** share the software. This recent ruling is a major step forward in stimulating open source in our country. 
@@ -52,5 +52,5 @@ Another recent examples where the Netherlands is stimulating technology to be op
 
 An audit from two Dutch universities highlighted the lack of privacy protections and breach of European law. After multiple negotiations, the American tech company agreed to alter their privacy and transparency controls. It is a small step in the right direction, with much more needed, as open societies reclaim digial sovereignty. 
 
-### Conclusion
-We are very happy to see the growing consensus and these regulations all focused on stimulating technology for good. It is clear that technology will continue to have an important role in our daily lives. Let's use technology to achieve our societal goals, building on top of technologies potential for efficiency, the low costs, ability to share and connect across the entire world. If we want to stimulate open innovation, and solve societal challenges while keeping up with new technologies, open source is key. 
+### Stay ahead
+This growing consensus and these regulations are all focused on stimulating technology for good. It is clear that technology will continue to have an important role in our daily lives. We are building on top of technologies potential for efficiency, the low costs, ability to share and connect across the entire world. If we want to stimulate open innovation, and solve societal challenges while keeping up with new technologies, open source is key. How do you use technology to achieve societal issues?
