@@ -69,8 +69,7 @@ features:
       - latex
   math:
     enable: false
-  privacy_pack:
-    enable: false
+  privacy_pack: false
   repository:
     url: 'https://github.com/alkem-io/website'
     content_dir: content
