@@ -33,7 +33,7 @@ Alkemio makes updates to the production platform approximately every two weeks. 
 <b>Release 2023-01-31</b>
 <p></p>
 
-<i>[This release]([https://alkem-25488729.hs-sites-eu1.com/alkemio-release-2023-01-31) is another major one! :) The releases in early 2023 have focused mostly on refining the user interface refresh from late last year and non-visible updates such as performance improvements - but we are back to more visible updates! Key additions to highlight are the adding of the events calendar, simplified usage of whiteboards and private Challenges.</i>
+<i>[This release]([[https://alkem-25488729.hs-sites-eu1.com/alkemio-release-2023-01-31](https://alkem-25488729.hs-sites-eu1.com/alkemio-release-2023-01-31?ecid=AOKeC1YwirB0x73eVnMjemuArvKmUjrzcY8BWUTtyV3CXxiHPK24St_gR4ND7VAs3n3CIpBmUUZw&utm_campaign=Mailing%20Release%20Notifications&utm_medium=email&_hsmi=68364687&_hsenc=p2ANqtz-8CrmG5_KAUhps_-SGqjGSIymjH9zamopK8TaNol_rAyzR-Gq8wekB3lnrbUbIAINPpMQL50Wk0CUVCqKeLKxlZujQFpQ&utm_content=68364687&utm_source=hs_email)) is another major one! :) The releases in early 2023 have focused mostly on refining the user interface refresh from late last year and non-visible updates such as performance improvements - but we are back to more visible updates! Key additions to highlight are the adding of the events calendar, simplified usage of whiteboards and private Challenges.</i>
 
 <i>Interested in trying out these new changes? Go directly to [Alkemio](https://alkem.io/?utm_source=hs_email&utm_medium=email&utm_content=64703278&_hsenc=p2ANqtz-9Giqo8QcZnf1CWdBLUSBKzmp4iMt-wvwbXM0qYcnNA30kdtBPsKqaaj3shSIvFGGfK-BM2cl2xAbSLj-JRK7VDK9TgcQ). As always, please share your feedback and comments. Enjoy!</i>
 <p></p>
