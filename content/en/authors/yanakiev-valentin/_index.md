@@ -6,7 +6,7 @@ title: Valentin Yanakiev
 authors:
 - yanakiev-valentin
 
-weight: 3
+weight: 25
 
 # Is this the primary user of the site?
 superuser: false

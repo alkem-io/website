@@ -10,7 +10,7 @@ headless: true
 weight: 88
 
 # Section title
-title: Past Contributors
+title: Former Contributors
 
 # Section subtitle
 subtitle: Recognizing all those that have contributed to Alkemio!

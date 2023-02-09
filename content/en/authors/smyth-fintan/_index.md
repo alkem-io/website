@@ -6,7 +6,7 @@ title: Fintan Smyth
 authors:
 - smyth-fintan
 
-weight: 15
+weight: 4
 
 # Is this the primary user of the site?
 superuser: true

@@ -4,9 +4,9 @@ title: Lazar Tasic
 
 # Username (this should match the folder name)
 authors:
-- tasic-lazar
+- lisjak-tatjana
 
-weight: 14
+weight: 24
 
 # Is this the primary user of the site?
 superuser: false
@@ -33,7 +33,7 @@ social:
 #  link: https://twitter.com/GeorgeCushen
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/lazar-tasic-72b223203/
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
