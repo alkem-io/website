@@ -6,7 +6,7 @@ title: Aleksandar Stojanović
 authors:
 - stojanovic-aleksandar
 
-weight: 21
+weight: 14
 
 # Is this the primary user of the site?
 superuser: false

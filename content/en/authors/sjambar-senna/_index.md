@@ -6,7 +6,7 @@ title: Senna Sjambar
 authors:
 - sjambar-senna
 
-weight: 20
+weight: 19
 
 # Is this the primary user of the site?
 superuser: false

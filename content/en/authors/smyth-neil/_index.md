@@ -6,7 +6,7 @@ title: Neil Smyth
 authors:
 - smyth-neil
 
-weight: 2
+weight: 1
 
 # Is this the primary user of the site?
 superuser: true

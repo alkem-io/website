@@ -6,7 +6,7 @@ title: René Honig
 authors:
 - honig-rene
 
-weight: 1
+weight: 2
 
 # Is this the primary user of the site?
 superuser: true

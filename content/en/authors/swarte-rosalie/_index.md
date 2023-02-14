@@ -6,7 +6,7 @@ title: Rosalie Swarte
 authors:
 - swarte-rosalie
 
-weight: 23
+weight: 8
 
 # Is this the primary user of the site?
 superuser: false

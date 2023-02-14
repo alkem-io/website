@@ -6,7 +6,7 @@ title: Simone Rietmeijer
 authors:
 - rietmeijer-simone
 
-weight: 16
+weight: 15
 
 # Is this the primary user of the site?
 superuser: false
