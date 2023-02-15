@@ -40,17 +40,7 @@ header:
 # Site footer - Turn enable to true to turn on again - See partials for current footer.
 
 footer:
-  widget: minimal
-  copyright:
-    notice: ''
-    license:
-      enable: false
-      allow_derivatives: false
-      share_alike: true
-      allow_commercial: false
-  design: 
-    spacing:
-      padding: ["0px"]
+  block: alkemio-footer
 
 # Localization
 
