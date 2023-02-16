@@ -6,7 +6,7 @@ title: Kaylee Scholtes
 authors:
 - scholtes-kaylee
 
-weight: 10
+weight: 7
 
 # Is this the primary user of the site?
 superuser: false

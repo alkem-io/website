@@ -6,7 +6,7 @@ title: Andrew Pazniak
 authors: 
 - pazniak-andrew
 
-weight: 17
+weight: 12
 
 # Is this the primary user of the site?
 superuser: false
