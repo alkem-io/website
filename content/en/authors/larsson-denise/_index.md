@@ -6,7 +6,7 @@ title: Denise Larsson
 authors:
 - larsson-denise
 
-weight: 16
+weight: 11
 
 # Is this the primary user of the site?
 superuser: false
