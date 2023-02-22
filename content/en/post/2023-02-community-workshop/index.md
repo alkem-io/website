@@ -28,11 +28,7 @@ image:
   preview_only: true
 ---
 
-
-# What does it take to build a community?
-
-![](./community.png)
-
+![](./header.png)
 
 ### Explore 
 Building a community and keeping it active is a challenging task. When turning conversations into contributions that matter, it is essential to not only **build** communities but also to **guide** and help them along the process. You want to make sure they keep engaging and growing as a community while they work towards a shared interest. 
@@ -45,9 +41,7 @@ It was an interesting afternoon where we brainstormed about the possible ways to
 
 During the workshop, we have captured the **drivers, blockers, and suggestions for activities** that were mentioned in the [Building an Active Community Challenge](https://alkem.io/challengecentric/challenges/buildingthecommuni-426/contribute) on Alkemio.  A few examples:
 
-
-![](./index.md.drivers.png)
-
+<img src="./drivers.png" alt="header" width="150"/>
 
 #### Drivers to come to the community
 * Members are often looking for knowledge instead of providing knowledge
@@ -56,7 +50,7 @@ During the workshop, we have captured the **drivers, blockers, and suggestions f
 * They want a space to experiment
 * They want to see other success stories 
 
-![](./index.md.blockers.png)
+<img src="./blockers.png" alt="header" width="150"/>
 
 #### Blockers are related to 
 * Vulnerability
