@@ -6,7 +6,7 @@ date: "2023-02-22"
 lastmod: "2023-02-22"
 math: false
 diagram: false
-summary: "Bulding an active community"
+summary: "Building an active community"
 authors:
 - ragni-mayte
 tags:
@@ -30,7 +30,9 @@ image:
 
 
 # What does it take to build a community?
-![](https://raw.githubusercontent.com/codefornl/assets/main/code-for-nl/modern-2021/code-for-nl-people-orange.jpeg)
+
+![](./community.png)
+
 
 ### Explore 
 Building a community and keeping it active is a challenging task. When turning conversations into contributions that matter, it is essential to not only **build** communities but also to **guide** and help them along the process. You want to make sure they keep engaging and growing as a community while they work towards a shared interest. 
