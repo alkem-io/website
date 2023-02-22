@@ -41,7 +41,7 @@ It was an interesting afternoon where we brainstormed about the possible ways to
 
 During the workshop, we have captured the **drivers, blockers, and suggestions for activities** that were mentioned in the [Building an Active Community Challenge](https://alkem.io/challengecentric/challenges/buildingthecommuni-426/contribute) on Alkemio.  A few examples:
 
-<img src="./drivers.png" alt="header" width="150"/>
+<img src="./drivers.png" alt="header" width="200"/>
 
 #### Drivers to come to the community
 * Members are often looking for knowledge instead of providing knowledge
