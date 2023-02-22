@@ -6,7 +6,7 @@ date: "2023-02-22"
 lastmod: "2023-02-22"
 math: false
 diagram: false
-summary: "Building an active community"
+summary: "Identifying drivers and blockers"
 authors:
 - ragni-mayte
 tags:
