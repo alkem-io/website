@@ -1,3 +1,34 @@
+---
+#widget: pages
+#headless: true
+title: 'What does it take to build a community?'
+date: "2023-02-22"
+lastmod: "2023-02-22"
+math: false
+diagram: false
+summary: "Bulding an active community"
+authors:
+- ragni-mayte
+tags:
+- community
+- workshop
+- activities
+- drivers
+- blockers
+
+
+#categories:
+#- Demo
+
+
+featured: false
+draft: false
+image:
+  placement: 1
+  preview_only: true
+---
+
+
 # What does it take to build a community?
 ![](https://raw.githubusercontent.com/codefornl/assets/main/code-for-nl/modern-2021/code-for-nl-people-orange.jpeg)
 
@@ -13,7 +44,7 @@ It was an interesting afternoon where we brainstormed about the possible ways to
 During the workshop, we have captured the **drivers, blockers, and suggestions for activities** that were mentioned in the [Building an Active Community Challenge](https://alkem.io/challengecentric/challenges/buildingthecommuni-426/contribute) on Alkemio.  A few examples:
 
 
-<img src="https://i.imgur.com/w9zjCm3.png" alt="header" width="200"/>
+![](./index.md.drivers.png)
 
 
 #### Drivers to come to the community
@@ -23,7 +54,7 @@ During the workshop, we have captured the **drivers, blockers, and suggestions f
 * They want a space to experiment
 * They want to see other success stories 
 
-<img src="https://i.imgur.com/xA5e6jU.png" alt="header" width="150"/>
+![](./index.md.blockers.png)
 
 #### Blockers are related to 
 * Vulnerability
