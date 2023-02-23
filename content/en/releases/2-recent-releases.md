@@ -51,7 +51,7 @@ design:
 <i>"Closing Callouts, Activity log: real time updates, performance + new activities, Home Page Contributors"</i> </li>
 
 <li><a href="https://alkem-25488729.hs-sites-eu1.com/alkemio-release-2022-10-11" target="_blank">2022-10-11</a>: 
-<i>"Sharing of Hubs, Challenges or Opportunities as well as Callouts, Cards or Canvases, latest activities on dashboard"</i> </li>
+<i>"Sharing of Hubs, Challenges or Opportunities as well as Callouts, Cards or Whiteboards(Formerly known as Canvases), latest activities on dashboard"</i> </li>
 
 <li><a href="https://alkem-25488729.hs-sites-eu1.com/alkemio-release-2022-10-06" target="_blank">2022-10-06</a>: 
 <i>"Simplified Challenge & Opportunity creation flow as well as more guidance, members allowed to create Challenges, innovation flow management, Callout inspiration, Challenges page refresh"</i> </li>
@@ -66,7 +66,7 @@ design:
 <i>"UX refresh, Callouts, Innovation Flows, +++"</i> </li>
 
 <li><a href="https://alkem-25488729.hs-sites-eu1.com/alkemio-release-2022-07-13" target="_blank">2022-07-13</a>:     
-<i>"Canvases as Cards, managing the Community, less User logins, and displaying character limits"</i> </li>
+<i>"Whiteboards(Formerly known as Canvases) as Cards, managing the Community, less User logins, and displaying character limits"</i> </li>
 
 <li><a href="https://alkem-25488729.hs-sites-eu1.com/alkemio-release-2022-06-29" target="_blank">2022-06-29</a>: 
 <i>"New home page, new platform and website domain, and Aspect management templates"</i> </li>

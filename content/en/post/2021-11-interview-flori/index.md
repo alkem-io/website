@@ -114,7 +114,7 @@ Also important to mention is that people are key to making the innovation happen
 
 I am looking forward to community functionality, such as Updates and Discussions, which makes it easier connecting people around challenges. I have no doubts it will create great traction. 
 
-In the hopefully not too distant future, I am really looking forward to the canvasses function that has the potential to help people through every step of their innovate process, from creating a collaboration agenda, to setting up a test-session with citizens. 
+In the hopefully not too distant future, I am really looking forward to the whiteboards function that has the potential to help people through every step of their innovate process, from creating a collaboration agenda, to setting up a test-session with citizens. 
 
 It would be really helpful if we can share our best practices on Alkemio. 
 

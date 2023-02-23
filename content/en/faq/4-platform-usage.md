@@ -30,7 +30,7 @@ design:
     </p>
     <p>It is hierarchical in that Hubs contain Challenges, which in turn contain Opportunities - with the Alkemio Platform hosting many Hubs.</p>
     <p>Each level has a Community around it. Individuals and Organizations can choose to join a Hub to contribute to multiple Challenges around a certain theme. It is also possible to join seperate Challenges in different Hubs.</p>
-    <p>Within all three levels, Users can discuss the topic, share relevant information in a structured manner, and brainstorm by using canvases.</p>
+    <p>Within all three levels, Users can discuss the topic, share relevant information in a structured manner, and brainstorm by using whiteboards.</p>
   </div>
 </div>
 
