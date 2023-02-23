@@ -9,6 +9,7 @@ diagram: false
 summary: "Identifying drivers and blockers"
 authors:
 - ragni-mayte
+- ros-birgit
 tags:
 - community
 - workshop
