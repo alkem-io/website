@@ -35,7 +35,7 @@ We are proud Digicampus is helping us to launch the public preview of our innova
 
 You will get a chance to see a sneak preview of our Alkemio hub and experience it first hand.
 
-We are welcoming you to attend the launch. You can register via the [registration form](https://tech.us3.list-manage.com/subscribe?u=1b4edf17a4115ac471e74491f&id=20e5172455).
+We are welcoming you to attend the launch. You can register via the [registration form](https://tech.us3.list-manage.com/subscribe?u=1b4edf17a4115ac471e74491f&id=20e5172455). This link is no longer available as the event has passed.
 
 {{< figure src="logo-digicampus.svg" alt="Digicampus logo" numbered="false" >}}
 
