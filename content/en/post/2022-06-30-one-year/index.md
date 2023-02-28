@@ -38,7 +38,7 @@ Any initiative lives by the strength of the community around it. And Alkemio can
 Comparing where we are now to a year ago is always hard: there are do many intangibles. But we can at last share some facts and figures, to give you a flavor of the progress. 
 
 **Community and usage**: 
-* **Partners**: our launching partner was Digicampus, but over the months since the launch we are delighted that organizations such as [UWV](https://uwv.nl), [VNG](https://vng.nl) and [Ministerie Binnenlandse Zaken](https://) from the Dutch public sector have joined as partners, working with us to guide the development of Alkemio. 
+* **Partners**: our launching partner was Digicampus, but over the months since the launch we are delighted that organizations such as [UWV](https://www.uwv.nl/particulieren/), [VNG](https://vng.nl) and [Ministerie Binnenlandse Zaken](https://www.rijksoverheid.nl/ministeries/ministerie-van-binnenlandse-zaken-en-koninkrijksrelaties) from the Dutch public sector have joined as partners, working with us to guide the development of Alkemio. 
 And we have established partnerships outside The Netherlands, notably with [STOP THE TRAFFIK](https://stopthetraffik.org) who are using the platform to prevent human trafficing amongst Ukranian regugees.
 * **Users**: obviously we started with a few users at launch, but the sign ups have continued to accelerate, with there now being **300+** users signed up.
 * **Hubs**: from the initial **Publieke Dienstverlening** Hub at launch, there are currently 13 Hubs on [the platform](https://alkem.io):
