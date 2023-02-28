@@ -53,6 +53,8 @@ Interested in this translation (or the Bulgarian or Ukranian)? Please visit our 
 
 Any thoughts on this? Please [contact us](https://alkemio.foundation/feedback/)! 
 
+PS: The screenshots in this post may not currently represent the reality as our platform is changing and improving constantly.
+
 
 
 
