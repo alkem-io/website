@@ -38,4 +38,4 @@ The session will start with innovators from [Digicampus](https://digicampus.tech
 
  The participants will then break out into small groups of 5-6 people to  look at opportunities and challenges currently affecting our collective  ability to collaborate on the hard challenges facing society. All  insights and ideas are then brought together and shared in the wider  group - and then discussed further in the after session social drinks :)
 
-**Join us by registering at the [ImpactFest website](https://app.swapcard.com/event/impactfest-2021/planning/UGxhbm5pbmdfNzI1Mzc1)!**
+**Join us by registering at the [ImpactFest website](https://app.swapcard.com/event/impactfest-2021/planning/UGxhbm5pbmdfNzI1Mzc1)!** This link is outdated since the event was in 2021.

@@ -34,7 +34,7 @@ image:
 
 <img src="./header.png" alt="header" width="700"/>
 
-*Do you love tech, but not how it is often used? Do you believe we should ensure that technology supports and works for society instead of the other way around? So, do we. We do not want digital tools and data to be used to exploit people. They should benefit society, as stated in our [manifesto](alkem.foundation/manifesto).*
+*Do you love tech, but not how it is often used? Do you believe we should ensure that technology supports and works for society instead of the other way around? So, do we. We do not want digital tools and data to be used to exploit people. They should benefit society, as stated in our [manifesto](https://www.alkemio.foundation/manifesto/).*
 
 In our digital society, the platforms offered by big tech companies are embedded in our society. However, we can and must take much stronger steps to ensure that public values are embedded in these platforms that we depend on. We have learned from the dominating positions of Facebook, Google, Amazon, etc. While they all started as disruptive innovators, they have become very powerful and influential in society.
 

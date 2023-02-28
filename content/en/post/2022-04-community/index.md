@@ -70,5 +70,5 @@ Furthermore, we are working on the possibility for Community admins to **invite*
 ### To conclude
 Engaging the Community remains key for making progress on each Challenge. Thinking about what would make you want to contribute or what you would need to enter the Community is therefore essential. 
 
-Any thoughts on this? Please [contact us](https://alkem.io/feedback/)!
+Any thoughts on this? Please [contact us](https://www.alkemio.foundation/feedback/)!
 
