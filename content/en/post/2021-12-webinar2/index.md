@@ -31,7 +31,7 @@ Please join us for a [lunchtime webinar (12:00 - 13:00 CET) on December 20th](ht
 _Note: this webinar is partially covering topics we had planned for a joint webinar with our partner Digicampus on December 13th. That event needed to be cancelled for personal reasons. We will reschedule that event for January..._
 
 The public preview of Alkemio was [launched this past July](https://alkemio.foundation/post/2021-07-public-preview/) in partnership with [Digicampus](https://digicampus.tech). Five intense and productive months have flown by, and in this session we will cover:
-- We have a major new release! The most obvious is the new user interface. But there is also a wealth of additions related to interacting within communities (updates, communications) and co-creation (canvases, with support for best practice templates). In short we have been busy :)
+- We have a major new release! The most obvious is the new user interface. But there is also a wealth of additions related to interacting within communities (updates, communications) and co-creation (whiteboards, with support for best practice templates). In short we have been busy :)
 - New partners and customers: the core message, that we need to align within and across organizations, is resonating. Looking forward to sharing some positive news!
 - Roadmap and plans for 2022: the product is maturing, the early market engagement is positive, and the need is huge. What do we see as key focus areas for Alkemio next year?
 

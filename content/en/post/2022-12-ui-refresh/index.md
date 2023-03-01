@@ -53,7 +53,7 @@ And finally, the last block shows you the **Top 3 Callouts**. These are the Call
 #### Contribute page
 This is where you can collaborate, share knowledge and insights, receive feedback. Therefore it is key that you are quickly able to navigate to the callouts that you can contribute to. 
 
-As the number of callouts is growing, navigating them effectively on the contribute page becomes important. Therefore, we have added a [**list with all callouts**](https://alkem.io/challengecentric/contribute). Clicking on one of these callouts will directly navigate you to the callout. Note that there is also a refresh of the **cards** and **canvases**, again focussing on visualizing the content directly.
+As the number of callouts is growing, navigating them effectively on the contribute page becomes important. Therefore, we have added a [**list with all callouts**](https://alkem.io/challengecentric/contribute). Clicking on one of these callouts will directly navigate you to the callout. Note that there is also a refresh of the **cards** and **whiteboards**, again focussing on visualizing the content directly.
 
 ![](./contribute.png)
 
