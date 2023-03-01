@@ -24,7 +24,7 @@ image:
   placement: 1
   
 ---
-Save the date! On Thursday July 8th, our founding partner [Digicampus](https://sigicampus.tech) is celebrating its second birthday. We are happy to join the party and launch the public preview of the Alkemio innovation hub!
+Save the date! On Thursday July 8th, our founding partner [Digicampus](https://digicampus.tech/) is celebrating its second birthday. We are happy to join the party and launch the public preview of the Alkemio innovation hub!
 
 Are you managing challenges involving multiple parties? Tired of spreadsheets and custom development? Is it hard to align stakeholders and get commitment on your challenges? Are you able to connect to innovation parties?
 
@@ -34,8 +34,6 @@ To help with this, our new open innovation hub is being launched! Fully open sou
 We are proud Digicampus is helping us to launch the public preview of our innovation hub and will host their challenges on it. as they say: 'Come join us and innovate across borders!'
 
 You will get a chance to see a sneak preview of our Alkemio hub and experience it first hand.
-
-We are welcoming you to attend the launch. You can register via the [registration form](https://tech.us3.list-manage.com/subscribe?u=1b4edf17a4115ac471e74491f&id=20e5172455).
 
 {{< figure src="logo-digicampus.svg" alt="Digicampus logo" numbered="false" >}}
 

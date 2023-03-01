@@ -49,7 +49,7 @@ Third, you can also *add guidelines* on how to use the Template as shown in this
 
 ![](https://i.imgur.com/UPooMO2.jpg)
 
-You can find some more Whiteboards in the following [Challenge](https://alkem.io/open-innovation/challenges/canvas-templates/canvases) where we will be sharing additional Template examples.
+You can find some more Canvases in the following [Challenge](https://alkem.io/open-innovation/challenges/canvas-templates/dashboard) where we will be sharing additional Template examples.
 
 ## How are Whiteboards implemented in Alkemio?
 Alkemio is committed to Open Source. So we were very keen to also base core functionality like Whiteboards on open source components. 

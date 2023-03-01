@@ -46,7 +46,7 @@ Big and small businesses play a big role in the public domain. This implies the 
 
 An expedition that started in the spring explored the possibilities of the province of South-Holland, as a connector in the platform economy. During an open symposium, the results of the six months of explorations were launched in an expedition report. It was handed over from the acting provincial secretary Jan van Ginkel to the deputy Willy de Zoete. The results show that there is a need to enable the user and the community around public challenges. Platforms are steering and maintaining the rules of engagement and they can lower transaction costs.  
 
-### Across all boundaries?! The [European Digital Markets Act (DMA)](https:ec.Europa.eu/commission/presscorner/detail/en/qanda_20_2349) is published. 
+### Across all boundaries?! The [European Digital Markets Act (DMA)](https://competition-policy.ec.europa.eu/dma_en) is published. 
 
 In the Netherlands, Alexandra van Huffelen presented the 'digitale werkagenda' which enables tech companies to collaborate to achieve the goals of the DMA. And online platforms and search engines failing to comply with the DMA can be fined up to 6% of their worldwide turnover. Enabling digital transparency is an important step and at the core of Alkemio's beliefs: **A platform should be: open for all for everyone to contribute; independent and solid to make progress together, and work across all boundaries.**
 
