@@ -32,7 +32,7 @@ If you have any topics you’d like us to cover in future newsletters please let
 <p></p>
 Previous newsletters:
 
-<li><a href="https://alkem-25488729.hs-sites-eu1.com/alkemio/newsletter/2023/february" target="_blank">2023 - February</a> - <i>"Community event on community building activities."</i> </li>
+<li><a href="https://alkem-25488729.hs-sites-eu1.com/alkemio/newsletter/2023/february" target="_blank">2023 - February</a> - <i>"Communities for change."</i> </li>
 
 <li><a href="http://alkem-25488729.hs-sites-eu1.com/alkemio/newsletter/2023/january" target="_blank">2023 - January</a> - <i>"Open Source, new calendar feature and community event."</i> </li>
 
