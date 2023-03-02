@@ -25,6 +25,9 @@ image:
   placement: 1
   preview_only: true
 ---
+
+*Note that the screenshots/images in this post may not represent the current reality as our platform's features are changing and improving constantly.*
+
 ![](./header.png)
 # One year old!
 
