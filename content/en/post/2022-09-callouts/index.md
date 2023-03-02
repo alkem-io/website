@@ -27,6 +27,8 @@ image:
   preview_only: true
 ---
 
+<sup>* Note that visuals of the platform may be outdated due to continuous improvements.</sup>
+
 ![](./header.png)
 
 *What are the topics that your community is most interested in? Who are the potential stakeholders that play a role in this Challenge? What are the risks related to this Opportunity? What are other initiatives that this community can learn from?*
