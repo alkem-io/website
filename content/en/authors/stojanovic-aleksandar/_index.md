@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Aleksandar Stojanović
+title: Aleksandar Stojanović
 
 # Username (this should match the folder name)
 authors:

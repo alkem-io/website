@@ -36,7 +36,7 @@ The goal of our Alkemio platform is to make it easier for Contributors, includin
 
 Becoming a member of a Community implies agreeing to the rules of that Community. Such Users have to explicitly join a Community: either to Apply, Join and agree to terms etc. 
 
-As a member of a Community, you are allowed to carry out certain actions e.g. start an Aspect, create a Canvas etc. You are also able to turn on notifications for certain events in that Community e.g. receive Community Updates etc.
+As a member of a Community, you are allowed to carry out certain actions e.g. start an Aspect, create a Whiteboard etc. You are also able to turn on notifications for certain events in that Community e.g. receive Community Updates etc.
 
 ### Why would you as a Contributor join a Community?
 Each User will have their own rational, but some example rationals could be:
@@ -70,5 +70,5 @@ Furthermore, we are working on the possibility for Community admins to **invite*
 ### To conclude
 Engaging the Community remains key for making progress on each Challenge. Thinking about what would make you want to contribute or what you would need to enter the Community is therefore essential. 
 
-Any thoughts on this? Please [contact us](https://alkem.io/feedback/)!
+Any thoughts on this? Please [contact us](https://www.alkemio.foundation/feedback/)!
 

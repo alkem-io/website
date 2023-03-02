@@ -31,6 +31,9 @@ Alkemio sends out newsletters by email with the latest news and updates about bo
 If you have any topics you’d like us to cover in future newsletters please let us know!
 <p></p>
 Previous newsletters:
+
+<li><a href="https://alkem-25488729.hs-sites-eu1.com/alkemio/newsletter/2023/february" target="_blank">2023 - February</a> - <i>"Communities for change."</i> </li>
+
 <li><a href="http://alkem-25488729.hs-sites-eu1.com/alkemio/newsletter/2023/january" target="_blank">2023 - January</a> - <i>"Open Source, new calendar feature and community event."</i> </li>
 
 <li><a href="http://alkem-25488729.hs-sites-eu1.com/alkemio-newsletter-2022-december" target="_blank">2022 - December</a> - <i>"Ready for solving challenges in 2023!"</i> </li>
