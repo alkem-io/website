@@ -27,8 +27,7 @@ image:
   placement: 1
   preview_only: true
 ---
-<sup>**Note that visuals of the platform may be outdated due to continuous improvements.*</sup>
-~**Note that visuals of the platform may be outdated due to continuous improvements.*~
+<sup>*Note that visuals of the platform may be outdated due to continuous improvements.</sup>
 
 ![](./header.png)
 
