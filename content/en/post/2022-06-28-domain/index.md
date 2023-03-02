@@ -25,6 +25,9 @@ image:
   placement: 1
   
 ---
+
+<sup>* Note that visuals of the platform may be outdated due to continuous improvements.</sup>
+
 # Landing on the Alkemio platform 
 
 Since the launch, almost 1 year ago, the **Alkemio platform** has been available on: https://hub.alkem.io.
