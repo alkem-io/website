@@ -28,6 +28,8 @@ image:
   preview_only: true
 ---
 
+<sup>* Note that visuals of the platform may be outdated due to continuous improvements.</sup>
+
 ![](./header.png)
 
 *The Alkemio platform is growing! With the expansion of our users, guidance becomes more and more important. That is why we have made the first step towards sharing our **knowledge base**!*
