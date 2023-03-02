@@ -26,7 +26,7 @@ image:
   preview_only: true
 ---
 
-*Note that the screenshots/images in this post may not represent the current reality as our platform's features are changing and improving constantly.*
+<sup>* Note that visuals of the platform may be outdated due to continuous improvements.</sup>
 
 ![](./header.png)
 # One year old!
