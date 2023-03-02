@@ -27,6 +27,8 @@ image:
   preview_only: true
 ---
 
+<sup>* Note that visuals of the platform may be outdated due to continuous improvements.</sup>
+
 ![](./header.png)
 
 *After adding a lot of new functionalities, it was time to have a look at the user interface of our platform. This month, we have been preparing a completely new interface for you. Since it has quite a different look and feel, we wrote this blogpost to talk you through it.*
