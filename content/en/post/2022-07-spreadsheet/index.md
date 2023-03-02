@@ -27,7 +27,9 @@ image:
   placement: 1
   preview_only: true
 ---
-######## **Note that visuals of the platform may be outdated due to continuous improvements.*
+<sup>**Note that visuals of the platform may be outdated due to continuous improvements.*<sup>
+~**Note that visuals of the platform may be outdated due to continuous improvements.*~
+
 ![](./header.png)
 
 *You are managing a project, consisting of many stakeholders and types of information. The first thing you do is structure all data in a spreadsheet, as this is the easiest way of processing the data. But.. what now?*
