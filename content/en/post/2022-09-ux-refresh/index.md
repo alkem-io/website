@@ -27,6 +27,8 @@ image:
   preview_only: true
 ---
 
+<sup>* Note that visuals of the platform may be outdated due to continuous improvements.</sup>
+
 ![](./header.png)
 
 <i>We believe that our platform can enable individuals and organizations to solve Challenges, together. But we do understand that it is again a new platform, with new functionalities and an unknown interface. The simplification of our menu structures has therefore been an important focal point the last weeks.</i>
