@@ -24,6 +24,9 @@ image:
   placement: 1
   preview_only: true
 ---
+
+<sup>* Note that visuals of the platform may be outdated due to continuous improvements.</sup>
+
 ![](./header.png)
 # 
 Alkemio is being built **with** the Community as well as **for** the Community! That has been one of the key messages from the start. Each Individual User as well as Organization can submit their feedback, for example through [GitHub](https://github.com/alkem-io/alkemio/discussions) - gathering the **wisdom of the Community** as we together develop the platform. 
@@ -53,7 +56,7 @@ Interested in this translation (or the Bulgarian or Ukranian)? Please visit our 
 
 Any thoughts on this? Please [contact us](https://alkemio.foundation/feedback/)! 
 
-*Note that the screenshots in this post do not represent the current reality as our platform's features are changing and improving constantly.*
+
 
 
 

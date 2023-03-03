@@ -30,12 +30,12 @@ design:
 ---
 Alkemio makes updates to the production platform approximately every two weeks. Below you can find the latest release note as well as links to previous notes.
 <p></p>
-<b>Release 2023-02-13</b>
+<b>Release 2023-03-02</b>
 <p></p>
 
-<i>Just in time for St Valentine's day, [the 2023-02-13 release!](http://alkem-25488729.hs-sites-eu1.com/alkemio-release-2023-02-13). 
+<i>Prepare yourself for a list full of new updates in [this 2023-03-02 release](https://alkem-25488729.hs-sites-eu1.com/alkemio-release-2023-03-02)!
 
-This release brings the ability to **send messages via email notifications** :) Multiple ways of interacting are now enabled, including **enhanced sharing**. Plus some naming updates, and performance updates. This is all about making it much easier to connect on the platform....</i>
+Continuing our focus on enabling you to **engage** your community, we have added the ability to **tag/mention other users or organizations** as well as **search within your Hub**. Both important improvements. Next to that we also got clear feedback that Alkemio for new users needed to be easier to understand, so we have added a **new landing page** to guide new users, as well as the ability **group communities** on the existing home page by theme!</i>
 
 <i>Interested in trying out these new changes? Go directly to [Alkemio](https://alkem.io/?utm_source=hs_email&utm_medium=email&utm_content=64703278&_hsenc=p2ANqtz-9Giqo8QcZnf1CWdBLUSBKzmp4iMt-wvwbXM0qYcnNA30kdtBPsKqaaj3shSIvFGGfK-BM2cl2xAbSLj-JRK7VDK9TgcQ). As always, please share your feedback and comments. Enjoy!</i>
 <p></p>

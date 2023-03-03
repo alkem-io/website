@@ -28,6 +28,8 @@ image:
   preview_only: true
 ---
 
+<sup>* Note that visuals of the platform may be outdated due to continuous improvements.</sup>
+
 ![](./header.png)
 
 ### Discover the meaning behind our platform's terminology!
