@@ -29,8 +29,9 @@ design:
   #  text_color_light: true
 ---
 <b>Previous releases</b>
-<!-- <li><a href="http://alkem-25488729.hs-sites-eu1.com/alkemio-release-2023-02-13" target="_blank">2023-02-13</a>: 
-<i>"Message other users / community hosts /organizations, improved sharing, more content on calendar events"</i> </li> -->
+
+<li><a href="http://alkem-25488729.hs-sites-eu1.com/alkemio-release-2023-02-13" target="_blank">2023-02-13</a>: 
+<i>"Message other users / community hosts / organizations, improved sharing, more content on calendar events"</i> </li>
 
 <li><a href="http://alkem-25488729.hs-sites-eu1.com/alkemio-release-2023-01-31" target="_blank">2023-01-31</a>: 
 <i>"Events calendar, simplified use of whiteboards and private Challenges!"</i> </li>
