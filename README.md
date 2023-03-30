@@ -6,10 +6,13 @@ It has been create with [Hugo](https://gohugo.io) using the [Wowchemy](https://w
 Feel free to submit a pull request for updates and/or corrections to the site.
 
 You can test your changes locally by 
-* [installing the appropriate Hugo extended](https://gohugo.io/getting-started/installing/) release
-    * Note that the current Wowchemy version if 5.4.0, which requires Hugo version v0.89. Later versions such as v0.91 are not yet supported.
+* [installing the appropriate Hugo extended](https://gohugo.io/getting-started/installing/) release (note that we currently use Wowchemy version if 5.7.0, with Hugo version v0.108)
 * cloning this repository
 *  running `hugo server`
+
+Alternatively you can click the button below to start a new Gitpod development environment:
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/alkem-io/website)
 
 ## Notes
 The Wowchemy template that is use is [Hugo Academic](https://github.com/wowchemy/starter-hugo-academic).
