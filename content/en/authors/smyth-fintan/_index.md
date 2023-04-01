@@ -12,7 +12,7 @@ weight: 10
 superuser: true
 
 # Role/position
-role: "Communications Advisor** [Vanesti Ventures]"
+role: "External Communications"
 
 # Organizations/Affiliations
 organizations:
