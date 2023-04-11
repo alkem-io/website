@@ -29,11 +29,11 @@ content:
   email: info@alkem.io
   #phone: 888 888 88 88
   address:
-    street: Park Leeuwenberghlaan 3
-    city: Leidschendam
-    region: South-Holland
-    postcode: '2267 BM'
-    country: The Netherlands
+    street: "Wilhelmina van Pruisenweg 35"
+    city: "The Hague"
+    region: "South-Holland"
+    postcode: "2595 AN"
+    country: "The Netherlands"
     country_code: NL
   #coordinates:
   #  latitude: '37.4275'
