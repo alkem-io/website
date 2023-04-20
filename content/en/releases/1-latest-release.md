@@ -30,12 +30,12 @@ design:
 ---
 Alkemio makes updates to the production platform approximately every two weeks. Below you can find the latest release note as well as links to previous notes.
 <p></p>
-<b>Release 2023-03-02</b>
+<b>Release 2023-03-31</b>
 <p></p>
 
-<i>Prepare yourself for a list full of new updates in [this 2023-03-02 release](https://alkem-25488729.hs-sites-eu1.com/alkemio-release-2023-03-02)!
+<i>Prepare yourself for a list full of new updates in [this 2023-03-31 release](https://alkem-25488729.hs-sites-eu1.com/alkemio-release-2023-03-31)!
 
-Continuing our focus on enabling you to **engage** your community, we have added the ability to **tag/mention other users or organizations** as well as **search within your Hub**. Both important improvements. Next to that we also got clear feedback that Alkemio for new users needed to be easier to understand, so we have added a **new landing page** to guide new users, as well as the ability **group communities** on the existing home page by theme!</i>
+The focus remains on growing your community and improving community engagement on the platform. To do so, we had a lot of useful new releases such as the new **Community Forum**! This Forum will enable better communication and connections between different communities within the platform. Furthermore, we introduce the possibility to use **whiteboard templates** from the platform, the ability to **sort** your callouts, and to modify your **community applications questions**.</i>
 
 <i>Interested in trying out these new changes? Go directly to [Alkemio](https://alkem.io/?utm_source=hs_email&utm_medium=email&utm_content=64703278&_hsenc=p2ANqtz-9Giqo8QcZnf1CWdBLUSBKzmp4iMt-wvwbXM0qYcnNA30kdtBPsKqaaj3shSIvFGGfK-BM2cl2xAbSLj-JRK7VDK9TgcQ). As always, please share your feedback and comments. Enjoy!</i>
 <p></p>
