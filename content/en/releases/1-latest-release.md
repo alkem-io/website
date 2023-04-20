@@ -35,7 +35,7 @@ Alkemio makes updates to the production platform approximately every two weeks. 
 
 <i>Prepare yourself for a list full of new updates in [this 2023-03-31 release](https://alkem-25488729.hs-sites-eu1.com/alkemio-release-2023-03-31)!
 
-The focus remains on the importance of community and how to improve our community engagement in the platform. To do so, we had a lot of useful new releses such as the the new **community forum** which will enable a better communication and connection between deifferent communitites within the platfrom. As well as having the possibility to use whiteboard templates from the platform, sorting of callouts, community applications questions, notifications while bublishing callouts and being able to tag and use emoticons.</i>
+The focus remains on growing your community and improving community engagement on the platform. To do so, we had a lot of useful new releases such as the new **Community Forum**! This Forum will enable better communication and connections between different communities within the platform. Furthermore, we introduce the possibility to use **whiteboard templates** from the platform, the ability to **sort** your callouts, and to modify your **community applications questions**.</i>
 
 <i>Interested in trying out these new changes? Go directly to [Alkemio](https://alkem.io/?utm_source=hs_email&utm_medium=email&utm_content=64703278&_hsenc=p2ANqtz-9Giqo8QcZnf1CWdBLUSBKzmp4iMt-wvwbXM0qYcnNA30kdtBPsKqaaj3shSIvFGGfK-BM2cl2xAbSLj-JRK7VDK9TgcQ). As always, please share your feedback and comments. Enjoy!</i>
 <p></p>
