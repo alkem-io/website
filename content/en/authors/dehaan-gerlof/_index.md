@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Mirko de Boer
+title: Gerlof de Haan
 
 # Username (this should match the folder name)
 authors:
-- deboer-Mirko
+- dehaan-gerlof
 weight: 100
 
 # Is this the primary user of the site?
