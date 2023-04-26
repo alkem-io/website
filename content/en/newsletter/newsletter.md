@@ -32,6 +32,8 @@ If you have any topics you’d like us to cover in future newsletters please let
 <p></p>
 Previous newsletters:
 
+<li><a href="https://alkem-25488729.hs-sites-eu1.com/alkemio/newsletter/2023/april" target="_blank">2023 - April</a> - <i>"Making innovation easier."</i> </li>
+
 <li><a href="https://alkem-25488729.hs-sites-eu1.com/alkemio/newsletter/2023/march" target="_blank">2023 - March</a> - <i>"Aligned with Societal Issues."</i> </li>
 
 <li><a href="https://alkem-25488729.hs-sites-eu1.com/alkemio/newsletter/2023/february" target="_blank">2023 - February</a> - <i>"Communities for change."</i> </li>
