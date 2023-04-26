@@ -1,11 +1,11 @@
 ---
 # Display name
-title: Mirko de Boer
+title: Gerlof de Haan
 
 # Username (this should match the folder name)
 authors:
-- deboer-Mirko
-weight: 100
+- dehaan-gerlof
+weight: 101
 
 # Is this the primary user of the site?
 superuser: false
@@ -19,7 +19,7 @@ organizations:
   url: "https://vng.nl"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Projectleider geo-informatie en organisatie
+bio: Trainee VNG / Community Manager Digitale Leefomgeving
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -34,7 +34,7 @@ social:
 #  link: https://twitter.com/neilasmyth
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/gerlofdehaan/
+  link: https://www.linkedin.com/in/mirko-de-boer
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
