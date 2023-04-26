@@ -71,7 +71,7 @@ We want a way to share information with the community, gather knowledge and insi
 * **Creating a Call for posts** to gather information in a more structured way (previous Cards Callout). As a lead you can choose to add some guiding questions or information fields that members have to fill in. Members are able to respond with a more extensive answer, including references, tags, and visuals. Also, other members can comment on the response of another member.
 * **Creating a Call for Whiteboards** to gather responses in a more visual way. The lead can choose a template that members must fill in when submitting their answer.
 
-![](https://i.imgur.com/sDGqjQR.png)
+![](./collaboration-types.png)
 
 #### Where can I find these tools?
 As mentioned before, the Hosts are now able to use these tools on any page! This allows them to ask the question where it makes the most sense. Let's give you some examples:
@@ -82,6 +82,6 @@ As mentioned before, the Hosts are now able to use these tools on any page! This
 * A call for posts on the Challenges tab where members can submit ideas for Challenges to work on by filling in a few context questions.
 * A call for posts with relevant articles related to the topic on the Knowledge base tab
 
-![](https://i.imgur.com/lzU1CCM.png)
+![](./collaboration-community.png)
 
 This refresh is part of a bigger refresh to further define the key goals and activities on Challenge and Opportunity level. 
