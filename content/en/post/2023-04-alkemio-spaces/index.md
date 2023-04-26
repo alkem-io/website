@@ -27,7 +27,7 @@ image:
   preview_only: true
 ---
 
-<img src="./header.png" alt="header" width="700"/>
+![./header.png]
 
 Alkemio allows you to open a dedicated online Space where the Community can gather to make impact on shared Challenges, with help from templates and knowledge of the Innovation library. This blogpost will talk you through its key elements, and recently added functionalities to support you on this journey.
 
