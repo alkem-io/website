@@ -39,24 +39,28 @@ First of all, you may have noticed an important name change... In line with the 
 Alkemio Spaces can be used to align a variety of stakeholders (both individuals as well as organizations) around a set of Challenges to gather knowledge and insights. These key elements are therefore directly highlighted in the menu bar.
 
 **Dashboard tab (with 'About' button)**
-*I am new here, what can I do in this Space? What activity is happening here?*
+<p>
+<i>I am new here, what can I do in this Space? What activity is happening here?</i>
 
 The Dashboard remains the central place for people to find key information about this Space. Key for new users is the button to find more information 'About this Space'. Here you will find more information about the background, vision, who should be involved and what impact is aimed for. As this context is often relatively static, we have decided to remove the separate About tab and add this prominent button on the Dashboard.
 
 Furthermore, it shows you important information about upcoming events, news updates, recommendations by the Host, recent activities. 
 
 **Community Tab (new!)**
-*Who are participating in this Space? Who is responsible for it? Is it something I should join?*
+<p>
+<i>Who are participating in this Space? Who is responsible for it? Is it something I should join?</i>
 
 All these questions will be answered in the Community tab. You will find the people and organizations already part of this Space, recent new members, and the Facilitating organization and Host. Also, members will find discussions, whiteboards, and posts created by the hosts that are related to (building) the community. For example, a question for members to introduce themselves, the ability to contribute to a stakeholder map visualized on a whiteboard, or to provide ideas for other stakeholders to invite in this Space.
 
 **Challenges Tab**
-*What are the Challenges that this Community is working on? Where can I open a new Challenge? I have seen others working on similar Challenges, where can I share these Challenges with the Community?*
+<p>
+<i>What are the Challenges that this Community is working on? Where can I open a new Challenge? I have seen others working on similar Challenges, where can I share these Challenges with the Community?</i>
 
 Here you can browse through the Challenges defined in this Space as well as again discussions, whiteboards, and posts created by the Hosts. For example, a question to all members to submit ideas for Challenges to work on or to submit links to other related Challenges.
 
 **Knowledge Base Tab (renamed Contribute tab)**
-*I want to contribute to these topics, but how? Where can I find articles, experiences and insights related to this topic?*
+<p>
+<i>I want to contribute to these topics, but how? Where can I find articles, experiences and insights related to this topic?</i>
 
 The key goal of the previous Contribute tab has always been to gather knowledge and insights on the topic. This will now more specifically be highlighted. 
 
