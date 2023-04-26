@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: "Alkemio"  # Website name
+title: "Alkemio Foundation"  # Website name
 baseurl: "/" # Website URL
 
 # option to set relativeURLs (e.g. for IPFS)
