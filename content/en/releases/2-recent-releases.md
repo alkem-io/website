@@ -30,6 +30,9 @@ design:
 ---
 <b>Previous releases</b>
 
+<li><a href="https://alkem-25488729.hs-sites-eu1.com/alkemio-release-2023-03-31" target="_blank">2023-03-31</a>: 
+<i>"Community Forum, Whiteboard templates from the platform, sorting of Callouts, Community Application Questions, and new text editor"</i> </li>
+
 <li><a href="https://alkem-25488729.hs-sites-eu1.com/alkemio-release-2023-03-02" target="_blank">2023-03-02</a>: 
 <i>"New landing page, communities grouped by topics, ability to tag people/organizations, search in hub, and new calendar view"</i> </li>
   
