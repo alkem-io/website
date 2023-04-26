@@ -6,7 +6,7 @@ date: "2023-04-25"
 lastmod: "2023-04-25"
 math: false
 diagram: false
-summary: "Connecting the Communities to the Challenges"
+summary: "Connecting the Communities and Challenges"
 authors:
 - larsson-denise
 tags:
@@ -27,18 +27,13 @@ image:
   preview_only: true
 ---
 
-![](./header.png)
----
-tags: Blogpost
----
-
-# Alkemio Spaces! 
-![](https://i.imgur.com/vCMRudi.png)
+<img src="./header.png" alt="header" width="700"/>
 
 Alkemio allows you to open a dedicated online Space where the Community can gather to make impact on shared Challenges, with help from templates and knowledge of the Innovation library. This blogpost will talk you through its key elements, and recently added functionalities to support you on this journey.
 
 ### Key elements in each Space
-![](https://i.imgur.com/JBnvtMQ.png)
+![](./menubar.png)
+
 First of all, you may have noticed an important name change... In line with the goal of Alkemio explained above, we have decided to move from Hub to a more neutral term 'Space'. 
 
 Alkemio Spaces can be used to align a variety of stakeholders (both individuals as well as organizations) around a set of Challenges to gather knowledge and insights. These key elements are therefore directly highlighted in the menu bar.
@@ -66,7 +61,6 @@ Here you can browse through the Challenges defined in this Space as well as agai
 The key goal of the previous Contribute tab has always been to gather knowledge and insights on the topic. This will now more specifically be highlighted. 
 
 ### Alkemio's Collaboration Tools
-![](https://i.imgur.com/HIX2uWM.png)
 
 As a Host, I want an easy way to ask my Community questions to make progress on the Challenges. Discussions with the Alkemio Community brought forward that users want to contribute in multiple ways: to growing the community, to framing challenges, to building up shared knowledge. This is now possible! No more "contribute" tab, but instead users directly contribute to the relevant section.
 

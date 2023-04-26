@@ -1,21 +1,20 @@
 ---
 #widget: pages
 #headless: true
-title: 'What does it take to build a community?'
-date: "2023-02-22"
-lastmod: "2023-02-22"
+title: 'VNG renewal'
+date: "2023-04-26"
+lastmod: "2023-04-26"
 math: false
 diagram: false
-summary: "Identifying drivers and blockers"
+summary: "Another year for VNG and Alkemio to team up!"
 authors:
-- ragni-mayte
-- ros-birgit
+- dehaan-gerlof
+- larsson-denise
+- deboer-mirko
 tags:
 - community
-- workshop
-- activities
-- drivers
-- blockers
+- vng
+- 
 
 
 #categories:
@@ -31,46 +30,20 @@ image:
 
 ![](./header.png)
 
-### Explore 
-Building a community and keeping it active is a challenging task. When turning conversations into contributions that matter, it is essential to not only **build** communities but also to **guide** and help them along the process. You want to make sure they keep engaging and growing as a community while they work towards a shared interest. 
+The platform continuously welcomes new communities that want to make a change. However, we are also very lucky to have some partners from the beginning that have followed and contributed to the Alkemio journey for a longer time..
 
-The Alkemio team thought it was time to organize a **community gathering with our new and existing communities** on the platform. While focusing on solving real community problems by having all your tools in one place, their ideas and thoughts evolved into something better: a list of drivers and blockers. We will be hosting **more workshops** to regularly connect the various communities around Alkemio, dive deeper into specific topics and share experiences from activities on and outside the platform.
+One of these examples is VNG, currently working on Alkemio in four different use cases! We sat down with Gerlof  to discuss the VNG renewal and some lessons learned from the past year.
 
+First of all, we looked back at some **important lessons** from the last year. How did he grow the community, what is a good tip for others just starting their community on Alkemio?
 
-### Community journey
-It was an interesting afternoon where we brainstormed about the possible ways to grow and activate communities. Even though all communities are very different, we share similar drivers and blockers in our journeys. New users or professional innovators could be hesitant in sharing their believes out in the open. The energy and support from the champions in the communities are key to making progress.
+*"The most important lesson I've learned is to take every opportunity"* mentioned Gerlof. *"To show what's being shared in this Space on Alkemio, how to find it and how to get involved. You can't do that often enough. I now have an instruction video and I notice that it has an effect. The number of users familiar with the Totaal Driedimensionaal Space are slowly increasing. Potential active participants must come from that group. So, the larger the group, the greater the chance.* 
 
-During the workshop, we have captured the **drivers, blockers, and suggestions for activities** that were mentioned in the [Building an Active Community Challenge](https://alkem.io/challengecentric/challenges/buildingthecommuni-426/contribute) on Alkemio.  A few examples:
+With this growing number of participants, what is the **vision in the coming year** for the T3D Space on Alkemio? Who will be active, what will the activities be, or what is the key goal?
 
-<img src="./drivers.png" alt="header" width="200"/>
+"*Currently, the active users are mainly municipalities and other organizations outside the T3D programme. They now mainly use the platform to learn about the results of the programme. Now that the program has been completed, I want to continue to encourage cooperation and knowledge sharing on this subject on this platform, at least within the municipal domain.*"
 
-#### Drivers to come to the community
-* Members are often looking for knowledge instead of providing knowledge
-* They want to feel seen, heard, and helped
-* They contribute when there is a clear task for them
-* They want a space to experiment
-* They want to see other success stories 
+A final question: what do you need to further **grow your community** or what do you want to **ask the Alkemio community**? For his 'Totaal Driedimensionaal' community the "*key participants are the municipalities themselves*". But there is also another valuable callout to all of you. "*In addition, it would help me / us to share insights and knowledge around real life examples of community collaboration on Alkemio (around other topics). Successful approaches and what we can learn from them.*"
 
-<img src="./blockers.png" alt="header" width="150"/>
+And he is right... we can learn so much from each other. So let's continue to share our experiences! Have a look at our [Forum](https://alkem.io/forum) and start interacting with other users of the platform.
 
-#### Blockers are related to 
-* Vulnerability
-* Time pressure
-* No open culture
-* No control
-
-#### Activities to start engaging the online and offline community
-* Find your key champions first in the community
-* Start by focusing on a specific challenge or topic, end to end
-* Organize meetings in person before exposing them to the difficulty of a new platform. That allows members to get to know one another and to build relationships over time that wouldn’t be possible without the community
-* Sharing success stories & real people in videos/other content, empowering established members to host or facilitate smaller group experiences within the community  
-
-### Focus on the energy!
-The energy and support from the champions in the communities are key to make progress. We have captured the drivers, blockers and suggestions for activities that were mentioned in a [Building Active Communities Challenge](https://alkem.io/challengecentric/challenges/buildingthecommuni-426/dashboard) on Alkemio. 
-
-* If you have new insights, experiences, ideas or suggestions, you can [add your contribution](https://alkem.io/challengecentric/challenges/buildingthecommuni-426/contribute) to the Callouts or [create a new Callout](https://alkem.io/challengecentric/challenges/buildingthecommuni-426/contribute) 
-* The whiteboard used in the session can be found [here](https://app.excalidraw.com/l/4BCnkZqaP0t/ae3PR6EExy) and we also shared our workshop template [here](https://alkem.io/challengecentric/challenges/buildingthecommuni-426/contribute/callouts/ideasforcommunity-9340/canvases/understandingyourc-329)
-* To give you more inspiration about community building activities and resources, we have added some knowledge and ideas in the [Opportunity on learning from high quality guidance](https://alkem.io/challengecentric/challenges/buildingthecommuni-426/opportunities/howtofindhigh-qua-3421/contribute) to guide you on this journey.
-
-### Upcoming community event
-We believe it can be very valuable to connect the various communities around Alkemio on a regular basis to dive deeper into specific topics and share experiences from activities on and outside the platform. For example, getting together around the topic of community building, community engagement, framing challenges, understanding the ecosystem... We would love to hear your stories and brainstorm ideas with community builders. We value all perspectives, we are all building very different communities with different challenges and needs. **Save the date for the afternoon of [Tuesday 11 April 2023](https://share-eu1.hsforms.com/1zby6H9bOQ3S6A3h8NTGORAf6b89)!**
+Thank you Gerlof for sharing your journey! 
