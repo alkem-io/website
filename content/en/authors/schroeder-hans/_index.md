@@ -12,7 +12,7 @@ weight: 18
 superuser: false
 
 # Role/position
-role: "Fiscalist**"
+role: "Counsel**"
 
 # Organizations/Affiliations
 #organizations:
