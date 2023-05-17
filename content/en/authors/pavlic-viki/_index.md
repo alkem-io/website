@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Viki Pavlic Schröder
+title: Viki Pavlic
 
 # Username (this should match the folder name)
 authors:
