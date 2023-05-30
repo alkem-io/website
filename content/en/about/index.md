@@ -6,4 +6,6 @@ title: About
 
 # Homepage is headless, other widget pages are not.
 headless: false
+
+url: '/team/'
 ---
