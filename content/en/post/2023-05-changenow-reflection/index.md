@@ -32,7 +32,7 @@ image:
   preview_only: true
 
 ---
-![header](./header.png)
+<img src="header.png" alt="header" style="width:800px;"/>
 
 30,000+ people took part in the ChangeNOW2023 Summit in Paris from May 25th to 27th, to address urgent issues such as climate change, biodiversity, tech for good, ecosystem acceleration and sustainable food systems. And Alkemio of course was there!  
 
@@ -55,7 +55,7 @@ On Friday, Denise Larsson, our Community Manager, had the opportunity to take th
 ## Looking back
 René Honig, co-founder of Alkemio beautifully described those days: 
 
-*"Under the gaze of Eiffel's magnificent testament to human innovation, at ChangeNOW in the Grand Palais Éphémère, we showcased Alkemio's online platform. In the spirit of Gustave Eiffel, who inspired countless minds with his daring imagination and tenacity, we aim to enable creative synergy for impactful solutions. Just as Eiffel bridged Paris with the sky, we seek to bridge humanity with its potential, proving that together, we can redefine the boundaries of possibility."*
+> *"Under the gaze of Eiffel's magnificent testament to human innovation, at ChangeNOW in the Grand Palais Éphémère, we showcased Alkemio's online platform. In the spirit of Gustave Eiffel, who inspired countless minds with his daring imagination and tenacity, we aim to enable creative synergy for impactful solutions. Just as Eiffel bridged Paris with the sky, we seek to bridge humanity with its potential, proving that together, we can redefine the boundaries of possibility."*
 
 In conclusion, our participation in the ChangeNOW 23 event in Paris was full of learnings, insights, and definitely was a great success! Both in terms of the problem we are addressing as Alkemio, more effective impact together, as well as how we are doing it, by putting public values as central. We now bring this energy back home knowing that there is still a lot of work to be done, and more importantly that we are going on the right direction! 
 
