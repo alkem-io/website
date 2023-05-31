@@ -54,7 +54,7 @@ Alkemio will host your hub free, and we will also help you setup your space for 
 
 Explore the [Help Ukraine](https://demo.alkem.io/ukraine/dashboard) hub that we have already created for the Dutch speaking community. Sign up for an account. Join the Help Ukraine hub and the sub-topics there you care about. 
 
-Want your own hub, either for specific sub-topic or language? Then please either fill out the form below or [directly email us](https://www.alkemio.foundation/feedback/).
+Want your own hub, either for specific sub-topic or language? Then please either fill out the form below or [directly email us](https://www.alkemio.org/feedback/).
 
 
 ## Let's connect

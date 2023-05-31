@@ -34,7 +34,7 @@ design:
 #### Hello there! In this section you will find listed the key concepts representing the hierarchy of the Alkemio [platform](https://alkem.io), as well as an explanation of their functions and utility.
 As a new user entering the platform for the first time, you may be asking yourself: What is the meaning behind our platform's terminology? What do we mean by words such as "Space", "Challenge", "Opportunity" and "Callout"?
 
-First, follow our new member [onboarding steps](https://www.alkemio.foundation/help/getting-started/) and begin your journey! Ready and looking for the next steps? Let's dive into the understanding of the platform's core concepts:
+First, follow our new member [onboarding steps](https://www.alkemio.org/help/getting-started/) and begin your journey! Ready and looking for the next steps? Let's dive into the understanding of the platform's core concepts:
 
 <p align="center"git >
 <img src="./animation.gif" alt="Concepts illustration" width="600" />
@@ -82,4 +82,4 @@ Opportunities represent the actions that people within the community can take to
 <img src="./callout.png" alt="Concepts illustration" width="600" />
 </p>
 
-Callouts are essentially possible questions people may want to raise after starting to work on a Challenge. Callouts should be created to make concepts clearer and answer possible questions the community may have. It is a way to involve the community and get feedback on how the overall Space is progressing. If you are interested in reading more about it fell free to read our [blog post](https://www.alkemio.foundation/post/2022-09-callouts/) about it! Enjoy :)
+Callouts are essentially possible questions people may want to raise after starting to work on a Challenge. Callouts should be created to make concepts clearer and answer possible questions the community may have. It is a way to involve the community and get feedback on how the overall Space is progressing. If you are interested in reading more about it fell free to read our [blog post](https://www.alkemio.org/post/2022-09-callouts/) about it! Enjoy :)

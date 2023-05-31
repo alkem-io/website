@@ -65,7 +65,7 @@ The next step is to **address the topics** of shared interest to work on. The pr
 
 "I hope that the platform economy is no longer used as a tool to lock out gatekeepers of public values or rules of operation. We have seen platforms breaking open traditional markets, with good intentions initially, but in the end they focus on market dominance and shareholder value. In many cases, they are using public space and public funded facilities to make their profit. I hope this will change and I have faith it will happen"
 
-Alkemio believes that a platform for collaboration across organizational boundaries should have **public values central**. Interactions should benefit public values, rather than commercial or other interests. In the case of Alkemio this is achieved by having Alkemio backed by a foundation to guarantee its purpose. You can read more about the rational for being a foundation in [this blogpost](https://alkemio.foundation/post/2022-01-why-foundation/).
+Alkemio believes that a platform for collaboration across organizational boundaries should have **public values central**. Interactions should benefit public values, rather than commercial or other interests. In the case of Alkemio this is achieved by having Alkemio backed by a foundation to guarantee its purpose. You can read more about the rational for being a foundation in [this blogpost](https://alkemio.org/post/2022-01-why-foundation/).
 
  ### When is the 'Digitale Leefomgeving' program on Alkemio succesful?
 

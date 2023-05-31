@@ -24,7 +24,7 @@ image:
   placement: 1
   
 ---
-The public preview of Alkemio was [launched this past July](https://alkemio.foundation/post/2021-07-public-preview/) in partnership with [Digicampus](https://digicampus.tech). 
+The public preview of Alkemio was [launched this past July](https://alkemio.org/post/2021-07-public-preview/) in partnership with [Digicampus](https://digicampus.tech). 
 
 Five intense and productive months have flown by, so time for an update! As part of this event we will also be formally releasing our brand new user interface, aiming to make the collaboration around Challenges much easier. 
 

@@ -33,7 +33,7 @@ These Terms of Sale set out the terms under which Services are sold and provided
 
 **3. Access to and Use of Our Site**
 
-3.1  Use of Our Site is subject to Our Website Terms of Use https://alkemio.foundation/legal/hub/#tc. Please ensure that you have read them carefully and that you understand them.
+3.1  Use of Our Site is subject to Our Website Terms of Use https://alkemio.org/legal/hub/#tc. Please ensure that you have read them carefully and that you understand them.
 
  
 
@@ -217,7 +217,7 @@ In each case, providing Us with your name, address, email address, telephone num
 
 16.1  All personal information of yours that We may use will be collected, processed, and held in accordance with the provisions of the Data Protection Legislation and your rights thereunder.
 
-16.2  For complete details of Our collection, processing, storage, and retention of personal data including, but not limited to, the purpose(s) for which personal data is used, the legal basis or bases for using it, details of your rights and how to exercise them, and personal data sharing (where applicable), please refer to Our Privacy Policy https://alkemio.foundation/privacy and Cookie Policy https://alkemio.foundation/legal/hub/#cookies.
+16.2  For complete details of Our collection, processing, storage, and retention of personal data including, but not limited to, the purpose(s) for which personal data is used, the legal basis or bases for using it, details of your rights and how to exercise them, and personal data sharing (where applicable), please refer to Our Privacy Policy https://alkemio.org/privacy and Cookie Policy https://alkemio.org/legal/hub/#cookies.
 
  
 

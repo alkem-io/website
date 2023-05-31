@@ -69,7 +69,7 @@ Furthermore, based on the feedback of partners and platform users, we reduced th
 Where am I? What are all the things that I can do or see here? The Dashboard combines this information and has mostly remained the same. It is the starting point and highlights the <i>summary</i> of the Hub/ Challenge / Opportunity. It includes the Updates as well as previews of the Community, latest activity, and the Challenges or Opportunities. 
 
 #### Explore
-Where can I help? Where can I start working on this Challenge? The Explore tab becomes the place where all the <i>action</i> is happening, where the wisdom of the community is gathered! This knowledge was previously shared via the Whiteboards or Aspects pages, but are now available at one place and structured via Callouts. To read more about this new functionality, please see our [recent blogpost](https://www.alkemio.foundation/post/2022-09-callouts/).
+Where can I help? Where can I start working on this Challenge? The Explore tab becomes the place where all the <i>action</i> is happening, where the wisdom of the community is gathered! This knowledge was previously shared via the Whiteboards or Aspects pages, but are now available at one place and structured via Callouts. To read more about this new functionality, please see our [recent blogpost](https://www.alkemio.org/post/2022-09-callouts/).
 
 Within the Hub, this section is mostly focusing on gathering the right people and identifying Challengs to work on. Explore within the Challenges is more related to gathering insights about the Challenge and identifying possible Opportunities. Lastly, for Opportunities it is important to gather resources to make it happen, as well as showcasing the results!
 

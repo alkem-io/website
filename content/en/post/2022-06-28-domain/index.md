@@ -48,7 +48,7 @@ So, we decided to have **the Alkemio platform available at the primary URL**: [h
 
 ![](./hub.png)
 
-The website with information about the Alkemio Foundation, covering the purpose and organisation behind Alkemio, then needs to have a new URL. We are now available at https://alkemio.foundation.
+The website with information about the Alkemio Foundation, covering the purpose and organisation behind Alkemio, then needs to have a new URL. We are now available at https://alkemio.org.
 
 ![](./foundation.png)
 

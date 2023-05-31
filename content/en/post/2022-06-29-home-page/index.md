@@ -55,7 +55,7 @@ For users that are not logged in, there is now stronger guidance to help with th
 
 ## Alkemio & You, Metrics 
 Finally, in replacing the content previously at the top of the page with the new user interface described above, there were some existing content that needed to go elsewhere: 
-* **About Alkemio**: There is now a footer bar with ways to **connect** with us, find out more about [Alkemio Foundation](https://alkemio.foundation) and visit our github repository :
+* **About Alkemio**: There is now a footer bar with ways to **connect** with us, find out more about [Alkemio Foundation](https://alkemio.org) and visit our github repository :
 ![](./footer.png)
 
 * **Metrics**: These have been incorporated within the relevant sections. As visualized below, you can find the amount of Hubs, Challlenges, and Opportunities via the icon in Explore the Challenge Hubs: 

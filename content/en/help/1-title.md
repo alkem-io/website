@@ -32,7 +32,7 @@ content:
     buttons:
         - title: "Alkemio foundations"
           image: "/media/button-links/roundedlinks-12.png"
-          link: https://www.alkemio.foundation/manifesto/
+          link: https://www.alkemio.org/manifesto/
         - title: "Book Demo"
           image: "/media/button-links/roundedlinks-15.png"
           link: /help/#needhelp
