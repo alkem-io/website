@@ -30,6 +30,9 @@ design:
 ---
 <b>Previous releases</b>
 
+<li><a href="https://alkem-25488729.hs-sites-eu1.com/alkemio-release-2023-04-24" target="_blank">2023-04-24</a>: 
+<i>"Community, Challenges and Knowledge Base menu tabs in each Space as well as Callouts in Context, "</i> </li>
+
 <li><a href="https://alkem-25488729.hs-sites-eu1.com/alkemio-release-2023-03-31" target="_blank">2023-03-31</a>: 
 <i>"Community Forum, Whiteboard templates from the platform, sorting of Callouts, Community Application Questions, and new text editor"</i> </li>
 
