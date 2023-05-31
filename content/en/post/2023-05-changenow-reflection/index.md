@@ -33,7 +33,7 @@ image:
   placement: 1
   preview_only: true
 
-
+---
 <img src="header.png" alt="header" style="width:800px;"/>
 
 30,000+ people took part in the ChangeNOW2023 Summit in Paris from May 25th to 27th, to address urgent issues such as climate change, biodiversity, tech for good, ecosystem acceleration and sustainable food systems. And Alkemio of course was there!  
