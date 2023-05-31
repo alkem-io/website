@@ -2,6 +2,7 @@
 ---
 #widget: pages
 #headless: true
+
 title: 'Three great days at changeNOW'
 date: "2023-05-31"
 lastmod: "2023-05-31"
@@ -18,6 +19,7 @@ tags:
 - changeNOW
 - innovation
 - change
+
 - Paris
 
 
@@ -31,7 +33,7 @@ image:
   placement: 1
   preview_only: true
 
----
+
 <img src="header.png" alt="header" style="width:800px;"/>
 
 30,000+ people took part in the ChangeNOW2023 Summit in Paris from May 25th to 27th, to address urgent issues such as climate change, biodiversity, tech for good, ecosystem acceleration and sustainable food systems. And Alkemio of course was there!  
@@ -60,3 +62,4 @@ René Honig, co-founder of Alkemio beautifully described those days:
 In conclusion, our participation in the ChangeNOW 23 event in Paris was full of learnings, insights, and definitely was a great success! Both in terms of the problem we are addressing as Alkemio, more effective impact together, as well as how we are doing it, by putting public values as central. We now bring this energy back home knowing that there is still a lot of work to be done, and more importantly that we are going on the right direction! 
 
 Will you join us on working together to make sustainable and efficient impact?  
+
