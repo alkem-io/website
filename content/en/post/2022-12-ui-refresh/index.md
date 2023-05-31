@@ -71,5 +71,5 @@ While [this page](https://alkem.io/challengecentric/about) doesn't have much add
 
 Hopefully these updates will improve your ability to make progress on your Challenges. Interested in trying out the changes? Go directly to [Alkemio](https://alkem.io)!
 
-Do you want to receive updates about new functionalities directly? sign up for our [Release notifications email](https://alkemio.foundation/releases). And as always, happy to hear feedback or other suggestions!
+Do you want to receive updates about new functionalities directly? sign up for our [Release notifications email](https://alkemio.org/releases). And as always, happy to hear feedback or other suggestions!
 

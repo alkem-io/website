@@ -52,7 +52,7 @@ Source Definition. The license used by Alkemio is the
 </p>
 <p>
 Alkemio is proud to be contributing as a practical example of how to do <a 
-href="https://www.alkemio.foundation/post/2021-07-open-source-pleio"> open 
+href="https://www.alkemio.org/post/2021-07-open-source-pleio"> open 
 source</a> in a societal innovation context. Perhaps more importantly we are 
 also keen to share our learnings on the challenges and barriers faced in our 
 journey. 

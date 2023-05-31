@@ -16,7 +16,7 @@ Your agreement to comply with this Policy is indicated by your use of Our Site. 
 
 The following document also apply to your use of Our Site:
 
-Our Terms and Conditions , available at https://alkemio.foundation/legal/hub.
+Our Terms and Conditions , available at https://alkemio.org/legal/hub.
 
  
 

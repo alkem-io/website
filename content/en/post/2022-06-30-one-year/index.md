@@ -31,7 +31,7 @@ image:
 ![](./header.png)
 # One year old!
 
-One year ago the [Alkemio platform](https://alkem.io) was launched. We made available the [public preview](https://www.alkemio.foundation/post/2021-07-public-preview-video/) in partnership with [Digicampus](https://digicampus.tech). 
+One year ago the [Alkemio platform](https://alkem.io) was launched. We made available the [public preview](https://www.alkemio.org/post/2021-07-public-preview-video/) in partnership with [Digicampus](https://digicampus.tech). 
 
 It already feels like such a long time ago, even if only 1 year. When you are running every day it is hard to appreciate the distance that has been travelled...until you pause to look back!
 
@@ -51,7 +51,7 @@ Plus another 16 populated [demonstration Hubs](https://demo.alkem.io).
 * **Countries**: from an initial base in The Netherlands, we are also now also working actively with partners in Ireland and the UK.
 
 **Alkemio platform and organization**:
-* **Core team size**: The organization itself has also made big progress, [welcoming **10 new core team members**](https://alkemio.foundation/about/) since the start of 2022 alone! 
+* **Core team size**: The organization itself has also made big progress, [welcoming **10 new core team members**](https://alkemio.org/about/) since the start of 2022 alone! 
 ![](./team.png)
 A jump like that, more than doubling the organization, was hugely needed as there is a lot to be done. The ambition level and the potential in the platform means that we will need to grow more near term...
 * **Lines of code**: The code base has grown enormously over the past year, adding approximately **300,000** lines of code. This has tripled the code base, and is a reflection of the scope the platform is supporting.  
@@ -61,7 +61,7 @@ Again, these metrics are a proxy for the wider progress - but hopefully they at 
 
 ## Next phase
 And as we approach 1 year since the launch of the public preview, and 2 years since the foundation was established, it is clear that we are moving onto the next phase for Alkemio:
-* **User centric**: We are taking big steps in making the platform more user centric, starting with the [launch of a revamped home page](https://alkemio.foundation/post/2022-06-29-home-page/) and with [the Hub moving to be on the alkem.io domain](https://alkemio.foundation/post/2022-06-28-domain/).
+* **User centric**: We are taking big steps in making the platform more user centric, starting with the [launch of a revamped home page](https://alkemio.org/post/2022-06-29-home-page/) and with [the Hub moving to be on the alkem.io domain](https://alkemio.org/post/2022-06-28-domain/).
 * **Customer success**: Usage is key: we need to work every day to deepen our collective understanding of what is needed to make our partners successful in realizing change. Their input is hugely valuable and _appreciated always_. 
 * **Communications**: We are formalizing our Manifesto. As the community around Alkemio increases in size, it is critical to have a reference written statement about what you stand for: the Manifesto. And the Manifesto is the start of a wider communications push: increasing our visibility / brand as we step up to the next level of usage. 
 * **Scaling**: As a platform play, the network effect increases the value for everyone involved. What is needed to get to 10,000 users? 100,000? 1,000,000? And scaling also means resources to scale, so we will be active over the second half of 2022 on raising additional resources.

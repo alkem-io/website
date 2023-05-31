@@ -69,7 +69,7 @@ Any of the above types of Cookie may be a session Cookie. Session Cookies are te
 
 3.4 Cookies on Our Site are not permanent and will expire after one year.
 
-3.5 For more details of the personal data that We collect and use, the measures we have in place to protect personal data, your legal rights, and our legal obligations, please refer to our Privacy Policy https://alkemio.foundation/privacy.
+3.5 For more details of the personal data that We collect and use, the measures we have in place to protect personal data, your legal rights, and our legal obligations, please refer to our Privacy Policy https://alkemio.org/privacy.
 
 3.6 For more specific details of the Cookies that We use, please refer to the table below.
 
@@ -150,6 +150,6 @@ Any of the above types of Cookie may be a session Cookie. Session Cookies are te
 
 7.2 For more information about privacy, data protection and our terms and conditions, please visit the following:
 
-7.2.1 https://alkemio.foundation/privacy
+7.2.1 https://alkemio.org/privacy
 
-7.2.2 https://alkemio.foundation/legal/hub
+7.2.2 https://alkemio.org/legal/hub

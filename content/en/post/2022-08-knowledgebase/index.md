@@ -40,7 +40,7 @@ This knowledge base will overtime include a FAQ, how-to guides, tips and tricks 
 A good addition is that we have put up our first version of the **Frequently Asked Questions**. 
 
 
-The FAQ can be accessed via [Alkemio Foundation website](https://www.alkemio.foundation/faq/) and the help icon on the [Alkemio Platform](https://alkem.io). The FAQ currently includes several questions related to the use of our platform, Alkemio in general, and the Foundation behind Alkemio. 
+The FAQ can be accessed via [Alkemio Foundation website](https://www.alkemio.org/faq/) and the help icon on the [Alkemio Platform](https://alkem.io). The FAQ currently includes several questions related to the use of our platform, Alkemio in general, and the Foundation behind Alkemio. 
 
 ![](./faq.png)
 

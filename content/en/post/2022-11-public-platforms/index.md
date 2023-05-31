@@ -66,7 +66,7 @@ Dark patterns: online platforms and marketplaces will be prohibited from manipul
 
 Putting public values central is at the core of Alkemio. You can read our manifesto and we encourage anyone who supports this manifesto to join the Alkemio community and feel free to comment 🔽
 
-https://www.alkemio.foundation/manifesto/
+https://www.alkemio.org/manifesto/
 
 *non-employed contractors
 

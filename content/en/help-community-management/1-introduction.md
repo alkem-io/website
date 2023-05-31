@@ -36,9 +36,9 @@ design:
 ### **Getting to know the Alkemio structure**
 While you may be managing your projects using Excel spreadsheets, Trello to manage your tasks, Miro to capture your brainstorm sessions, or LinkedIn to find relevant people to connect with, the Alkemio platform combines it all. All centered around the urgent societal and environmental challenges of today. 
 
-As with any tooling, understanding the platform will help you get the most out of it. A good place to start is reading about the platform structure and its key concepts on [our support page](https://www.alkemio.foundation/help/key-concepts/).
+As with any tooling, understanding the platform will help you get the most out of it. A good place to start is reading about the platform structure and its key concepts on [our support page](https://www.alkemio.org/help/key-concepts/).
 
-Are you interested in reading more about the mission and vision of the foundation behind the platform? Have a look at our [Manifesto](https://alkemio.foundation/manifesto).
+Are you interested in reading more about the mission and vision of the foundation behind the platform? Have a look at our [Manifesto](https://alkemio.org/manifesto).
 
 ### **Populating your Space**
 It is now time to populate your Space with an initial set of content before you start onboarding the rest of your community. The first step is to navigate to the **settings** of your Space. This is done by clicking on the cogwheel icon on the right:
@@ -87,7 +87,7 @@ Callouts allow you to ask the community for their knowledge, experiences, method
 
 This is key for **engaging your Community**, so it's important to customize the Callouts to your community. For example ask your community about who else should join the Space, relevant articles or other initiatives that should be considered. 
 
-You can find more information on the [inspiration page](https://alkem.io/inspiration/callouts) or this [blogpost](https://www.alkemio.foundation/post/2022-09-callouts/).
+You can find more information on the [inspiration page](https://alkem.io/inspiration/callouts) or this [blogpost](https://www.alkemio.org/post/2022-09-callouts/).
 
 <img src="./inspiringex.png" alt="inspiringex" width="600"/>
 
@@ -117,9 +117,9 @@ If you already have a few Challenges in mind for this community, you can directl
 Note that for Challenges, you can follow similar steps as the ones above for the Space to further populate it.
 
 ### Check?
-Hopefully these few steps will get you up and running on the platform! There is a lot more to discover with regards to functionalities or best practices. Have a look at our [blogposts](https://alkemio.foundation/post/) to find more content on various topics. 
+Hopefully these few steps will get you up and running on the platform! There is a lot more to discover with regards to functionalities or best practices. Have a look at our [blogposts](https://alkemio.org/post/) to find more content on various topics. 
 
-Also, you can always find further guidance on our [support page](https://alkemio.foundation/help/) or [contact us directly](https://www.alkemio.foundation/feedback/). 
+Also, you can always find further guidance on our [support page](https://alkemio.org/help/) or [contact us directly](https://www.alkemio.org/feedback/). 
 
 ------------------
 

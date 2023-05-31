@@ -32,7 +32,7 @@ If you know of a publicly disclosed security vulnerability for Alkemio, please *
  
 **IMPORTANT: Do not file public issues on GitHub for security vulnerabilities**
 
-To report a vulnerability or a security-related issue, please email the private address security@alkem.io with the details of the vulnerability. The email will be fielded by the Alkemio Security Team, which is made up of Alkemio maintainers who have committer and release permissions. We also maintain a PGP-signed security.txt file at [our website](https://www.alkemio.foundation/.well-known/security.txt) in line with [RFC 9116](https://www.rfc-editor.org/rfc/rfc9116). Emails will be addressed within 5 business days, including a detailed plan to investigate the issue and any potential workarounds to perform in the meantime. Do not report non-security-impacting bugs through this channel. 
+To report a vulnerability or a security-related issue, please email the private address security@alkem.io with the details of the vulnerability. The email will be fielded by the Alkemio Security Team, which is made up of Alkemio maintainers who have committer and release permissions. We also maintain a PGP-signed security.txt file at [our website](https://www.alkemio.org/.well-known/security.txt) in line with [RFC 9116](https://www.rfc-editor.org/rfc/rfc9116). Emails will be addressed within 5 business days, including a detailed plan to investigate the issue and any potential workarounds to perform in the meantime. Do not report non-security-impacting bugs through this channel. 
 
 
 ### Proposed Email Content
