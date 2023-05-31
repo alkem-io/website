@@ -13,7 +13,7 @@ authors:
 tags:
 - community
 - summit
-- chnageNOW
+- changeNOW
 - innovation
 - change
 - Paris2023
@@ -52,7 +52,7 @@ On Friday, Denise Larsson, our Community Manager, had the opportunity to take th
 
 A core theme at the event was the focus on how we need to look at new ways of working together. New economic models. New incentives. Key thought leaders in this space, such as  Doughnut Economics and Theory U, gave inspiring presentations – triggering many more deep discussions between participants on what it means to work together using alternative economic models. Of course this is a topic already being actively followed by Alkemio, with our focus on Steward Ownership, so for us it was fantastic to see the energy on this really critical topic. 
 
-René Honing, co-founder of Alkemio beautifully described those days as “Under the gaze of Eiffel's magnificent testament to human innovation, at ChangeNOW in the Grand Palais Éphémère, we showcased Alkemio's online platform. In the spirit of Gustave Eiffel, who inspired countless minds with his daring imagination and tenacity, we aim to enable creative synergy for impactful solutions. Just as Eiffel bridged Paris with the sky, we seek to bridge humanity with its potential, proving that together, we can redefine the boundaries of possibility." 
+René Honig, co-founder of Alkemio beautifully described those days as “Under the gaze of Eiffel's magnificent testament to human innovation, at ChangeNOW in the Grand Palais Éphémère, we showcased Alkemio's online platform. In the spirit of Gustave Eiffel, who inspired countless minds with his daring imagination and tenacity, we aim to enable creative synergy for impactful solutions. Just as Eiffel bridged Paris with the sky, we seek to bridge humanity with its potential, proving that together, we can redefine the boundaries of possibility." 
 
 In conclusion, our participation in the ChangeNOW 23 event in Paris was full of learnings, insights, and definitely was a great success both in terms of the problem we are addressing as Alkemio - more effective impact together as well as how we are doing it by putting public values as central. We now bring this energy back home knowing that there is still a lot of work to be done, and more importantly that we are going on the right direction! Will you join us on working together to make sustainable and efficient impact?  
 
