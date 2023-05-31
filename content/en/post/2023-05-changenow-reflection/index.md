@@ -33,6 +33,7 @@ image:
   placement: 1
   preview_only: true
 
+---
 
 <img src="header.png" alt="header" style="width:800px;"/>
 
