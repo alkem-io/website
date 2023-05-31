@@ -60,5 +60,3 @@ René Honig, co-founder of Alkemio beautifully described those days:
 In conclusion, our participation in the ChangeNOW 23 event in Paris was full of learnings, insights, and definitely was a great success! Both in terms of the problem we are addressing as Alkemio, more effective impact together, as well as how we are doing it, by putting public values as central. We now bring this energy back home knowing that there is still a lot of work to be done, and more importantly that we are going on the right direction! 
 
 Will you join us on working together to make sustainable and efficient impact?  
-
- 
