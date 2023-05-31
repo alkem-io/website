@@ -19,7 +19,8 @@ header:
 # Alkemio at ChangeNOW 2023
 
 
-![ChangeNOW2023 Alkemio (1)](https://github.com/alkem-io/website/assets/114920200/f346f8a2-d942-4654-9510-5879d13ac75b)
+![ChangeNOW2023 Alkemio (1)](https://github.com/alkem-io/website/assets/114920200/8532a91d-5e04-42b5-b277-90ddd6be347d)
+
 
 
 ## Our experience at changeNOW
