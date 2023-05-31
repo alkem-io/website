@@ -30,14 +30,12 @@ design:
 ---
 Alkemio makes updates to the production platform approximately every two weeks. Below you can find the latest release note as well as links to previous notes.
 <p></p>
-<b>Release 2023-04-24</b>
+<b>Release 2023-05-18</b>
 <p></p>
 
-<i>Prepare yourself for a list full of new updates in [this 2023-04-24 release](https://alkem-25488729.hs-sites-eu1.com/alkemio-release-2023-04-24)!
+<i>Prepare yourself for a list full of new updates in [this 2023-05-18 release](https://alkem-25488729.hs-sites-eu1.com/alkemio-release-2023-05-18)!
 
-Besides important functionality, this release also introduces a fairly fundamental naming change: **Spaces**! This is the new name for Hub. The change of name reflects our drive to simplify the platform conceptually, and it actually reflects what it is: *a dedicated online space to enable a Community to come together and and make impact on shared Challenges*. The functionality is what you are familiar with, but hopefully the new name helps with on-boarding new platform users.
-
-And this ties in nicely with the Alkemio community feedback that users want to contribute on multiple ways: to growing the community, to framing challenges, to building up shared knowledge. This is now possible! So no more "contribute" tab, but instead users **directly contribute** to the relevant section. This has lead to a big improvement (we think!) in terms of usability of Spaces - please read further to find out more!.</i>
+Most visible is that the <b>Innovation library</b> is now available to all users, making best practices much more accessible. Further we added a <b>navigation block</b> on the Space dashboard that shows all its Challenges and Opportunities, as well as two new collaboration tools available: <b>collection of links</b> and the <b>single whiteboard</b>. Finally, <b>document storage</b> on the platform has received a major update, bringing with it secure links and better management for admins.</i>
 
 <i>Interested in trying out these new changes? Go directly to [Alkemio](https://alkem.io/?utm_source=hs_email&utm_medium=email&utm_content=64703278&_hsenc=p2ANqtz-9Giqo8QcZnf1CWdBLUSBKzmp4iMt-wvwbXM0qYcnNA30kdtBPsKqaaj3shSIvFGGfK-BM2cl2xAbSLj-JRK7VDK9TgcQ). As always, please share your feedback and comments. Enjoy!</i>
 <p></p>
