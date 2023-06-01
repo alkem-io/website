@@ -3,23 +3,24 @@
 #widget: pages
 #headless: true
 
-title: 'Three great days at changeNOW'
+title: 'Three great days at changeNOW 2023'
 date: "2023-05-31"
 lastmod: "2023-05-31"
 math: false
 diagram: false
 summary: "Experiences, insights & reflections"
+
 authors:
 - zondag-myrthe
 - ragni-mayte
 - smyth-neil
+
 tags:
 - community
 - summit
 - changeNOW
 - innovation
 - change
-
 - Paris
 
 
@@ -53,7 +54,7 @@ A core theme at the event was the focus on how we need to look at new ways of wo
 We were honoured to also be part of the *ImpactCity The Hague delegation* which included 25 public, private, and NGO participants related to the city of The Hague and its ecosystem. One of the highlights of our time was the official side event held at the Embassy of the Netherlands in France on Thursday. It was a pleasure to connect with individuals from diverse background. We exchanged ideas, discussed fruitful learnings from the various sessions off the day during the Summit, forged new connections, and shared opportunities for a sustainable future. 
 
 ## Pitching
-On Friday, Denise Larsson, our Community Manager, had the opportunity to take the stage and pitch Alkemio to an enthusiastic audience. The response was very positive, and again the topic of a digital platform to allow us to make more impact together and with public values central really was well received. 
+On Friday, Denise Larsson, our Community Manager, had the opportunity to take the stage and pitch Alkemio to an enthusiastic audience. The response was very positive, and again both the platform's ability to make impact together and our focus on public values was well received. 
 
 ## Looking back
 René Honig, co-founder of Alkemio beautifully described those days: 
