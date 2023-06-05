@@ -46,6 +46,7 @@ But that's not all! Steward ownership is also a cornerstone for Alkemio's growth
 There's a catch, though, but it's one that keeps us grounded. In the world of steward ownership, there's a limit to economic profits. This cap on financial returns is crucial in two ways: it helps us raise the necessary capital for investment by attracting investors who also care about helping society, while  allowing them to share in the success of Alkemio. It ensures that all involved in Alkemio are driven primarily by the desire to make a positive societal impact.
 
 ##Transparency in documentation
+
 We realize it's a tough call to prioritize purpose over profit in today's start-up world. There's a vast network supporting VC-backed start-ups, while purpose-driven start-ups often find themselves in uncharted waters. Our switch to steward ownership is meant to light the way – it's about showing that it's possible to uphold purpose over profit, making it a bit easier for future purpose ventures to follow suit. And we're committed to transparency: we'll be sharing all documents, including design trade-offs, related to our transition to steward ownership.
 
 ##Purpose can triumph over profit
