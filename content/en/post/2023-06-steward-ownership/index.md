@@ -27,7 +27,7 @@ image:
   
 ---
 
-<img src="header.png" alt="header" style="width:800px;"/>
+![](./header.png)
 
 Imagine a business world where long-term vision and social impact are more important than short-term gains. Welcome to steward ownership! 
 
