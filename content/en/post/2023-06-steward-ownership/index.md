@@ -24,10 +24,11 @@ featured: false
 draft: false
 image:
   placement: 1
+  preview_only: true
   
 ---
 
-![](./header.png)
+<img src="header.png" alt="header" style="width:800px;"/>
 
 Imagine a business world where long-term vision and social impact are more important than short-term gains. Welcome to steward ownership! 
 
