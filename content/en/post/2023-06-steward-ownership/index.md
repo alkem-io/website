@@ -1,7 +1,7 @@
 ---
 #widget: pages
 #headless: true
-title: Why Alkemio is implementing Steward Ownership
+title: Why Alkemio is implementing Steward ownership
 date: "2023-06-05"
 lastmod: "2023-06-05"
 math: false
