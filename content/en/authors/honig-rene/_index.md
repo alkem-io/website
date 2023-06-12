@@ -20,7 +20,7 @@ organizations:
   url: "https://alkem.io"
 
 # Short bio (displayed in user profile at end of posts)
-bio: innovator | entrepreneur | digital disrupter
+bio: Strategy | Technology | Digital Transformation | Cybersecurity
 
 
 #education:
