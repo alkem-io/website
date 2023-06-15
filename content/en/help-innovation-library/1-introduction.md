@@ -49,20 +49,20 @@ The Innovation Library shows you all templates that are made available by the Al
 ### Whiteboard and Post templates
 When asking the community for their knowledge and insights, you can either ask for textual or visual contributions. *Whiteboard templates* can provide inspiration for your creative and collaborative whiteboards, such as a stakeholder map, mindmap, or SWOT analysis. *Post templates* can help you to structure the input of your members with a default text or set of questions. An example would be that every contribution starts with a user story (*As a ... I want ... so that ...*) or a set of questions (*(1) provide a short description of the article, (2) describe why this is relevant for this Challenge*).
 
-**Using templates**
+*Using templates*
 - As a **member**, you can use whiteboard templates when you contribute to a *Call for Whiteboards* or *Call for Posts*. 
 - As a **lead**, you can choose templates from the library of the Space or the platform when adding a new Collaboration tool, such as a *single whiteboard*, *Call for whiteboards*, or *Call for Posts*.
 
-**Creating and importing templates**
+*Creating and importing templates*
 - As a **lead**, you can also create new templates for the library of the Space. You can either choose to base your template on one of the templates from the platform library, or start creating your own. To add new templates, go to the *Settings* of the Space and navigate to the section about *Templates*.
 
 ### Innovation Flow templates
 Innovation Flow visualizes guides the members throught the *various states* of the chosen innovation process. You can think of Design Thinking Flows or an agreed innovation process defined by your organization. Each Challenge or Opportunity has an Innovation Flow. You can find and change them under the *Settings* of the Challenge or Opportunity, in the section *Innovation Flow*.
 
-**Using Innovation Flow templates**
-As a **lead of a Challenge or Opportunity**, you can choose a template for your Challenge or Opportunity from the templates defined in the Space. If you want to use other templates, you can contact the lead of the Space.
+*Using Innovation Flow templates*
+- As a **lead of a Challenge or Opportunity**, you can choose a template for your Challenge or Opportunity from the templates defined in the Space. If you want to use other templates, you can contact the lead of the Space.
 
-**Creating and importing templates**
-As a **lead of a Space**, you can add templates to the Space from the platform library or create a new one yourself. Navigate to the *settings of the Space* and the section for *Templates*. There you will find the current set of Innovation Flow templates defined in the Space. You can click on the *library icon* to search for platform templates or click on *create new* to make your own. The Innovation Flow is based on [Xstate](https://stately.ai/viz). You can try making a definition for a statechart yourself or [contact](https://www.alkemio.org/feedback/) the team. 
+*Creating and importing templates*
+- As a **lead of a Space**, you can add templates to the Space from the platform library or create a new one yourself. Navigate to the *settings of the Space* and the section for *Templates*. There you will find the current set of Innovation Flow templates defined in the Space. You can click on the *library icon* to search for platform templates or click on *create new* to make your own. The Innovation Flow is based on [Xstate](https://stately.ai/viz). You can try making a definition for a statechart yourself or [contact](https://www.alkemio.org/feedback/) the team. 
 
 Hopefully this guide helps you to make the most of the templates and the innovation library. If you have any templates you would like to share in the Innovation Library or as an Innovation Pack, please reach out!
