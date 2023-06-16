@@ -74,12 +74,8 @@ These templates allow you to choose a set of default text or questions that each
 
 When starting a new Call for posts, you can define the default text to structure the answers of your community. When a member submits a new answer, they will be prompted to fill in these questions.
 
-<img src="post-template.png" alt="post-template" style="width:600px;"/>
-
 ### **Whiteboard templates**
 Secondly, you can use our whiteboard templates to gather input from the community. You can think of templates for stakeholder maps, brainstorm sessions, innovation funnels, etc. When you start a new Whiteboard or a Call for Whiteboards, you can directly choose a template from the library of your Space or the platform's Innovation Library. You can edit them to make it suitable for the particular question. Everytime a member wants to submit their contribution, they can use the whiteboard.
-
-<img src="whiteboard-template.png" alt="whiteboard-template" style="width:600px;"/>
 
 ## More settings for the Collaboration tools
 There are several settings that will help you make the most of these collaboration tools.
