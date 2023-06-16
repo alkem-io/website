@@ -30,12 +30,12 @@ design:
 ---
 # How to use Alkemio's collaboration tools?
 
-As a Host, I want an easy way to ask my Community questions to make progress on the Challenges. Discussions with the Alkemio Community brought forward that users want to contribute in multiple ways: to growing the community, to framing challenges, to building up shared knowledge. This is now possible! Our selection of collaboration tools now offers you the ability to start collaborating directly in the context. Not in a separate document, or miro board, or spreadsheet, but directly in a Space where you have also gathered the community, the Challenges, and the knowledge base.
+Discussions with the Alkemio Community brought forward that users want to contribute in multiple ways: to growing the community, to framing challenges, to building up shared knowledge. This is now possible! Our selection of collaboration tools now offers you the ability to start collaborating directly in the context. Not in a separate document, or miro board, or spreadsheet, but directly in a Space where you have also gathered the community, the Challenges, and the Knowledge base.
 
 In this Support page, we will explain what **types** the platform offers, **where** you can use them, and how the use of our **templates** can help you.
 
 ## Collaboration tool types
-To make progress on a set of Challenges, you need a way to share information with the community, gather knowledge or allow interaction between members. For each callout, question, or excercise, you may want to gather input in a different way. You may want short answers in a discussion, or more visual contributions in the form of a whiteboard. The platform offers you several collaboration tools, and will continue to expand these types, that you can use everywhere. The current set of tools are:
+To make progress on a set of Challenges, you need a way to share information with the community, gather knowledge or allow interaction between members. For each callout to the community, you may want to gather input in a different way. You may want short answers in a discussion, or more visual contributions in the form of a whiteboard. The platform offers you several collaboration tools - and will continue to expand these types - that you can use everywhere. The current set of tools are:
 
 * **A Post** to start a discussion, send a message with information such as a guidance video, or to ask your community a question. Members are able to respond with short comments.
 * **A Call for posts** to gather information in a more structured way. As a lead you can choose to add some guiding questions or information fields that members have to fill in. Members are able to respond with a more extensive answer, including references, tags, and visuals. Also, other members can comment on the response of that member.
@@ -43,7 +43,9 @@ To make progress on a set of Challenges, you need a way to share information wit
 * **A Call for Whiteboards** to gather multiple responses in a more visual way. The lead can choose a template that members must fill in when submitting their answer, for example can everyone draw their vision for this Challenge.
 * **A Collection of links** to gather materials in a set of links, for example relevant articles, blogposts, or guidance documents. Members are able to add a link with a title and a short description.
 
+<p align="center"git >
 <img src="collaboration-types.png" alt="collaboration-types" style="width:400px;"/>
+</p>
 
 ## Where can I use these collaboration tools?
 As mentioned before, the Hosts are now able to use these tools on **any page**! This allows them to ask the question where it makes the most sense. Let's give you some examples:
@@ -55,7 +57,9 @@ As mentioned before, the Hosts are now able to use these tools on **any page**! 
 * A Call for Posts on the *Challenges tab* where members can submit ideas for Challenges to work on by filling in a few context questions.
 * A Call for Posts with relevant articles related to the topic on the *Knowledge base tab*
 
+<p align="center"git >
 <img src="collaboration-example.png" alt="collaboration-example" style="width:800px;"/>
+</p>
 
 ## How can I use templates?
 To guide you in creating these collaboration tools to activate your community, the Alkemio Innovation Library offers a set of templates. There is a lot of **knowledge, best practices and templates** out there related to innovation. Organizations as well as knowledge institutions often promote these materials via their websites or internal channels, but it is hard to find for the wider community. More importantly, it is hard to directly use when you want to start collaborating with multiple stakeholders. The platform offers an Innovation Library that gathers all these materials and makes them directly available for you to apply in your Space (more information on [this Support Page](https://www.alkemio.org/help/innovation-library/)). 
