@@ -49,6 +49,17 @@ design:
             <p class="pt-2">Promote social and economic development in Western Ireland</p>
         </div>
     </div>
+    <!-- Third row -->
+    <div class="row align-items-top text-center mt-4 mb-5">
+        <div class="col text-center">
+            <a href="https://www.velokonzept.de/"_blank">
+                <img src="./logos/Velokonzept-Logo_RGB.svg" alt="Velokonzept" style="max-width:90%;margin:auto;height:100px" />
+            </a>
+        </div>
+        <div class="col text-center">
+            <p class="pt-2">Driving innovation to improve the cycling industry</p>
+        </div>
+    </div>
 </div>
     </div>
 </div>

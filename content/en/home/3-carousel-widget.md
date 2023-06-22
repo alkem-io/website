@@ -19,12 +19,15 @@ content:
             - media/partners/uwv.svg
             - media/partners/vng.svg
             - media/partners/digicampus.svg
-            - media/partners/min-bzk-slim.svg
 
         slide2:
             - media/partners/ngi-essiflab.jpg
             - media/partners/kvk-small.svg   
-            - media/partners/sidn.svg
+            - media/partners/min-bzk-slim.svg
 
+        slide3:
+            - media/partners/gemeente-Den-haag-Logo.png
+            - media/partners/Velokonzept-Logo_RGB.svg   
+            - media/partners/sidn.svg
 ---
 
