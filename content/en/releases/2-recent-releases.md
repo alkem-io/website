@@ -30,8 +30,11 @@ design:
 ---
 <b>Previous releases</b>
 
+<li><a href="https://alkem-25488729.hs-sites-eu1.com/alkemio-release-2023-05-18" target="_blank">2023-05-18</a>: 
+<i>"Innovation Library, Single whiteboard, Collection of Links, and Document Storage"</i> </li>
+
 <li><a href="https://alkem-25488729.hs-sites-eu1.com/alkemio-release-2023-04-24" target="_blank">2023-04-24</a>: 
-<i>"Community, Challenges and Knowledge Base menu tabs in each Space as well as Callouts in Context, "</i> </li>
+<i>"Community, Challenges and Knowledge Base menu tabs in each Space as well as Callouts in Context"</i> </li>
 
 <li><a href="https://alkem-25488729.hs-sites-eu1.com/alkemio-release-2023-03-31" target="_blank">2023-03-31</a>: 
 <i>"Community Forum, Whiteboard templates from the platform, sorting of Callouts, Community Application Questions, and new text editor"</i> </li>
@@ -43,7 +46,7 @@ design:
 <i>"Message other users / community hosts / organizations, improved sharing, more content on calendar events"</i> </li>
 
 <li><a href="http://alkem-25488729.hs-sites-eu1.com/alkemio-release-2023-01-31" target="_blank">2023-01-31</a>: 
-<i>"Events calendar, simplified use of whiteboards and private Challenges!"</i> </li>
+<i>"Events calendar, simplified use of whiteboards and private Challenges"</i> </li>
 
 <li><a href="https://alkem-25488729.hs-sites-eu1.com/alkemio-release-2022-12-23" target="_blank">2022-12-23</a>: 
 <i>"Refresh of user interface, sign up with Linkdin, reccomendations and top callouts visible"</i> </li>
@@ -52,7 +55,7 @@ design:
 <i>"Uploading documents, Innovation library, less boundaries to contribute"</i> </li>
 
 <li><a href="https://alkem-25488729.hs-sites-eu1.com/alkemio-release-2022-11-14" target="_blank">2022-11-14</a>: 
-<i>"Mobile experience improvements for Hub / Challenges / Opportunities and a Help Center, "</i> </li>
+<i>"Mobile experience improvements for Hub / Challenges / Opportunities and a Help Center"</i> </li>
 
 <li><a href="https://alkem-25488729.hs-sites-eu1.com/alkemio-release-2022-11-09" target="_blank">2022-11-09</a>: 
 <i>"Rich content editing (WYSIWYG), simplified Callout creation, Single Card Type Callout, moving Cards between Callouts"</i> </li>

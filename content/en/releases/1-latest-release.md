@@ -30,12 +30,12 @@ design:
 ---
 Alkemio makes updates to the production platform approximately every two weeks. Below you can find the latest release note as well as links to previous notes.
 <p></p>
-<b>Release 2023-05-18</b>
+<b>Release 2023-06-16</b>
 <p></p>
 
-<i>Prepare yourself for a list full of new updates in [this 2023-05-18 release](https://alkem-25488729.hs-sites-eu1.com/alkemio-release-2023-05-18)!
+<i>Prepare yourself for a list full of new updates in [this 2023-06-16 release](https://alkem-25488729.hs-sites-eu1.com/alkemio-release-2023-06-16)!
 
-Most visible is that the <b>Innovation library</b> is now available to all users, making best practices much more accessible. Further we added a <b>navigation block</b> on the Space dashboard that shows all its Challenges and Opportunities, as well as two new collaboration tools available: <b>collection of links</b> and the <b>single whiteboard</b>. Finally, <b>document storage</b> on the platform has received a major update, bringing with it secure links and better management for admins.</i>
+This release includes some mayor improvements, such as improved conversations with <b>threaded replies and emoticons</b>. For the admins, there has been a refresh of the <b>Space settings</b>, which simplifies the basic set-up of your Space as well as community management. And the much requested ability to see only a subset of the content of the platform... the Innovation Hubs! These Hubs provide a filtered view to see a set of Spaces related to a topic, organization or initiative.</i>
 
 <i>Interested in trying out these new changes? Go directly to [Alkemio](https://alkem.io/?utm_source=hs_email&utm_medium=email&utm_content=64703278&_hsenc=p2ANqtz-9Giqo8QcZnf1CWdBLUSBKzmp4iMt-wvwbXM0qYcnNA30kdtBPsKqaaj3shSIvFGGfK-BM2cl2xAbSLj-JRK7VDK9TgcQ). As always, please share your feedback and comments. Enjoy!</i>
 <p></p>
