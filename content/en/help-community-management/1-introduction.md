@@ -41,13 +41,12 @@ As with any tooling, understanding the platform will help you get the most out o
 Are you interested in reading more about the mission and vision of the foundation behind the platform? Have a look at our [Manifesto](https://alkemio.org/manifesto).
 
 ### **Populating your Space**
-It is now time to populate your Space with an initial set of content before you start onboarding the rest of your community. The first step is to navigate to the **settings** of your Space. This is done by clicking on the cogwheel icon on the right:
-![](./settings.png)
+After the Alkemio team has set up the first Demo Space for you, there are some general decisions for you to make about the set-up of your Space. If you navigate to the settings of the Space, you will find them under the sub-section **Settings**.
 
+Here you can decide on the **visibility** of your Space (public or private), **who** can join your Space (any user, only invited users, or users associated with certain organizations), and what the members of your Space **can do**. You may also want to select a few questions for the application form.
 
 Here you will find various subtabs that guide you through the possibilities. We will focus on the first few tabs. 
 
-![](./subtabs.png)
 
 #### **I. Profile**
 To make your Space visually attractive for new members, it is important to choose an engaging **tagline** as well as **visuals**. They will be visible on the home page for all visitors of the platform as well as the dashboard page of your Space.
