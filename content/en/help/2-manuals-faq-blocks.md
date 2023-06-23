@@ -31,7 +31,7 @@ design:
     <a href="/help/community-management/"><p class="mb-1"> How to grow and activate the community? </p></a>
     <a href="/help/innovation-library/"><p class="mb-1"> What is the Innovation Library? </p></a>
     <a href="/help/collaboration-tools/"><p class="mb-1"> How to use Alkemio's collaboration tools? </p></a>
-    <a href="/post/challenges/"><p class="mb-1"> How to create and frame the Challenges? </p></a>
+    <a href="/help/challenges/"><p class="mb-1"> How to create and frame the Challenges? </p></a>
     <!-- <a href="/help/community-management/" target="_blank"><p class="mb-1"> Building your community </p></a> -->
     </div>
     <div class="col-sm mb-4 bg-light fixed-height-help">

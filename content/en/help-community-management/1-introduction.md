@@ -45,7 +45,7 @@ Here you can decide on the *visibility* of your Space (public or private), *who*
 
 Now let's have a look at the other sub-sections: profile, context, community, updates, challenges, templates, and storage.
 
-#### Profile
+#### Space profile
 To make your Space visually attractive for new members, it is important to choose an engaging *tagline* as well as *visuals*. They will be visible on the home page for all visitors of the platform as well as the dashboard page of your Space.
 
 Also, you can add additional *tags* to summarize the content and make the Space easier to find. Finally, you can add *references* (links as well as documents) for your community, such as your website of the facilitating organization, an article or report related to this Space, an introduction video, etc.
