@@ -57,7 +57,7 @@ When asking the community for their knowledge and insights, you can either ask f
 - As a **lead**, you can also create new templates for the library of the Space. You can either choose to base your template on one of the templates from the platform library, or start creating your own. To add new templates, go to the *Settings* of the Space and navigate to the section about *Templates*.
 
 ### Innovation Flow templates
-Innovation Flow visualizes guides the members throught the *various states* of the chosen innovation process. You can think of Design Thinking Flows or an agreed innovation process defined by your organization. Each Challenge or Opportunity has an Innovation Flow. You can find and change them under the *Settings* of the Challenge or Opportunity, in the section *Innovation Flow*.
+The Innovation Flow guides the members through the *various states* of the chosen innovation process. You can think of Design Thinking Flows or an agreed innovation process defined by your organization. Each Challenge or Opportunity has an Innovation Flow. You can find and change them under the *Settings* of the Challenge or Opportunity, in the section *Innovation Flow*.
 
 *Using Innovation Flow templates*
 - As a **lead of a Challenge or Opportunity**, you can choose a template for your Challenge or Opportunity from the templates defined in the Space. If you want to use other templates, you can contact the lead of the Space.

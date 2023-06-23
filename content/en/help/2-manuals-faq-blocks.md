@@ -25,13 +25,13 @@ design:
 <div class="container" >
   <div class="row d-flex">
     <div class="col-sm mr-sm-5 mb-4 bg-light fixed-height-help">
-    <h2>Manuals</h2>
+    <h2>Guidelines</h2>
     <a href="/help/getting-started/"><p class="mb-1"> How to get started? </p></a>
     <a href="/help/key-concepts/"><p class="mb-1"> Key concepts of the platform </p></a>
-    <a href="/help/community-management/"><p class="mb-1"> Building your community </p></a>
+    <a href="/help/community-management/"><p class="mb-1"> How to grow and activate the community? </p></a>
     <a href="/help/innovation-library/"><p class="mb-1"> What is the Innovation Library? </p></a>
     <a href="/help/collaboration-tools/"><p class="mb-1"> How to use Alkemio's collaboration tools? </p></a>
-    <a href="/post/2022-07-spreadsheet/"><p class="mb-1"> From a static spreadsheet to a living community </p></a>
+    <a href="/post/challenges/"><p class="mb-1"> How to create and frame the Challenges? </p></a>
     <!-- <a href="/help/community-management/" target="_blank"><p class="mb-1"> Building your community </p></a> -->
     </div>
     <div class="col-sm mb-4 bg-light fixed-height-help">
