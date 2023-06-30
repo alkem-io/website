@@ -58,7 +58,7 @@ Finally, in replacing the content previously at the top of the page with the new
 * **About Alkemio**: There is now a footer bar with ways to **connect** with us, find out more about [Alkemio Foundation](https://alkemio.org) and visit our github repository :
 ![](./footer.png)
 
-* **Metrics**: These have been incorporated within the relevant sections. As visualized below, you can find the amount of Hubs, Challlenges, and Opportunities via the icon in Explore the Challenge Hubs: 
+* **Metrics**: These have been incorporated within the relevant sections. As visualized below, you can find the amount of Hubs, Challlenges, and Opportunities via the icon in Explore the Challenge Hubs (*update: challenge Hubs are now called 'Spaces'*): 
 ![](./statistics.png)
 
 The number of involved Users and Organizations are displayed in the Contributors section. 
@@ -67,3 +67,5 @@ The number of involved Users and Organizations are displayed in the Contributors
 With this first home page refresh, we hope to make it easier for you to find relevant information and contribute to topics you care about! 
 
 As always, happy to hear your feedback and ideas for the further improvement of the (my) home page!
+
+*note: this post has been updated to ensure consistency with the latest terminology.*
