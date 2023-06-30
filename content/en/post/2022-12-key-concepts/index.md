@@ -1,7 +1,7 @@
 ---
 #widget: pages
 #headless: true
-title: 'Why Challenges, Hubs and Opportunities?'
+title: 'Why Challenges, Spaces and Opportunities?'
 date: "2022-12-15"
 lastmod: "2022-12-15"
 math: false
@@ -39,9 +39,9 @@ Let's start with the **red flag** on top of the mountain. This flag represents t
 
 Then we have a set of **yellow flags** spread around different levels of the mountain. Those flags represent the Opportunities, the next steps that we can identify and take towards the red flag on top. 
 
-All the **people** around the mountain represent the *community* of individuals, organizations and resources that will help you on this journey. Cooperation along the **journey** is the key to success. The connected community, Challenges and Opportunities can all be found in a Hub (the mountain).
+All the **people** around the mountain represent the *community* of individuals, organizations and resources that will help you on this journey. Cooperation along the **journey** is the key to success. The connected community, Challenges and Opportunities can all be found in a Space (the mountain).
 
-All clear so far? Now let's get into more detail by explaining the key concepts with our example Hub...
+All clear so far? Now let's get into more detail by explaining the key concepts with our example Space...
 
 #### What’s a Challenge?
 A Challenge, in this context, represents the change you want to achieve with a group of people. Together you want to reach that flag on top of the mountain. It has to be the central focus point in each community to **solve these issues more effectively together** with the right people and tools. The community can for example discuss what are the biggest obstacles to solve this issue, who are already working on it, or what are interesting articles on this topic.
@@ -50,12 +50,12 @@ Below you can see two examples of possible Challenges related to the topic of re
 
 ![](./challenges-page.png)
 
-#### What's a Hub?
-A Hub is another word to represent a community of people that are driven by the same interests. This **ecosystem** includes all existing individuals or organizations currently working on a (group of) Challenge(s). Together they can effectively communicate and improve their understanding of who else should involved, why and what kind of contributions/values they need.
+#### What's a Space?
+A Space is another word to represent a community of people that are driven by the same interests. This **ecosystem** includes all existing individuals or organizations currently working on a (group of) Challenge(s). Together they can effectively communicate and improve their understanding of who else should involved, why and what kind of contributions/values they need.
 
-In this example hub, the community is interested in *Reducing air pollution* on different levels and in different contexts. The creation of a hub can help different people to connect and share ideas, knowledge and useful insights to efficiently get to the solution of the Challenges. The functionalities available in the Hub will allow parties that were not connected but have the same end goal, to work across organizational boundaries.
+In this example Space, the community is interested in *Reducing air pollution* on different levels and in different contexts. The creation of a Space can help different people to connect and share ideas, knowledge and useful insights to efficiently get to the solution of the Challenges. The functionalities available in the Space will allow parties that were not connected but have the same end goal, to work across organizational boundaries.
 
-![](./hub-page.png)
+![](./space-page.png)
 
 #### What's an Opportunity?
 An Opportunity represents a possible **way to solve a challenge**, or a step in the right direction. There can be different Opportunities to the same Challenge based on the needs and resources of the people working around a certain issue. 
