@@ -24,17 +24,18 @@ image:
   placement: 1
   
 ---
-Save the date! On Thursday July 8th, our founding partner [Digicampus](https://digicampus.tech/) is celebrating its second birthday. We are happy to join the party and launch the public preview of the Alkemio innovation hub!
+Save the date! On Thursday July 8th, our founding partner [Digicampus](https://digicampus.tech/) is celebrating its second birthday. We are happy to join the party and launch the public preview of the Alkemio platform!
 
 Are you managing challenges involving multiple parties? Tired of spreadsheets and custom development? Is it hard to align stakeholders and get commitment on your challenges? Are you able to connect to innovation parties?
 
 Right now the innovation landscape in The Netherlands is highly fragmented, meaning we are not realising the full talent of society in addressing our complex challenges.
-To help with this, our new open innovation hub is being launched! Fully open source, backed by a non-profit foundation. Where everyone can host their public / private challenges.
+To help with this, our new open platform is being launched! Fully open source, backed by a non-profit foundation. Where everyone can host their public / private challenges.
 
-We are proud Digicampus is helping us to launch the public preview of our innovation hub and will host their challenges on it. as they say: 'Come join us and innovate across borders!'
+We are proud Digicampus is helping us to launch the public preview of our platform and will host their challenges on it. as they say: 'Come join us and innovate across borders!'
 
-You will get a chance to see a sneak preview of our Alkemio hub and experience it first hand.
+You will get a chance to see a sneak preview of our Alkemio platform and experience it first hand.
 
 {{< figure src="logo-digicampus.svg" alt="Digicampus logo" numbered="false" >}}
 
+*note: this post has been updated to ensure consistency with the latest terminology.*
 

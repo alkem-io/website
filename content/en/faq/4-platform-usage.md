@@ -24,12 +24,12 @@ design:
 <div id="platform-structured" class="collapse">
   <div class="content">
     <p>There are multiple levels on the Alkemio platform:
-    <li><b>Hub</b>: Frame of reference</li>
+    <li><b>Space</b>: Frame of reference</li>
     <li><b>Challenge</b>: Understanding the issues to be addressed within the frame of reference</li>
     <li><b>Opportunity</b>: Identifying solutions for how to make progress together on the Challenges</li> 
     </p>
-    <p>It is hierarchical in that Hubs contain Challenges, which in turn contain Opportunities - with the Alkemio Platform hosting many Hubs.</p>
-    <p>Each level has a Community around it. Individuals and Organizations can choose to join a Hub to contribute to multiple Challenges around a certain theme. It is also possible to join seperate Challenges in different Hubs.</p>
+    <p>It is hierarchical in that Spaces contain Challenges, which in turn contain Opportunities - with the Alkemio Platform hosting many Spaces.</p>
+    <p>Each level has a Community around it. Individuals and Organizations can choose to join a Space to contribute to multiple Challenges around a certain theme. It is also possible to join seperate Challenges in different Spaces.</p>
     <p>Within all three levels, Users can discuss the topic, share relevant information in a structured manner, and brainstorm by using whiteboards.</p>
   </div>
 </div>
@@ -73,7 +73,7 @@ design:
 <!-- Content of collapisible -->
 <div id="platform-facilitating" class="collapse">
   <div class="content">
-    <p>On the Hub level, there is one Organization responsible for the content of the Hub, the Facilitating Organization. However, on a Challenge as well as Opportunity level multiple Organizations can be leading, the Leading Organizations.
+    <p>On the Space level, there is one Organization responsible for the content of the Space, the Facilitating Organization. However, on a Challenge as well as Opportunity level multiple Organizations can be leading, the Leading Organizations.
   </p>
   </div>
 </div>
@@ -84,18 +84,18 @@ design:
 <!-- Content of collapisible -->
 <div id="platform-make-challenge" class="collapse">
   <div class="content">
-    <p>Currently, only Hub administrators can make Challenges and afterwards they can authorize the Leading Users to further administrate the Challenge. We are working towards enabling Users to create Challenges as well.
+    <p>Currently, only Space administrators can make Challenges and afterwards they can authorize the Leading Users to further administrate the Challenge. We are working towards enabling Users to create Challenges as well.
   </p>
   </div>
 </div>
 
 <!-- Title of collapisble -->
-<button type="button" class="collapsible" data-toggle="collapse" data-target="#platformownhub" id="platformownhub">Can I create a Hub on my own?
+<button type="button" class="collapsible" data-toggle="collapse" data-target="#platformownspace" id="platformownspace">Can I create a Space on my own?
 </button>
 <!-- Content of collapisible -->
-<div id="platformownhub" class="collapse">
+<div id="platformownspace" class="collapse">
   <div class="content">
-    <p>You cannot create a Hub on your own but you can contact us and we can create it with you and guide you in the process.
+    <p>You cannot create a Space on your own but you can contact us and we can create it with you and guide you in the process.
   </p>
   </div>
 </div>
@@ -134,12 +134,12 @@ design:
 </div>
 
 <!-- Title of collapisble -->
-<button type="button" class="collapsible" data-toggle="collapse" data-target="#challenge-visibility" id="challengevisibility">Is it possible to have a public and a private part in my Hub?
+<button type="button" class="collapsible" data-toggle="collapse" data-target="#challenge-visibility" id="challengevisibility">Is it possible to have a public and a private part in my Space?
 </button>
 <!-- Content of collapisible -->
 <div id="challenge-visibility" class="collapse">
   <div class="content">
-    <p>Each Hub, and each Challenge, can choose (a) who can see the content (b) who can contribute. This is tied to membership, and how a user becomes a member of a Hub or Challenge is also a setting. <br/> <br/> The default setup is that when a user is a member of a Hub, then the member can access all content in Challenges and can contribute to all Challenges. So it is by default open as we want everyone to be able to contribute! <br/> <br/> However each Challenge can then choose to (a) require users to become members of a Challenge to see the content in the Challenge (a "private" Challenge) (b) require users to become members to be able to contribute (add comments in a Challenge etc). There are also other settings available e.g. related to who can create Opportunities in a Challenge. 
+    <p>Each Space, and each Challenge, can choose (a) who can see the content (b) who can contribute. This is tied to membership, and how a user becomes a member of a Space or Challenge is also a setting. <br/> <br/> The default setup is that when a user is a member of a Space, then the member can access all content in Challenges and can contribute to all Challenges. So it is by default open as we want everyone to be able to contribute! <br/> <br/> However each Challenge can then choose to (a) require users to become members of a Challenge to see the content in the Challenge (a "private" Challenge) (b) require users to become members to be able to contribute (add comments in a Challenge etc). There are also other settings available e.g. related to who can create Opportunities in a Challenge. 
   </p>
   </div>
 </div>
@@ -150,7 +150,7 @@ design:
 <!-- Content of collapisible -->
 <div id="open-source-data" class="collapse">
   <div class="content">
-    <p>Open-source refers to the source code that provides the functionality on the Alkemio platform. It does not imply that the data is open. <br/> <br/> The data, such as the content of the Hub, can be only accessed by the users that have the right credentials. As a member of a certain Hub, you will be able to access the data from the Hub you’re a member of, but not from other (private) Hubs. The data is protected at the api level, with there being an explicit authorization model for all key pieces of data on the platform that determines who can access each piece of data. <br/> <br/> The platform adheres to GDPR, and the data is stored within the EU (in particular, using a Microsoft data center in The Netherlands). <br/> <br/> Note that the data for a Hub is also accessible in a structured way for users of the Hub (through <a href="https://github.com/alkem-io/alkemio/blob/develop/docs/images/design-logical-data-model.png" target="_blank">this datamodel</a>), which makes it very easy to transfer to a different environment. 
+    <p>Open-source refers to the source code that provides the functionality on the Alkemio platform. It does not imply that the data is open. <br/> <br/> The data, such as the content of the Space, can be only accessed by the users that have the right credentials. As a member of a certain Space, you will be able to access the data from the Space you’re a member of, but not from other (private) Spaces. The data is protected at the api level, with there being an explicit authorization model for all key pieces of data on the platform that determines who can access each piece of data. <br/> <br/> The platform adheres to GDPR, and the data is stored within the EU (in particular, using a Microsoft data center in The Netherlands). <br/> <br/> Note that the data for a Space is also accessible in a structured way for users of the Space (through <a href="https://github.com/alkem-io/alkemio/blob/develop/docs/images/design-logical-data-model.png" target="_blank">this datamodel</a>), which makes it very easy to transfer to a different environment. 
   </p>
   </div>
 </div>
