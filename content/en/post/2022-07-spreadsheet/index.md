@@ -49,7 +49,7 @@ The 'Digitale Leefomgeving' program includes 104 different projects all around t
 
 ### How will Alkemio be used by the Digitale Leefomgeving community?
 
-"We are working in the complex environment of a public organization, with data suppliers as well as education & research. On a strategic level, we are all working on the same subject, but on a practical level, we're not. The first goal of the hub is to **create an overview** on what is done by whom: a total of 104 projects are therefore visible in the Alkemio hub, almost straight from our Excel sheet. This content gives the platform some level of maturity and body. In order to kick-start collaboration, we need this background information." 
+"We are working in the complex environment of a public organization, with data suppliers as well as education & research. On a strategic level, we are all working on the same subject, but on a practical level, we're not. The first goal of the Space is to **create an overview** on what is done by whom: a total of 104 projects are therefore visible in the Alkemio Space, almost straight from our Excel sheet. This content gives the platform some level of maturity and body. In order to kick-start collaboration, we need this background information." 
 
 The next step is to **address the topics** of shared interest to work on. The projects have been divided in categories, such as infrastructure, energy transition and mobility. All projects share some basic definitions, and a project lifecycle can be established together with all approximately 200 organizations that are involved in these 104 projects. At category- or project-level, these definitions and lifecycles can be further specified. A good alignment between all projects will facilitate an easier knowledge-exchange between the projects.
 
@@ -72,10 +72,12 @@ Alkemio believes that a platform for collaboration across organizational boundar
 "The moment it is self sustaining."
 
 
-Do you want to take a look at the Digitale Leefomgeving hub? [Check it out here](https://alkem.io/digileefomgeving/dashboard)!
+Do you want to take a look at the Digitale Leefomgeving Space? [Check it out here](https://alkem.io/digileefomgeving/dashboard)!
 
 
 ![](./bubbles.png)
+
+*note: this post has been updated to ensure consistency with the latest terminology.*
 --- 
 
 
