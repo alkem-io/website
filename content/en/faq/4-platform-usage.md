@@ -90,7 +90,7 @@ design:
 </div>
 
 <!-- Title of collapisble -->
-<button type="button" class="collapsible" data-toggle="collapse" data-target="#platformownSpace" id="platformownspace">Can I create a Space on my own?
+<button type="button" class="collapsible" data-toggle="collapse" data-target="#platformownspace" id="platformownspace">Can I create a Space on my own?
 </button>
 <!-- Content of collapisible -->
 <div id="platformownspace" class="collapse">
