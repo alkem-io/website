@@ -36,7 +36,7 @@ design:
     </div>
     <div class="col-sm mb-4 bg-light fixed-height-help">
     <h2>Frequently Asked Questions</h2>
-    <a href="/faq/#platformownhub"><p class="mb-1"> Can I create a Hub on my own? </p></a>
+    <a href="/faq/#platformownspace"><p class="mb-1"> Can I create a Space on my own? </p></a>
     <a href="/faq/#whyneedalkemio"><p class="mb-1"> Why do we need Alkemio? </p></a>
     <a href="/faq/#platformchallenges"><p class="mb-1"> How can I most easily find Challenges that I am interested in? </p></a>  
     <a href="/faq/#challengeowner"><p class="mb-1"> Who is the owner of a Challenge? </p></a>
