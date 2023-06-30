@@ -72,3 +72,5 @@ Pretty cool right?! :) We hope that this blog post has clarified how Alkemio wor
 Theree is more to come of course! Our platform is in constant development and improvements are made based on the input from the existing communities. Further explanations will be given along the development process of Alkemio and its functionalities. 
 
 So stay tuned.. See you in the next blog post!
+
+*note: this post has been updated to ensure consistency with the latest terminology.*
