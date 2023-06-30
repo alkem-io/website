@@ -48,14 +48,15 @@ Our offer is to give you a place where you can frame shared goals, manage a comm
 
 To be clear and taking the example of housing: this is not about matching housing offers and needs, but about understanding what are the challenges in addressing the housing needs, ideas for making more housing available, resolving blockers (e.g. legal) around offering housing etc. Making the overall response more effective. 
 
-Alkemio will host your hub free, and we will also help you setup your space for the collaboration. 
+Alkemio will host your Space free, and we will also help you setup your space for the collaboration. 
 
 ## Next steps
 
-Explore the [Help Ukraine](https://demo.alkem.io/ukraine/dashboard) hub that we have already created for the Dutch speaking community. Sign up for an account. Join the Help Ukraine hub and the sub-topics there you care about. 
+Explore the [Help Ukraine](https://demo.alkem.io/ukraine/dashboard) Space that we have already created for the Dutch speaking community. Sign up for an account. Join the Help Ukraine Space and the sub-topics there you care about. 
 
-Want your own hub, either for specific sub-topic or language? Then please either fill out the form below or [directly email us](https://www.alkemio.org/feedback/).
+Want your own Space, either for specific sub-topic or language? Then please either fill out the form below or [directly email us](https://www.alkemio.org/feedback/).
 
+*note: this post has been updated to ensure consistency with the latest terminology.*
 
 ## Let's connect
 <script charset="utf-8" type="text/javascript" src="//js-eu1.hsforms.net/forms/v2.js"></script>
