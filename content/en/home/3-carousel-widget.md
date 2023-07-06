@@ -26,7 +26,7 @@ content:
             - media/partners/min-bzk-slim.svg
 
         slide3:
-            - media/partners/gemeente-Den-haag-Logo.png
+            - media/partners/gemeente-Den-haag-logo.png
             - media/partners/Velokonzept-Logo_RGB.svg   
             - media/partners/sidn.svg
 ---
