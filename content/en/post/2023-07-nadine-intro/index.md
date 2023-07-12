@@ -28,7 +28,7 @@ image:
   
 ---
 
-<img src="./header.png" alt="header" width="700"/>
+<img src="./header.png" alt="header" width="1000"/>
 
 Nadine Roijakkers joined the Alkemio Board of Advisors in April 2023. Alkemio is delighted to have her contributing! In this blog post we will introduce you to Nadine as we discuss how our paths crossed, what our shared drivers are and her vision on the role of Alkemio and other stakeholders in this ecosystem.
 
