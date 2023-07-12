@@ -1,25 +1,25 @@
 ---
 # Display name
-title: Kathleen Torrance
+title: Coos Santing
 
 # Username (this should match the folder name)
 authors:
-- torrance-kathleen
+- santing-coos
 weight: 100
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Program Manager 'Rijks Innovatie Community'
+role: Program Manager at ImpactCity The Hague
 
 # Organizations/Affiliations
 organizations:
-- name: RIConline
-  url: "https://www.rijksinnovatiecommunity.nl/"
+- name: ImpactCity The Hague
+  url: "https://www.impactcity.nl/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Program Manager 'Rijks Innovatie Community'
+bio:
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -34,7 +34,7 @@ social:
 #  link: https://twitter.com/neilasmyth
 - icon: linkedin
   icon_pack: fab
-  link: https://nl.linkedin.com/in/kathleen-torrance-a7b94315/
+  link: https://nl.linkedin.com/in/coos-santing-41a97011/
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
