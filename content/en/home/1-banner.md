@@ -23,8 +23,8 @@ design:
   background:
     color: '#068293'
   # background:
-  #   image: alkemio-ukraine-visual-2.png
-  #   color: '#068293'
+  #   image: alkemio-banner-long.svg
+  #   color: '#1d384a'
   #   image_size: cover
   #   image_position: center
   #   image_parallax: false
