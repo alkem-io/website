@@ -7,7 +7,7 @@ widget: hero
 headless: true
 
 # Order that this section appears on the page.
-weight: 25
+weight: 4
 
 # Section title
 #title: 
