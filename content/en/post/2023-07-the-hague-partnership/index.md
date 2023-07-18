@@ -1,15 +1,16 @@
 ---
 #widget: pages
 #headless: true
-title: 'The Hague City Joins Alkemio as a Partner to Drive Sustainable Development and Social Impact'
+title: 'The Hague City Joins Alkemio as a Partner'
 date: "2023-07-17"
 lastmod: "2023-07-17"
 math: false
 diagram: false
 summary: "New partner: The Hague City Joins Alkemio"
 authors:
-- larsson-denise
-- zondag-myrthe
+- Smyth-Neil
+- van-Loon-Branko
+- Santing-Coos
 tags:
 - partnership
 - collaboration
