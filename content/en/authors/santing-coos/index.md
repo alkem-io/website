@@ -5,7 +5,7 @@ title: Coos Santing
 # Username (this should match the folder name)
 authors:
 - santing-coos
-weight: 100
+weight: 102
 
 # Is this the primary user of the site?
 superuser: false
