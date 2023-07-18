@@ -39,7 +39,7 @@ We are thrilled to announce that **The Hague City** has joined as an Alkemio Par
 
 ### Putting Public Values at the core
 
-Alkemio is committed to creating a positive impact on society by putting public values central. This also matches The Hague's role as Impact City. *"Working together requires trust, in each other but also in the digital platforms being used. Our society is increasingly digital, so it is refreshing to see a digital platform that is focused on public values and realizing societal impact,"* says Coos Santing, Impact City @ The Hague.
+Alkemio is committed to creating a positive impact on society by putting public values central. This also matches The Hague's role as ImpactCity. *"Working together requires trust, in each other but also in the digital platforms being used. Our society is increasingly digital, so it is refreshing to see a digital platform that is focused on public values and realizing societal impact,"* says Coos Santing, ImpactCity @ The Hague.
 
 ### Driving positive change
 
