@@ -8,9 +8,9 @@ math: false
 diagram: false
 summary: "New partner: The Hague City Joins Alkemio"
 authors:
-- Smyth-Neil
-- van-Loon-Branko
-- Santing-Coos
+- smyth-neil
+- vanloon-branko
+- santing-coos
 tags:
 - partnership
 - collaboration
