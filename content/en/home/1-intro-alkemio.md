@@ -28,12 +28,12 @@ design:
 <div class="container" >
   <div class="row">
     <div class="col-sm mb-4">
-  <h2 class="font-weight-bold" >Why Alkemio </h2>
-  Many Challenges in society and organizations are hard to solve. From refugee crises to climate change to a digitalizing society to community initiatives. People want to engage in effective and meaningful ways - but how? <br> <br>
+  <h2 class="font-weight-bold" >Making Impact on Alkemio</h2>
+  Many challenges in our lives and society are hard to solve. From climate change to cost of living crises, from making society more inclusive to how AI will impact jobs and education. The pace of change is accelerating, and we want to get better and faster at solving challenges. <br> <br>
 
-  **Alkemio** makes it easy to manage Challenges and have contributors, from anywhere, working together on solutions. Challenges take center-stage. Focus is on the destination.
+  **Alkemio** is an impact platform to unlock the potential of society to solve challenges. By making it easy to align efforts and work together, with all your actions facilitated by one platform. And with a paradigm shift by designing a digital platform people can fully trust. Alkemio can be used by anyone to achieve change.
 
-  Backed by a foundation to develop the Alkemio platform and community of people, companies, NGOs and public bodies. Purpose driven, with a hugely ambitious agenda. 
+  Backed by the Alkemio Foundation to develop the platform and community. Purpose driven, with a hugely ambitious agenda. 
 
   Connect, collaborate and contribute!
   </div>

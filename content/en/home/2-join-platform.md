@@ -22,8 +22,6 @@ design:
     # Customize the section spacing. Order is top, right, bottom, left.
     padding: ["20px", "0px", "20px", "0px"]
 
-  background:
-    color: 'white'
 advanced:
   css_style: "text-align: center;"
 
@@ -35,7 +33,7 @@ hero_media: ""
 #   Remove a link/note by deleting a cta/note block.
 cta:
   url: "https://alkem.io/home"
-  label: See Challenges in action!
+  label: Join here!
 
 # Note. An optional note to show underneath the links.
 cta_note:
