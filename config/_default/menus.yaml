@@ -47,7 +47,7 @@ main:
     weight: 9
 
 main_right:
-  - name: Visit the platform
+  - name: <b>Visit the platform</b>
     url: 'https://alkem.io'
     weight: 60
 
