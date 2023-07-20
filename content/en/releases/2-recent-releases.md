@@ -30,6 +30,9 @@ design:
 ---
 <b>Previous releases</b>
 
+<li><a href="https://alkem-25488729.hs-sites-eu1.com/alkemio-release-2023-06-16" target="_blank">2023-06-16</a>: 
+<i>"Innovation Hubs, threaded comments and emoticons, refresh of the Space settings, and document storage"</i> </li>
+
 <li><a href="https://alkem-25488729.hs-sites-eu1.com/alkemio-release-2023-05-18" target="_blank">2023-05-18</a>: 
 <i>"Innovation Library, Single whiteboard, Collection of Links, and Document Storage"</i> </li>
 
