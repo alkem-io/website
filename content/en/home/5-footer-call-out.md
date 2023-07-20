@@ -22,6 +22,8 @@ design:
     # Customize the section spacing. Order is top, right, bottom, left.
     padding: ["20px", "0px", "20px", "0px"]
 
+  background:
+    color: 'white'
 advanced:
   css_style: "text-align: center;"
 
