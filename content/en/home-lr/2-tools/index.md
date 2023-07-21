@@ -1,7 +1,6 @@
 ---
 # Section title
 title: Instead of struggling with partial solutions
-
 weight: 20
 
 summary: 'We'd like one platform to facilitate it all.  
