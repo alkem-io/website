@@ -26,9 +26,9 @@ main:
     url: 'about'
     weight: 1
   - parent: about-main
-    indentifier: about-foundation
+    indentifier: about-contact
     name: Contact
-    url: 'feedback'
+    url: 'contact'
     weight: 2
   - parent: about-main
     indentifier: about-support
