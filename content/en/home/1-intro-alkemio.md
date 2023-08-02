@@ -35,7 +35,6 @@ design:
   <br> <br>
   To make society more inclusive, improve energy security, tackle the cost of living crises and the impact of AI on our jobs and education, and many more.  <br> <br>
   Connect, collaborate and contribute! 
-  <br><a href="https://alkem.io">www.alkem.io</a> 
   </div>
     <div class="col-sm m-auto"> 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/834051491?h=35e2fbb603&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
