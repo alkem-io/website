@@ -41,7 +41,7 @@ design:
     <div class="row align-items-top text-center mt-4 mb-5">
         <div class="col text-center">
             <a href="https://www.denhaag.nl/nl.htm" target="_blank">
-                <img src="./logos/gemeente-Den-Haag-logo.png" alt="Gemeente Den Haag logo" style="max-width:90%;margin:auto;height:100px" />
+                <img src="./logos/gemeente-den-haag.svg" alt="Gemeente Den Haag logo" style="max-width:90%;margin:auto;height:100px" />
             </a>
         </div>
         <div class="col text-center">

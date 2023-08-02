@@ -21,13 +21,15 @@ content:
             - media/partners/digicampus.svg
 
         slide2:
-            - media/partners/ngi-essiflab.jpg
+            - media/partners/gemeente-den-haag.svg
             - media/partners/kvk-small.svg   
             - media/partners/min-bzk-slim.svg
 
         slide3:
-            - media/partners/gemeente-Den-Haag-logo.png
-            - media/partners/Velokonzept-Logo_RGB.svg   
+            - media/partners/velokonzept.svg   
+            - media/partners/govtechnl.jpg
+            - media/partners/ngi-essiflab.jpg  
             - media/partners/sidn.svg
+            
 ---
 
