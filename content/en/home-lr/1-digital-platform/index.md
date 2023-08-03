@@ -12,13 +12,13 @@ weight: 10
 
 summary: 'where openness, trust and a purpose to benefit society are key values
 
-- Where anyone who wants to make impact can contribute.
+- Where anyone who wants to make impact can contribute
 
-- Aligning efforts to solve what really matters, in an effective and scalable way.
+- Aligning efforts to solve what really matters, in an effective and scalable way
 
 <br/><br/>
 <b><a href="https://alkem.io">www.alkem.io</a></b>'
 
 ---
-This is the Alkemio platform, 
+
 

@@ -3,9 +3,9 @@
 title: Together we can
 weight: 20
 
-summary: 'realize the ambitious vision and make impact.  
+summary: 'realize the ambitious vision and make impact  
 
-- Working with a community that shares the vision
+- Working with a community of partners that share the vision
 
 - Open and transparent, building together
  ' 
