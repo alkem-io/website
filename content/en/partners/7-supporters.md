@@ -39,15 +39,12 @@ design:
    </div>
    <div class="col partner-logo-3-row" > 
       <a href="https://jolocom.io/" target="_blank">
-      <img src="./logos/jolocom_h@3x.png" alt="Jolocom logo"> </a>
+      <img src="./logos/jolocom.png" alt="Jolocom logo"> </a>
    </div>
 </div>
 <!-- Second row -->
 <div class="row align-items-top text-center  mt-4 ">
   <div class="col partner-logo-2-row"> 
-    <a href="https://odyssey.org/" target="_blank">
-    <img src="./logos/odyssey.png" alt="Odyssey logo" style="object-fit: contain; max-width:90%; margin:auto; height:75px;"> </a> </div>     
-    <div class="col partner-logo-2-row" > 
     <a href="https://www.kvk.nl/" target="_blank"> 
     <img src="./logos/kvk.svg" alt="Kamer van Koophandel logo" style="object-fit: contain; max-width:90%; margin:auto; height:75px;"> </a>
   </div>

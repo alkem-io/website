@@ -4,14 +4,14 @@ name = "alkemio"
 # Is theme light or dark?
 [light]
   # Primary
-  primary = "#068293" # teal
+  primary = "#2d546a" # teal
   # primary = "#55a1af" # from tafira
 
   # Menu
-  menu_primary = "#068293" # pacific blue
+  menu_primary = "#2d546a" # pacific blue
   # menu_primary = "#55a1af" # from tafira
   menu_text = "#fff"
-  menu_text_active = "#2d546a" # deep blue
+  menu_text_active = "#deeff6" # deep blue
   menu_title = "#fff"
 
   # Home sections
