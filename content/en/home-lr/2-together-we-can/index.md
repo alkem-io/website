@@ -1,6 +1,6 @@
 ---
 # Section title
-title: Together we can
+title: Together we can 
 weight: 20
 
 summary: 'realize the ambitious vision and make impact  

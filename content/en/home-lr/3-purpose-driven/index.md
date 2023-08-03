@@ -6,11 +6,11 @@ weight: 30
 title: Purpose driven to benefit society
 
 # Section subtitle 
-summary: 'anchoring the mission via Steward Ownerhip
+summary: 'anchoring the mission with Steward Ownerhip
 
 - Ownership structure that legally binds the purpose of Alkemio to benefit society
 
-- Respect for personal data, algorithms to bring society together, open and transparent ways of working together'
+- Respect for personal data, algorithms to bring society together, open and transparent ways of working together
 <br/>
-<br/>
+<br/><br/><br/><br/>'
 ---
