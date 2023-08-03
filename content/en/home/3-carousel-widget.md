@@ -11,7 +11,7 @@ weight: 3
 
 design:
     spacing:
-        padding: ["20px", "0", "30px", "0"]
+        padding: ["30px", "0", "30px", "0"]
 
 content:
     slides:
@@ -19,12 +19,17 @@ content:
             - media/partners/uwv.svg
             - media/partners/vng.svg
             - media/partners/digicampus.svg
-            - media/partners/min-bzk-slim.svg
 
         slide2:
-            - media/partners/ngi-essiflab.jpg
+            - media/partners/gemeente-den-haag.svg
             - media/partners/kvk-small.svg   
-            - media/partners/sidn.svg
+            - media/partners/min-bzk-slim.svg
 
+        slide3:
+            - media/partners/velokonzept.svg   
+            - media/partners/govtechnl.jpg
+            - media/partners/ngi-essiflab.jpg  
+            - media/partners/sidn.svg
+            
 ---
 

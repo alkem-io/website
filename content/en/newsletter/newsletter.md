@@ -32,6 +32,8 @@ If you have any topics you’d like us to cover in future newsletters please let
 <p></p>
 Previous newsletters:
 
+<li><a href="https://alkem-25488729.hs-sites-eu1.com/alkemio/newsletter/2023/june" target="_blank">2023 - June</a> - <i>"Exploring Public Values and GovTech"</i> </li>
+
 <li><a href="https://alkem-25488729.hs-sites-eu1.com/alkemio/newsletter/2023/may" target="_blank">2023 - May</a> - <i>"We need to change, now."</i> </li>
 
 <li><a href="https://alkem-25488729.hs-sites-eu1.com/alkemio/newsletter/2023/april" target="_blank">2023 - April</a> - <i>"Making innovation easier."</i> </li>

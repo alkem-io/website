@@ -25,18 +25,18 @@ design:
 <div class="container" >
   <div class="row d-flex">
     <div class="col-sm mr-sm-5 mb-4 bg-light fixed-height-help">
-    <h2>Manuals</h2>
-    <a href="/help/getting-started/"><p class="mb-1"> How to get started </p></a>
+    <h2>Guidelines</h2>
+    <a href="/help/getting-started/"><p class="mb-1"> How to get started? </p></a>
     <a href="/help/key-concepts/"><p class="mb-1"> Key concepts of the platform </p></a>
-    <a href="/help/community-management/"><p class="mb-1"> Community Management Page </p></a>
-    <a href="/post/2022-09-ux-refresh/"><p class="mb-1"> What can I do on the platform </p></a>
-    <a href="/post/2022-07-spreadsheet/"><p class="mb-1"> From a static spreadsheet to a living community </p></a>
-    <a href="/post/2022-09-callouts/"><p class="mb-1"> Callouts </p></a>
+    <a href="/help/community-management/"><p class="mb-1"> How to grow and activate the community? </p></a>
+    <a href="/help/innovation-library/"><p class="mb-1"> What is the Innovation Library? </p></a>
+    <a href="/help/collaboration-tools/"><p class="mb-1"> How to use Alkemio's collaboration tools? </p></a>
+    <a href="/help/challenges/"><p class="mb-1"> How to create and frame the Challenges? </p></a>
     <!-- <a href="/help/community-management/" target="_blank"><p class="mb-1"> Building your community </p></a> -->
     </div>
     <div class="col-sm mb-4 bg-light fixed-height-help">
     <h2>Frequently Asked Questions</h2>
-    <a href="/faq/#platformownhub"><p class="mb-1"> Can I create a Hub on my own? </p></a>
+    <a href="/faq/#platformownspace"><p class="mb-1"> Can I create a Space on my own? </p></a>
     <a href="/faq/#whyneedalkemio"><p class="mb-1"> Why do we need Alkemio? </p></a>
     <a href="/faq/#platformchallenges"><p class="mb-1"> How can I most easily find Challenges that I am interested in? </p></a>  
     <a href="/faq/#challengeowner"><p class="mb-1"> Who is the owner of a Challenge? </p></a>

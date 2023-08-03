@@ -7,7 +7,7 @@ widget: hero
 headless: true
 
 # Order that this section appears on the page.
-weight: 25
+weight: 5
 
 # Section title
 #title: 
@@ -20,8 +20,10 @@ design:
   columns: 1
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
-    padding: ["20px", "0px", "10px", "0px"]
+    padding: ["20px", "0px", "20px", "0px"]
 
+  background:
+    color: 'white'
 advanced:
   css_style: "text-align: center;"
 
@@ -32,7 +34,7 @@ hero_media: ""
 #   Display link(s) by specifying a URL and label below. Icon is optional for `cta`.
 #   Remove a link/note by deleting a cta/note block.
 cta:
-  url: "https://alkem.io/identity/registration"
+  url: "https://alkem.io/home"
   label: See Challenges in action!
 
 # Note. An optional note to show underneath the links.

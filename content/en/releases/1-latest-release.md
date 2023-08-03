@@ -30,12 +30,14 @@ design:
 ---
 Alkemio makes updates to the production platform approximately every two weeks. Below you can find the latest release note as well as links to previous notes.
 <p></p>
-<b>Release 2023-05-18</b>
+<b>Release 2023-07-20</b>
 <p></p>
 
-<i>Prepare yourself for a list full of new updates in [this 2023-05-18 release](https://alkem-25488729.hs-sites-eu1.com/alkemio-release-2023-05-18)!
+<i>Prepare yourself for a list full of new updates in [this 2023-07-20 release](https://alkem-25488729.hs-sites-eu1.com/alkemio-release-2023-07-20)!
 
-Most visible is that the <b>Innovation library</b> is now available to all users, making best practices much more accessible. Further we added a <b>navigation block</b> on the Space dashboard that shows all its Challenges and Opportunities, as well as two new collaboration tools available: <b>collection of links</b> and the <b>single whiteboard</b>. Finally, <b>document storage</b> on the platform has received a major update, bringing with it secure links and better management for admins.</i>
+After a big refresh of the lay-out and functionalities of the Space, it was time to dive into the <b>Challenges & Opportunities</b>. One very important element there: a more prominent role for the <b>innovation flow</b> that will guide your Challenge or Opportunity.
+
+Furthermore, the <b>banner of Challenges & Opportunities</b> has been improved, leads can send <b>invites</b> to both Alkemio users as well as non-Alkemio users, and you can easily filter Challenges as the <b>Challenge tags</b> are now visualized.</i>
 
 <i>Interested in trying out these new changes? Go directly to [Alkemio](https://alkem.io/?utm_source=hs_email&utm_medium=email&utm_content=64703278&_hsenc=p2ANqtz-9Giqo8QcZnf1CWdBLUSBKzmp4iMt-wvwbXM0qYcnNA30kdtBPsKqaaj3shSIvFGGfK-BM2cl2xAbSLj-JRK7VDK9TgcQ). As always, please share your feedback and comments. Enjoy!</i>
 <p></p>

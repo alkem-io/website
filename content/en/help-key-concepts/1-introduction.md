@@ -57,7 +57,7 @@ Finally, creating a challenge means tackling the general issue into specifics an
 #### 2. What is a Space? What can you do through it, why should you create one and what happens after you created a Space?
 
 <p align="center"git >
-<img src="./hubs.png" alt="Concepts illustration" width="600" />
+<img src="./spaces.png" alt="Concepts illustration" width="600" />
 </p>
 
 Picture a Space as a virtual environment created for you to engage on something you care about and that you would like to find solutions for. It is a community with a specific frame of reference, under the responsibility of the lead user or organization. The key goal is to gather people and identify their Challenges.
