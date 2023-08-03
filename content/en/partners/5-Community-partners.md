@@ -7,7 +7,7 @@ widget: blank
 headless: true
 
 # Order that this section appears on the page.
-weight: 5 
+weight: 5
 
 # Section title
 
@@ -26,42 +26,36 @@ design:
 <div class="container mb-5">
     <!-- Title -->
     <h2 class="text-center font-weight-bold">Community Partners</h2>
-    <!-- First row -->
-    <div class="row align-items-top text-center mt-4 mb-5">
-        <div class="col text-center">
-            <a href="https://www.stopthetraffik.org" target="_blank">
-                <img src="./logos/traffik-logo-hand.png" alt="Stop the traffik logo" style="max-width: 90%; margin: auto; height: 100px;" />
-            </a>
-        </div>
-        <div class="col text-center">
-            <p class="pt-2">People shouldn't be bought and sold</p>
-        </div>
-    </div>
-</div>   
-    <!-- Second row -->
-    <div class="row align-items-top text-center mt-4 mb-5">
-        <div class="col text-center">
-            <a href="https://westerndevelopment.ie/"_blank">
-                <img src="./logos/western-development-commission-300x129.png" alt="Western Development Commission logo" style="max-width:90%;margin:auto;height:100px" />
-            </a>
-        </div>
-        <div class="col text-center">
-            <p class="pt-2">Promote social and economic development in Western Ireland</p>
-        </div>
-    </div>
-    <!-- Third row -->
+    <!-- Rows -->
     <div class="row align-items-top text-center mt-4 mb-5">
         <div class="col text-center">
             <a href="https://www.velokonzept.de/"_blank">
-                <img src="./logos/Velokonzept-Logo_RGB.svg" alt="Velokonzept" style="max-width:90%;margin:auto;height:100px" />
+                <img src="./logos/velokonzept.svg" alt="Velokonzept" style="max-width:90%;margin:auto;height:100px" />
             </a>
         </div>
         <div class="col text-center">
-            <p class="pt-2">Driving innovation to improve the cycling industry</p>
+            <p class="pt-2">Driving innovation to improve the cycling industry sustainabiliy (Germany)</p>
+        </div>
+    </div>
+    <div class="row align-items-top text-center mt-4 mb-5">
+        <div class="col text-center">
+            <a href="https://govtechnl.nl" target="_blank">
+                <img src="./logos/govtechnl.jpg" alt="GovTechNL logo" style="max-width: 90%; margin: auto; height: 100px;" />
+            </a>
+        </div>
+        <div class="col text-center">
+            <p class="pt-2">Center for civic innovation</p>
+        </div>
+    </div>   
+    <div class="row align-items-top text-center mt-4 mb-5">
+        <div class="col text-center">
+            <a href="https://westerndevelopment.ie/"_blank">
+                <img src="./logos/wdc.png" alt="Western Development Commission logo" style="max-width:90%;margin:auto;height:100px" />
+            </a>
+        </div>
+        <div class="col text-center">
+            <p class="pt-2">Promote social and economic development in Western Ireland (Ireland)</p>
         </div>
     </div>
 </div>
-    </div>
-</div>
-
 
