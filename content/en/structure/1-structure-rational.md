@@ -22,7 +22,7 @@ design:
     # Customize the section spacing. Order is top, right, bottom, left.
     padding: ["20px", "0", "30px", "0"]
 ---
-# **Alkemio Group Struture**
+# **Alkemio Group Structure**
 This section describes the structure that Alkemio has chosen, including the rational for key choices. 
 
 The implementation is intended to provide a long term foundation for the growth of Alkemio.  
