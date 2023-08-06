@@ -53,7 +53,7 @@ Enter **Steward Ownership**, where profit serves purpose. It was quickly clear t
 * **Capped economic returns without control**: allowing sharing of economic returns to both investors and talent, without offering control, while also ensuring that ultimately the value generated goes towards the purpose of Alkemio 
 
 
-## Group Strucure Entities
+## Group Structure Entities
 The new organizational structure implemented by Alkemio is shown below:
 
 <p align="center">
