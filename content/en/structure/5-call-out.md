@@ -29,13 +29,13 @@ hero_media: ''
 #   Display link(s) by specifying a URL and label below. Icon is optional for `cta`.
 #   Remove a link/note by deleting a cta/note block.
 cta:
-  url: 'https://github.com/alkem-io'
-  label: Want to contribute?
+  url: 'tbd'
+  label: interested in investing?
   icon_pack: fab
   icon: github
 cta_alt:
   url: 'https://www.linkedin.com/company/alkemio-foundation/'
-  label: Follow us on LinkedIn
+  label: Do well and do good
 
 # Note. An optional note to show underneath the links.
 cta_note:
