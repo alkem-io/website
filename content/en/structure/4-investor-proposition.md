@@ -22,7 +22,7 @@ design:
     # Customize the section spacing. Order is top, right, bottom, left.
     padding: ["10px", "0", "0px", "0"]
 ---
-## Interested in investing? Please connect!
+## **Interested in investing? Please connect!**
 Alkemio is raising funds to accelerate the journey. 
 
 Investment in Alkemio offers three types of returns: 

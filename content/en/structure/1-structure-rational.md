@@ -7,7 +7,7 @@ widget: blank
 headless: true
 
 # Order that this section appears on the page.
-weight: 15
+weight: 5
 
 # Section title
 title: 
@@ -94,46 +94,3 @@ It is simply a _much stronger_ guarantee than relying on the governance of a Fou
 The Purpose Control (PC) share is held by Stichting de Prioriteit, an entity establised also in The Netherlands with the purpose to act as an independent party guaranteeing principles of steward ownership are followed in such ventures.
 
 It is also important to mention again the fact that investors in the above structure do not have formal control. They need to fully rely on the double lock of the foundation and the independent guarantee on purpose to ensure governance and decisions are made in line with the stated purpose. Hence the importance of the double lock. 
-
-## Sharing to accelerate the purpose economy
-Alkemio has invested significant time, money and energy into coming up with the above structure and approach. It has we believe potential to benefit many other ventures looking to anchor purpose, and more broadly to facilitate more effective collaboration between multiple parties.
-
-Our observation is that it is simply too much work to put purpose before profit. The analogy we have used is that for classic VC startups there is a 10 lane highway with service stations, many parties that are familiar with that journey type and can help, many fellow travellers, and at least in the earlier stages much faster travel. For purpose ventures it is currently a small side path with determined travellers, but one that is thankfully getting much better known . However this is much to be done.  
-
-Alkemio would be delighted and honored if other parties would be able to learn from this setup, and potentially leverage it for their ventures. 
-
-
-## Key documents 
-The key documents are listed below,  
-
-* [**Stichting Alkemio Articles of Association (AoA)**](./documents/stichting_alkemio_statuten_2021_12.pdf) (Dutch).
-* [**Alkemio Holding Articles of Association (AoA)**](./documents/alkemio_holding_statuten.pdf)  (Dutch)
-* [**Alkemio Holding Issuance of share PC + shares CC**](./documents/alkemio_holding_uitgifte_aandelen_pc_cc.pdf) (Dutch)
-* [**Alkemio Holding Shareholders Agreement (SHA)**](./documents/alkemio_holding_shareholders_agreement.pdf) (English) 
-* [**STAK Participanten Alkemio Articles of Association (AoA)**](./documents/stak_participanten_alkemio_akte_oprichting.pdf) (Dutch)
-* [**STAK Participanten Alkemio Conditions**](./documents/stak_participanten_alkemio_administratievoorwaarden.pdf) (Dutch)
-
-The key document is probably the Alkemio Holding SHA, which together with the Alkemio Holding AoA ensures that that purpose remains central. 
-
-Please feel free to reach out if you would like to discuss / learn from our journey so far.
-
-
-## Roadmap near term
-The status as of August 2023 is that the above group structure is in place, and the shares of Alkemio Holding have been issued with the exception of shares CT. The operations have in addition been transferred from Stichting Alkemio to Alkemio BV.
-
-This is a critical milestone as it allows Alkemio to raise the funding required to scale. 
-
-However there is still work to be done:
-* **Stichting Alkemio governance**: The board members are the stewards, which currently is Neil Smyth and Rene Honig. The board of advisors is in place already since 2020, providing guidance to the board. However the next phase on the organizational structure journey needs to ensure that (a) additional stewards are appointed (b) a supervisory board is put in place. Provisions are already in place in the AoA for both.
-* **Staff proposition**: This covers both the scheme for the allocation of CT certificates for staff, as well as representation into the wider organizational structure. It is also about putting in place an internationally applicable proposition so that top talent can contribute from anywhere in the world. 
-* **Dependence on key players**:  there is also simply too strong a dependence on key players in the above structure. This is both not desirable for the long term health of the venture, and it also results in some overlap of control / economic interest. 
-
-All of the above points are on the Alkemio organizational roadmap to be addressed. However it is important to also recognise that there is simply only a limited amount of capacity available to both develop the organization, build the platform and grow the community. The venture is still relatively early and there is simply not yet enough scale / parties involved. 
-
-Alkemio is well underway and has achieved a lot, but it is not a given that the venture will succeed - and as such the priority has been to get a scalable and long term structure in place. This is driven by the near term priority to be in a position to raise funds to accelerate the journey and secure Alkemio's future. 
-
-## Roadmap longer term
-Important to note in the above structure that the economic interest from exernal parties, via certificates for shares CT / CC are capped. And Alkemio as a SAAS platform has the potential to be a highly profitable business.
-
-As such in the longer term the expectation is that there will be significant surplus profits generated that are returned to the holder of the SE share (currently Stichting Alkemio). This value is then to be allocated to line with the purpose of Stichting Alkemio i.e. _"enable society to collaborate effectively on hard challenges, together!"_. 
-
