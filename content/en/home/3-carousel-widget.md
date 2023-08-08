@@ -27,7 +27,7 @@ content:
 
         slide3:
             - media/partners/velokonzept.svg   
-            - media/partners/govtechnl.jpg
+            - media/partners/govtechnl.png
             - media/partners/ngi-essiflab.jpg  
             - media/partners/sidn.svg
             
