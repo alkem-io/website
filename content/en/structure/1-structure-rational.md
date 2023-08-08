@@ -23,9 +23,7 @@ design:
     padding: ["20px", "0", "30px", "0"]
 ---
 # **Alkemio Group Structure**
-This section describes the structure that Alkemio has chosen, including the rational for key choices. 
-
-The implementation is intended to provide a long term foundation for the growth of Alkemio.  
+Sharing how Alkemio is being built for long-term success.  
 
 ## Background
 
@@ -40,27 +38,29 @@ To take the platform to the next level requires significantly increasing the res
 It simply is an ambitious vision. 
 
 ## Roadmap to Steward Ownership
-Stichting Alkemio was established in June 2020, and operated as a single entity until early 2023. It fulfilled multiple roles: supporting both the building of the platform, growing the community and the roadmap for the organization. 
+Stichting Alkemio was established in June 2020, as a non-profit foundation in The Netherlands. It operated as a single entity until early 2023, fulfilling multiple roles: the building of the platform, growing the community and developing the she roadmap for the organization. 
 
 However it was clear that a single entity structure, and in particular a foundation, would not be sufficient to realise the full vision, lacking in three key areas:
 * Ability to guarantee the purpose
 * Ability to raise capital
-* Ability to reward top talent
+* Ability to attract top talent
 
-Enter **Steward Ownership**, where profit serves purpose. It was quickly clear that Steward Ownership, combined with a revised organizational structure, could address all key issues identified. The core features of Steward Ownership, as implemented by Alkemio, to highlight are:
-* **Leadership**:  "stewards" guide the venture and are chosen based on capability and alignment with the mission
-* **Independent guarantee**: it is possible to issue a share with blocking rights on key provisions to an independent party. 
-* **Capped economic returns without control**: allowing sharing of economic returns to both investors and talent, without offering control, while also ensuring that ultimately the value generated goes towards the purpose of Alkemio 
+We knew we had found the solution when we heard about **Steward Ownership**, a legal structure for companies that places purpose first and where profit serves the purpose. Around for many years with long-term successful companies such as Bosch and Zeiss, it is now growing in popularity including with Patagonia.
+
+The core features of Steward Ownership, implemented by Alkemio, to highlight are:
+* **Leadership**:  "stewards" guide the venture and are chosen based on capability and alignment with the purpose 
+* **Independent guarantee**: providing an independent party with blocking rights on key provisions. 
+* **Capped economic returns without control**: sharing of economic returns to both investors and talent, without offering control, while also ensuring that ultimately the value generated goes towards the purpose of Alkemio 
 
 
 ## Group Structure Entities
-The new organizational structure implemented by Alkemio is shown below:
+The new organizational structure implemented by Alkemio is shown below. All named entites are registred in The Netherlands. 
 
 <p align="center">
   <img src="./alkemio-group-structure.svg" alt="Alkemio Group Structure" /></a>
 </p>
 
-It is important to note that **Alkemio Holding** _is_ the Steward Ownership venture. It is a for profit, commercially and professionally run venture. The value generated is distributed in accordance with the principles of Steward Ownership and the purpose of Alkemio. 
+It is important to note that **Alkemio Holding** _is_ the Steward Ownership venture. It is a for profit, commercially and professionally run venture. The value generated is distributed in accordance with the principles of Steward Ownership and the purpose. 
 
 The key entities in this diagram and their roles: 
 * **Alkemio Holding BV**: the central entity, bringing together all the stakeholders. It is a holding company, raising capital, receiving and distributing profits, holding assets (IP), etc. 
