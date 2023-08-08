@@ -24,7 +24,7 @@ design:
 ---
 
 ## **Roadmap**
-Alkemio is well underway and has made good progress. But there are is still work to be done. This section details out known gaps to be focused on and what the long term plan is. 
+Alkemio is well underway and has made good progress. But there is still work to be done. This section details out known gaps to be focused on and what the long term plan is. 
 
 ### Roadmap near term
 The status as of August 2023 is that the above group structure is in place, and the shares of Alkemio Holding have been issued with the exception of shares CT. The operations have in addition been transferred from Stichting Alkemio to Alkemio BV.

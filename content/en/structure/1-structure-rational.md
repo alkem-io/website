@@ -54,7 +54,7 @@ The core features of Steward Ownership, implemented by Alkemio, to highlight are
 
 
 ## Group Structure Entities
-The new organizational structure implemented by Alkemio is shown below. All named entites are registred in The Netherlands. 
+The new organizational structure implemented by Alkemio is shown below. All named entites are registered in The Netherlands. 
 
 <p align="center">
   <img src="./alkemio-group-structure.svg" alt="Alkemio Group Structure" /></a>
@@ -85,7 +85,9 @@ There are multiple implications from the above structure that are worth detailin
 * **Split between SC and SE shares**: Finally, one question that you may ask is why the need for both SC and SE. The rational is that from a steward ownership persepective it is important to decouple the control from the economic interest. However the above is already a heavy organizational structure for the size of Alkemio, so the decision was made to have SE also held by Stichting Alkemio near term - not least as there is not likely to be substantial value flowing to that share near term. And then as the organization grows it is expected that the SE share would ultimately be held by a separate entity, that is mandated to allowed value accruing from the underlying business according to the purpose of Alkemio. 
 
 ## PC share = Double Lock on Purpose
-The adoption of Steward Ownership can be seen as a **double lock** on the purpose of Alkemio. This is important for two key reasons:
+The adoption of Steward Ownership can be seen as a **double lock** on the purpose of Alkemio. 
+
+This is important for two key reasons:
 * investors in Alkemio do not have voting shares, so they are fully dependent on the governance that is in place. 
 * as Alkemio achieves significant scale, the venture will be highly valuable - so the locks need to be put in place now to prevent any temptation in the future
 
