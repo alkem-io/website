@@ -32,7 +32,7 @@ The status as of August 2023 is that the above group structure is in place, and 
 This is a critical milestone as it allows Alkemio to raise the funding required to scale. 
 
 However there is still work to be done:
-* **Stichting Alkemio governance**: The board members are the stewards, which currently is Neil Smyth and Rene Honig. The board of advisors is in place already since 2020, providing guidance to the board. However the next phase on the organizational structure journey needs to ensure that (a) additional stewards are appointed (b) a supervisory board is put in place. Provisions are already in place in the AoA for both.
+* **Stichting Alkemio governance**: The board members are the stewards, which currently are Neil Smyth and Rene Honig. The Board of Advisors is in place already since 2020, providing guidance to the board. However the next phase on the organizational structure journey needs to ensure that (a) additional stewards are appointed (b) a supervisory board is put in place (c) the Board of Advisors is expanded. Provisions are already in place in the AoA for both the additional stewards and the supervisory board creation.
 * **Staff proposition**: This covers both the scheme for the allocation of CT certificates for staff, as well as representation into the wider organizational structure. It is also about putting in place an internationally applicable proposition so that top talent can contribute from anywhere in the world. 
 * **Dependence on key players**:  there is also simply too strong a dependence on key players in the above structure. This is both not desirable for the long term health of the venture, and it also results in some overlap of control / economic interest. 
 
