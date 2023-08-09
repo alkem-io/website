@@ -1,12 +1,12 @@
 ---
 #widget: pages
 #headless: true
-title: 'Meet the communities - VeloLAB'
+title: 'Meet VeloLAB!'
 date: "2023-08-10"
 lastmod: "2023-08-10"
 math: false
 diagram: false
-summary: "A special Community Partner from Germany!"
+summary: "Our Community Partner from Germany"
 authors:
 - suttner-amelie
 - zondag-myrthe
