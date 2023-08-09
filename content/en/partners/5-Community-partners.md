@@ -40,11 +40,21 @@ design:
     <div class="row align-items-top text-center mt-4 mb-5">
         <div class="col text-center">
             <a href="https://govtechnl.nl" target="_blank">
-                <img src="./logos/govtechnl.jpg" alt="GovTechNL logo" style="max-width: 90%; margin: auto; height: 100px;" />
+                <img src="./logos/govtechnl.png" alt="GovTechNL logo" style="max-width: 100%; margin: auto; height: 100px;" />
             </a>
         </div>
         <div class="col text-center">
             <p class="pt-2">Center for civic innovation</p>
+        </div>
+    </div>   
+    <div class="row align-items-top text-center mt-4 mb-5">
+        <div class="col text-center">
+            <a href="https://www.trustedinformationpartners.nl/" target="_blank">
+                <img src="./logos/tip.svg" alt="TIP logo" style="max-width: 100%; margin: auto; height: 100px;" />
+            </a>
+        </div>
+        <div class="col text-center">
+            <p class="pt-2">Trusted Information Partners<br/>Eenvoudig en betrouwbaar online zakendoen</p>
         </div>
     </div>   
     <div class="row align-items-top text-center mt-4 mb-5">
