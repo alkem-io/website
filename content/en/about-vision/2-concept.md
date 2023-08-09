@@ -17,7 +17,7 @@ weight: 20
 
 content:
   # Page type to display. E.g. project.
-  page_type: vision-lr
+  page_type: about-vision-lr
 
 # Section design
 design:

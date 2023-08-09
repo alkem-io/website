@@ -31,7 +31,7 @@ main:
     url: 'contact'
     weight: 2
   - parent: about-main
-    indentifier: structure
+    indentifier: about-structure
     name: Structure
     url: 'structure'
     weight: 5
