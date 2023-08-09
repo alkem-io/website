@@ -40,11 +40,11 @@ design:
     <div class="row align-items-top text-center mt-4 mb-5">
         <div class="col text-center">
             <a href="https://govtechnl.nl" target="_blank">
-                <img src="./logos/govtechnl.png" alt="GovTechNL logo" style="max-width: 100%; margin: auto; height: 100px;" />
+                <img src="./logos/govtechnl.svg" alt="GovTechNL logo" style="max-width: 100%; margin: auto; height: 140px;" />
             </a>
         </div>
         <div class="col text-center">
-            <p class="pt-2">Center for civic innovation</p>
+            <p class="pt-2">GovTechNL: Center for civic innovation</p>
         </div>
     </div>   
     <div class="row align-items-top text-center mt-4 mb-5">
