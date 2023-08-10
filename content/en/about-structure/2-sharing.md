@@ -27,13 +27,12 @@ Alkemio has invested significant time, money and energy into the above structure
 
 We believe this structure has the potential to benefit many other ventures looking to anchor purpose, and more broadly to facilitate more effective collaboration between multiple parties.
 
-Our observation is that it is simply too much work to put purpose before profit. The analogy we have used is that for classic VC startups there is a 10 lane highway with service stations, many parties that are familiar with that journey type and can help, many fellow travellers, and at least in the earlier stages much faster travel. For purpose ventures it is currently a small side path with determined travellers, but one that is thankfully getting much better known . However this is much to be done.  
+Our observation is that it is simply too much work to put purpose before profit. The analogy we have used is that for classic VC startups there is a 10 lane highway with service stations, many parties that are familiar with that journey type and can help, many fellow travellers, and at least in the earlier stages much faster travel. For purpose ventures it is currently a small side path with determined travellers, but one that is thankfully getting much better known. However this is much to be done.  
 
 Alkemio would be delighted and honored if other parties would be able to learn from this setup, and potentially leverage it for their ventures. 
 
-
 ## Key documents 
-The key documents are listed below,  
+The key documents are listed below:
 
 * [**Stichting Alkemio Articles of Association (AoA)**](./documents/stichting_alkemio_statuten_2021_12.pdf) (Dutch).
 * [**Alkemio Holding Articles of Association (AoA)**](./documents/alkemio_holding_statuten.pdf)  (Dutch)
