@@ -1,30 +1,36 @@
 ---
 # An instance of the Blank widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: portfolio
+widget: blank
 
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 20
+weight: 30
 
 # Section title
-#title: What is the problem?
+title: 
 
 # Section subtitle
-#subtitle: 
-
-content:
-  # Page type to display. E.g. project.
-  page_type: vision-lr
+subtitle: 
 
 # Section design
 design:
   columns: '1'
-  #spacing:
+  spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
-  #  padding: ["20px", "0", "0px", "0"]
-  view: 5
-  flip_alt_rows: true
+    padding: ["10px", "0", "0px", "0"]
 ---
+## Disclaimer
+
+The information provided here is for general informational purposes only and should not be considered as investment or business advice. 
+
+Any investment or business decisions made based on this information are at your own risk.
+
+
+
+
+
+
+
