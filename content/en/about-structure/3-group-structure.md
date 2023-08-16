@@ -37,17 +37,21 @@ The key entities in this diagram and their roles are:
 * **Alkemio Holding BV**: the central entity, bringing together all the stakeholders. It is a holding company, raising capital, receiving and distributing profits, holding assets (IP), etc. 
 * **Stichting Alkemio**: the original entity, whose role evolves to being the "steward" for Alkemio Holding. The board of Stichting Alkemio are in effect the stewards. 
 * **Stichting de Prioriteit**: an independent foundation whose purpose is to hold "golden shares" in steward ownership ventures. It is obliged to act according to the principle of steward ownership. 
-* **Alkemio BV**: the operating entity that actually provides the Alkemio services to the market. It is 100% owned by Alkemio Holding. Over time there are likely to be multiple operating companies, depending on the needs of the business.
-* **STAK Participanten Alkemio**: manages the conversion of certain classes of Alkemio Holding shares to certificates (so economic rights). It otherwise plays no active role. 
+* **Alkemio BV**: the operating entity that actually provides the Alkemio services to the market. It is 100% owned by Alkemio Holding. Over time there could potentially be multiple operating companies depending on the needs of the business, for example in multiple countries or for separate business lines. 
+* **STAK Participanten Alkemio**: manages the conversion of certain classes of Alkemio Holding shares to certificates (so economic rights), and facilitates the transfer of certificates without involving a notary. 
 
 ## Alkemio Holding BV share structure
 As the core entity in the organizational design, it is important to clarify the different share classes in Alkemio Holding and their purpose. 
 
-* **Steward Control (SC)**: provides the primary voting control. No economic interest. It is a single share, held by Stichting Alkemio.
-* **Purpose Control (PC)**: provides the independent guarantee on the purpose of Alkemio Holding. No economic control. It is a single share, held by Stichting de Prioriteit. 
-* **Contributor Capital (CC)**: provides for economic participation for investors of capital. No voting control. Converted to certificates via STAK Participanten Alkemio. Economic returns are capped.
-* **Contributor Time (CT)**: provides for economic participation for contributors of time. No voting control. Converted to certificates via STAK Participanten Alkemio. Economic returns are capped. 
-* **Steward Economic (SE)**: provides for economic value generated to be returned to Stichting Alkemio. No voting control. Economic returns are not capped. 
+| <u>Share class </u>     | <u>Abbreviation</u>&nbsp; | <u>Purpose</u>  | <u>Control</u>&nbsp;&nbsp;  | <u>Economic</u>&nbsp;&nbsp; | <u>Held by</u>  |
+| ----------- | :-----------: | ----------- | :----------------: | :-----------: | ----------------------- |  
+| **Steward Control**   | **SC** | Primary voting control  | Y | N | Stichting Alkemio |
+| **Purpose Control**   | **PC**   | Independent guarantee on the purpose   | Y | N | Stichting de Prioriteit | 
+| **Contributor Capital** &nbsp;&nbsp;  | **CC**   | Economic participation for contributors of capital. Capped (*). | N | Y | STAK Participanten Alkemio | 
+| **Contributor Time**   | **CT**   | Economic participation for contributors of time. Capped (*).    | N | Y | STAK Participanten Alkemio | 
+| **Steward Economic**   | **SE**   | Economic value to be allocated in line with the purpose. Not capped.   | N | Y | Stichting Alkemio | 
+
+(*) Economic returns for contributors are capped in that there is a limited economic value that can be received. Shares CC and shares CT are converted to certificates via STAK Participanten Alkemio, to ensure that they can be issued without requiring notarial involvement.  
 
 There are multiple implications from the above structure that are worth detailing out:
 * **Separation of control from economic interest**: One interesting aspect of the above design is that it is actually much **simpler** in some ways than more standard share structures. Key is that there is no share class that holds both economic and voting interests. This actually makes the articles and execution of the structure significantly simpler as one can deal with voting control fully separate from economic interest. 
