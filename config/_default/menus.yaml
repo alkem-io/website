@@ -41,6 +41,16 @@ main:
   #   url: 'structure'
   #   weight: 5
   - parent: about-main
+    indentifier: about-contact
+    name: Contact
+    url: 'contact'
+    weight: 2
+  # - parent: about-main
+  #   indentifier: about-structure
+  #   name: Structure
+  #   url: 'structure'
+  #   weight: 5
+  - parent: about-main
     indentifier: about-support
     name: Support
     url: 'help'
