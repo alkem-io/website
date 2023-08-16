@@ -36,6 +36,6 @@ We knew we had found the solution when we heard about **Steward Ownership**, a l
 
 The core features of Steward Ownership, implemented by Alkemio, to highlight are:
 * **Leadership**:  "stewards" guide the venture and are chosen based on capability and alignment with the purpose 
-* **Independent guarantee**: providing an independent party with blocking rights on key provisions. 
+* **Independent guarantee**: providing an independent party with blocking rights to ensure purpose remains central. Approval is required for changing group structure, modifying the mission, extracting value not in line with the purpose, excessive remuneration of staff etc. Full details can be seen in the Alkemio Holding SHA linked to below.
 * **Capped economic returns without control**: sharing of economic returns to both investors and talent, without offering control, while also ensuring that ultimately the value generated goes towards the purpose of Alkemio
 

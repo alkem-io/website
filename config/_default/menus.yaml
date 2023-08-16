@@ -30,6 +30,11 @@ main:
     name: Contact
     url: 'contact'
     weight: 2
+  - parent: about-main
+    indentifier: about-contact
+    name: Contact
+    url: 'contact'
+    weight: 2
   # - parent: about-main
   #   indentifier: about-structure
   #   name: Structure
