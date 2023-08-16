@@ -7,7 +7,7 @@ widget: hero
 headless: true
 
 # Order that this section appears on the page.
-weight: 80
+weight: 25
 
 # Section title
 title: 
@@ -29,12 +29,12 @@ hero_media: ''
 #   Display link(s) by specifying a URL and label below. Icon is optional for `cta`.
 #   Remove a link/note by deleting a cta/note block.
 cta:
-  url: 'tbd'
-  label: interested in investing?
-  icon_pack: fab
-  icon: github
+  url: '/investors'
+  label: '   interested in investing?'
+  icon_pack: fas
+  icon: euro-sign
 cta_alt:
-  url: 'https://www.linkedin.com/company/alkemio-foundation/'
+  url: '/investors'
   label: Do well and do good
 
 # Note. An optional note to show underneath the links.
