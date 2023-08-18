@@ -25,7 +25,7 @@ design:
 # **Alkemio and Steward Ownership**
 We share Alkemio’s journey to having an organization structure that puts purpose first while being able to attract the talent and capital to successfully scale the platform. 
 
-We hope you enjoy learning more about Steward Ownership and how it is the best fit for Alkemio!”
+We hope you enjoy learning more about Steward Ownership and how it is the best fit for Alkemio!
 
 ## **Desire to keep purpose first**
 
