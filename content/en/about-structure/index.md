@@ -1,7 +1,7 @@
 ---
 type: widget_page
 
-title: structure
+title: Group Structure
 url: "/structure"
 
 headless: false

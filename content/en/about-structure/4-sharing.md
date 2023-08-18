@@ -23,9 +23,11 @@ design:
     padding: ["20px", "0", "30px", "0"]
 ---
 ## **Sharing to accelerate the purpose economy**
-Alkemio has invested significant time, money and energy into the above structure and approach. It is also thanks to input from other parties that have already followed the Steward Ownership path - and those that have directly contributed to both our understanding and guided our implementation choices.
+Alkemio has invested significant time, money and energy into the above structure and approach. It was a difficult process, and we benefitted greatly from other parties that have already followed the Steward Ownership path.
 
-We believe this structure has the potential to benefit many other ventures looking to anchor purpose, and more broadly to facilitate more effective collaboration between multiple parties.
+We believe this structure has the potential to benefit many other ventures looking to make positive contributions to society, so we are sharing our documents and please also reach out if you would like to learn more from our journey so far!
+
+tbd - credits?
 
 Our observation is that it is simply too much work to put purpose before profit. The analogy we have used is that for classic VC startups there is a 10 lane highway with service stations, many parties that are familiar with that journey type and can help, many fellow travellers, and at least in the earlier stages much faster travel. For purpose ventures it is currently a small side path with determined travellers, but one that is thankfully getting much better known. However this is much to be done.  
 

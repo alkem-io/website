@@ -22,19 +22,22 @@ design:
     # Customize the section spacing. Order is top, right, bottom, left.
     padding: ["20px", "0", "30px", "0"]
 ---
-# **Alkemio Group Structure**
-Sharing how Alkemio is being built for long-term success.  
+# **Alkemio and Steward Ownership**
+We share Alkemio’s journey to having an organization structure that puts purpose first while being able to attract the talent and capital to successfully scale the platform. 
 
-## Background
+We hope you enjoy learning more about Steward Ownership and how it is the best fit for Alkemio!”
 
-**Alkemio** is in business to empower society. The purpose of empowering society to solve challenges effectively is at the core of everything we do. We are building a team of employees, partners and investors that share this purpose. Together we are building Alkemio as a profitable and sustainable long-term business to achieve the greatest scale and impact. 
+## **Desire to keep purpose first**
 
-Alkemio offers a broad and ambitious vision, and the Alkemio platform is achieving initial traction in the market. Partners are buying into the vision and purpose of Alkemio, and we are seeing a clear need in the market. However the journey so far is just the start. It is critical that we live up to the expectations of early adopters of the platform, moving from sharing of challenges to significant actual usage by end users of the platform. 
+**Alkemio** is in business to empower society to solve challenges effectively. This purpose is central to everything we do. We are building a team of employees, partners and investors that share this purpose. To ensure their continued trust and achieve the long-term vision, we have chosen Steward Ownership as the core of our group structure. 
 
-To take the platform to the next level requires significantly increasing the resources available. In particular:
-* capital (finance) for investing in the further development of the platform, and 
-* top talent to execute the vision. 
+Alkemio offers a broad and very ambitious vision, shared by a growing community of partners. The Alkemio platform is achieving traction and we are seeing a clear need in the market. However the journey so far is just the start. It is critical that we live up to the expectations of early adopters of the platform, with significant usage and impact on society.
 
-It simply is an ambitious vision. 
+Achieving this requires expanding the resources available. In particular:
+•	capital for investing in the further development and scaling of the platform, and
+•	top talent to execute the vision.
+
+And doing it in the right way, aligned with the purpose.
+
 
 

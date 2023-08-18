@@ -24,7 +24,7 @@ design:
 ---
 
 
-## Group Structure Entities
+## How Alkemio is set up (spoiler alert: a lot of details!) 
 The new organizational structure implemented by Alkemio is shown below. All named entites are registered in The Netherlands. 
 
 <p align="center">
