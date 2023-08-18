@@ -13,7 +13,7 @@ weight: 1
 title: Community Building Intern
 
 # Section subtitle
-subtitle: We zoeken een stagaire op het gebied van community building & engagement voor 3-5 dagen per week. We zijn een Tech-for-good SaaS startup, gevestigd in Den Haag. 
+subtitle: We zoeken een stagaire op het gebied van community building & engagement voor 3-5 dagen per week. We zijn een Tech-for-good digitale startup, gevestigd in Den Haag. 
 
 
 # Section design

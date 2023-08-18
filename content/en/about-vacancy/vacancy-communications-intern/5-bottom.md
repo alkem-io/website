@@ -24,7 +24,7 @@ design:
     padding: ["20px", "0", "20px", "0"]
 ---
  
- Are you interested in the position? Please send your CV and show us your creativity and motivation in an attached accompanying letter to hr@alkem.io.  
+ <i>Are you interested in the position? Please send your CV and show us your creativity and motivation in an attached accompanying letter to <b>hr@alkem.io</b></i>
 
 
 Notes: 

@@ -13,7 +13,7 @@ weight: 1
 title: Communications Intern
 
 # Section subtitle
-subtitle: We zoeken een stagaire op het gebied van community building & engagement voor 3-5 dagen per week. We zijn een Tech-for-good SaaS startup, gevestigd in Den Haag.  
+subtitle: Alkemio is looking for an intern in the area of communications for 3-5 days per week. We are a tech-for-good startup located in The Hague.  
 
 # Section design
 design:

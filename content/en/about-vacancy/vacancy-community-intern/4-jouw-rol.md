@@ -26,9 +26,13 @@ design:
     color: rgb(247, 247, 247)
 ---
 <h2 class="text-center"> Jouw rol </h2>
-Werken in een start-up betekent veel initiatief nemen, zowel in teamverband als zelfstandig, maar ook veel ruimte om je te verdiepen in projecten die bij jouw interesse of vaardigheden passen. Als Community Building & Engagement intern ben je onderdeel van het Community Team in Den Haag. Je werkt ook veel samen met het Communications en Product team. 
-
-Alkemio werkt samen met verschillende communities, namelijk een variatie van bedrijven, Ngo's, publieke instanties, en onderzoeksinstellingen. Het platform is nog in ontwikkeling en daarom werken we nauw samen met deze communities om hun behoeften en suggesties mee te nemen. Samen bouwen we een digitaal samenwerkingsplatform dat ons allemaal kan helpen bij het effectief samenwerken aan maatschappelijke uitdagingen.  
+Werken in een start-up betekent veel initiatief nemen, zowel in teamverband als zelfstandig, maar ook veel ruimte: om je te verdiepen in projecten die bij jouw interesse of vaardigheden passen, om te laten zien wat je kan! <br/><br/>
+Als <b><i>Community Building & Engagement intern</i></b> ben je onderdeel van het <b>Community Team</b> in <b>Den Haag</b>. <br/><br/>
+Je werkt ook veel samen met het Communications en Product team. 
+<p><br/>
+Alkemio werkt samen met verschillende communities, namelijk een variatie van bedrijven, Ngo's, publieke instanties, en onderzoeksinstellingen. Het platform is nog in ontwikkeling en daarom werken we nauw samen met deze communities om hun behoeften en suggesties mee te nemen. 
+<p><i>Samen bouwen we een digitaal samenwerkingsplatform dat ons allemaal kan helpen bij het effectief samenwerken aan maatschappelijke uitdagingen</i>.  
+<p>
 
 Je zult onder anderen het team ondersteunen bij: 
 * De onboarding van nieuwe communities op het platform; 

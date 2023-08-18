@@ -25,5 +25,5 @@ design:
 ---
 <h2 class="text-center"> Over Alkemio </h2>
 Alkemio ontwikkelt een platform voor organisaties, overheden en individuen om hun meest urgente maatschappelijke problemen en uitdagingen aan te pakken en op te lossen. Denk bijvoorbeeld aan innovatie-, milieu-, of sociale vraagstukken. Het platform stelt je in staat om deze uitdaging te definiëren, in contact te komen met anderen die aan soortgelijke uitdagingen werken en om kennis en middelen uit te wisselen. Ondertussen bouwen we het platform verder uit, samen met onze (internationale) impact-gedreven community.  
-
-Een platform waar publieke waarden centraal staan. 
+<p><br/>
+Een <b>digitale platform waar publieke waarden centraal staan</b>. 

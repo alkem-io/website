@@ -25,10 +25,11 @@ design:
   background:
     color: rgb(247, 247, 247)
 ---
-<h2 class="text-center"> Your rol </h2>
-Working as a Communications Intern at Alkemio is dynamic. You’ll be a part of our diverse team, with different backgrounds and nationalities. This role is part of the Operations team, working online or at The Hague Tech offices. You’ll partner up with our Communications Lead to create our messages across various platforms and communicate with a broad variety of audiences that are situated all over Europe.  
-
-We are looking for someone who is curious, smart and willing to learn. The durance and intensity of the internship are up to discussion, ideally between 3 – 5 days for a six-month period. Are you the enthusiastic, talented intern we’re looking for? 
+<h2 class="text-center"> Your role </h2>
+Working as a <b>Communications Intern</b> at Alkemio is dynamic. You’ll be a part of our diverse team, with different backgrounds and nationalities. This role is part of the Operations team, working online or at The Hague Tech offices. You’ll partner up with our Communications Lead to create our messages across various platforms and communicate with a broad variety of audiences that are situated all over Europe.  
+<br/><br/>
+We are looking for someone who is curious, smart and willing to learn. The durance and intensity of the internship are up to discussion, ideally between 3 – 5 days for a six-month period.<br/><br/>
+<i>Are you the enthusiastic, talented intern we’re looking for?</i><br/><br/>
  
 **What You’ll Do**:
 * Support with ideation/brainstorming sessions and proactive communications campaigns and events 
