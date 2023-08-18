@@ -23,7 +23,7 @@ design:
     padding: ["20px", "0", "30px", "0"]
 ---
 
-## Next steps on Alkemio’s journey 
+## **Next steps on Alkemio’s journey**
 Alkemio is making great progress, in terms of both organization structure and market traction. There is still work to be done however to complete the vision, and we share some known gaps to be focused on and the long-term plan. We would also love to hear from anyone who has experience or advice to share with us as we continue down this less-travelled path! 
 
 ### Roadmap near term

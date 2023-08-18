@@ -24,7 +24,7 @@ design:
 ---
 
 
-## Journey to Steward Ownership 
+## **Journey to Steward Ownership**
 Stichting Alkemio was established in June 2020, as a foundation in the Netherlands. It fulfilled multiple roles: building the platform, growing the community and developing the roadmap for the organization. It became clear that a single entity structure, and in particular a foundation, would not be sufficient to scale the platform and realise the full vision. 
 
 The drivers for Alkemio were:
