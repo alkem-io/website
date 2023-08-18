@@ -26,6 +26,13 @@ design:
 ## **Next steps on Alkemio’s journey**
 Alkemio is making great progress, in terms of both organization structure and market traction. There is still work to be done however to complete the vision, and we share some known gaps to be focused on and the long-term plan. We would also love to hear from anyone who has experience or advice to share with us as we continue down this less-travelled path! 
 
+<button type="button" class="collapsible" data-toggle="collapse" 
+data-target="#alkemio-roadmap" id="alkemioroadmap">Expand for more...
+</button>
+<!-- Content of collapisible -->
+<div id="alkemio-roadmap" class="collapse">
+  <div class="content">
+  
 ### Roadmap near term
 The status as of August 2023 is that the above group structure is in place, and the shares of Alkemio Holding have been issued with the exception of shares CT. In addition the operations have been transferred from Stichting Alkemio to Alkemio BV.
 
@@ -44,3 +51,5 @@ In the longer term the expectation is that there will be significant profits gen
 These excess profits will be for the benefit of the holder of the SE share (currently Stichting Alkemio), to be allocated in line with the purpose of Stichting Alkemio i.e. “enable society to collaborate effectively on hard challenges, together!”. As the platform matures and generates profits for distribution, it is important that the SE share moves to be held by a different entity - to avoid overlap of economic rights and voting control.
  
 
+ </div>
+</div>

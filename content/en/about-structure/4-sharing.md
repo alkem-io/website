@@ -27,6 +27,13 @@ Alkemio has invested significant time, money and energy into the above structure
 
 We believe this structure has the potential to benefit many other ventures looking to make positive contributions to society, so we are sharing our documents and please also reach out if you would like to learn more from our journey so far!
 
+<button type="button" class="collapsible" data-toggle="collapse" 
+data-target="#alkemio-sharing" id="alkemiosharing">Expand for more...
+</button>
+<!-- Content of collapisible -->
+<div id="alkemio-sharing" class="collapse">
+  <div class="content">
+
 tbd - credits?
 
 Our observation is that it is simply too much work to put purpose before profit. The analogy we have used is that for classic VC startups there is a 10 lane highway with service stations, many parties that are familiar with that journey type and can help, many fellow travellers, and at least in the earlier stages much faster travel. For purpose ventures it is currently a small side path with determined travellers, but one that is thankfully getting much better known. However this is much to be done.  
@@ -46,3 +53,5 @@ The key documents are listed below:
 The key document is probably the Alkemio Holding SHA, which together with the Alkemio Holding AoA ensures that that purpose remains central. 
 
 Please feel free to reach out if you would like to discuss / learn from our journey so far.
+ </div>
+</div>

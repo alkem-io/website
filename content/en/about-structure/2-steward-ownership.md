@@ -34,6 +34,12 @@ The drivers for Alkemio were:
 
 We knew we had found the solution when we heard about **Steward Ownership**, which we implemented in 2023.
 
+<button type="button" class="collapsible" data-toggle="collapse" 
+data-target="#alkemio-steward-ownership" id="alkemiostewardownership">Expand for more...
+</button>
+<!-- Content of collapisible -->
+<div id="alkemio-steward-ownership" class="collapse">
+  <div class="content">
 Steward Ownership is a legal structure for companies that places purpose first and where profit serves the purpose. It is around for many years with long-term successful companies such as Bosch and Zeiss, and is now growing in popularity including with Patagonia. It provides a way to raise capital and attract top talent while ensuring the purpose remains to benefit society
 
 Core features of Steward Ownership, as implemented by Alkemio, include:
@@ -41,3 +47,6 @@ Core features of Steward Ownership, as implemented by Alkemio, include:
 * **Independent guarantee**: : Providing an independent party with blocking rights, to ensure purpose remains central. Approval is required for changing ownership, changing the group structure, modifying the purpose, extracting value not in line with the purpose, excessive remuneration of staff, etc. Full details can be seen in the Alkemio Holding B.V. SHA linked to below.
 * **Capped economic returns without control**: Providing economic returns to both investors and talent, without offering voting control, while also ensuring that ultimately the value generated goes towards the purpose of Alkemio to benefit society.
 
+
+ </div>
+</div>

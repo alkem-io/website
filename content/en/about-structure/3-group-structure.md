@@ -34,12 +34,13 @@ The new organizational structure implemented by Alkemio is shown below. All name
 It is important to note that **Alkemio Holding** _is_ the Steward Ownership venture. It is a for profit, commercially and professionally run venture. The value generated is distributed in accordance with the principles of Steward Ownership and the purpose. 
 
 <button type="button" class="collapsible" data-toggle="collapse" 
-data-target="#alkemio-entities" id="alkemioentities">The key entities in this diagram and their roles are:
+data-target="#alkemio-entities" id="alkemioentities">Expand for more...
 </button>
 <!-- Content of collapisible -->
 <div id="alkemio-entities" class="collapse">
   <div class="content">
-
+  
+The key entities in this diagram and their roles are:
 * **Alkemio Holding BV**: the central entity, bringing together all the stakeholders. It is a holding company, raising capital, receiving and distributing profits, holding assets (IP), etc. 
 * **Stichting Alkemio**: the original entity, whose role evolves to being the "steward" for Alkemio Holding. The board of Stichting Alkemio are in effect the stewards. 
 * **Stichting de Prioriteit**: an independent foundation whose purpose is to hold "golden shares" in steward ownership ventures. It is obliged to act according to the principle of steward ownership. 

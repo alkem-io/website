@@ -31,6 +31,12 @@ We hope you enjoy learning more about Steward Ownership and how it is the best f
 
 **Alkemio** is in business to empower society to solve challenges effectively. This purpose is central to everything we do. We are building a team of employees, partners and investors that share this purpose. To ensure their continued trust and achieve the long-term vision, we have chosen Steward Ownership as the core of our group structure. 
 
+<button type="button" class="collapsible" data-toggle="collapse" 
+data-target="#alkemio-structure" id="alkemiostructure">Expand for more...
+</button>
+<!-- Content of collapisible -->
+<div id="alkemio-structure" class="collapse">
+  <div class="content">
 Alkemio offers a broad and very ambitious vision, shared by a growing community of partners. The Alkemio platform is achieving traction and we are seeing a clear need in the market. However the journey so far is just the start. It is critical that we live up to the expectations of early adopters of the platform, with significant usage and impact on society.
 
 Achieving this requires expanding the resources available. In particular:
@@ -40,4 +46,5 @@ Achieving this requires expanding the resources available. In particular:
 And doing it in the right way, aligned with the purpose.
 
 
-
+ </div>
+</div>
