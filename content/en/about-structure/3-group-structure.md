@@ -33,7 +33,13 @@ The new organizational structure implemented by Alkemio is shown below. All name
 
 It is important to note that **Alkemio Holding** _is_ the Steward Ownership venture. It is a for profit, commercially and professionally run venture. The value generated is distributed in accordance with the principles of Steward Ownership and the purpose. 
 
-The key entities in this diagram and their roles are: 
+<button type="button" class="collapsible" data-toggle="collapse" 
+data-target="#alkemio-entities" id="alkemioentities">The key entities in this diagram and their roles are:
+</button>
+<!-- Content of collapisible -->
+<div id="alkemio-entities" class="collapse">
+  <div class="content">
+
 * **Alkemio Holding BV**: the central entity, bringing together all the stakeholders. It is a holding company, raising capital, receiving and distributing profits, holding assets (IP), etc. 
 * **Stichting Alkemio**: the original entity, whose role evolves to being the "steward" for Alkemio Holding. The board of Stichting Alkemio are in effect the stewards. 
 * **Stichting de Prioriteit**: an independent foundation whose purpose is to hold "golden shares" in steward ownership ventures. It is obliged to act according to the principle of steward ownership. 
@@ -70,3 +76,6 @@ It is simply a _much stronger_ guarantee than relying on the governance of a Fou
 The Purpose Control (PC) share is held by Stichting de Prioriteit. this entity, establised also in The Netherlands, has the purpose to act as an independent party to guarantee principles of steward ownership are followed in such ventures.
 
 It is also important to mention again the fact that investors in the above structure do not have formal control. They need to fully rely on the double lock of the foundation and the independent guarantee on purpose to ensure governance and decisions are made in line with the stated purpose. Hence the importance of the double lock. 
+
+ </div>
+</div>
