@@ -23,7 +23,7 @@ design:
     padding: ["20px", "0", "30px", "0"]
 ---
 ### **Sharing to accelerate the purpose economy**
-Alkemio has invested significant time, money and energy into the above structure and approach. It was a difficult process, and we benefitted greatly from other parties that have already followed the Steward Ownership path.
+Alkemio has invested significant time, money and energy into the above structure and approach. It was a difficult process, and we benefitted greatly from other parties that have already followed and champion the Steward Ownership path.
 
 We believe this structure has the potential to benefit many other ventures looking to make positive contributions to society, so we are sharing our documents and please also reach out if you would like to learn more from our journey so far!
 
@@ -34,11 +34,17 @@ data-target="#alkemio-sharing" id="alkemiosharing">Show more/less...
 <div id="alkemio-sharing" class="collapse">
   <div class="content">
 
-tbd - credits?
 
 Our observation is that it is simply too much work to put purpose before profit. The analogy we have used is that for classic VC startups there is a 10 lane highway with service stations, many parties that are familiar with that journey type and can help, many fellow travellers, and at least in the earlier stages much faster travel. For purpose ventures it is currently a small side path with determined travellers, but one that is thankfully getting much better known. However this is much to be done.  
 
 Alkemio would be delighted and honored if other parties would be able to learn from this setup, and potentially leverage it for their ventures. 
+
+**Special mentions to the following external parties that have helped Alkemio on our journey so far:**
+* Gijsbert Koren, WeAreStewards, for guidance on our path
+* Maurits Bos, Ben Valor, for legal advice and feedback for a robust framework
+* Jennifer Benson, Stichting de Prioriteit, for validating our implementation
+* Inge van Pelt, Juli Notaris, for implementing the legal setup
+* Purpose Foundation, for promoting and inspiring the whole topic Steward Ownership!
 
 ## Key documents 
 The key documents are listed below:
