@@ -22,13 +22,13 @@ design:
     # Customize the section spacing. Order is top, right, bottom, left.
     padding: ["20px", "0", "30px", "0"]
 ---
-## **Sharing to accelerate the purpose economy**
+### **Sharing to accelerate the purpose economy**
 Alkemio has invested significant time, money and energy into the above structure and approach. It was a difficult process, and we benefitted greatly from other parties that have already followed the Steward Ownership path.
 
 We believe this structure has the potential to benefit many other ventures looking to make positive contributions to society, so we are sharing our documents and please also reach out if you would like to learn more from our journey so far!
 
 <button type="button" class="collapsible" data-toggle="collapse" 
-data-target="#alkemio-sharing" id="alkemiosharing">Expand for more...
+data-target="#alkemio-sharing" id="alkemiosharing">Show more/less...
 </button>
 <!-- Content of collapisible -->
 <div id="alkemio-sharing" class="collapse">

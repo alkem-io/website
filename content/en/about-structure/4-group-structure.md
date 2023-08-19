@@ -24,17 +24,18 @@ design:
 ---
 
 
-## **How Alkemio is set up (spoiler alert: a lot of details!)**
+### **How Alkemio is set up (spoiler alert: a lot of details!)**
 The new organizational structure implemented by Alkemio is shown below. All named entites are registered in The Netherlands. 
 
 <p align="center">
   <img src="./images/alkemio-group-structure.svg" alt="Alkemio Group Structure" /></a>
 </p>
 
-It is important to note that **Alkemio Holding** _is_ the Steward Ownership venture. It is a for profit, commercially and professionally run venture. The value generated is distributed in accordance with the principles of Steward Ownership and the purpose. 
+**Alkemio Holding** _is_ the Steward Ownership entity. It is a commercially and professionally run business to achieve the purpose. The value generated is distributed in accordance with the principles of Steward Ownership and the purpose.
+
 
 <button type="button" class="collapsible" data-toggle="collapse" 
-data-target="#alkemio-entities" id="alkemioentities">Expand for more...
+data-target="#alkemio-entities" id="alkemioentities">Show more/less...
 </button>
 <!-- Content of collapisible -->
 <div id="alkemio-entities" class="collapse">
@@ -47,7 +48,7 @@ The key entities in this diagram and their roles are:
 * **Alkemio BV**: the operating entity that actually provides the Alkemio services to the market. It is 100% owned by Alkemio Holding. Over time there could potentially be multiple operating companies depending on the needs of the business, for example in multiple countries or for separate business lines. 
 * **STAK Participanten Alkemio**: manages the conversion of certain classes of Alkemio Holding shares to certificates (so economic rights), and facilitates the transfer of certificates without involving a notary. 
 
-## Alkemio Holding BV share structure
+### Alkemio Holding BV share structure
 As the core entity in the organizational design, it is important to clarify the different share classes in Alkemio Holding and their purpose. 
 
 | <u>Share class </u>     | <u>Abbreviation</u>&nbsp; | <u>Purpose</u>  | <u>Control</u>&nbsp;&nbsp;  | <u>Economic</u>&nbsp;&nbsp; | <u>Held by</u>  |
@@ -65,7 +66,7 @@ There are multiple implications from the above structure that are worth detailin
 * **One mechanism for allocation of value generated**: All economic value is allocated via the CC / CT / SE shares. There is no partial ownership in the structure i.e. all entities are 100% owned by a parent entity. This is for simplicity, as there is then one mechanism for the allocation of value generated. 
 * **Split between SC and SE shares**: Finally, one question that you may ask is why the need for both SC and SE. The rational is that from a steward ownership persepective it is important to decouple the control from the economic interest. However, the above is already a heavy organizational structure for the size of Alkemio. So the decision was made to have SE also held by Stichting Alkemio near term - not least as there is not likely to be substantial value flowing to that share near term. And as the organization grows, it is expected that the SE share would ultimately be held by a separate entity. This entity is mandated to allowed value accruing from the underlying business according to the purpose of Alkemio. 
 
-## PC share = Double Lock on Purpose
+### PC share = Double Lock on Purpose
 The adoption of Steward Ownership can be seen as a **double lock** on the purpose of Alkemio. 
 
 This is important for two key reasons:

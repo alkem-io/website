@@ -7,7 +7,7 @@ widget: blank
 headless: true
 
 # Order that this section appears on the page.
-weight: 7
+weight: 8
 
 # Section title
 title: 
@@ -24,7 +24,7 @@ design:
 ---
 
 
-## **Journey to Steward Ownership**
+### **Journey to Steward Ownership**
 Stichting Alkemio was established in June 2020, as a foundation in the Netherlands. It fulfilled multiple roles: building the platform, growing the community and developing the roadmap for the organization. It became clear that a single entity structure, and in particular a foundation, would not be sufficient to scale the platform and realise the full vision. 
 
 The drivers for Alkemio were:
@@ -35,12 +35,13 @@ The drivers for Alkemio were:
 We knew we had found the solution when we heard about **Steward Ownership**, which we implemented in 2023.
 
 <button type="button" class="collapsible" data-toggle="collapse" 
-data-target="#alkemio-steward-ownership" id="alkemiostewardownership">Expand for more...
+data-target="#alkemio-steward-ownership" id="alkemiostewardownership">Show more/less...
 </button>
 <!-- Content of collapisible -->
 <div id="alkemio-steward-ownership" class="collapse">
   <div class="content">
-Steward Ownership is a legal structure for companies that places purpose first and where profit serves the purpose. It is around for many years with long-term successful companies such as Bosch and Zeiss, and is now growing in popularity including with Patagonia. It provides a way to raise capital and attract top talent while ensuring the purpose remains to benefit society
+Steward Ownership is a legal structure for companies that places purpose first and where profit serves the purpose. It is around for many years with long-term successful companies such as Bosch and Zeiss, and is now growing in popularity including with Patagonia. It provides a way to raise capital and attract top talent while ensuring the purpose remains to benefit society.
+<p/>
 
 Core features of Steward Ownership, as implemented by Alkemio, include:
 * **Leadership**:  "Stewards" guide the venture and are chosen based on capability and alignment with the purpose 
