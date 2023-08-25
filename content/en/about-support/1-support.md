@@ -28,9 +28,9 @@ design:
 
 We are here to help if you need support with the platform! 
 
-Our preferred way to provide support is through using our support pages hosted at our [Github discussions page](https://github.com/alkem-io/alkemio/discussions), as other users can benefit from that too.
+Our preferred way to provide support is through using our [**help pages**](../help). 
 
-If you prefer not to share the request publicly you can fill in the form below (requires email confirmation):
+If you prefer directly contact Alkemio for support you can fill in the form below (requires email confirmation):
 
 <script charset="utf-8" type="text/javascript" src="//js-eu1.hsforms.net/forms/v2.js"></script>
 <script>
