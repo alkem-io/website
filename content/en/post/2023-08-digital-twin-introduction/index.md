@@ -2,11 +2,11 @@
 #widget: pages
 #headless: true
 title: 'Meet the Digital Twin Community!'
-date: "2023-08-30"
-lastmod: "2023-08-30"
+date: "2023-08-29"
+lastmod: "2023-08-29"
 math: false
 diagram: false
-summary: "Our Community Partner from Germany"
+summary: "Enabling better 3D decision-making for society"
 authors:
 - deboer-mirko
 - heijnen-wouter
