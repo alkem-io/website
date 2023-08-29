@@ -29,7 +29,7 @@ image:
   preview_only: true
 ---
 ![](./header.png)
-**Voor de Nederlandse versie van deze blogpost, scroll verder naar beneden**
+**Liever in het Nederlands? Scroll naar beneden.**
 
 It is time to introduce you to another very interesting community, as well as long-term partner since the early days of Alkemio! In our latest blog series "Meet the Communities on Alkemio", we highlight the incredible communities that call our platform home. We believe in the power of collaboration and the impact of collective efforts, and what better way to celebrate this than by showcasing the amazing work being done by our diverse community members! 
 
@@ -55,7 +55,7 @@ The NL Digital Twin community believes that together, we can create a breakthrou
 The Digital Twin Community aims to allow communities to gather around shared challenges, as for example, housing in combination with mobility scenarios and climate themes (heat stress, nitrogen, flood models). To different environmental questions such as energy, security or circularity, to societal challenges and the impact of technology in our society.  
 
 ![](./visualization.png)
- The transition from complex - hard to visualise datasets - to a 3D visualisation that is accessible and understandable. 
+###### The transition from complex - hard to visualise datasets - to a 3D visualisation that is accessible and understandable. 
 
 ## Connecting municipalities, government organizations, market parties and knowledge institutes 
 
