@@ -54,8 +54,8 @@ The NL Digital Twin community believes that together, we can create a breakthrou
 
 The Digital Twin Community aims to allow communities to gather around shared challenges, as for example, housing in combination with mobility scenarios and climate themes (heat stress, nitrogen, flood models). To different environmental questions such as energy, security or circularity, to societal challenges and the impact of technology in our society.  
 
-![](./visualization.png)
-###### The transition from complex - hard to visualise datasets - to a 3D visualisation that is accessible and understandable. 
+![](./visualization-en.png)
+
 
 ## Connecting municipalities, government organizations, market parties and knowledge institutes 
 
@@ -85,8 +85,14 @@ Even though there is already much value in connecting the communities, the real 
 
 > *“We are an open Community, so everyone is welcome to follow the discussions, think along and work together with us! Become a member of our Space: [Digileefomgeving](https://alkem.io/digileefomgeving/dashboard). Also feel free to contact leads and let's schedule something to get to know each other!”*
 
+So are you also working in the field of Digital Twins? Or are you interested in thinking along or learning more about the topic? Have a look at their Space on Alkemio and join forces!
+
+<hr/>
 <hr/>
 
+<p>
+<p>
+  
 # Maak kennis met de Digital Twin-community! 
 
 Het is tijd om jullie voor te stellen aan een andere interessante community, maar ook belangrijke partner sinds de start van Alkemio. In onze nieuwste blogreeks "Meet the Communities on Alkemio", stellen we je voor aan de diverse communities met wie wij iedere dag samenwerken. Samenwerking en co-creatie staan centraal op ons platform. Door deze verhalen te vertellen hopen wij jullie te inspireren en te verbinden! 
@@ -112,8 +118,8 @@ De NL Digital Twin Community gelooft dat we samen een doorbraak kunnen creëren.
 
 De Digital Twin Community wil overheden en het hele veld samenbrengen rond gedeelde uitdagingen, zoals bijvoorbeeld woningbouw in combinatie met mobiliteitsscenario's en klimaatthema's (bijvoorbeeld: hittestress, stikstof of overstromingsmodellen). Van verschillende milieuvraagstukken zoals energie, veiligheid of circulariteit, tot maatschappelijke uitdagingen en de impact van technologie in onze samenleving.
 
-![](./visualization.png)
-###### De verandering van complexe - moeilijk visualiseerbare datasets - naar een 3D visualisatie die toegankelijk en begrijpelijk is. 
+![](./visualization-nl.png)
+
 
 ## Verbinden van gemeenten, overheidsorganisaties, marktpartijen en kennisinstellingen  
 De Digital Twin Community is er om mensen te verbinden, iedereen is welkom! Het is al een aantal jaren actief in verschillende vormen. De groep komt ongeveer één keer per maand bij elkaar om kennis uit te wisselen in de vorm van een digitale demo, om van daaruit de samenwerking te versterken. Een enorm scala aan gemeenten (van Amsterdam tot Assen), overheidsorganisaties (ministeries, provincies en meer), marktpartijen en kennisinstellingen zijn vertegenwoordigd in de Community. Allemaal hebben ze op hun eigen manier te maken met Digital Twins.  
@@ -139,3 +145,5 @@ Hoewel er al veel waarde zit in het verbinden van de communities, kan de echte i
 ## Een oproep van de Digital Twin gemeenschap ...  
 
 > *“We zijn een open Community, dus iedereen is welkom om de discussies te volgen, mee te denken en mee te werken! Word lid van onze Space: [Digileefomgeving](https://alkem.io/digileefomgeving/dashboard). Neem ook gerust contact op met de leads en laten we iets afspreken om elkaar te leren kennen!”*
+
+Dus werk je ook op het gebied van Digital Twins? Of zou je graag mee willen denken of meer willen leren over het onderwerp? Neem een kijkje bij hun Space op Alkemio en sluit aan!
