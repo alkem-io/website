@@ -90,6 +90,9 @@ So are you also working in the field of Digital Twins? Or are you interested in 
 <hr/>
 <hr/>
 
+<p>
+<p>
+  
 # Maak kennis met de Digital Twin-community! 
 
 Het is tijd om jullie voor te stellen aan een andere interessante community, maar ook belangrijke partner sinds de start van Alkemio. In onze nieuwste blogreeks "Meet the Communities on Alkemio", stellen we je voor aan de diverse communities met wie wij iedere dag samenwerken. Samenwerking en co-creatie staan centraal op ons platform. Door deze verhalen te vertellen hopen wij jullie te inspireren en te verbinden! 
