@@ -66,18 +66,7 @@ There are multiple implications from the above structure that are worth detailin
 * **One mechanism for allocation of value generated**: All economic value is allocated via the CC / CT / SE shares. There is no partial ownership in the structure i.e. all entities are 100% owned by a parent entity. This is for simplicity, as there is then one mechanism for the allocation of value generated. 
 * **Split between SC and SE shares**: Finally, one question that you may ask is why the need for both SC and SE. The rational is that from a steward ownership persepective it is important to decouple the control from the economic interest. However, the above is already a heavy organizational structure for the size of Alkemio. So the decision was made to have SE also held by Stichting Alkemio near term - not least as there is not likely to be substantial value flowing to that share near term. And as the organization grows, it is expected that the SE share would ultimately be held by a separate entity. This entity is mandated to allowed value accruing from the underlying business according to the purpose of Alkemio. 
 
-### PC share = Double Lock on Purpose
-The adoption of Steward Ownership can be seen as a **double lock** on the purpose of Alkemio. 
 
-This is important for two key reasons:
-* investors in Alkemio do not have voting shares, so they are fully dependent on the governance that is in place. 
-* as Alkemio achieves significant scale, the venture will be highly valuable - so the locks need to be put in place now to prevent any temptation in the future.
-
-It is simply a _much stronger_ guarantee than relying on the governance of a Foundation. 
-
-The Purpose Control (PC) share is held by Stichting de Prioriteit. this entity, establised also in The Netherlands, has the purpose to act as an independent party to guarantee principles of steward ownership are followed in such ventures.
-
-It is also important to mention again the fact that investors in the above structure do not have formal control. They need to fully rely on the double lock of the foundation and the independent guarantee on purpose to ensure governance and decisions are made in line with the stated purpose. Hence the importance of the double lock. 
-
+Finally, the full separation of control and economic interest also results in the core articles of Alkemio Holding become simpler. Much of the "standard" articles of companies have many provisions to deal with the overlap of economic interest and control, by having the economic interest via certificates the articles become significantly simpler.
  </div>
 </div>
