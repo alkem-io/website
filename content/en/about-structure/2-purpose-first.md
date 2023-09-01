@@ -34,10 +34,11 @@ data-target="#alkemio-structure" id="alkemiostructure">Show more/less...
 <div id="alkemio-structure" class="collapse">
   <div class="content">
 Alkemio offers a broad and very ambitious vision, shared by a growing community of partners. The Alkemio platform is achieving traction and we are seeing a clear need in the market. However the journey so far is just the start. It is critical that we live up to the expectations of early adopters of the platform, with significant usage and impact on society.
+<p/>
 
 Achieving this requires expanding the resources available. In particular:
-•	capital for investing in the further development and scaling of the platform, and
-•	top talent to execute the vision.
+*	capital for investing in the further development and scaling of the platform, and
+*	top talent to execute the vision.
 
 And doing it in the right way, aligned with the purpose.
  </div>
