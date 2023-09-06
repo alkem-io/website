@@ -28,6 +28,4 @@ Ben jij klaar om <b>impact te maken</b>, een zelfstarter met sterke communicatie
 Wil jij met ons de samenleving helpen om effectief <b>samen te werken</b> rondom complexe maatschappelijke vraagstukken? <br/>
 Wil je veel <b>innovatieve projecten</b> en initiatieven zien op een korte tijd?
 <p><br/>
-<b><a href="https://alkemio.org">Alkemio</a></b> is op zoek naar een gemotiveerd changemaker met een academische achtergrond, die deel wil uitmaken van onze groeiende digital platform start-up. 
-<p>
-In deze rol krijg je de kans om aan verschillende impact projecten te werken en de toekomst van ons bedrijf vorm te geven. 
+<b><a href="https://alkemio.org">Alkemio</a></b> is op zoek naar een gemotiveerde changemaker met een academische achtergrond, die deel wil uitmaken van onze groeiende start-up. In deze rol krijg je de kans om aan verschillende impact projecten te werken en de toekomst van ons bedrijf vorm te geven. 
