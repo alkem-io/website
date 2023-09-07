@@ -52,7 +52,7 @@ The key documents are listed below:
 * [**Stichting Alkemio Articles of Association (AoA)**](./documents/stichting_alkemio_statuten_2021_12.pdf) (Dutch).
 * [**Alkemio Holding Articles of Association (AoA)**](./documents/alkemio_holding_statuten.pdf)  (Dutch)
 * [**Alkemio Holding Issuance of share PC + shares CC**](./documents/alkemio_holding_uitgifte_aandelen_pc_cc.pdf) (Dutch)
-* [**Alkemio Holding Shareholders Agreement (SHA)**](./documents/alkemio_holding_shareholders_agreement.pdf) (English) 
+* [**Alkemio Holding Shareholders Agreement (SHA)**](./documents/alkemio_holding_shareholders_agreement_v1.1.pdf) (English) 
 * [**STAK Participanten Alkemio Articles of Association (AoA)**](./documents/stak_participanten_alkemio_akte_oprichting.pdf) (Dutch)
 * [**STAK Participanten Alkemio Conditions**](./documents/stak_participanten_alkemio_administratievoorwaarden.pdf) (Dutch)
 
