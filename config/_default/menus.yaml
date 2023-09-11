@@ -31,25 +31,15 @@ main:
     url: 'contact'
     weight: 2
   - parent: about-main
-    indentifier: about-contact
-    name: Contact
-    url: 'contact'
-    weight: 2
-  # - parent: about-main
-  #   indentifier: about-structure
-  #   name: Structure
-  #   url: 'structure'
-  #   weight: 5
+    indentifier: about-structure
+    name: Structure
+    url: 'structure'
+    weight: 3
   - parent: about-main
     indentifier: about-contact
     name: Contact
     url: 'contact'
-    weight: 2
-  # - parent: about-main
-  #   indentifier: about-structure
-  #   name: Structure
-  #   url: 'structure'
-  #   weight: 5
+    weight: 4
   - parent: about-main
     indentifier: about-support
     name: Support
