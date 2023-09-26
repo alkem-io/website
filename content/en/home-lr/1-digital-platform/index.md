@@ -5,7 +5,7 @@ headless: false
 
 # Section title
 title: A digital platform with a difference!
-
+profile: false
 
 # Order that this section appears on the page.
 weight: 10
