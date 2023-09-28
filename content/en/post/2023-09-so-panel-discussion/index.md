@@ -27,7 +27,7 @@ image:
   preview_only: true
 ---
 
-![](./header.png)
+![](./header.jpg)
 
 On the 25th September, Alkemio together with The Hague Municipality and The Hague Tech hosted a panel discussion around Steward-Ownership discussing how it enables public and private entities to align efforts and work together to make greater impact. Gaining in popularity, Steward-Ownership provides a huge opportunity to enable an economy focused on benefitting society.   
 
