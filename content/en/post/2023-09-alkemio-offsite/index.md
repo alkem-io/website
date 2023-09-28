@@ -25,6 +25,8 @@ image:
   preview_only: true
 ---
 
+![](./header.png)
+
 It's an exciting time for our team as we recently embarked on an unforgettable offsite event, a week dedicated to contemplating the future of Alkemio. The theme of our outing was all about scaling up, and we're thrilled to share with you some of the insights and discussions that unfolded during this occasion. 
 
 ## Envisioning the Future
