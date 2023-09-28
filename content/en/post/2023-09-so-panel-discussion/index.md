@@ -54,6 +54,7 @@ It's clear that collaboration and dialogue are key in shaping the future of stew
 One of the highlights of our discussion was the inspiring success stories from Denmark, a country that has paved the way for steward-owned companies on a grand scale. Examples include the Carlsberg and the Novo Nordisk, demonstrating how steward-ownership can fuel sustainable growth while making a substantial societal impact.  
 
 ![](./nina.png)
+Photo by Holland Park Media 2023
 
 ## Supporting Start-ups on Their Journey 
  
