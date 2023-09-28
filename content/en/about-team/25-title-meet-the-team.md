@@ -2,6 +2,9 @@
 # This is used to force some spacing between the title and images.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: blank
+profile: false
+show_date: false
+share: false
 
 # Activate this widget? true/false
 active: true
