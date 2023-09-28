@@ -6,10 +6,11 @@ date: "2023-09-27"
 lastmod: "2023-09-27"
 math: false
 diagram: false
-summary: "Enabling greater public-private collaboration to benefit societ!"
+summary: "Enabling greater public-private collaboration to benefit society!"
 authors:
-- zondag-myrthe
+
 - depaiva-marina
+- rosso-francesco
 tags:
 - collaboration
 - steward-ownership
