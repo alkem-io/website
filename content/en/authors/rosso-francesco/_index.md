@@ -12,7 +12,7 @@ weight: 23
 superuser: false
 
 # Role/position
-role: Intern Community + Communications
+role: Communications Analyst
 
 # Organizations/Affiliations
 organizations:
