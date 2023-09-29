@@ -34,6 +34,7 @@ Alkemio sends out newsletters by email with the latest news and updates about bo
 If you have any topics you’d like us to cover in future newsletters please let us know!
 <p></p>
 Previous newsletters:
+<li><a href="http://alkem-25488729.hs-sites-eu1.com/2023-september-newsletter-the-next-phase-of-alkemios-journey" target="_blank">2023 - September</a> - <i>"Scaling Innovation and Impact"</i> </li>
 
 <li><a href="https://alkem-25488729.hs-sites-eu1.com/alkemio/newsletter/2023/summer" target="_blank">2023 - Summer</a> - <i>"Purpose over Profit"</i> </li>
 
