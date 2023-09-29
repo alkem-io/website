@@ -56,15 +56,15 @@ One of the highlights of our discussion was the inspiring success stories from D
 ![](./nina.png)
 Photo by Holland Park Media 2023
 
-## Supporting Start-ups on Their Journey 
+## Supporting start-ups on their journey 
  
 While these large-scale examples are inspiring, we also explored ways to extend the benefits of steward-ownership to start-ups and smaller businesses. We discussed the importance of providing models that simplify the transition process, challenging the conventional corporate setup as the only standard, and offering guidance to budding steward-owned enterprises. 
  
-## Measuring Social Impact  
+## Measuring social impact  
 
 In a time when success means more than just economic gains, we raised the questions on how to measure the social impact and commitment. How can we quantify the positive influence of steward-ownership beyond monetary metrics? This conversation highlighted the need to align interests with a broader spectrum of stakeholders and promote a more holistic view of success.
  
-## (Some) Barriers and solutions 
+## (Some) barriers and solutions 
 
 Our dialogue also delved into the challenges that often hinder government and companies the support for steward-ownership. These blockers include competition law (mededingingsrecht), the time and financial resources required for transitioning, adapting procurement processes, and the cultural barriers that exis, in the Netherlands, but also in different contexts. 
  
