@@ -15,7 +15,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-**wooow!**, echt *gaaf*
+**wooow!**, echt *gaaf* hoor
 
 * ff een bullet lijstje
 * makkie takkie
