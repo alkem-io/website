@@ -3,7 +3,7 @@
   publish = "public"
 
 [build.environment]
-  HUGO_VERSION = "0.108.0"
+  HUGO_VERSION = "0.119.0"
   HUGO_ENABLEGITINFO = "false"
   GO_VERSION = "1.19"
 
@@ -40,8 +40,10 @@
           https://*.hs-analytics.net https://*.hs-banner.com https://*.hsforms.net https://platform.twitter.com https://player.vimeo.com \
           https://unpkg.com https://api.segment.io
           https://cdn.jsdelivr.net https://*.netlify.app https://www.google.com https://www.gstatic.com; \
-        connect-src 'self' https://cdn.segment.com https://*.hs-banner.com https://*.hubspot.com https://*.hsforms.com \
+        connect-src 'self' https://cdn.segment.com https://*.hs-banner.com https://*.hubspot.com https://*.hsforms.com https://www.netlifystatus.com \
           https://hubspot-forms-static-embed-eu1.s3.amazonaws.com https://*.hscollectedforms.net https://fonts.gstatic.com https://cdn.segment.com; \
-        img-src 'self' https://*.hsforms.com data: https:; base-uri 'self'; \
+        img-src 'self' https://*.hsforms.com blob:\
+        data: https:; \
+        base-uri 'self'; \
         report-uri https://alkemio.report-uri.com/r/d/csp/enforce \
         """
