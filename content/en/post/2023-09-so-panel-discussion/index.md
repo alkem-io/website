@@ -1,27 +1,22 @@
 ---
-#widget: pages
-#headless: true
-title: 'Steward-Ownership Panel Discussion!'
-date: "2023-09-27"
-lastmod: "2023-09-27"
-math: false
-diagram: false
-summary: "Enabling greater public-private collaboration to benefit society!"
-authors:
-
-- depaiva-marina
-- rosso-francesco
-tags:
-- collaboration
-- steward-ownership
-- governance
-- public-private-partnerships
-- public-goods
-#categories:
-#- Demo
-
-featured: false
+summary: Enabling greater public-private collaboration to benefit society!
 draft: false
+authors:
+  - depaiva-marina
+  - rosso-francesco
+math: false
+lastmod: 2023-09-27
+date: 2023-09-27
+featured: false
+diagram: false
+title: Steward-Ownership Panel Discussion!
+subtitle: It's always better on holiday!
+tags:
+  - collaboration
+  - steward-ownership
+  - governance
+  - public-private-partnerships
+  - public-goods
 image:
   placement: 1
   preview_only: true
