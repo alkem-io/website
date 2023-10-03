@@ -42,8 +42,7 @@
           https://cdn.jsdelivr.net https://*.netlify.app https://www.google.com https://www.gstatic.com; \
         connect-src 'self' https://cdn.segment.com https://*.hs-banner.com https://*.hubspot.com https://*.hsforms.com https://www.netlifystatus.com \
           https://hubspot-forms-static-embed-eu1.s3.amazonaws.com https://*.hscollectedforms.net https://fonts.gstatic.com https://cdn.segment.com; \
-        img-src 'self' https://*.hsforms.com blob:\
-        data: https:; \
+        img-src 'self' https://*.hsforms.com blob: data: https:; \
         base-uri 'self'; \
         report-uri https://alkemio.report-uri.com/r/d/csp/enforce \
         """
