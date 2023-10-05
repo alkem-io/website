@@ -33,14 +33,14 @@ design:
 ---
 Alkemio makes updates to the production platform approximately every two weeks. Below you can find the latest release note as well as links to previous notes.
 <p></p>
-<b>Release 2023-07-20</b>
+<b>Release 2023-09-29</b>
 <p></p>
 
-<i>Prepare yourself for a list full of new updates in [this 2023-07-20 release](https://alkem-25488729.hs-sites-eu1.com/alkemio-release-2023-07-20)!
+<i>Prepare yourself for a list full of new updates in [this 2023-09-29 release](https://alkem-25488729.hs-sites-eu1.com/alkemio-release-2023-09-29)!
 
-After a big refresh of the lay-out and functionalities of the Space, it was time to dive into the <b>Challenges & Opportunities</b>. One very important element there: a more prominent role for the <b>innovation flow</b> that will guide your Challenge or Opportunity.
+This summer saw us focused on back-end improvements and preparation work for upcoming features. Nonetheless, there are still important updates, such as a new visual refresh of the <b>Space Dashboard</b>. <b>Recent Contributions</b> and <b>Top Callouts</b> are merged into one block, additional Collaboration Tools can be placed under the top section, and more.
 
-Furthermore, the <b>banner of Challenges & Opportunities</b> has been improved, leads can send <b>invites</b> to both Alkemio users as well as non-Alkemio users, and you can easily filter Challenges as the <b>Challenge tags</b> are now visualized.</i>
+Other significant improvements include <b>extended character limits</b> in description boxes and comments, <b>Space settings</b> are cleaned up to show platform managed settings more clearly, and the <b>Home Page</b> now loads much <b>faster</b>.</i>
 
-<i>Interested in trying out these new changes? Go directly to [Alkemio](https://alkem.io/?utm_source=hs_email&utm_medium=email&utm_content=64703278&_hsenc=p2ANqtz-9Giqo8QcZnf1CWdBLUSBKzmp4iMt-wvwbXM0qYcnNA30kdtBPsKqaaj3shSIvFGGfK-BM2cl2xAbSLj-JRK7VDK9TgcQ). As always, please share your feedback and comments. Enjoy!</i>
+<i>Interested in checking and trying out these new changes? Go directly to [Alkemio](https://alkem.io/?utm_source=hs_email&utm_medium=email&utm_content=64703278&_hsenc=p2ANqtz-9Giqo8QcZnf1CWdBLUSBKzmp4iMt-wvwbXM0qYcnNA30kdtBPsKqaaj3shSIvFGGfK-BM2cl2xAbSLj-JRK7VDK9TgcQ). As always, your feedback and comments are more than welcome. Enjoy!</i>
 <p></p>
