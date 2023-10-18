@@ -33,6 +33,12 @@ design:
 ---
 <b>Previous releases</b>
 
+<li><a href="https://alkem-25488729.hs-sites-eu1.com/alkemio-release-2023-08-04" target="_blank">2023-08-04</a>: 
+<i>"Email Notifications, Notifications for new activities, Callouts and Calendar in Challenges and Opportunities"</i> </li>
+
+<li><a href="https://alkem-25488729.hs-sites-eu1.com/alkemio-release-2023-07-20" target="_blank">2023-07-20</a>: 
+<i>"Innovation Flows, improvements to Banners in Challenges and Opportunities, Alkemio and non-Alkemio user invites, Challenge filters and tags"</i> </li>
+
 <li><a href="https://alkem-25488729.hs-sites-eu1.com/alkemio-release-2023-06-16" target="_blank">2023-06-16</a>: 
 <i>"Innovation Hubs, threaded comments and emoticons, refresh of the Space settings, and document storage"</i> </li>
 
