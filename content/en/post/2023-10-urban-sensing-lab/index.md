@@ -68,9 +68,9 @@ The Urban Sensing Lab follows a structured innovation process, which includes ph
 
 Looking ahead, the Urban Sensing Lab has ambitious plans. The goal is to expand its scope and impact, making smart city development more inclusive and accessible to residents. The lab aims to empower them by providing opportunities to understand and participate in the development of smart city solutions.
 
-The Urban Sensing Lab is a shining example of how communities can drive positive change through technology, collaboration, and citizen involvement. It's not just about creating smarter cities; it's about creating cities that work better for everyone. Come to the [ImpactFest](https://www.impactfest.nl)this year to see the outcomes of the Urban Sensing Lab, dive deeper into the smart citizens topic and how they can be more involved in the local government initiatives!
+The Urban Sensing Lab is a shining example of how communities can drive positive change through technology, collaboration, and citizen involvement. It's not just about creating smarter cities; it's about creating cities that work better for everyone. Come to the [ImpactFest](https://www.impactfest.nl) this year to see the outcomes of the Urban Sensing Lab, dive deeper into the smart citizens topic and how they can be more involved in the local government initiatives!
 
-> “Therefore, our aim is on the one hand to give residents more say in smart city development and, on the other hand, to offer them an opportunity in the use of smart city technology”
+> “Therefore, our aim is on the one hand to give residents more say in smart city development and, on the other hand, to offer them an opportunity in the use of smart city technology.”.
 
 The future is brighter when citizens have a voice and a role in shaping it.  
  
