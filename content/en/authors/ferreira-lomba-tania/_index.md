@@ -1,18 +1,18 @@
 ---
 # Display name
-title: Svitlana Khrystenko
+title: Tania Ferreira Lomba
 
 # Username (this should match the folder name)
 authors: 
-- svitlaka-khrystenko
+- ferreira-lomba-tania
 
-weight: 24
+weight: 25
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Innovation Programme Manager
+role: Program Design Intern
 
 # Organizations/Affiliations
 organizations:
@@ -37,7 +37,7 @@ social:
 #  link: https
 # icon: linkedin
 # icon_pack: fab
-# link: https://www.linkedin.com/in/svitlana-khrystenko/
+# link: https://www.linkedin.com/in/tanialomba/
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ

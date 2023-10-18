@@ -12,8 +12,8 @@ authors:
 - zondag-myrthe
 - depaiva-marina
 - rosso-francesco
-- svitlana-khrystenko
-- tania-ferreira-lomba
+- khrystenko-svitlana
+- ferreira-lomba-tania
 tags:
 - collaboration
 - urban-sensing-lab
