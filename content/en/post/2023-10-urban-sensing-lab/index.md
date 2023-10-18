@@ -12,6 +12,8 @@ authors:
 - zondag-myrthe
 - depaiva-marina
 - rosso-francesco
+- svitlana-khrystenko
+- tania-ferreira-lomba
 tags:
 - collaboration
 - urban-sensing-lab
@@ -34,7 +36,7 @@ Welcome to the third edition of our blog series, "Meet the Communities making im
  
 ## Why a Community Approach Matters 
 
-The Urban Sensing Lab, a multi-partner program, was born from the need to connect citizens with their urban environment, allowing them to express their challenges and contribute to making their city - in this case, The Hague - a better place to live. This program was designed to bridge the gap between technology, data, and community empowerment, given the existing need of the Municipality of The Hague and the Province of South Holland to find a way to make it happen. The initiative consists of 8 meetups from September until November.
+The Urban Sensing Lab, a multi-partner program, was born from the need to connect citizens with their urban environment, allowing them to express their challenges and contribute to making their city - in this case, The Hague - a better place to live. This program was designed to bridge the gap between technology, data, and community empowerment, given the existing need of the Municipality of The Hague and the Province of South Holland to find a way to make it happen. The program consists of 7 meetups from September until November.
 
 > “By measuring, citizens gain knowledge and raise awareness about the measurement subject. The data collected through the collaboration offers a start for public discussion and social involvement. Additionally, the initiative can lead to behavioral change and maybe policy change. Together we want to collaborate and create a sustainable mindset and strengthen community empowerment.”.
 
@@ -60,17 +62,16 @@ The Urban Sensing Lab leverages the collective intelligence and motivation of it
 
 > “We collect the proposed challenges raised by our participants and post them on the platform together with highlighted documents of the meetup itself.  The exercises from the meetup are also on the platform allowing the participant to revisit the material and continue. The challenges are open to the public and serve as a platform for people to collaborate freely, deciding together how they want to use it.”.
 
-## The Innovation Process
-
 The Urban Sensing Lab follows a structured innovation process, which includes phases such as Launch, Inspiration, Measurement Plan, Ideation & Concept, Design & Development, Prototyping, and Wrap-up. This process, along with the content in each of the phases, ensures that citizen-driven challenges are addressed comprehensively and collaboratively.
 
 ## Next Steps
 
-Looking ahead, the Urban Sensing Lab has ambitious plans. The goal is to expand its scope and impact, making smart city development more inclusive and accessible to residents. The lab aims to empower them by providing opportunities to understand and participate in the development of smart city solutions. 
-The Urban Sensing Lab is a shining example of how communities can drive positive change through technology, collaboration, and citizen involvement. It's not just about creating smarter cities; it's about creating cities that work better for everyone.
+Looking ahead, the Urban Sensing Lab has ambitious plans. The goal is to expand its scope and impact, making smart city development more inclusive and accessible to residents. The lab aims to empower them by providing opportunities to understand and participate in the development of smart city solutions.
+
+The Urban Sensing Lab is a shining example of how communities can drive positive change through technology, collaboration, and citizen involvement. It's not just about creating smarter cities; it's about creating cities that work better for everyone. Come to the [ImpactFest](https://www.impactfest.nl)this year to see the outcomes of the Urban Sensing Lab, dive deeper into the smart citizens topic and how they can be more involved in the local government initiatives!
 
 > “Therefore, our aim is on the one hand to give residents more say in smart city development and, on the other hand, to offer them an opportunity in the use of smart city technology”
 
-as remarked by The Urban Sensing Lab Team. The future is brighter when citizens have a voice and a role in shaping it.  
+The future is brighter when citizens have a voice and a role in shaping it.  
  
  
