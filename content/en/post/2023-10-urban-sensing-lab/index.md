@@ -33,8 +33,6 @@ image:
 ![](./header.png)
 
 Welcome to the third edition of our blog series, "Meet the Communities making impact on our Platform." Today, we introduce you to the [Urban Sensing Lab](https://www.meetup.com/urban-sensing-lab/), initiated by [GovTech NL](https://www.govtechnl.nl/). The GovTech NL Hub is organized by The Hague Tech and WorldStartup, with support from Gemeente Den Haag, Provincie Zuid-Holland, YES!Delft, PLNT Leiden, Digicampus, Isuna, Antea Group Nederland, Centric, The Impacters and others.
-
-![](./urban-sensing-lab.png.webp)
  
 ## Why a Community Approach Matters 
 
