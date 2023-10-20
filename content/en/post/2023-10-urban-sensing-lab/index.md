@@ -32,7 +32,7 @@ image:
 
 ![](./header.png)
 
-Welcome to the third edition of our blog series, "Meet the Communities making impact on our Platform." Today, we introduce you to the [Urban Sensing Lab](https://www.meetup.com/urban-sensing-lab/), initiated by [GovTech NL](https://www.govtechnl.nl/). The GovTech NL Hub is organized by The Hague Tech and WorldStartup, with support from Gemeente Den Haag, Provincie Zuid-Holland, YES!Delft, PLNT Leiden, Digicampus, Isuna, Antea Group Nederland, Centric, The Impacters and others. 
+Welcome to the third edition of our blog series, "Meet the Communities making impact on our Platform." Today, we introduce you to the [Urban Sensing Lab](https://www.meetup.com/urban-sensing-lab/), initiated by [GovTech NL](https://www.govtechnl.nl/). The GovTech NL Hub is organized by The Hague Tech and WorldStartup, with support from Gemeente Den Haag, Provincie Zuid-Holland, YES!Delft, PLNT Leiden, Digicampus, Isuna, Antea Group Nederland, Centric, The Impacters and others.
  
 ## Why a Community Approach Matters 
 
@@ -51,6 +51,8 @@ The Urban Sensing Lab is not just another program; it's a catalyst for positive 
 To facilitate collaboration and idea sharing, the platform incorporates various tools, including the use of digital whiteboards. These whiteboards serve as visual aids, simplifying complex concepts and ideas, and are instrumental in moving from ideation to practical solutions. As the Urban Sensing Lab Team put it:
 
 > “The idea of making [the whiteboard] available for everyone helps us accomplish a better collaboration between the government and its citizens. Through conversations, we gather the input and help that everyone can generate to create a solution.”.
+
+![](./whiteboard.png.webp)
 
 One of the standout features of the Alkemio platform is indeed its accessibility to everyone. This inclusivity promotes seamless collaboration between the government and citizens, gathering input and ideas to drive innovative resolutions. The "Wishes, Contributions, and Expectations" whiteboard is a testament to the power of citizen voices and their ability to contribute to the community. Beyond in-person meet-ups, these whiteboards continue to fuel discussions and collaboration online.
 
@@ -74,4 +76,4 @@ The Urban Sensing Lab is a shining example of how communities can drive positive
 
 The future is brighter when citizens have a voice and a role in shaping it.  
  
- 
+ Intrigued? Check out [WorldStartup](https://www.worldstartup.co/stories/meet-the-urban-sensing-lab-community) for more!
