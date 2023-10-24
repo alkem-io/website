@@ -10,11 +10,10 @@ summary: "Alkemio and its relationship with Steward-Ownership"
 authors:
 
 - smyth-neil
-- smyth-fintan
 
 tags:
-- collaboration
-- urban-sensing-lab
+- alkemio
+- steward-ownership
 - governance
 - public-private-partnerships
 - public-goods
