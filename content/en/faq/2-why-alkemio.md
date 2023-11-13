@@ -32,7 +32,7 @@ solved by people or organizations working alone. </p>
     <p>Teams/Slack/Google Workspace/Whatsapp etc. are all great for interacting and 
 producing - but they do not put the change central. And having a clear shared 
 understanding of the change is critical. Read more about this in our <a 
-href="https://draft.alkem.io/post/2022-01-why-do-we-need/" target="_blank"> 
+href="https://alkem.io/post/2022-01-why-do-we-need/" target="_blank"> 
 blogpost</a>.</p>
   </div>
 </div>
