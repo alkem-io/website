@@ -13,10 +13,10 @@ headless: true
 weight: 1
 
 # Section title
-title: Innovation Analyst 
+title: Innovation Coordinator
 
 # Section subtitle
-subtitle: We zoeken een startende Innovation Analyst voor 3-5 dagen per week. We zijn een Tech-for-good SaaS startup, gevestigd in Den Haag.  
+subtitle: Wij zijn op zoek naar de toekomstige leiders voor onze Tech-for-good SaaS startup Alkemio.
 
 # Section design
 design:
