@@ -22,15 +22,12 @@ content:
 
         slide2:
             - media/partners/gemeente-den-haag.svg
-            - media/partners/kvk-small.svg   
-            - media/partners/min-bzk-slim.svg
+            - media/partners/govtechnl.svg
 
         slide3:
             - media/partners/velokonzept.svg   
-            - media/partners/govtechnl.svg
             - media/partners/tip.svg
             - media/partners/ngi-essiflab.jpg  
-            - media/partners/sidn.svg
             
 ---
 
