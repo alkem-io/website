@@ -26,7 +26,11 @@ design:
     # Customize the section spacing. Order is top, right, bottom, left.
     padding: ["20px", "0", "20px", "0"]
 ---
-* #### Wil je weten hoe het platform werkt? Kijk dan op https://alkem.io/ 
-* #### De sterke kernwaarden van de Alkemio organisatie vind je in ons [Manifesto](https://www.alkemio.org/manifesto/) 
-* #### Voor meer informatie over de vacature stuur gerust een email met jouw vragen naar <a href="mailto:hr@alkem.io"> hr@alkem.io </a> 
-* #### Je kunt ook contact opnemen als je geïnteresseerd bent in een stage. 
+<h2 class="text-center"> Interesse? </h2>
+
+Solliciteer direct door je CV en motivatiebrief te sturen naar hr@alkem.io
+
+**Deadline**: 1 december, 2023
+                    
+Het platform: https://alkem.io      
+Alkemio organisatie: https://alkemio.org

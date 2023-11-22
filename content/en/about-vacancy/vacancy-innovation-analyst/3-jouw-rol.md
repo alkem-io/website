@@ -29,4 +29,11 @@ design:
     color: rgb(247, 247, 247)
 ---
 <h2 class="text-center"> Jouw rol </h2>
-Werken in een start-up betekent veel initiatief nemen, zowel in teamverband als zelfstandig, maar ook veel ruimte om je te verdiepen in projecten die bij jouw interesse of vaardigheden passen. Als Innovation Analyst werk je in het Operations team in Den Haag aan onderwerpen als klantbetrokkenheid, het creëren van partnerproposities, het prijsmodel, de go-to-market-strategie, productontwikkeling of klantenwerving. Je werkt onder andere nauw samen met de CEO/CTO, een ervaren ondernemer die in zijn carrière meerdere ondernemingen heeft opgezet. Je beheerst de Nederlandse en Engelse taal op C-niveau. Aangezien we een jonge tech startup zijn, zijn er veel andere gebieden waarin je je misschien wilt specialiseren. Een van deze onderwerpen is het financierings-proces, waarbij je samen met de CFO werkt aan het zoeken naar investeerders, pitchen, structuren, en modelleren. Andere relevante onderwerpen zijn bijvoorbeeld de toepassing van tokenization/gamification/AI, bestuursstructuren, UI/UX-ontwerp en systems engineering. Onder begeleiding van andere <a href="https://www.alkemio.org/about/">ervaren teamleden </a> is er genoeg ruimte om deze vaardigheden te ontwikkelen. 
+Als Innovation Analyst ben je de sleutel tot ons platform. Je werkt nauw samen met gebruikers, klanten en communities om het platform optimaal te benutten voor hun uitdagingen. Intern draag je bij aan de verdere ontwikkeling van het platform. Deze rol biedt veel ruimte voor initiatief, zowel binnen als buiten Alkemio.
+
+<h2 class="text-center"> Jouw verantwoordelijkheden </h2>
+- Het succes van onze gebruikers, klanten en partners in het gebruik van Alkemio
+- Nieuwe manieren van innovatie stimuleren en implementeren
+- Outside-in vertaling van inzichten naar nieuwe platformfunctionaliteiten
+- Bijdragen aan nieuwe strategieën en campagnes met het Communicatieteam
+- Organiseren van evenementen, online en offline, om de communities rond Alkemio te versterken

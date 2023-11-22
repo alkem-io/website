@@ -29,5 +29,7 @@ design:
 Are you ready to set a new standard for cross-sector collaboration and want to join our growing team? Have a look at the vacancies below or send an email to hr@alkem.io with the topic “Join Alkemio”. Attach your resume and describe how you would like to contribute to the vision of Alkemio. 
   
 **Vacancies**
-- [Sales Coordinator](/about/vacancy-community-intern)
-- [Innovation Coordinator](/about/vacany/communications-intern)
+- [Innovation Analyst](/about/vacancy/innovation-analyst)
+- [Sales Analyst](/about/vacancy/sales-analyst)
+- [Community Building Intern](/about/vacancy/community-intern)
+- [Communications Intern](/about/vacancy/communications-intern)
