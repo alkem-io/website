@@ -10,13 +10,13 @@ share: false
 headless: true
 
 # Order that this section appears on the page.
-weight: 1
+weight: 5
 
 # Section title
-title: Innovation Analyst 
+title: 
 
 # Section subtitle
-subtitle: We zoeken een startende Innovation Analyst voor 3-5 dagen per week. We zijn een Tech-for-good SaaS startup, gevestigd in Den Haag.  
+subtitle: 
 
 # Section design
 design:
@@ -26,3 +26,11 @@ design:
     # Customize the section spacing. Order is top, right, bottom, left.
     padding: ["20px", "0", "20px", "0"]
 ---
+<h2 class="text-center"> Interesse? </h2>
+
+Solliciteer direct door je CV en motivatiebrief te sturen naar hr@alkem.io
+
+**Deadline**: 1 december, 2023
+                    
+Het platform: https://alkem.io      
+Alkemio organisatie: https://alkemio.org

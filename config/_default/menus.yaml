@@ -46,9 +46,9 @@ main:
     url: 'help'
     weight: 5
   - parent: about-main
-    indentifier: about-vision
-    name: Vision
-    url: 'vision'
+    indentifier: about-background
+    name: Background
+    url: 'background'
     weight: 8
   - parent: about-main
     indentifier: about-faq
