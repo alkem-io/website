@@ -22,12 +22,9 @@ content:
 
         slide2:
             - media/partners/gemeente-den-haag.svg
-            - media/partners/govtechnl.svg
+            - media/partners/dsih.webp
 
-        slide3:
-            - media/partners/velokonzept.svg   
-            - media/partners/tip.svg
-            - media/partners/ngi-essiflab.jpg  
+
             
 ---
 
