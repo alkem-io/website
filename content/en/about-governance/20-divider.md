@@ -10,7 +10,7 @@ share: false
 headless: true
 
 # Order that this section appears on the page.
-weight: 36
+weight: 20
 
 # Section title
 title: 
@@ -21,12 +21,11 @@ subtitle:
 # Section design
 design:
   background:
-    color: white
+    color: rgb(247, 247, 247)
   # Use a 1-column layout
   columns: "1"
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
-    padding: ["0px", "0", "0px", "0"]
+    padding: ["10px", "0", "10px", "0"]
 ---
 
-** on demand participation

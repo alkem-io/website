@@ -1,7 +1,7 @@
 ---
 # An instance of the people widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: people
+widget: blank
 
 # Activate this widget? true/false
 active: true
@@ -10,15 +10,10 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 35
 
-title: Board of Advisors
+title: 
 
-content:
-  # Choose which groups/teams of users to display.
-  #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-  user_groups:
-    - Board of Advisors
 
 design:
   # Show user's social networking links? (true/false)
@@ -34,6 +29,10 @@ design:
     # Customize the section spacing. Order is top, right, bottom, left.
     padding: ["20px", "0", "10px", "0"]
   background:
-    color: rgb(247, 247, 247)
+    color: white
 ---
+
+
+
+
  

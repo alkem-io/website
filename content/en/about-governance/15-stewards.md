@@ -10,7 +10,7 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 90
+weight: 15
 
 title: 
 
@@ -18,7 +18,7 @@ content:
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
-    - Past Contributors
+    - Stewards
 
 design:
   # Show user's social networking links? (true/false)
@@ -30,10 +30,13 @@ design:
   # Show user's organizations/affiliations?
   show_organizations: false
   columns: "1"
-  
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
-    padding: ["20px", "0", "20px", "0"]
+    padding: ["10px", "0", "20px", "0"]
   background:
-    color: white
+    color: rgb(247, 247, 247)
+
 ---
+The Stewards are currently the co-founders of Alkemio. The set of Stewards will be expanded as the organization matures. 
+
+<br/>
