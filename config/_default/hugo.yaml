@@ -49,6 +49,9 @@ taxonomies:
   category: categories
 markup:
   merge: _deep
+  goldmark:
+    renderer:
+      unsafe: true # set this to true to allow html inline
 related:
   threshold: 80
   includeNewer: true
