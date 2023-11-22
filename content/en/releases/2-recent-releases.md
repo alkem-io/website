@@ -33,6 +33,9 @@ design:
 ---
 <b>Previous releases</b>
 
+<li><a href="https://alkem-25488729.hs-sites-eu1.com/alkemio-release-2023-09-29" target="_blank">2023-09-29</a>: 
+<i>"Refresh Space Dashboard and settings, extended character limits, and performance improvements"</i> </li>
+
 <li><a href="https://alkem-25488729.hs-sites-eu1.com/alkemio-release-2023-08-04" target="_blank">2023-08-04</a>: 
 <i>"Email Notifications, Notifications for new activities, Callouts and Calendar in Challenges and Opportunities"</i> </li>
 
