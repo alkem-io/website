@@ -15,8 +15,8 @@ tags:
 - membership
 - challenge
 - hub
-#categories:
-#- Demo
+categories:
+- Platform
 
 
 featured: false

@@ -16,8 +16,8 @@ tags:
 - stewardownership
 
 draft: false
-#categories:
-#- Demo
+categories:
+- Foundation
 
 
 featured: false

@@ -15,8 +15,8 @@ tags:
 
 
 draft: false
-#categories:
-#- Demo
+categories:
+- Foundation
 
 
 featured: false

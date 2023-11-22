@@ -12,8 +12,8 @@ authors:
 tags:
 - codeforall
 - collaboration
-#categories:
-#- Demo
+categories:
+- Platform
 
 
 featured: false

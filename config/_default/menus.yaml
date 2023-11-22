@@ -39,12 +39,12 @@ main:
     indentifier: about-news
     name: News
     url: 'news'
-    weight: 30
+    weight: 4
   - parent: about-main
     indentifier: about-contact
     name: Contact
     url: 'contact'
-    weight: 4
+    weight: 5
 
 main_right:
   - name: Visit the platform

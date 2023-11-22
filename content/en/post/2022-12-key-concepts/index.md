@@ -17,8 +17,8 @@ tags:
 - cooperation
 
 
-#categories:
-#- Demo
+categories:
+- Platform
 
 
 featured: false

@@ -12,8 +12,8 @@ authors:
 tags:
 - ssi
 - grant
-#categories:
-#- Demo
+categories:
+- Platform
 
 
 featured: false

@@ -16,8 +16,8 @@ tags:
 - collaboration
 - government
 - impact
-#categories:
-#- Demo
+categories:
+- Foundation
 
 featured: false
 draft: false

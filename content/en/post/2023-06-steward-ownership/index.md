@@ -16,8 +16,8 @@ tags:
 - netherlands
 - society
 - positive impact
-#categories:
-#- Demo
+categories:
+- Foundation
 
 
 featured: false

@@ -15,8 +15,8 @@ tags:
 - collaboration
 - open source
 
-#categories:
-#- Demo
+categories:
+- Foundation
 
 
 featured: false

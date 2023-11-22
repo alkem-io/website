@@ -14,8 +14,8 @@ tags:
 - community
 - collaboration
 - biomimicry
-#categories:
-#- Demo
+categories:
+- Platform
 
 
 featured: false

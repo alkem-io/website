@@ -13,8 +13,8 @@ authors:
 tags:
 - interview
 - collaboration
-#categories:
-#- Demo
+categories:
+- Platform
 
 
 featured: false

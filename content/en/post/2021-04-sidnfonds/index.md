@@ -15,8 +15,8 @@ tags:
 - SSI
 - partners
 - tech4good
-#categories:
-#- Demo
+categories:
+- Foundation
 
 
 featured: false

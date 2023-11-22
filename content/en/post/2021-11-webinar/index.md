@@ -14,8 +14,8 @@ tags:
 - interview
 - collaboration
 - webinar
-#categories:
-#- Demo
+categories:
+- Platform
 
 
 featured: false

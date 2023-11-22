@@ -17,8 +17,8 @@ tags:
 - building
 
 
-#categories:
-#- Demo
+categories:
+- Foundation
 
 
 featured: false

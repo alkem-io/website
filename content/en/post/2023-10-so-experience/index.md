@@ -17,8 +17,8 @@ tags:
 - governance
 - public-private-partnerships
 - public-goods
-#categories:
-#- Demo
+categories:
+- Foundation
 
 featured: false
 draft: false

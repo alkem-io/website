@@ -21,8 +21,8 @@ tags:
 - GDPR
 
 
-#categories:
-#- Demo
+categories:
+- Foundation
 
 
 featured: false
