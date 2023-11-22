@@ -13,8 +13,8 @@ main:
   - name: Partners
     url: 'partners'
     weight: 20
-  - name: News
-    url: 'news'
+  - name: Investing
+    url: 'investors'
     weight: 30
   - name: About
     identifier: about-main
@@ -35,6 +35,11 @@ main:
     name: Background
     url: 'background'
     weight: 3
+  - parent: about-main
+    indentifier: about-news
+    name: News
+    url: 'news'
+    weight: 30
   - parent: about-main
     indentifier: about-contact
     name: Contact

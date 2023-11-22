@@ -36,7 +36,8 @@ design:
  <br> <br>
  The trigger was frustration at lack of progress collaborating on COVID-related challenges, but also recognizing the many fast-moving challenges in our lives.
   <br> <br>
-  To make society more inclusive, improve energy security, tackle the cost of living crises and the impact of AI on our jobs and education, and many more.  <br> <br>
+  To make society more inclusive, improve energy security, tackle the cost of living crises and the impact of AI on our jobs and education, and many more.  
+  <br> <br>
   Connect, collaborate and contribute! 
   </div>
     <div class="col-sm m-auto"> 

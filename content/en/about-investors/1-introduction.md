@@ -28,8 +28,10 @@ design:
 ## **Do Well and Do Good**
 Investors can accelerate the positive impact Alkemio has on society. 
 
-With attractive returns for early investors. Timing is right for Alkemio, with lower risk as aligned with powerful trends in society.
+With attractive returns for early investors. Timing is right for Alkemio, with lower risk as aligned with powerful trends in society.  
 
-The ambitious vision needs resources to make it happen. To be the successful and game-changing platform for solving challenges in society. Join us on the exciting journey!
+The ambitious vision needs resources to make it happen. To be the successful and game-changing platform for solving challenges in society. 
+
+*Join us on the exciting journey!*
 
 

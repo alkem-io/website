@@ -7,7 +7,7 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 4
+weight: 10
 
 # Section title
 #title: What is the problem?
@@ -29,4 +29,6 @@ design:
     padding: ["30px", "0px","0px","0px"]
   view: showcase
   flip_alt_rows: true
+  background:
+    color: rgb(247, 247, 247)
 ---

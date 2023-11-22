@@ -22,6 +22,8 @@ design:
     padding: ["20px", "0", "10px", "0"]
   background:
     color: rgb(247, 247, 247)
+  advanced:
+    css_style: "text-align: center;"
 ---
 
 Alkemio Foundation oversees the development of the Alkemio platform. 
