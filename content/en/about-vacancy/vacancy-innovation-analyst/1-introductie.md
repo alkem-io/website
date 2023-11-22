@@ -10,13 +10,13 @@ share: false
 headless: true
 
 # Order that this section appears on the page.
-weight: 5
+weight: 1
 
 # Section title
-title: 
+title: Innovation Analyst
 
 # Section subtitle
-subtitle: 
+subtitle: Wij zijn op zoek naar de toekomstige leiders voor onze Tech-for-good SaaS startup Alkemio.
 
 # Section design
 design:
@@ -26,7 +26,3 @@ design:
     # Customize the section spacing. Order is top, right, bottom, left.
     padding: ["20px", "0", "20px", "0"]
 ---
-* #### Wil je weten hoe het platform werkt? Kijk dan op https://alkem.io/ 
-* #### De sterke kernwaarden van de Alkemio organisatie vind je in ons [Manifesto](https://www.alkemio.org/manifesto/) 
-* #### Voor meer informatie over de vacature stuur gerust een email met jouw vragen naar <a href="mailto:hr@alkem.io"> hr@alkem.io </a> 
-* #### Je kunt ook contact opnemen als je geïnteresseerd bent in een stage. 

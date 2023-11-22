@@ -10,13 +10,13 @@ share: false
 headless: true
 
 # Order that this section appears on the page.
-weight: 1
+weight: 5
 
 # Section title
-title: Innovation Coordinator
+title: 
 
 # Section subtitle
-subtitle: Wij zijn op zoek naar de toekomstige leiders voor onze Tech-for-good SaaS startup Alkemio.
+subtitle: 
 
 # Section design
 design:
@@ -26,3 +26,10 @@ design:
     # Customize the section spacing. Order is top, right, bottom, left.
     padding: ["20px", "0", "20px", "0"]
 ---
+<h2 class="text-center"> Interesse? </h2>
+
+Solliciteer direct door je CV en motivatiebrief te sturen naar hr@alkem.io
+**Deadline**: 1 december, 2023
+                    
+Het platform: https://alkem.io      
+Alkemio organisatie: https://alkemio.org
