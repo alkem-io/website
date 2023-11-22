@@ -29,6 +29,7 @@ design:
 <h2 class="text-center"> Interesse? </h2>
 
 Solliciteer direct door je CV en motivatiebrief te sturen naar hr@alkem.io
+
 **Deadline**: 1 december, 2023
                     
 Het platform: https://alkem.io      

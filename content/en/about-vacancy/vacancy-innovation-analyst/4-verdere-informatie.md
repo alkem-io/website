@@ -24,7 +24,7 @@ design:
   columns: "1"
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
-    padding: ["20px", "0", "0px", "0"]
+    padding: ["20px", "0", "20px", "0"]
 ---
 <h2 class="text-center"> Wat wij Vragen </h2>
 - Beschikbaarheid: 4-5 dagen per week, waarvan 3 dagen on-site in Den Haag. We houden kantoor in The Hague Tech.

@@ -24,7 +24,7 @@ design:
   columns: "1"
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
-    padding: ["0px", "0", "40px", "0"]
+    padding: ["20px", "0", "20px", "0"]
 ---
 <h2 class="text-center"> Over Alkemio </h2>
 Alkemio ontwikkelt een digitaal samenwerkingsplatform voor organisaties, NGO's, overheden en individuen om urgente maatschappelijke problemen aan te pakken. Wij bouwen aan een wereld waar publieke waarden centraal staan, door middel van samenwerking, kennisuitwisseling en praktische oplossingen.
