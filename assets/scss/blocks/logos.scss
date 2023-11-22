@@ -1,0 +1,17 @@
+// Wowchemy Sponsors: Logos Block
+// Licensed to Wowchemy Sponsors Only - do not redistribute
+// https://wowchemy.com/sponsor/
+
+.wg-logos img {
+  // Ensure same max size on desktop and mobile (prevent larger logos on mobile due to less columns).
+  max-width: 150px;
+  max-height: 100px;
+}
+
+//.img-grayscale {
+//  filter: grayscale(100%);
+//}
+
+.dark .img-grayscale {
+  filter: grayscale(100%) invert(1);
+}

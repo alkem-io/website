@@ -1,0 +1,180 @@
+/**********
+  Variables
+**********/
+$button-color: #1D384A;
+$features-column-width: 200px;
+
+$header-items-margin: 21px; //?? get this from somewhere else
+$pricing-height: 0;          // pending price?
+$description-height: 70px;
+$button-height: 50px;       //?? get this from somewhere else
+$features-list-title-height: 40px;
+
+// Header + hr + description + button + features title
+$features-column-paddingTop: 63px + $header-items-margin * 2 + $pricing-height + $description-height + $header-items-margin + $button-height + $features-list-title-height + $header-items-margin * 3;
+
+$feature-height: 140px;
+
+
+/**********
+  Common
+**********/
+* {
+  box-sizing: border-box;
+}
+.subscriptions.grid-container {
+  display: grid;
+  margin-top: 30px;
+  column-gap: 30px;
+  row-gap: 50px;
+}
+
+.subscriptions {
+  .card {
+    border-radius: 12px;
+  }
+  p, li {
+    font-size: 14px;
+  }
+  .column {
+    transition: all 0.2s ease-out;
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    text-align: center;
+  }
+
+  // Left column with Features names list
+  .column.features-titles {
+    background-color: transparent;
+    padding-top: $features-column-paddingTop;
+  }
+  .features-titles ul, ul.features-list {
+    list-style: none;
+    padding-left: 0;
+  }
+  .features-titles li {
+    height: $feature-height;
+    font-size: 16px;
+    text-align: right;
+    font-weight: bold;
+  }
+
+  .features-list li {
+    height: $feature-height;
+  }
+
+  // Buttons
+  .button {
+    color: white;
+    border: 2px solid $button-color;
+    padding: 10px 0;
+    background-color: #1D384A;
+    border-radius: 12px;
+    text-align: center;
+    font-size: 18px;
+    text-wrap: nowrap;
+    text-decoration: none;
+  }
+  .button:hover {
+    background-color: #FFFFFF;
+    border: 2px solid #1D384A;
+    color: #1D384A;
+  }
+
+  .column .description {
+    min-height: $description-height;
+  }
+
+
+  // Plan Features list
+  .column .features-title {
+    margin: $header-items-margin 0;
+    height: $features-list-title-height;
+  }
+
+  // Grey price at the bottom
+  .grey-bottom {
+    display: flex;
+    flex-direction: column;
+    padding: 0 20px 25px 20px;
+    background-color: #eee;
+    margin: 0 -20px -20px;
+    position: relative;
+    top: 10px;
+    font-size: 20px;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+  }
+
+  /* Hover shadow effect */
+  @media (min-width: 992px) {
+    .column:not(.features-titles):hover {
+      margin-top: -.25rem;
+      box-shadow: 0 0.5rem 1rem 0 rgba(0, 0, 0, 0.3);
+    }
+
+    .column:hover .btn {
+      opacity: 1;
+    }
+  }
+
+}
+
+/****************
+  Responsiveness
+****************/
+// Big screens 5 columns. first one is feature list
+@media (min-width: 1200px) {
+  .subscriptions.grid-container {
+    grid-template-columns: $features-column-width repeat(4, minmax(0, 1fr));
+  }
+  .features-titles {
+    display: none;
+  }
+  .features-titles:first-child {
+    display: block;
+  }
+}
+
+// Medium screens 3 columns. Category list twice
+@media (min-width: 992px) and (max-width: 1199px) {
+  .subscriptions.grid-container {
+    grid-template-columns: $features-column-width repeat(2, minmax(0, 1fr));
+  }
+  .features-titles {
+    display: none;
+  }
+  .features-titles:first-child {
+    display: block;
+  }
+  .features-titles:nth-child(5) {
+    display: block;
+  }
+}
+
+// Small screens 2 columns. Category list for every column
+@media (max-width: 991px) {
+  .subscriptions.grid-container {
+    grid-template-columns: $features-column-width auto;
+  }
+  .features-titles {
+    display: block;
+  }
+}
+
+// Fix some responsive problems
+@media (max-width: 927px) {
+  .subscriptions .column.features-titles {
+    padding-top: $features-column-paddingTop - $header-items-margin;
+  }
+}
+@media (max-width: 430px) {
+  .subscriptions.grid-container {
+    grid-template-columns: auto;
+    margin: 0 5px;
+  }
+  .subscriptions .column.features-titles {
+    display: none!important;
+  }
+}
+
