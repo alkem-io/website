@@ -5,8 +5,6 @@ type: landing
 sections:
   - block: markdown
     content:
-      title: 
-      # Add your Hero text here
       text: |-
         <div class="container" >
         <div class="row">
@@ -79,7 +77,7 @@ sections:
       title: A digital platform with a difference
       image:
         # Reference an image in your `assets/media/` folder
-        filename: /home/laptop.png
+        filename: home/laptop.png
         position: 'left'
         alt: 'laptop'
         height: 300
