@@ -45,9 +45,9 @@ sections:
     content:
       slides:
         slide1:
-          - partners/uwv.svg
-          - partners/vng.svg
-          - partners/digicampus.svg
+          - /partners/uwv.svg
+          - /partners/vng.svg
+          - /partners/digicampus.svg
 
         slide2:
           - partners/gemeente-den-haag.svg
@@ -71,21 +71,7 @@ sections:
         filename: /home/laptop.png
         position: 'left'
         alt: 'laptop'
-        height: 300
-      # Add your Call-To-Action (CTA) button and optional icon
-      cta:
-        label: Join here!
-        url: https://alkem.io/home
-        #icon_pack: fas
-        #icon: download
-      # Optionally, add an alternative CTA link
-      cta_alt:
-        label: 
-        url: 
-      # Optionally, add a note under the Call-To-Action button
-      cta_note:
-        label: >-
-       
+        height: 300      
       # Add your Hero text here
       text: |-
         'where openness, trust and a purpose to benefit society are key values
@@ -101,29 +87,16 @@ sections:
         gradient_start: white
         text_color_light: false
 
-  - block: hero
+  - block: left-right
     content:
       title: Together we can
       image:
         # Reference an image in your `assets/media/` folder
-        filename: silos.png
-      # Add your Call-To-Action (CTA) button and optional icon
-      cta:
-        label: Join here!
-        url: https://alkem.io/home
-        #icon_pack: fas
-        #icon: download
-      # Optionally, add an alternative CTA link
-      cta_alt:
-        label: 
-        url: 
-      # Optionally, add a note under the Call-To-Action button
-      cta_note:
-        label: >-
-       
+        filename: /home/silos.png
+        position: 'right'  
       # Add your Hero text here
       text: |-
-        'realize the ambitious vision and make impact  
+        realize the ambitious vision and make impact  
 
         - Working with a community of partners that share the vision
 
@@ -135,25 +108,13 @@ sections:
         gradient_start: white
         text_color_light: false
 
-  - block: hero
+  - block: left-right
     content:
       title: Purpose driven to benefit society
       image:
         # Reference an image in your `assets/media/` folder
-        filename: sdgs.png
-      # Add your Call-To-Action (CTA) button and optional icon
-      cta:
-        label: Join here!
-        url: https://alkem.io/home
-        #icon_pack: fas
-        #icon: download
-      # Optionally, add an alternative CTA link
-      cta_alt:
-        label: 
-        url: 
-      # Optionally, add a note under the Call-To-Action button
-      cta_note:
-        label: >-
+        filename: /home/sdgs.png
+        position: 'left'
        
       # Add your Hero text here
       text: |-
@@ -169,29 +130,15 @@ sections:
         gradient_start: white
         text_color_light: false
 
-  - block: hero
+  - block: left-right
     content:
       title: Timing is right for alkemio
       image:
         # Reference an image in your `assets/media/` folder
-        filename: purpose.png
-      # Add your Call-To-Action (CTA) button and optional icon
-      cta:
-        label: Join here!
-        url: https://alkem.io/home
-        #icon_pack: fas
-        #icon: download
-      # Optionally, add an alternative CTA link
-      cta_alt:
-        label: 
-        url: 
-      # Optionally, add a note under the Call-To-Action button
-      cta_note:
-        label: >-
-       
+        filename: /home/purpose.png      
       # Add your Hero text here
       text: |-
-        'aligned with powerful trends
+        aligned with powerful trends
 
         - concern over big tech 
 
