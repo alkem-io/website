@@ -8,7 +8,7 @@ sections:
       title: Alkemio Foundation
       image:
         # Reference an image in your `assets/media/` folder
-        filename: hero-academic.png
+        filename: #link
       # Add your Call-To-Action (CTA) button and optional icon
       cta:
         label: Join here!
@@ -74,7 +74,7 @@ sections:
       title: A digital platform with a difference
       image:
         # Reference an image in your `assets/media/` folder
-        filename: laptop.png
+        filename: home/laptop.png
       # Add your Call-To-Action (CTA) button and optional icon
       cta:
         label: Join here!
@@ -109,7 +109,7 @@ sections:
       title: Together we can
       image:
         # Reference an image in your `assets/media/` folder
-        filename: silos.png
+        filename: home/silos.png
       # Add your Call-To-Action (CTA) button and optional icon
       cta:
         label: Join here!
@@ -143,7 +143,7 @@ sections:
       title: Purpose driven to benefit society
       image:
         # Reference an image in your `assets/media/` folder
-        filename: sdgs.png
+        filename: home/sdgs.png
       # Add your Call-To-Action (CTA) button and optional icon
       cta:
         label: Join here!
@@ -177,7 +177,7 @@ sections:
       title: Timing is right for alkemio
       image:
         # Reference an image in your `assets/media/` folder
-        filename: purpose.png
+        filename: home/purpose.png
       # Add your Call-To-Action (CTA) button and optional icon
       cta:
         label: Join here!
