@@ -3,37 +3,33 @@ title: Home
 type: landing
 
 sections:
-  - block: hero
+  - block: Markdown
     content:
-      title: Alkemio Foundation
-      image:
-        # Reference an image in your `assets/media/` folder
-        filename: hero-academic.png
-      # Add your Call-To-Action (CTA) button and optional icon
-      cta:
-        label: Join here!
-        url: https://alkem.io/home
-        #icon_pack: fas
-        #icon: download
-      # Optionally, add an alternative CTA link
-      cta_alt:
-        label: 
-        url: 
-      # Optionally, add a note under the Call-To-Action button
-      cta_note:
-        label: >-
-       
+      title: 
       # Add your Hero text here
       text: |-
-        Alkemio Foundation</h2>
+        <div class="container" >
+        <div class="row">
+          <div class="col-sm mb-4">
+        <h2 class="font-weight-bold" >Alkemio Foundation</h2>
         Established in 2020 with the belief that there must be a better and faster way of working together to make progress! 
         <br> <br>
         The trigger was frustration at lack of progress collaborating on COVID-related challenges, but also recognizing the many fast-moving challenges in our lives.
-        <br> <br>
-        To make society more inclusive, improve energy security, tackle the cost of living crises and the impact of AI on our jobs and education, and many more.  <br> <br>
-        Connect, collaborate and contribute!
-        
-        </br>
+          <br> <br>
+          To make society more inclusive, improve energy security, tackle the cost of living crises and the impact of AI on our jobs and education, and many more.  <br> <br>
+          Connect, collaborate and contribute! 
+          </div>
+            <div class="col-sm m-auto"> 
+              <div style="padding:56.25% 0 0 0;position:relative;">
+                <iframe src="https://player.vimeo.com/video/834051491" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen>
+                </iframe>
+              </div>
+              <script src="https://player.vimeo.com/api/player.js"></script>
+            </div> 
+          </div>
+
+          <div style="width:50%" class="">
+          </div>
     design:
       # Choose an optional background color, gradient, image, or video
       background:
