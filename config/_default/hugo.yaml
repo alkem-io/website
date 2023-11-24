@@ -1,18 +1,11 @@
 # Configuration of Hugo
-# Guide: https://wowchemy.com/docs/getting-started/
+# Guide: https://docs.hugoblox.com/tutorial/
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: "Alkemio Foundation"  # Website name
 baseurl: "/" # Website URL
 
-# option to set relativeURLs (e.g. for IPFS)
-#elativeURLS: false
-
-# false means that the robots.txt file in /static is used (which is set to disallow everything)
-# by changing this parameter in the build command to true the default template with allow all setting will be used
-# this is useful for ensuring and draft website is not indexed.
-enableRobotsTXT: false
 
 ############################
 ## LANGUAGE
@@ -23,17 +16,6 @@ hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
 
-############################
-## MODULES
-############################
-
-module:
-  imports:
-    - path: github.com/alkem-io/website-cms
-    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify
-    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-reveal
-    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5
-    - path: github.com/alkem-io/website-wowchemy-blocks
 
 ############################
 ## ADVANCED
@@ -45,16 +27,14 @@ Params:
 
 enableGitInfo: false
 summaryLength: 30
-paginate: 100
+paginate: 10
 enableEmoji: true
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
 ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
 permalinks:
-  event: '/talk/:slug/'
   tags: '/tag/:slug/'
   categories: '/category/:slug/'
-  publication_types: '/publication-type/:slug/'
 disableAliases: true
 outputs:
   home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
@@ -67,10 +47,11 @@ timeout: 600000
 taxonomies:
   tag: tags
   category: categories
-  publication_type: publication_types
-  author: authors
 markup:
-  _merge: deep
+  merge: _deep
+  goldmark:
+    renderer:
+      unsafe: true # set this to true to allow html inline
 related:
   threshold: 80
   includeNewer: true
@@ -82,5 +63,5 @@ related:
       weight: 70
 security:
   _merge: deep
-sitemap:
+minify:
   _merge: deep
