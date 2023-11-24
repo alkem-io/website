@@ -10,17 +10,17 @@ headless: true
 weight: 25
 
 # Section title
-title: 
+title:
 
 # Section subtitle
-subtitle: 
+subtitle:
 
 # Section design
 design:
   columns: '2'
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
-    padding: ["20px", "0", "10px", "0"]
+    padding: ['20px', '0', '10px', '0']
 
 # Hero image (optional). Enter filename of an image in the page folder.
 hero_media: ''
@@ -30,7 +30,7 @@ hero_media: ''
 #   Remove a link/note by deleting a cta/note block.
 cta:
   url: '/investors'
-  label: '   interested in investing?'
+  label: '   Interested in investing?'
   icon_pack: fas
   icon: euro-sign
 cta_alt:
