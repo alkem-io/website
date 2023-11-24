@@ -28,7 +28,7 @@ design:
 
 Alkemio Foundation oversees the development of the Alkemio platform. 
 
-Please visit the **[Alkemio team page](https://welcome.alkem.io/about-en/)** for additional information about the team realizing the Alkemio vision, as well as for open vacancies.  
+Please visit the **[Alkemio team page](https://welcome.alkem.io/team/)** for additional information about the team realizing the Alkemio vision, as well as for open vacancies.  
 
 
 
