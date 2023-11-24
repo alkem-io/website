@@ -16,8 +16,8 @@ tags:
 
 
 draft: false
-#categories:
-#- Demo
+categories:
+- Platform
 
 
 featured: false

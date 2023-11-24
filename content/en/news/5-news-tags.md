@@ -17,5 +17,5 @@ design:
   spacing:
     padding: ['30px', '0px', '50px', '0px']  
   background:
-    color: 'white'
+    color: rgb(247, 247, 247)
 ---

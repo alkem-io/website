@@ -15,8 +15,8 @@ tags:
 - whiteboard
 - samenwerken
 - best practices
-#categories:
-#- Demo
+categories:
+- Platform
 
 
 featured: false

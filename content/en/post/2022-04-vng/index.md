@@ -16,8 +16,8 @@ tags:
 - netherlands
 - innovatie
 - partner
-#categories:
-#- Demo
+categories:
+- Foundation
 
 
 featured: false

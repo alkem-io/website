@@ -12,8 +12,8 @@ authors:
 tags:
 - alignment
 - collaboration
-#categories:
-#- Demo
+categories:
+- Foundation
 
 
 featured: false

@@ -12,8 +12,8 @@ authors:
 tags:
 - reference
 - why
-#categories:
-#- Demo
+categories:
+- Foundation
 
 
 featured: false

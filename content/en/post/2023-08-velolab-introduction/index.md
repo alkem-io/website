@@ -18,8 +18,8 @@ tags:
 - germany
 - recycling
 - community
-#categories:
-#- Demo
+categories:
+- Platform
 
 featured: false
 draft: false

@@ -8,7 +8,6 @@ math: false
 diagram: false
 summary: "Connecting citizens with their urban environment for positive change"
 authors:
-
 - zondag-myrthe
 - depaiva-marina
 - rosso-francesco
@@ -20,8 +19,8 @@ tags:
 - governance
 - public-private-partnerships
 - public-goods
-#categories:
-#- Demo
+categories:
+  - Platform
 
 featured: false
 draft: false

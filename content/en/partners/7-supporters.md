@@ -45,13 +45,8 @@ design:
       <img src="./logos/jolocom.png" alt="Jolocom logo"> </a>
    </div>
 </div>
-<!-- Second row -->
-<div class="row align-items-top text-center  mt-4 ">
-  <div class="col partner-logo-2-row"> 
-    <a href="https://www.kvk.nl/" target="_blank"> 
-    <img src="./logos/kvk.svg" alt="Kamer van Koophandel logo" style="object-fit: contain; max-width:90%; margin:auto; height:75px;"> </a>
-  </div>
-<div class="container mt-3 mb-1">
 <!-- First row -->
 <div class="col text-center">
     <div>*eSSIF-Lab is funded by the European Commission, as part of the Horizon 2020 Research and Innovation Programme, under Grant Agreement Nº 871932 and it’s framed under Next Generation Internet Initiative.
+     </div>
+</div>

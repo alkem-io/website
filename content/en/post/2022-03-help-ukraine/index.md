@@ -16,8 +16,8 @@ tags:
 - netherlands
 - society
 - democracy
-#categories:
-#- Demo
+categories:
+- Foundation
 
 
 featured: false

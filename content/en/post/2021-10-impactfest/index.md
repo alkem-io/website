@@ -13,8 +13,8 @@ authors:
 tags:
 - tech4good
 - collaboration
-#categories:
-#- Demo
+categories:
+- Platform
 
 
 featured: false

@@ -13,48 +13,38 @@ main:
   - name: Partners
     url: 'partners'
     weight: 20
-  - name: News
-    url: 'news'
+  - name: Investing
+    url: 'investors'
     weight: 30
   - name: About
     identifier: about-main
     url: 'about'
     weight: 40
   - parent: about-main
-    indentifier: about-team
-    name: Our team
+    indentifier: about-governance
+    name: Governance
     url: 'about'
     weight: 1
-  - parent: about-main
-    indentifier: about-contact
-    name: Contact
-    url: 'contact'
-    weight: 2
   - parent: about-main
     indentifier: about-structure
     name: Structure
     url: 'structure'
-    weight: 3
-  - parent: about-main
-    indentifier: about-contact
-    name: Contact
-    url: 'contact'
-    weight: 4
-  - parent: about-main
-    indentifier: about-support
-    name: Support
-    url: 'help'
-    weight: 5
+    weight: 2
   - parent: about-main
     indentifier: about-background
     name: Background
     url: 'background'
-    weight: 8
+    weight: 3
   - parent: about-main
-    indentifier: about-faq
-    name: FAQ
-    url: 'faq'
-    weight: 9
+    indentifier: about-news
+    name: News
+    url: 'news'
+    weight: 4
+  - parent: about-main
+    indentifier: about-contact
+    name: Contact
+    url: 'contact'
+    weight: 5
 
 main_right:
   - name: Visit the platform
