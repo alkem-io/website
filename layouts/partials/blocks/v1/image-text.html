@@ -1,0 +1,21 @@
+{{/* Alkemio custom image-text block */}}
+
+{{ $block := .wcBlock.Params.Content }}
+
+<div class="row align-items-center">
+  <div class="col-12 col-md-6">
+    {{ with $block.title }}<div class="section-subheading article-title mb-0 mt-0">{{ . | markdownify }}</div>{{ end }}
+    {{ with $block.subtitle }}<div class="article-style">{{ . | markdownify }}</div>{{ end }}
+    {{ with $block.text }}<div class="article-style">{{ . | markdownify }}</div>{{ end }}
+    <div class="btn-links">
+    </div>
+  </div>
+  {{ with $block.image }}
+  <div class='col-12 col-md-6 {{ if eq .position "left" }} order-first {{ end }}'>
+      <img src=".{{  $block.image.filename | relURL }}" {{ if .width }} width="{{ .width }}" {{ end }} {{ if .height }} height="{{ .height }}" {{ end }} {{ if .alt }} alt="{{ .alt }}" {{ end }} loading="lazy">
+  </div>
+
+  {{ end }}
+</div>
+
+
