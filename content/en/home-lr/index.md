@@ -43,7 +43,7 @@ sections:
       spacing:
         # Customize the section spacing. Order is top, right, bottom, left.
         padding: []
-  - block: hero-custom-left
+  - block: hero-custom
     content:
       title: Together we can 
       image:
