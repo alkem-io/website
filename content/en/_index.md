@@ -74,7 +74,7 @@ sections:
       title: A digital platform with a difference
       image:
         # Reference an image in your `assets/media/` folder
-        filename: index1.png
+        filename: laptop.png
       # Add your Call-To-Action (CTA) button and optional icon
       cta:
         label: Join here!
@@ -109,7 +109,7 @@ sections:
       title: Together we can
       image:
         # Reference an image in your `assets/media/` folder
-        filename: index2.png
+        filename: silos.png
       # Add your Call-To-Action (CTA) button and optional icon
       cta:
         label: Join here!
@@ -143,7 +143,7 @@ sections:
       title: Purpose driven to benefit society
       image:
         # Reference an image in your `assets/media/` folder
-        filename: index3.png
+        filename: sdgs.png
       # Add your Call-To-Action (CTA) button and optional icon
       cta:
         label: Join here!
@@ -177,7 +177,7 @@ sections:
       title: Timing is right for alkemio
       image:
         # Reference an image in your `assets/media/` folder
-        filename: index4.png
+        filename: purpose.png
       # Add your Call-To-Action (CTA) button and optional icon
       cta:
         label: Join here!
