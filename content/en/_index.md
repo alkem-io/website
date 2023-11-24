@@ -31,7 +31,7 @@ sections:
     design:
       spacing:
         # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ["20px", "0", "20px", "0"]
+        padding: ['20px', '0', '20px', '0']
       # Choose an optional background color, gradient, image, or video
       background:
         color: white
@@ -44,17 +44,17 @@ sections:
         filename:
       # Add your Call-To-Action (CTA) button and optional icon
       cta:
-        url: "https://welcome.alkemio.org/investors"
-        label: Want to Accelerate Imact?
+        url: 'https://welcome.alkemio.org/investors'
+        label: Want to Accelerate Impact?
     design:
       columns: '2'
       spacing:
-      # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ["20px", "0", "10px", "0"]
+        # Customize the section spacing. Order is top, right, bottom, left.
+        padding: ['20px', '0', '10px', '0']
       # Choose an optional background color, gradient, image, or video
       background:
         color: rgb(247, 247, 247)
-      
+
   - block: 'carousel-widget'
     content:
       slides:
@@ -173,7 +173,7 @@ sections:
       # Choose an optional background color, gradient, image, or video
       background:
         color: rgb(247, 247, 247)
-    
+
   - block: hero
     content:
       title:
@@ -187,11 +187,9 @@ sections:
     design:
       columns: '2'
       spacing:
-    # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ["20px", "0", "10px", "0"]
+        # Customize the section spacing. Order is top, right, bottom, left.
+        padding: ['20px', '0', '10px', '0']
       # Choose an optional background color, gradient, image, or video
       background:
         color: white
-
-
 ---
