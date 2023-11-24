@@ -7,7 +7,7 @@
 
 <!-- Indicators for carousel -->
     <ol class="carousel-indicators" style="top:60px;">
-        {{ range $index, $slides := $block.Params.content.slides }}
+        {{ range $index, $slides := $block.content.slides }}
         {{ $i := eq $index "slide1" }}
         <li data-target="#carousel" class="{{ if $i }}active{{ end }}"
             style="filter: invert(43%) sepia(90%) saturate(3543%) hue-rotate(161deg) brightness(81%) contrast(95%); height:3px; margin-bottom:5px;"
@@ -15,22 +15,25 @@
         {{ end }}
      </ol>
 <!-- Image section of carousel -->
-    <div class="carousel-inner" style="max-width: 85%; margin: 0 auto; height:65px;">
-        {{ range $index, $slides := $block.Params.content.slides }}
-        {{ $i := eq $index "slide1" }}
-        <div class="carousel-item {{ if $i }} active {{ end }} ">
-            <div class="d-flex justify-content-md-center align-items-center">
-                {{ range $index2, $slide := $slides }}
-                {{$image := resources.Get $slide}}
+<div class="carousel-inner" style="max-width: 85%; margin: 0 auto; height:65px;">
+    {{ range $index, $slides := $block.content.slides }}
+    {{ $i := eq $index "slide1" }}
+    <div class="carousel-item {{ if $i }} active {{ end }} ">
+        <div class="d-flex justify-content-md-center align-items-center">
+            {{ range $index2, $slide := $slides }}
+                
+                {{- $image := resources.Get (path.Join "media" $slide) -}}
                 <div class="col-sm text-center">
-                    <img class="d-block mx-auto" style="max-height: 50px;margin-top:5px;" src="{{$image.Permalink}}" alt="Second slide">
+                    <img class="d-block mx-auto" style="max-height: 50px;margin-top:5px;" src="{{$image}}" alt="Second slide"> <!-- TODO: use rel permalink -->
                 </div>
-                {{ end }}
-            </div>
-
+                
+            {{ end }}
         </div>
-       {{ end }}
+
     </div>
+   {{ end }}
+</div>
+  
 <!-- Arrows/Navigation of carousel -->
 <div class="d-none d-md-block">
     <a class="carousel-control-prev"

@@ -41,40 +41,37 @@ sections:
         gradient_start: white
         text_color_light: false
 
-  #- block: 'carousel-widget'
+  - block: 'carousel-widget'
+    content:
+      slides:
+        slide1:
+          - partners/uwv.svg
+          - partners/vng.svg
+          - partners/digicampus.svg
 
-# This file represents a page section.
-#headless: true
+        slide2:
+          - partners/gemeente-den-haag.svg
+          - partners/govtechnl.svg
 
-# Order that this section appears on the page.
-#weight: 3
+        slide3:
+          - partners/velokonzept.svg   
+          - partners/tip.svg
+          - partners/ngi-essiflab.jpg
+    design:
+      spacing:
+          padding: ["30px", "0", "30px", "0"]
 
-#design:
-    #spacing:
-        #padding: ["30px", "0", "30px", "0"]
 
-#content:
-    #slides:
-        #slide1:
-            #- media/partners/uwv.svg
-            #- media/partners/vng.svg
-            #- media/partners/digicampus.svg
 
-        #slide2:
-            #- media/partners/gemeente-den-haag.svg
-            #- media/partners/govtechnl.svg
-
-        #slide3:
-            #- media/partners/velokonzept.svg   
-            #- media/partners/tip.svg
-            #- media/partners/ngi-essiflab.jpg
-
-  - block: hero
+  - block: left-right
     content:
       title: A digital platform with a difference
       image:
         # Reference an image in your `assets/media/` folder
-        filename: laptop.png
+        filename: /home/laptop.png
+        position: 'left'
+        alt: 'laptop'
+        height: 300
       # Add your Call-To-Action (CTA) button and optional icon
       cta:
         label: Join here!
