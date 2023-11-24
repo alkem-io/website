@@ -18,27 +18,16 @@ sections:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
 
-  - block: hero-custom
+  - block: left-right
     content:
       title: What is the problem?
       image:
         # Reference an image in your `assets/media/` folder
         filename: background/progression.jpg
-      # Add your Call-To-Action (CTA) button and optional icon
-      #cta:
-       #label: Join here!
-        #url: https://alkem.io/home
-        #icon_pack: fas
-        #icon: download
-      # Optionally, add an alternative CTA link
-      #cta_alt:
-        #label: 
-        #url: 
-      # Optionally, add a note under the Call-To-Action button
-      #cta_note:
-        #label: >-
-       
-      # Add your Hero text here
+        position: 'left'
+        alt: 'progression'
+        #height: 300
+
       text: |-
         **Society faces complex challenges at all levels**. From cities and national governments working with their citizens to adapt to the opportunities offered by and implications  of rapid technical and societal change, through to global topics such as the UN Sustainable Development Goals (SDGs). Companies need to re-invent themselves to remain relevant, citizens want to connect and contribute. 
 
@@ -53,64 +42,42 @@ sections:
 
         </br>
     design:
+      spacing:
+        padding: ['20px', '0', '20px', '0']
       # Choose an optional background color, gradient, image, or video
       background:
-        gradient_end: white
-        gradient_start: white
-        text_color_light: false
+        color: rgb(247, 247, 247)
 
-  - block: hero-custom
+  - block: left-right
     content:
       title: What are Challenges?
       image:
         # Reference an image in your `assets/media/` folder
         filename: background/journey.jpg
-      # Add your Call-To-Action (CTA) button and optional icon
-      #cta:
-        #label: Join here!
-        #url: https://alkem.io/home
-        #icon_pack: fas
-        #icon: download
-      # Optionally, add an alternative CTA link
-      #cta_alt:
-        #label: 
-        #url: 
-      # Optionally, add a note under the Call-To-Action button
-      #cta_note:
-        #label: >-
-       
-      # Add your Hero text here
+        position: 'right'
+        alt: 'journey'
+        height: 300
+
       text: |-
         A Challenge is a **dissatisfaction with current reality**, in the context of a bigger vision or goal, whereby multiple parties need to coordinate their activities over a longer period to address it. They are typically complex, and span multiple organisational boundaries – and we already see that organisational boundaries are blurring, as the awareness that no one organisation can solve these challenges alone, is growing.
         </br>
     design:
+      spacing:
+        padding: ['20px', '0', '20px', '0']
       # Choose an optional background color, gradient, image, or video
       background:
-        gradient_end: white
-        gradient_start: white
-        text_color_light: false
+        color: white
 
-  - block: hero-custom
+  - block: left-right
     content:
       title: What can we do differently?
       image:
         # Reference an image in your `assets/media/` folder
         filename: background/fragmentation.jpg
-      # Add your Call-To-Action (CTA) button and optional icon
-      #cta:
-        #label: Join here!
-        #url: https://alkem.io/home
-        #icon_pack: fas
-        #icon: download
-      # Optionally, add an alternative CTA link
-      #cta_alt:
-        #label: 
-        #url: 
-      # Optionally, add a note under the Call-To-Action button
-      #cta_note:
-        #label: >-
-       
-      # Add your Hero text here
+        position: 'left'
+        alt: 'fragmentatino'
+        height: 300
+
       text: |-
         'We need a fresh and holistic approach to how we collaborate and manage Challenges. Put the Challenge central. Sounds simple, but with this the focus changes. Desired outcome driven, not activity or organisation driven.
 
@@ -125,11 +92,11 @@ sections:
 
         By making the Challenge **central**, it gives a foundation / approach to ensuring that the needs of citizens and society remain the focus. Critically it enables wider engagement – anyone can contribute to building a better future.
     design:
+      spacing:
+        padding: ['20px', '0', '20px', '0']
       # Choose an optional background color, gradient, image, or video
       background:
-        gradient_end: white
-        gradient_start: white
-        text_color_light: false
+        color: rgb(247, 247, 247)
 
   - block: hero
     content:
@@ -137,7 +104,6 @@ sections:
       image:
         # Reference an image in your `assets/media/` folder
         filename:
-      # Add your Call-To-Action (CTA) button and optional icon
       cta:
         url: 'https://github.com/alkem-io'
         label: Want to contribute?
@@ -149,12 +115,9 @@ sections:
     design:
       columns: '2'
       spacing:
-    # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ["20px", "0", "10px", "0"]
+        padding: ['20px', '0', '20px', '0']
       # Choose an optional background color, gradient, image, or video
       background:
-        gradient_end: white
-        gradient_start: white
-        text_color_light: false
+        color: white
 
 ---

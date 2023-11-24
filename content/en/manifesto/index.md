@@ -14,29 +14,21 @@ sections:
             <p>We are open, and invite all who support the principles of this manifesto to <a href="https://alkem.io/" target="_blank"> join here</a>.<p>
         </div>
     design:
+      spacing:
+        padding: ['30px', '0', '30px', '0']
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
 
-  - block: hero-custom
+  - block: left-right
     content:
       title: We cannot progress alone
       image:
         # Reference an image in your `assets/media/` folder
         filename: manifesto/not-alone.jpg
-      # Add your Call-To-Action (CTA) button and optional icon
-      #cta:
-       #label: Join here!
-        #url: https://alkem.io/home
-        #icon_pack: fas
-        #icon: download
-      # Optionally, add an alternative CTA link
-      #cta_alt:
-        #label: 
-        #url: 
-      # Optionally, add a note under the Call-To-Action button
-      #cta_note:
-        #label: >-
+        position: 'left'
+        alt: 'nature'
+        height: 300
        
       # Add your Hero text here
       text: |-
@@ -46,101 +38,72 @@ sections:
 
         </br>
     design:
+      spacing:
+        padding: ['10px', '0', '10px', '0']
       # Choose an optional background color, gradient, image, or video
       background:
-        gradient_end: white
-        gradient_start: white
-        text_color_light: false
+        color: rgb(247, 247, 247)
+      align: center
 
-  - block: hero-custom
+  - block: left-right
     content:
       title: Across all boundaries
       image:
         # Reference an image in your `assets/media/` folder
         filename: manifesto/across-boundaries.png
-      # Add your Call-To-Action (CTA) button and optional icon
-      #cta:
-        #label: Join here!
-        #url: https://alkem.io/home
-        #icon_pack: fas
-        #icon: download
-      # Optionally, add an alternative CTA link
-      #cta_alt:
-        #label: 
-        #url: 
-      # Optionally, add a note under the Call-To-Action button
-      #cta_note:
-        #label: >-
-       
-      # Add your Hero text here
+        position: 'right'
+        alt: 'powerful trends'
+        height: 300
+
       text: |-
         Alkemio is a platform for **channelling** all the effort and ambition around challenges into solutions. Bringing people together, **sharing knowledge and ideas**, with a clear focus on the **opportunities**. Using **best practices**, the community around a challenge works together to identify next steps and **make progress**.
     design:
+      spacing:
+        padding: ['20px', '0', '20px', '0']
       # Choose an optional background color, gradient, image, or video
       background:
         gradient_end: white
         gradient_start: white
         text_color_light: false
 
-  - block: hero-custom
+  - block: left-right
     content:
       title: Open for all
       image:
         # Reference an image in your `assets/media/` folder
         filename: manifesto/open.png
-      # Add your Call-To-Action (CTA) button and optional icon
-      #cta:
-        #label: Join here!
-        #url: https://alkem.io/home
-        #icon_pack: fas
-        #icon: download
-      # Optionally, add an alternative CTA link
-      #cta_alt:
-        #label: 
-        #url: 
-      # Optionally, add a note under the Call-To-Action button
-      #cta_note:
-        #label: >-
-       
-      # Add your Hero text here
+        position: 'left'
+        alt: 'powerful trends'
+        height: 300
+
       text: |-
         Everyone can contribute. Making it straightforward to find, follow and directly **add value** on challenges. You can easily engage, learn from or add to the collective **wisdom of the community**. An **open source platform**, to benefit everyone.
     design:
+      spacing:
+        padding: ['20px', '0', '20px', '0']
       # Choose an optional background color, gradient, image, or video
       background:
-        gradient_end: white
-        gradient_start: white
-        text_color_light: false
+        color: rgb(247, 247, 247)
+      
 
-  - block: hero-custom
+  - block: left-right
     content:
       title: Living community
       image:
         # Reference an image in your `assets/media/` folder
         filename: manifesto/community.png
-      # Add your Call-To-Action (CTA) button and optional icon
-      #cta:
-        #label: Join here!
-        #url: https://alkem.io/home
-        #icon_pack: fas
-        #icon: download
-      # Optionally, add an alternative CTA link
-      #cta_alt:
-        #label: 
-        #url: 
-      # Optionally, add a note under the Call-To-Action button
-      #cta_note:
-        #label: >-
-       
-      # Add your Hero text here
+        position: 'right'
+        alt: 'powerful trends'
+        height: 300
+
       text: |-
         Building an online **community** around a challenge. Turning individuals and organizations into co-workers. Spotting the right organizations, capabilities and resources to **make progress** on solutions in our fast-moving world.
     design:
+      spacing:
+        padding: ['20px', '0', '20px', '0']
       # Choose an optional background color, gradient, image, or video
       background:
-        gradient_end: white
-        gradient_start: white
-        text_color_light: false
+        color: white
 
   - block: markdown
     content:
@@ -176,11 +139,9 @@ sections:
     design:
       columns: '2'
       spacing:
-    # Customize the section spacing. Order is top, right, bottom, left.
+        # Customize the section spacing. Order is top, right, bottom, left.
         padding: ["20px", "0", "10px", "0"]
       # Choose an optional background color, gradient, image, or video
       background:
-        gradient_end: white
-        gradient_start: white
-        text_color_light: false
+        color: white
 ---

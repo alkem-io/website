@@ -29,33 +29,31 @@ sections:
           <div style="width:50%" class="">
           </div>
     design:
+      spacing:
+        # Customize the section spacing. Order is top, right, bottom, left.
+        padding: ["20px", "0", "20px", "0"]
       # Choose an optional background color, gradient, image, or video
       background:
-        gradient_end: white
-        gradient_start: white
-        text_color_light: false
+        color: white
 
-  - block: hero-custom
+  - block: hero
     content:
-      title: 
-      text: 
+      title:
+      image:
+        # Reference an image in your `assets/media/` folder
+        filename:
+      # Add your Call-To-Action (CTA) button and optional icon
       cta:
         url: "https://welcome.alkemio.org/investors"
         label: Want to Accelerate Imact?
-      cta_note:
-        label: ""
     design:
-      columns: 1
+      columns: '2'
+      spacing:
+      # Customize the section spacing. Order is top, right, bottom, left.
+        padding: ["20px", "0", "10px", "0"]
       # Choose an optional background color, gradient, image, or video
       background:
-        gradient_end: white
-        gradient_start: white
-        text_color_light: false
-      spacing:
-        # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ["20px", "0px", "20px", "0px"]  
-      advanced:
-        css_style: "text-align: center;"
+        color: rgb(247, 247, 247)
       
   - block: 'carousel-widget'
     content:
@@ -69,6 +67,8 @@ sections:
           - /partners/velokonzept.svg
           - /partners/ngi-essiflab.jpg
     design:
+      background:
+        color: white
       spacing:
         padding: ['30px', '0', '30px', '0']
 
@@ -90,11 +90,11 @@ sections:
         - Aligning efforts to solve what really matters, in an effective and scalable way
 
     design:
+      spacing:
+        padding: ['20px', '0', '20px', '0']
       # Choose an optional background color, gradient, image, or video
       background:
-        gradient_end: white
-        gradient_start: white
-        text_color_light: false
+        color: white
 
   - block: left-right
     content:
@@ -103,6 +103,8 @@ sections:
         # Reference an image in your `assets/media/` folder
         filename: /home/silos.png
         position: 'right'
+        alt: 'across silos'
+        height: 300
       # Add your Hero text here
       text: |-
         realize the ambitious vision and make impact  
@@ -111,11 +113,11 @@ sections:
 
         - Open and transparent, building together
     design:
+      spacing:
+        padding: ['20px', '0', '20px', '0']
       # Choose an optional background color, gradient, image, or video
       background:
-        gradient_end: white
-        gradient_start: white
-        text_color_light: false
+        color: rgb(247, 247, 247)
 
   - block: left-right
     content:
@@ -124,6 +126,8 @@ sections:
         # Reference an image in your `assets/media/` folder
         filename: /home/sdgs.png
         position: 'left'
+        alt: 'UN SDGs'
+        height: 300
 
       # Add your Hero text here
       text: |-
@@ -133,11 +137,11 @@ sections:
 
         - Respect for personal data, algorithms to bring society together, open and transparent ways of working together
     design:
+      spacing:
+        padding: ['20px', '0', '20px', '0']
       # Choose an optional background color, gradient, image, or video
       background:
-        gradient_end: white
-        gradient_start: white
-        text_color_light: false
+        color: white
 
   - block: left-right
     content:
@@ -145,7 +149,9 @@ sections:
       image:
         # Reference an image in your `assets/media/` folder
         filename: /home/purpose.png
-      # Add your Hero text here
+        position: 'right'
+        alt: 'powerful trends'
+        height: 300
       text: |-
         aligned with powerful trends
 
@@ -162,32 +168,30 @@ sections:
 
         </br>
     design:
-      # Choose an optional background color, gradient, image, or video
-      background:
-        gradient_end: white
-        gradient_start: white
-        text_color_light: false
-    
-  - block: hero-custom
-    content:
-      title: 
-      text: 
-      cta:
-        url: "https://alkem.io/home"
-        label: See Challenges in action!
-      cta_note:
-        label: ""
-    design:
-      columns: 1
-      # Choose an optional background color, gradient, image, or video
-      background:
-        gradient_end: white
-        gradient_start: white
-        text_color_light: false
       spacing:
-        # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ["20px", "0px", "20px", "0px"]  
-      advanced:
-        css_style: "text-align: center;"
+        padding: ['20px', '0', '20px', '0']
+      # Choose an optional background color, gradient, image, or video
+      background:
+        color: rgb(247, 247, 247)
+    
+  - block: hero
+    content:
+      title:
+      image:
+        # Reference an image in your `assets/media/` folder
+        filename:
+      # Add your Call-To-Action (CTA) button and optional icon
+      cta:
+        label: See Challenges in action!
+        url: https://alkem.io/home
+    design:
+      columns: '2'
+      spacing:
+    # Customize the section spacing. Order is top, right, bottom, left.
+        padding: ["20px", "0", "10px", "0"]
+      # Choose an optional background color, gradient, image, or video
+      background:
+        color: white
+
 
 ---
