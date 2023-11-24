@@ -66,20 +66,13 @@ sections:
           - /partners/uwv.svg
           - /partners/vng.svg
           - /partners/digicampus.svg
-
         slide2:
-          - partners/gemeente-den-haag.svg
-          - partners/govtechnl.svg
-
-        slide3:
-          - partners/velokonzept.svg   
-          - partners/tip.svg
-          - partners/ngi-essiflab.jpg
+          - /partners/gemeente-den-haag.svg
+          - /partners/velokonzept.svg
+          - /partners/ngi-essiflab.jpg
     design:
       spacing:
-          padding: ["30px", "0", "30px", "0"]
-
-
+        padding: ['30px', '0', '30px', '0']
 
   - block: left-right
     content:
@@ -89,7 +82,7 @@ sections:
         filename: /home/laptop.png
         position: 'left'
         alt: 'laptop'
-        height: 300      
+        height: 300
       # Add your Hero text here
       text: |-
         'where openness, trust and a purpose to benefit society are key values
@@ -97,7 +90,7 @@ sections:
         - Where anyone who wants to make impact can contribute
 
         - Aligning efforts to solve what really matters, in an effective and scalable way
- 
+
     design:
       # Choose an optional background color, gradient, image, or video
       background:
@@ -111,14 +104,14 @@ sections:
       image:
         # Reference an image in your `assets/media/` folder
         filename: /home/silos.png
-        position: 'right'  
+        position: 'right'
       # Add your Hero text here
       text: |-
         realize the ambitious vision and make impact  
 
         - Working with a community of partners that share the vision
 
-        - Open and transparent, building together  
+        - Open and transparent, building together
     design:
       # Choose an optional background color, gradient, image, or video
       background:
@@ -133,14 +126,14 @@ sections:
         # Reference an image in your `assets/media/` folder
         filename: /home/sdgs.png
         position: 'left'
-       
+
       # Add your Hero text here
       text: |-
         'anchoring the mission with Steward Ownerhip
 
         - Ownership structure that legally binds the purpose of Alkemio to benefit society
 
-        - Respect for personal data, algorithms to bring society together, open and transparent ways of working together    
+        - Respect for personal data, algorithms to bring society together, open and transparent ways of working together
     design:
       # Choose an optional background color, gradient, image, or video
       background:
@@ -153,7 +146,7 @@ sections:
       title: Timing is right for alkemio
       image:
         # Reference an image in your `assets/media/` folder
-        filename: /home/purpose.png      
+        filename: /home/purpose.png
       # Add your Hero text here
       text: |-
         aligned with powerful trends
