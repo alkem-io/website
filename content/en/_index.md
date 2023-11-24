@@ -158,5 +158,26 @@ sections:
         gradient_end: white
         gradient_start: white
         text_color_light: false
-            
+    
+  - block: hero-custom
+    content:
+      title: 
+    
+      # Add your Hero text here
+      text: 
+      cta:
+        url: "https://alkem.io/home"
+        label: See Challenges in action!
+
+# 
+      cta_note:
+        label: ""
+    design:
+      # Choose an optional background color, gradient, image, or video
+      background:
+        gradient_end: white
+        gradient_start: white
+        text_color_light: false
+
+
 ---
