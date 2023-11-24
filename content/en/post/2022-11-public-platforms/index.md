@@ -17,8 +17,8 @@ tags:
 - collaboration
 
 draft: false
-#categories:
-#- Demo
+categories:
+- Foundation
 
 
 featured: false

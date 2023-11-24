@@ -1,8 +1,8 @@
 ---
-# Generate the /admin/ page
-type: wowchemycms
+# Generate Decap CMS
+type: decap_cms
 private: true
 outputs:
-  - wowchemycms_config
+  - decap_cms_config
   - HTML
 ---

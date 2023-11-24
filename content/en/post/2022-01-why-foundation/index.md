@@ -13,8 +13,8 @@ tags:
 - foundation 
 - community
 - organization
-#categories:
-#- Demo
+categories:
+- Foundation
 
 
 featured: false

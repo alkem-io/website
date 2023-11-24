@@ -14,8 +14,8 @@ tags:
 - community
 - membership
 - translation
-#categories:
-#- Demo
+categories:
+- Platform
 
 
 featured: false

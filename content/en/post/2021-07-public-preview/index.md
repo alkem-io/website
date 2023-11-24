@@ -14,8 +14,8 @@ tags:
 - news
 - hub
 - Alkemio
-#categories:
-#- Demo
+categories:
+- Platform
 
 
 featured: false

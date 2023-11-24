@@ -17,8 +17,8 @@ tags:
 - whiteboards
 
 
-#categories:
-#- Demo
+categories:
+- Platform
 
 
 featured: false

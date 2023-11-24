@@ -19,8 +19,8 @@ tags:
 - government
 - transparency
 - technology
-#categories:
-#- Demo
+categories:
+- Platform
 
 featured: false
 draft: false

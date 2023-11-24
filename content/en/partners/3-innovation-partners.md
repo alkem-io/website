@@ -51,6 +51,17 @@ design:
             <p class="pt-2">The City of The Hague</p>
         </div>
     </div>
+    <!-- Second row -->
+    <div class="row align-items-top text-center mt-4 mb-5">
+        <div class="col text-center">
+            <a href="https://vng.nl/projecten/dutch-societal-innovation-hub-dsih" target="_blank">
+                <img src="./logos/dsih.webp" alt="Dutch Societal Innovation Hub logo" style="max-width:90%;margin:auto;height:100px" />
+            </a>
+        </div>
+        <div class="col text-center">
+            <p class="pt-2"><b>Dutch Societal Innovation Hub</b>, stimulating interregional cooperation for a people-oriented, mission-driven approach in government data & digital technology</p>
+        </div>
+    </div>
 </div>
 
 

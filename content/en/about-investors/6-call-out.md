@@ -29,12 +29,12 @@ hero_media: ''
 #   Display link(s) by specifying a URL and label below. Icon is optional for `cta`.
 #   Remove a link/note by deleting a cta/note block.
 cta:
-  url: 'mailto: info@alkem.io'
+  url: 'https://eu1.hubs.ly/H06kZ0d0'
   label: interested in investing?
   icon_pack: fas
   icon: euro-sign
 cta_alt:
-  url: 'mailto: info@alkem.io'
+  url: 'mailto: neil@alkem.io'
   label: Do well and do good
 
 # Note. An optional note to show underneath the links.

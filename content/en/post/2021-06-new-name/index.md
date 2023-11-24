@@ -14,8 +14,8 @@ tags:
 - news
 - branding
 - Alkemio
-#categories:
-#- Demo
+categories:
+- Foundation
 
 
 featured: false
