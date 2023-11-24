@@ -16,8 +16,8 @@ tags:
 - online
 - platform
 
-#categories:
-#- Demo
+categories:
+- Platform
 
 
 featured: false

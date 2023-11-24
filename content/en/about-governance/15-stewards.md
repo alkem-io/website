@@ -35,6 +35,8 @@ design:
     padding: ["10px", "0", "20px", "0"]
   background:
     color: rgb(247, 247, 247)
+  advanced:
+    css_style: "text-align: center;"
 
 ---
 The Stewards are currently the co-founders of Alkemio. The set of Stewards will be expanded as the organization matures. 

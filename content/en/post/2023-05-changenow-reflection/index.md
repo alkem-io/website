@@ -24,8 +24,8 @@ tags:
 - Paris
 
 
-#categories:
-#- Demo
+categories:
+- Platform
 
 
 featured: false

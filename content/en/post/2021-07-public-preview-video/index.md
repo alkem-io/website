@@ -17,8 +17,8 @@ tags:
 - Alkemio
 - public preview
 - launch
-#categories:
-#- Demo
+categories:
+- Platform
 
 
 featured: false

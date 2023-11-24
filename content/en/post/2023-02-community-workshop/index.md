@@ -18,8 +18,8 @@ tags:
 - blockers
 
 
-#categories:
-#- Demo
+categories:
+- Foundation
 
 
 featured: false

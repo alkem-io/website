@@ -16,8 +16,8 @@ tags:
 - alignment
 
 
-#categories:
-#- Demo
+categories:
+- Platform
 
 
 featured: false

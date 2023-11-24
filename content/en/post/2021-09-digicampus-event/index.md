@@ -14,8 +14,8 @@ tags:
 - digicampus
 - collaboration
 - event
-#categories:
-#- Demo
+categories:
+- Foundation
 
 
 featured: false

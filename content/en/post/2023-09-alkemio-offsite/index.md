@@ -15,8 +15,8 @@ tags:
 - strategy
 - roadmap
 - organization
-#categories:
-#- Demo
+categories:
+- Foundation
 
 featured: false
 draft: false

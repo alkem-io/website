@@ -14,8 +14,8 @@ tags:
 - code4all
 - collaboration
 - event
-#categories:
-#- Demo
+categories:
+- Platform
 
 
 featured: false

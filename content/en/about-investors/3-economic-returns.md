@@ -26,7 +26,7 @@ design:
     padding: ["20px", "0", "30px", "0"]
 ---
 ## **Understanding the Economic Returns**
-The economic returns to investors and staff are capped. This is a core feature of Steward Ownership, to ensure all parties are aligned with the purpose of benefitting society. Excess profits will be used/donated in line with the purpose.
+The economic returns to investors and staff are capped. This is a core feature of Steward Ownership, to ensure all parties are aligned with the purpose of benefitting society. Excess profits will be used/donated in line with the purpose. For full details of how Alkemio has implemented Steward Ownership legally, please visit our **[Alkemio Group Structure](../structure)** overview.
 
 The cap level for early investors is 3x-3.5x, depending on timing of investment. The full mechanism is described in schedule C of the [Alkemio Holding Shareholders Agreement](./documents/alkemio_holding_shareholders_agreement_v1.1.pdf) - with a worked example provided here.
 

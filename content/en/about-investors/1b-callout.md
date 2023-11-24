@@ -7,7 +7,7 @@ widget: hero
 headless: true
 
 # Order that this section appears on the page.
-weight: 20
+weight: 10
 
 # Section title
 title: 
@@ -30,12 +30,9 @@ hero_media: ''
 #   Remove a link/note by deleting a cta/note block.
 cta:
   url: 'https://eu1.hubs.ly/H06kZ0d0'
-  label: interested in investing?
-  icon_pack: fas
-  icon: euro-sign
-cta_alt:
-  url: 'mailto: neil@alkem.io'
-  label: Do well and do good
+  label: View Investor Presentation
+
+
 
 # Note. An optional note to show underneath the links.
 cta_note:

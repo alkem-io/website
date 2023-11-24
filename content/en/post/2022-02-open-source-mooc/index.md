@@ -14,8 +14,8 @@ tags:
 - overheid
 - samenwerken
 - education
-#categories:
-#- Demo
+categories:
+- Foundation
 
 
 featured: false

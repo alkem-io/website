@@ -19,8 +19,8 @@ tags:
 - paris
 
 
-#categories:
-#- Demo
+categories:
+- Platform
 
 
 featured: false

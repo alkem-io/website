@@ -13,8 +13,8 @@ tags:
 - news
 - decentralisation
 - IPFS
-#categories:
-#- Demo
+categories:
+- Foundation
 
 
 featured: false

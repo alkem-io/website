@@ -15,8 +15,8 @@ tags:
 - community
 - product
 - aspects
-#categories:
-#- Demo
+categories:
+- Platform
 
 
 featured: false
