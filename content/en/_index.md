@@ -3,7 +3,7 @@ title: Home
 type: landing
 
 sections:
-  - block: Markdown
+  - block: markdown
     content:
       title: 
       # Add your Hero text here
@@ -37,6 +37,28 @@ sections:
         gradient_start: white
         text_color_light: false
 
+  - block: hero-custom
+    content:
+      title: 
+      text: 
+      cta:
+        url: "https://welcome.alkemio.org/investors"
+        label: Want to Accelerate Imact?
+      cta_note:
+        label: ""
+    design:
+      columns: 1
+      # Choose an optional background color, gradient, image, or video
+      background:
+        gradient_end: white
+        gradient_start: white
+        text_color_light: false
+      spacing:
+        # Customize the section spacing. Order is top, right, bottom, left.
+        padding: ["20px", "0px", "20px", "0px"]  
+      advanced:
+        css_style: "text-align: center;"
+      
   - block: 'carousel-widget'
     content:
       slides:
@@ -158,22 +180,23 @@ sections:
   - block: hero-custom
     content:
       title: 
-    
-      # Add your Hero text here
       text: 
       cta:
         url: "https://alkem.io/home"
         label: See Challenges in action!
-
-# 
       cta_note:
         label: ""
     design:
+      columns: 1
       # Choose an optional background color, gradient, image, or video
       background:
         gradient_end: white
         gradient_start: white
         text_color_light: false
-
+      spacing:
+        # Customize the section spacing. Order is top, right, bottom, left.
+        padding: ["20px", "0px", "20px", "0px"]  
+      advanced:
+        css_style: "text-align: center;"
 
 ---
