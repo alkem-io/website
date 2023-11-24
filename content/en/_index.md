@@ -37,8 +37,8 @@ sections:
     design:
       # Choose an optional background color, gradient, image, or video
       background:
-        gradient_end: '#1976d2'
-        gradient_start: '#004ba0'
+        gradient_end: white
+        gradient_start: white
         text_color_light: false
 
   #- block: 'carousel-widget'
@@ -100,8 +100,8 @@ sections:
     design:
       # Choose an optional background color, gradient, image, or video
       background:
-        gradient_end: '#1976d2'
-        gradient_start: '#004ba0'
+        gradient_end: white
+        gradient_start: white
         text_color_light: false
 
   - block: hero
@@ -134,8 +134,8 @@ sections:
     design:
       # Choose an optional background color, gradient, image, or video
       background:
-        gradient_end: '#1976d2'
-        gradient_start: '#004ba0'
+        gradient_end: white
+        gradient_start: white
         text_color_light: false
 
   - block: hero
@@ -168,8 +168,8 @@ sections:
     design:
       # Choose an optional background color, gradient, image, or video
       background:
-        gradient_end: '#1976d2'
-        gradient_start: '#004ba0'
+        gradient_end: white
+        gradient_start: white
         text_color_light: false
 
   - block: hero
@@ -211,8 +211,8 @@ sections:
     design:
       # Choose an optional background color, gradient, image, or video
       background:
-        gradient_end: '#1976d2'
-        gradient_start: '#004ba0'
+        gradient_end: white
+        gradient_start: white
         text_color_light: false
             
 ---
