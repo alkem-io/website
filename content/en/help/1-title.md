@@ -1,6 +1,5 @@
 ---
-# An instance of the Blank widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
+
 widget: blank
 profile: false
 show_date: false
@@ -31,18 +30,4 @@ design:
   spacing:
     padding: ['40px', '0px', '00px', '0px']
 
-content:
-    buttons:
-        - title: "Alkemio foundations"
-          image: "/media/button-links/roundedlinks-12.png"
-          link: https://www.alkemio.org/manifesto/
-        - title: "Book Demo"
-          image: "/media/button-links/roundedlinks-15.png"
-          link: /help/#needhelp
-        - title: "To the Platform"
-          image: "/media/button-links/roundedlinks-18.png"
-          link: https://alkem.io/
-        # - title: "Alkemio Community"
-        #   image: "/media/button-links/roundedlinks-16.png"
-        #   link: https://alkem.io/
 ---

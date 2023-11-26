@@ -55,7 +55,7 @@ sections:
       background:
         color: rgb(247, 247, 247)
 
-  - block: 'carousel-widget'
+  - block: 'carousel-logos'
     content:
       slides:
         slide1:

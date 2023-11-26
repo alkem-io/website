@@ -1,9 +1,209 @@
 ---
-# Homepage
-type: widget_page
+title: Partnerships
+type: landing
+url: "/partners/"
 
-title: Partners
+sections:
+  - block: markdown
+    content:
+      title: Partners
+      subtitle: 
+      text: |
+          Working with the Alkemio Foundation to develop the platform and community
+          with sustainability, neutrality and impact
+        
+    design:
+        spacing:
+          # Customize the section spacing. Order is top, right, bottom, left.
+          padding: ['20px', '0', '20px', '0']
+        # Choose an optional background color, gradient, image, or video
+        background:
+          color: white
 
-# Homepage is headless, other widget pages are not.
-headless: false
+  - block: markdown
+    content:
+      title: 
+      subtitle: 
+      text: |
+          <div class="container mb-5">
+          <!-- Title -->
+          <h2 class="text-center font-weight-bold">Strategic Partners</h2>
+          <!-- First row -->
+          <div class="row align-items-top text-center mt-4 mb-5">
+              <div class="col text-center">
+                  <p class="pt-2">The place where we design future public services together</p>
+              </div>
+              <div class="col text-center">
+                  <a href="https://digicampus.tech" target="_blank">
+                      <img src="./logos/digicampus.svg" alt="Digicampus logo" style="max-width: 90%; margin: auto; height: 100px;" />
+                  </a>
+              </div>
+          </div>
+          <!-- Second row -->
+          <div class="row align-items-top text-center mt-4 mb-5">
+              <div class="col text-center">
+                  <p class="pt-2">Authority for employment services and provision of labour market and data services in the Netherlands</p>
+              </div>
+              <div class="col text-center">
+                  <a href="https://www.uwv.nl/particulieren/index.aspx" target="_blank">
+                      <img src="./logos/uwv.svg" alt="UWV logo" style="max-width: 90%; margin: auto; height: 100px;" />
+                  </a>
+              </div>
+          </div>
+          </div>
+        
+    design:
+        spacing:
+          # Customize the section spacing. Order is top, right, bottom, left.
+          padding: ['20px', '0', '0px', '0']
+        # Choose an optional background color, gradient, image, or video
+        background:
+          color: rgb(247, 247, 247)
+
+  - block: markdown
+    content:
+      title: 
+      subtitle: 
+      text: |
+          <div class="container mb-5">
+          <!-- Title -->
+          <h2 class="text-center font-weight-bold">Innovation Partner</h2>
+          <!-- First row -->
+          <div class="row align-items-top text-center mt-4 mb-5">
+              <div class="col text-center">
+                  <a href="https://vng.nl/" target="_blank">
+                      <img src="./logos/vng.svg" alt="VNG logo" style="max-width: 90%; margin: auto; height: 100px;" />
+                  </a>
+              </div>
+              <div class="col text-center">
+                  <p class="pt-2">The Association of Netherlands Municipalities</p>
+              </div>
+          </div>    
+          <!-- Second row -->
+          <div class="row align-items-top text-center mt-4 mb-5">
+              <div class="col text-center">
+                  <a href="https://www.denhaag.nl/nl.htm" target="_blank">
+                      <img src="./logos/gemeente-den-haag.svg" alt="Gemeente Den Haag logo" style="max-width:90%;margin:auto;height:100px" />
+                  </a>
+              </div>
+              <div class="col text-center">
+                  <p class="pt-2">The City of The Hague</p>
+              </div>
+          </div>
+          <!-- Second row -->
+          <div class="row align-items-top text-center mt-4 mb-5">
+              <div class="col text-center">
+                  <a href="https://vng.nl/projecten/dutch-societal-innovation-hub-dsih" target="_blank">
+                      <img src="./logos/dsih.webp" alt="Dutch Societal Innovation Hub logo" style="max-width:90%;margin:auto;height:100px" />
+                  </a>
+              </div>
+              <div class="col text-center">
+                  <p class="pt-2"><b>Dutch Societal Innovation Hub</b>, stimulating interregional cooperation for a people-oriented, mission-driven approach in government data & digital technology</p>
+              </div>
+          </div>
+          </div>
+        
+    design:
+        spacing:
+          # Customize the section spacing. Order is top, right, bottom, left.
+          padding: ['20px', '0', '0px', '0']
+        # Choose an optional background color, gradient, image, or video
+        background:
+          color: white
+
+  - block: markdown
+    content:
+      title: 
+      subtitle: 
+      text: |
+          <div class="container mb-5">
+          <!-- Title -->
+          <h2 class="text-center font-weight-bold"> Ecosystem Supporters </h2>
+          <!-- First row -->
+          <div class="row align-items-top text-center  mt-4 mb-5">
+            <div class="col partner-logo-3-row" > 
+                <a href="https://www.sidnfonds.nl/" target="_blank">
+                <img src="./logos/sidn.svg" alt="SIDN Fonds logo"> </a> 
+            </div>
+            <div class="col partner-logo-3-row" > 
+                <a href="https://essif-lab.eu/" target="_blank"> 
+                <img src="./logos/ngi-essiflab.jpg" alt="NGI Essif Lab logo">
+                </a> 
+            </div>
+            <div class="col partner-logo-3-row" > 
+                <a href="https://jolocom.io/" target="_blank">
+                <img src="./logos/jolocom.png" alt="Jolocom logo"> </a>
+            </div>
+          </div>
+          <!-- First row -->
+          <div class="col text-center">
+              <div>*eSSIF-Lab is funded by the European Commission, as part of the Horizon 2020 Research and Innovation Programme, under Grant Agreement Nº 871932 and it’s framed under Next Generation Internet Initiative.
+              </div>
+          </div>
+                  
+    design:
+        spacing:
+          # Customize the section spacing. Order is top, right, bottom, left.
+          padding: ['20px', '0', '0px', '0']
+        # Choose an optional background color, gradient, image, or video
+        background:
+          color: rgb(247, 247, 247)
+  
+  - block: markdown
+    content:
+      title: 
+      subtitle: 
+      text: |
+          <div class="container mb-5">
+          <!-- Title -->
+          <h2 class="text-center font-weight-bold">Become a partner</h2>
+          <!-- First row -->
+          <div class="row align-items-top text-center mt-4 mb-2">
+              <div>The Alkemio Foundation is open for more partners at all levels. Help build the platform and community for solving challenges in our society. Working together, to maximise the impact. Empowering society, together</div>
+          </div>
+          </div>
+         
+    design:
+        spacing:
+          # Customize the section spacing. Order is top, right, bottom, left.
+          padding: ['20px', '0', '0px', '0']
+        # Choose an optional background color, gradient, image, or video
+        background:
+          color: white
+
+  - block: carousel-text
+    content:
+      title: Testimonials
+      subtitle: 
+      quotes:
+        quote1: 
+            - "<i>“(…)The community members are from the triple helix: education, government and market. Together we are facing huge challenges in which we believe technology can be part of the solution. On the short term, we will all benefit on a business/personal level. That benefit is an enabler for communal benefits.”</i> </br> <h5>Wouter Heijnen, VNG</h5>"
+        quote2:
+            - "<i>Working together in online communities on innovations is… super innovative! There’s not one best way of doing that. RIConline and Alkemio exchange knowledge on what works, how to help the community and what the impact of online collaboration on a platform can be. We want to reinforce each other (…)</i> </br> <h5>Kathleen Torrance, Programme Manager at Rijks Innovatie Community</h5>"
+
+    design:
+      columns: '3'
+      background:
+        color: rgb(247, 247, 247)
+      spacing:
+        padding: ['30px', '0', '30px', '0']
+
+  - block: hero
+    content:
+      title:
+      image:
+        # Reference an image in your `assets/media/` folder
+        filename:
+      # Add your Call-To-Action (CTA) button and optional icon
+      cta:
+        label: Get in touch!
+        url: https://alkemio.org/feedback
+    design:
+      columns: '2'
+      spacing:
+        # Customize the section spacing. Order is top, right, bottom, left.
+        padding: ['20px', '0', '10px', '0']
+      # Choose an optional background color, gradient, image, or video
+      background:
+        color: white
 ---

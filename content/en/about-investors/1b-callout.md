@@ -29,8 +29,8 @@ hero_media: ''
 #   Display link(s) by specifying a URL and label below. Icon is optional for `cta`.
 #   Remove a link/note by deleting a cta/note block.
 cta:
-  url: 'https://eu1.hubs.ly/H06kZ0d0'
-  label: View Investor Presentation
+  url: 'https://eu1.hubs.ly/H06njMX0'
+  label: View One Pager
 
 
 
