@@ -37,9 +37,7 @@ design:
     color: white
 ---
 
-The Alkemio Board of Advisors (BoA) provides feedback and advice to the Stewards in the realizing of the Alkemio vision. 
-
-Participation in the BoA is a voluntary role. 
+Providing feedback and advice to the stewards in the realization of the vision of Alkemio Foundation. Participation in the Board of Advisors is a voluntary role.
 <br/><br/>
 
 

@@ -7,7 +7,8 @@
 
 <!-- Indicators for carousel -->
     <ol class="carousel-indicators" style="top:200px;">
-        {{ range $index, $quotes := $block.Params.content.quotes }}
+
+        {{ range $index, $quotes := $block.content.quotes }}
         {{ $i := eq $index "quote1" }}
         <li data-target="#quote-carousel" class="{{ if $i }}active{{ end }}"
             style="filter: invert(43%) sepia(90%) saturate(3543%) hue-rotate(161deg) brightness(81%) contrast(95%); height:3px; margin-bottom:5px;"
@@ -16,7 +17,8 @@
      </ol>
 <!-- Text section of carousel -->
     <div class="carousel-inner" style="max-width: 85%; margin: 0 auto; height:230px;">
-        {{ range $index, $quotes := $block.Params.content.quotes }}
+
+        {{ range $index, $quotes := $block.content.quotes }}
         {{ $i := eq $index "quote1" }}
         <div class="carousel-item {{ if $i }} active {{ end }} ">
             <div class="d-flex justify-content-md-center align-items-center">
