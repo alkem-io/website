@@ -6,7 +6,7 @@ url: "/partners/"
 sections:
   - block: markdown
     content:
-      title: Partners
+      title: Working with the Alkemio Foundation to achieve the vision
       subtitle: 
       text: |
           Working with the Alkemio Foundation to develop the platform and community
@@ -94,7 +94,7 @@ sections:
           <div class="row align-items-top text-center mt-4 mb-5">
               <div class="col text-center">
                   <a href="https://vng.nl/projecten/dutch-societal-innovation-hub-dsih" target="_blank">
-                      <img src="./logos/dsih.webp" alt="Dutch Societal Innovation Hub logo" style="max-width:90%;margin:auto;height:100px" />
+                      <img src="./logos/dsih.webp" alt="Dutch Societal Innovation Hub logo" style="max-width:80%;margin:auto;height:90px" />
                   </a>
               </div>
               <div class="col text-center">
@@ -129,10 +129,6 @@ sections:
                 <a href="https://essif-lab.eu/" target="_blank"> 
                 <img src="./logos/ngi-essiflab.jpg" alt="NGI Essif Lab logo">
                 </a> 
-            </div>
-            <div class="col partner-logo-3-row" > 
-                <a href="https://jolocom.io/" target="_blank">
-                <img src="./logos/jolocom.png" alt="Jolocom logo"> </a>
             </div>
           </div>
           <!-- First row -->
