@@ -39,6 +39,6 @@ design:
     css_style: "text-align: center;"
 
 ---
-The Stewards are currently the co-founders of Alkemio. The set of Stewards will be expanded as the organization matures. 
+The stewards are currently the co-founders of Alkemio Foundation. The number of stewards will be expanded as the organization grows.
 
 <br/>

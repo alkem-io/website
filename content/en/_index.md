@@ -10,12 +10,14 @@ sections:
         <div class="row">
           <div class="col-sm mb-4">
         <h2 class="font-weight-bold" >Alkemio Foundation</h2>
-        Established in 2020 with the belief that there must be a better and faster way of working together to make progress! 
+        Established in 2020 with the belief that there must be a better and faster way of working together to make progress!
         <br> <br>
         The trigger was frustration at lack of progress collaborating on COVID-related challenges, but also recognizing the many fast-moving challenges in our lives.
+        <br> <br>
+        To make society more inclusive, improve energy security, tackle the cost of living crises and the impact of AI on our jobs and education, and many more.
+        <br> <br>
+        Connect, collaborate and contribute!
           <br> <br>
-          To make society more inclusive, improve energy security, tackle the cost of living crises and the impact of AI on our jobs and education, and many more.  <br> <br>
-          Connect, collaborate and contribute! 
           </div>
             <div class="col-sm m-auto"> 
               <div style="padding:56.25% 0 0 0;position:relative;">
@@ -83,7 +85,7 @@ sections:
         height: 300
       # Add your Hero text here
       text: |-
-        'where openness, trust and a purpose to benefit society are key values
+        where openness, trust and a purpose to benefit society are key values
 
         - Where anyone who wants to make impact can contribute
 
@@ -128,10 +130,11 @@ sections:
         position: 'left'
         alt: 'UN SDGs'
         height: 300
+        padding: ['5px', '0', '5px', '0'] #padding doesn't work
 
       # Add your Hero text here
       text: |-
-        'anchoring the mission with Steward Ownerhip
+        anchoring the mission with Steward Ownerhip
 
         - Ownership structure that legally binds the purpose of Alkemio to benefit society
 
