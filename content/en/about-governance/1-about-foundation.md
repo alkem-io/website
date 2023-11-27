@@ -25,8 +25,8 @@ design:
   background:
     color: white
 ---
-Alkemio Foundation (Stichting Alkemio in Dutch) was established in 2020. This page provides additional information regarding the governance of Alkemio Foundation. 
+Alkemio Foundation (Stichting Alkemio in Dutch) provides additional information regarding the governance of Alkemio Foundation. 
 
-The board members of Alkemio Foundation are the Stewards of the Alkemio mission, and they are supported by a Board of Advisors. 
+The board members are the stewards of Alkemio Foundation to achieve the vision. They are supported by a Board of Advisors.
 
-For additional information on the structure of Alkemio, including future plans for Steward Ownership, please visit the **[Structure](./structure)** page. 
+For additional information on the structure of Alkemio, including steward-ownership, please visit the **[Structure](./structure)** page. 
