@@ -10,12 +10,14 @@ sections:
         <div class="row">
           <div class="col-sm mb-4">
         <h2 class="font-weight-bold" >Alkemio Foundation</h2>
-        Accelerating impact.
+        Established in 2020 with the belief that there must be a better and faster way of working together to make progress!
         <br> <br>
-        The trusted platform empowering change makers to achieve better and faster progress.
+        The trigger was frustration at lack of progress collaborating on COVID-related challenges, but also recognizing the many fast-moving challenges in our lives.
+        <br> <br>
+        To make society more inclusive, improve energy security, tackle the cost of living crises and the impact of AI on our jobs and education, and many more.
+        <br> <br>
+        Connect, collaborate and contribute!
           <br> <br>
-          <a href="https://welcome.alkem.io">www.alkem.io</a><br> <br>
-          Connect, collaborate and contribute! 
           </div>
             <div class="col-sm m-auto"> 
               <div style="padding:56.25% 0 0 0;position:relative;">

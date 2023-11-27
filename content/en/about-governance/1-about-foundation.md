@@ -27,6 +27,6 @@ design:
 ---
 Alkemio Foundation (Stichting Alkemio in Dutch) provides additional information regarding the governance of Alkemio Foundation. 
 
-The board members are the stewards of Alkemio Foundation to achieve the vision. They are supported by a Board of Advisors.
+The board members of Alkemio Foundation are the stewards of Alkemio Holding. They are supported by a Board of Advisors.
 
 For additional information on the structure of Alkemio, including steward-ownership, please visit the **[Structure](./structure)** page. 
