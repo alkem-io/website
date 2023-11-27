@@ -2,7 +2,7 @@
 title: What is Alkemio
 type: landing
 
-url: "/background"
+#url: "/background"
 
 sections:
   - block: markdown

@@ -30,11 +30,11 @@ main:
     name: Structure
     url: 'structure'
     weight: 2
-  - parent: about-main
-    indentifier: about-background
-    name: Background
-    url: 'background'
-    weight: 3
+  #- parent: about-main
+    #indentifier: about-background
+    #name: Background
+    #url: 'background'
+    #weight: 3
   - parent: about-main
     indentifier: about-news
     name: News
