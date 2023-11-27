@@ -94,7 +94,7 @@ sections:
           <div class="row align-items-top text-center mt-4 mb-5">
               <div class="col text-center">
                   <a href="https://vng.nl/projecten/dutch-societal-innovation-hub-dsih" target="_blank">
-                      <img src="./logos/dsih.webp" alt="Dutch Societal Innovation Hub logo" style="max-width:80%;margin:auto;height:90px" />
+                      <img src="./logos/dsih.webp" alt="Dutch Societal Innovation Hub logo" style="max-width:80%;margin:auto;height:80px" />
                   </a>
               </div>
               <div class="col text-center">
@@ -122,14 +122,15 @@ sections:
           <!-- First row -->
           <div class="row align-items-top text-center  mt-4 mb-5">
             <div class="col partner-logo-3-row" > 
-                <a href="https://www.sidnfonds.nl/" target="_blank">
-                <img src="./logos/sidn.svg" alt="SIDN Fonds logo"> </a> 
-            </div>
-            <div class="col partner-logo-3-row" > 
                 <a href="https://essif-lab.eu/" target="_blank"> 
-                <img src="./logos/ngi-essiflab.jpg" alt="NGI Essif Lab logo">
+                <img src="./logos/ngi-essiflab.jpg" alt="NGI Essif Lab logo"  style="max-width:80%;margin:auto;height:70px" >
                 </a> 
             </div>
+            <div class="col partner-logo-3-row" > 
+                <a href="https://www.sidnfonds.nl/" target="_blank">
+                <img src="./logos/sidn.svg" alt="SIDN Fonds logo"  style="max-width:80%;margin:auto;height:60px" > 
+                </a> 
+            </div> 
           </div>
           <!-- First row -->
           <div class="col text-center">
@@ -162,7 +163,7 @@ sections:
     design:
         spacing:
           # Customize the section spacing. Order is top, right, bottom, left.
-          padding: ['20px', '0', '0px', '0']
+          padding: ['10px', '0', '0px', '0']
         # Choose an optional background color, gradient, image, or video
         background:
           color: white
@@ -198,7 +199,7 @@ sections:
       columns: '2'
       spacing:
         # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ['20px', '0', '10px', '0']
+        padding: ['30px', '0', '10px', '0']
       # Choose an optional background color, gradient, image, or video
       background:
         color: white

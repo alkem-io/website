@@ -18,6 +18,8 @@ sections:
 
         *Join us on the exciting journey!*
     design:
+      spacing:
+        padding: ['10px', '0', '10px', '0']
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
@@ -39,10 +41,10 @@ sections:
     design:
       columns: '1'
       spacing:
-        padding: ['0', '0', '20px', '0']
+        padding: ['30px', '0', '10px', '0']
       # Choose an optional background color, gradient, image, or video
       background:
-        color: white
+        color: rgb(247, 247, 247)
 
   - block: markdown
     content:
@@ -61,6 +63,8 @@ sections:
 
         *Investments will be in Alkemio Holding B.V., please see the <a href="https://alkemio.org/structure/">Structure page</a> for further details.
     design:
+      spacing:
+        padding: ['10', '0', '10px', '0']
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
