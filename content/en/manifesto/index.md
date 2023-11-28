@@ -42,7 +42,7 @@ sections:
         padding: ['10px', '0', '10px', '0']
       # Choose an optional background color, gradient, image, or video
       background:
-        color: rgb(247, 247, 247)
+        color: rgb(241, 244, 245)
       align: center
 
   - block: left-right
@@ -83,7 +83,7 @@ sections:
         padding: ['20px', '0', '20px', '0']
       # Choose an optional background color, gradient, image, or video
       background:
-        color: rgb(247, 247, 247)
+        color: rgb(241, 244, 245)
       
 
   - block: left-right
