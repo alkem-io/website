@@ -46,7 +46,7 @@ sections:
         padding: ['60px', '0', '40px', '0']
       # Choose an optional background color, gradient, image, or video
       background:
-        color: rgb(247, 247, 247)
+        color: rgb(241, 244, 245)
 
   - block: markdown
     content:
