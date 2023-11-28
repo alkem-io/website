@@ -46,7 +46,7 @@ sections:
         padding: ['20px', '0', '20px', '0']
       # Choose an optional background color, gradient, image, or video
       background:
-        color: rgb(247, 247, 247)
+        color: rgb(241, 244, 245)
 
   - block: left-right
     content:
@@ -96,7 +96,7 @@ sections:
         padding: ['20px', '0', '20px', '0']
       # Choose an optional background color, gradient, image, or video
       background:
-        color: rgb(247, 247, 247)
+        color: rgb(241, 244, 245)
 
   - block: hero
     content:
