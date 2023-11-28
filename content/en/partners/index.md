@@ -58,7 +58,7 @@ sections:
           padding: ['20px', '0', '0px', '0']
         # Choose an optional background color, gradient, image, or video
         background:
-          color: rgb(247, 247, 247)
+          color: rgb(241, 244, 245)
 
   - block: markdown
     content:
@@ -144,7 +144,7 @@ sections:
           padding: ['20px', '0', '0px', '0']
         # Choose an optional background color, gradient, image, or video
         background:
-          color: rgb(247, 247, 247)
+          color: rgb(241, 244, 245)
   
   - block: markdown
     content:
@@ -181,7 +181,7 @@ sections:
     design:
       columns: '3'
       background:
-        color: rgb(247, 247, 247)
+        color: rgb(241, 244, 245)
       spacing:
         padding: ['30px', '0', '30px', '0']
 
