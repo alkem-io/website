@@ -26,25 +26,6 @@ sections:
           icon: flag
           icon_pack: fas
 
-  # - block: markdown
-  #   content:
-  #     title: </br>Do Well and Do Good
-  #     subtitle: Investors can accelerate the positive impact Alkemio has on society.
-
-
-  #     text: |-
-  #       </br>
-  #       <i class="fa-solid fa-hand-holding-dollar"></i>&nbsp; With attractive returns for early investors. </br> </br>
-  #       <i class="fa-solid fa-rocket"></i>&nbsp; Timing is right for Alkemio, with lower risk as aligned with powerful trends in society.   </br></br>
-  #       <i class="fa-solid fa-hand-holding-heart"></i>&nbsp; The ambitious vision needs resources to make it happen. To be the successful and game-changing platform for solving challenges in society. </br></br>
-  #       *Join us on the exciting journey!* </br></br>
-  #   design:
-  #     spacing:
-  #       padding: ['10px', '0', '10px', '0']
-  #     # See Page Builder docs for all section customization options.
-  #     # Choose how many columns the section has. Valid values: '1' or '2'.
-  #     columns: '1'
-
   - block: hero
     content:
       title:
@@ -52,7 +33,7 @@ sections:
         # Reference an image in your `assets/media/` folder
         filename:
       cta:
-        url: 'https://eu1.hubs.ly/H06njMX0'
+        url: 'https://eu1.hubs.ly/H06qxJ90'
         label: View One Pager
         icon_pack: fas
         icon: file-pdf
