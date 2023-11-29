@@ -23,7 +23,7 @@ design:
     # Customize the section spacing. Order is top, right, bottom, left.
     padding: ["20px", "0", "0px", "0"]
   background:
-    color: rgb(247, 247, 247)
+    color: rgb(241, 244, 245)
   align: center
 ---
 
