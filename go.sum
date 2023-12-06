@@ -8,7 +8,3 @@ github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify v1.1.2-0.20231
 github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-reveal v1.1.3-0.20231113222801-e48152bc9311 h1:q2p1biJWZlUBFY2iEydd+6XTj2fBpqz+NUndIo/JqLQ=
 github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-reveal v1.1.3-0.20231113222801-e48152bc9311/go.mod h1:F7quX1aEkV2pToTpmDBXOSTkytAnCKkqv/JFLclqa2g=
 github.com/HugoBlox/hugo-blox-builder/modules/blox-seo v0.2.2/go.mod h1:NsESu6cEms1DgH84icCyylElg2Zu8A0f7Fma5JR0LZE=
-github.com/alkem-io/website-wowchemy-blocks v0.0.0-20230112123158-b180fa5400ab h1:vIbW1gK5c7rMaTo29DqIhuZqd5/cywJNKineIKPCZAc=
-github.com/alkem-io/website-wowchemy-blocks v0.0.0-20230112123158-b180fa5400ab/go.mod h1:1C1jhefvdXC8bEFELiP096Ev/1aSBHqmMO9GWit6tno=
-github.com/alkem-io/website-wowchemy-blocks v0.0.0-20231120135409-22245f6a3d5c h1:pLIi0O5CXmOxTwIBlHMZHkG7ibs4gIOVb+5Imw+CaIY=
-github.com/alkem-io/website-wowchemy-blocks v0.0.0-20231120135409-22245f6a3d5c/go.mod h1:1C1jhefvdXC8bEFELiP096Ev/1aSBHqmMO9GWit6tno=
