@@ -5,6 +5,20 @@ type: landing
 url: "/investors"
 
 sections:
+  - block: people
+    content:
+      user_groups:
+        - Stewards
+      title: Multiple Returns
+
+    
+    design:
+      spacing:
+        padding: ['10', '0', '10px', '0']
+      # See Page Builder docs for all section customization options.
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '1'
+
   - block: features
     content:
       title: Do Well and Do Good
