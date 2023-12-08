@@ -7,7 +7,7 @@ url: "/background"
 sections:
   - block: markdown
     content:
-      title: What is Alkemio?
+      title: #What is Alkemio?   ### title deleted as per issue #154
       subtitle: 
       text: |-
         **Alkemio** is a new open innovation platform, building a better future together. Open source, a shared platform and community. Everyone can contribute so that everyone can benefit.

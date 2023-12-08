@@ -17,3 +17,23 @@
     margin:auto; 
     height:75px !important;
 }
+
+/* Logo */
+.navbar img.logo {
+    height: 20px;;
+  }
+  @media (max-width: 330px) {
+    .navbar img.logo {
+      height: 10px;
+    }
+  }
+  @media (min-width: 330px) and (max-width: 540px) {
+    .navbar img.logo {
+      height: 15px;
+    }
+  }
+  @media (min-width: 540px) and (max-width: 991px) {
+    .navbar img.logo {
+      height: 23px;
+    }
+  }
