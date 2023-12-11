@@ -70,13 +70,13 @@
       {{ if $isSVG -}}
 <img src="{{ $image.RelPermalink }}" alt="{{ $block.Title }}">
       {{- else }}
-        {{ $legacy_img := $image.Resize "400x" }}
+        {{ $legacy_img := $image.Resize "400x webp" }}
         {{ $img_src := "" }}
         {{ $img_src_set := slice }}
         {{ $widths := slice 1200 800 400 }}
  
         {{ range $widths }}
-          {{ $src_link := ($image.Resize (printf "%dx" .)).RelPermalink }}
+          {{ $src_link := ($image.Resize (printf "%dx webp" .)).RelPermalink }}
           {{ if eq $img_src "" }}
             {{ $img_src = $src_link }}
           {{ end }}
