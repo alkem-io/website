@@ -12,7 +12,7 @@ weight: 2
 superuser: true
 
 # Role/position
-role: Board Member | Co-founder | Chief Strategy & Innovation
+role: Board Member | Co-founder | Chief AI
 
 # Organizations/Affiliations
 organizations:
