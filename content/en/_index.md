@@ -93,7 +93,7 @@ sections:
 
     design:
       spacing:
-        padding: ['20px', '0', '20px', '0']
+        padding: ['60px', '0', '60px', '0']
       # Choose an optional background color, gradient, image, or video
       background:
         color: white
@@ -126,7 +126,7 @@ sections:
       title: Purpose driven to benefit society
       image:
         # Reference an image in your `assets/media/` folder
-        filename: /home/sdgs.png
+        filename: /home/sdgs_resized.png
         position: 'left'
         alt: 'UN SDGs'
         height: 300
@@ -141,7 +141,7 @@ sections:
         - Respect for personal data, algorithms to bring society together, open and transparent ways of working together
     design:
       spacing:
-        padding: ['20px', '0', '20px', '0']
+        padding: ['60px', '0', '60px', '0']
       # Choose an optional background color, gradient, image, or video
       background:
         color: white
@@ -151,7 +151,7 @@ sections:
       title: Timing is right for alkemio
       image:
         # Reference an image in your `assets/media/` folder
-        filename: /home/purpose.png
+        filename: /home/purpose_resized.png
         position: 'right'
         alt: 'powerful trends'
         height: 300
@@ -167,12 +167,12 @@ sections:
 
         Alkemio can help connect and accelerate progress towards a better and fairer society 
         </br>
-        The right platform at the right time'
+        The right platform at the right time
 
         </br>
     design:
       spacing:
-        padding: ['20px', '0', '20px', '0']
+        padding: ['60px', '0', '40px', '0']
       # Choose an optional background color, gradient, image, or video
       background:
         color: rgb(247, 247, 247)

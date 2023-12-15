@@ -174,9 +174,12 @@ sections:
       subtitle: 
       quotes:
         quote1: 
-            - "<i>“(…)The community members are from the triple helix: education, government and market. Together we are facing huge challenges in which we believe technology can be part of the solution. On the short term, we will all benefit on a business/personal level. That benefit is an enabler for communal benefits.”</i> </br> <h5>Wouter Heijnen, VNG</h5>"
+            - "<i>“(…)The community members are from the triple helix: education, government and market. Together we are facing huge challenges in which we believe technology can be part of the solution. On the short term, we will all benefit on a business/personal level. That benefit is an enabler for communal benefits.”</i> </br> <h5>Wouter Heijnen, VNG (Association of Dutch Municipalities)</h5>"
         quote2:
-            - "<i>Working together in online communities on innovations is… super innovative! There’s not one best way of doing that. RIConline and Alkemio exchange knowledge on what works, how to help the community and what the impact of online collaboration on a platform can be. We want to reinforce each other (…)</i> </br> <h5>Kathleen Torrance, Programme Manager at Rijks Innovatie Community</h5>"
+            - "<i>This brings partners from the entire field together.</i> </br> <h5>VNG</h5>"
+        quote3:
+            - "<i>We want experts in specific fields to get to know each other. For example, are you also working on recyclable aluminium but in a different country? Let’s work together and share expertise!</i> </br> <h5>VeloKonzept</h5>"
+    
 
     design:
       columns: '3'
