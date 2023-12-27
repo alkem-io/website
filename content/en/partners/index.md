@@ -6,11 +6,10 @@ url: "/partners/"
 sections:
   - block: markdown
     content:
-      title: Working with the Alkemio Foundation to achieve the vision
+      title: Partnering to help achieve the vision
       subtitle: 
       text: |
-          Working with the Alkemio Foundation to develop the platform and community
-          with sustainability, neutrality and impact
+          
         
     design:
         spacing:

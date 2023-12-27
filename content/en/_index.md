@@ -56,23 +56,34 @@ sections:
       # Choose an optional background color, gradient, image, or video
       background:
         color: rgb(247, 247, 247)
+        
 
-  - block: 'carousel-logos'
+  - block: markdown
+    content:
+      title: Our partners
+    design:
+      spacing:
+        # Customize the section spacing. Order is top, right, bottom, left.
+        padding: ['30px', '0', '0px', '0']
+      background:
+        color: white
+        
+  - block: carousel-logos
     content:
       slides:
         slide1:
-          - /partners/uwv.svg
+          - /partners/vrije-universiteit-amsterdam.svg
           - /partners/vng.svg
           - /partners/digicampus.svg
         slide2:
           - /partners/gemeente-den-haag.svg
           - /partners/velokonzept.svg
-          - /partners/ngi-essiflab.jpg
+          - /partners/dsih.svg
     design:
       background:
         color: white
       spacing:
-        padding: ['30px', '0', '30px', '0']
+        padding: ['30px', '0', '50px', '0']
 
   - block: left-right
     content:
@@ -96,7 +107,7 @@ sections:
         padding: ['60px', '0', '60px', '0']
       # Choose an optional background color, gradient, image, or video
       background:
-        color: white
+        color: rgb(247, 247, 247)
 
   - block: left-right
     content:
@@ -119,7 +130,7 @@ sections:
         padding: ['20px', '0', '20px', '0']
       # Choose an optional background color, gradient, image, or video
       background:
-        color: rgb(247, 247, 247)
+        color: white
 
   - block: left-right
     content:
@@ -144,7 +155,7 @@ sections:
         padding: ['60px', '0', '60px', '0']
       # Choose an optional background color, gradient, image, or video
       background:
-        color: white
+        color: rgb(247, 247, 247)
 
   - block: left-right
     content:
@@ -175,7 +186,7 @@ sections:
         padding: ['60px', '0', '40px', '0']
       # Choose an optional background color, gradient, image, or video
       background:
-        color: rgb(247, 247, 247)
+        color: white
 
   - block: hero
     content:
@@ -191,8 +202,8 @@ sections:
       columns: '2'
       spacing:
         # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ['20px', '0', '10px', '0']
+        padding: ['30px', '0', '10px', '0']
       # Choose an optional background color, gradient, image, or video
       background:
-        color: white
+        color: rgb(247, 247, 247)
 ---
