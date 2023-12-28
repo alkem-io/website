@@ -1,5 +1,4 @@
 ---
-title: Best Practices Library
 type: landing
 
 url: /contact
@@ -8,7 +7,7 @@ sections:
 
   - block: markdown
     content:
-      title: Best Practices Library
+      title: 
       subtitle:
       text: |-
         <div class="container">
