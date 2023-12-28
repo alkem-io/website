@@ -9,11 +9,8 @@ sections:
   - block: markdown
     content:
       title: Governance
-      subtitle:
+      subtitle: The Alkemio Foundation is governed by a Board of Directors
       text: |-
-        <p align="center">
-        The Alkemio Foundation is governed by a Board of Directors. 
-        </p>
         <p align="center">
         The Alkemio Foundation oversees the development of the Alkemio platform. This is achieved by the board members of Alkemio Foundation being the stewards of Alkemio Holding B.V., which is responsible for the Alkemio platform.
         </p>
@@ -38,7 +35,7 @@ sections:
         The board members are currently the co-founders of Alkemio Foundation. 
         </p>
         <p align="center">
-        The number of board members, and hence stewards for Alkemio platform, will be expanded as the organization grows.
+        The number of board members, and hence stewards for the Alkemio platform, will be expanded as the organization grows.
         </p>
     design:
       # Use a 1-column layout
@@ -74,7 +71,7 @@ sections:
 
   - block: markdown
     content:
-      title: Board of Advisors
+      title: Advisors
       subtitle: 
       text: |-
         <p align="center">
@@ -125,7 +122,7 @@ sections:
       columns: "1"
       spacing:
           # Customize the section spacing. Order is top, right, bottom, left.
-          padding: ["20px", "40px", "20px", "40px"]
+          padding: ["20px", "40px", "40px", "40px"]
       background:
           color: rgb(241, 244, 245)
 ---

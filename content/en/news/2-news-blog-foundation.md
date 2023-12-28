@@ -3,7 +3,7 @@ widget: pages
 headless: true
 title: Recent blog posts
 # Section subtitle
-subtitle: Published articles and content from Alkemio Foundation.
+subtitle: By Alkemio Foundation
 weight: 2
 
 content:

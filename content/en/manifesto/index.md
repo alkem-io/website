@@ -7,11 +7,11 @@ url: "/manifesto"
 sections:
   - block: markdown
     content:
-      title: '**Empowering society**'
-      subtitle: The platform to succeed in working on challenges, **together**.
+      title: Empowering society
+      subtitle: The platform to succeed in working on challenges, **together**
       text: |
         <div style="text-align: center;">
-            <p>We are open, and invite all who support the principles of this manifesto to <a href="https://alkem.io/" target="_blank"> join here</a>.<p>
+            <p>We are open, and invite all who support the principles of this manifesto to <a href="https://alkem.io/" target="_blank">join here</a>.<p>
         </div>
     design:
       spacing:
@@ -56,7 +56,7 @@ sections:
         height: 300
 
       text: |-
-        Alkemio is a platform for **channelling** all the effort and ambition around challenges into solutions. Bringing people together, **sharing knowledge and ideas**, with a clear focus on the **opportunities**. Using **best practices**, the community around a challenge works together to identify next steps and **make progress**.
+        Alkemio is for **channelling** all the effort and ambition around challenges into solutions. Bringing people together, **sharing knowledge and ideas**, with a clear focus on the **opportunities**. Using **best practices**, the community around a challenge works together to identify next steps and **make progress**.
     design:
       spacing:
         padding: ['20px', '0', '20px', '0']
@@ -77,7 +77,7 @@ sections:
         height: 300
 
       text: |-
-        Everyone can contribute. Making it straightforward to find, follow and directly **add value** on challenges. You can easily engage, learn from or add to the collective **wisdom of the community**. An **open source platform**, to benefit everyone.
+        Everyone can contribute. Making it straightforward to find, follow and directly **add value** on challenges. You can easily engage, learn from or add to the collective **wisdom of the community**. Providing an **open source platform**, to benefit everyone.
     design:
       spacing:
         padding: ['20px', '0', '20px', '0']
@@ -108,9 +108,9 @@ sections:
   - block: markdown
     content:
       title: '**Empowering society**'
-      subtitle: The platform to succeed in working on challenges, **together**.
+      subtitle: To succeed in working on challenges, **together**.
       text: |-
-        Alkemio is the platform launched by a purpose-driven team of professionals. By <b>working together</b> with  users, partners, businesses, researchers, and citizens we believe that: 
+        The Alkemio foundation and platform are launched by a purpose-driven team of professionals. By <b>working together</b> with  users, partners, businesses, researchers, and citizens we believe that: 
 
         - Every day we can reveal the <b>infinite potential of collaboration</b>. This is the key to success.
         - To achieve <b>systematic change</b> in how we work together on <b>challenges</b> requires inclusion and transparency. Enabled by an <b>independent digital platform</b> to support this way of <b>working together on challenges</b>.

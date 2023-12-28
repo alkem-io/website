@@ -3,7 +3,7 @@ widget: pages
 headless: true
 title: Platform blog posts
 # Section subtitle
-subtitle: For the latest platform blogs please visit https://welcome.alkem.io
+subtitle: For blog posts about the Alkemio platform, please visit https://welcome.alkem.io
 weight: 7
 
 content:
