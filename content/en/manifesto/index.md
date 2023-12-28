@@ -11,7 +11,7 @@ sections:
       subtitle: The platform to succeed in working on challenges, **together**
       text: |
         <div style="text-align: center;">
-            <p>We are open, and invite all who support the principles of this manifesto to <a href="https://alkem.io/" target="_blank"> join here</a>.<p>
+            <p>We are open, and invite all who support the principles of this manifesto to <a href="https://alkem.io/" target="_blank">join here</a>.<p>
         </div>
     design:
       spacing:
