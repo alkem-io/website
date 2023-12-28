@@ -48,10 +48,8 @@ sections:
 
   - block: markdown
     content:
-      title: 
-      text: |-
-        <h2><b>Alkemio and Steward Ownership</b></h2>
-        Sharing Alkemio’s journey to keep purpose first while being able to attract the talent and capital to scale the platform. This was not an easy journey, and we hope this will help many other ventures looking to make positive contributions to society!
+      title: Alkemio and Steward Ownership
+      subtitle: Sharing Alkemio’s journey to keep purpose first while being able to attract the talent and capital to scale the platform. This was not an easy journey, and we hope this will help many other ventures looking to make positive contributions to society!
     design:
       background:
         image:
