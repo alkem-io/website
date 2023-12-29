@@ -44,7 +44,7 @@ sections:
       columns: '1'
       css_class: d-flex align-items-center
       spacing:
-        padding: ['0px', '0', '0px', '0']
+        padding: ['0px', '0', '20px', '0']
 
   - block: markdown
     content:
