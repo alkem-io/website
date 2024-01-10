@@ -21,6 +21,12 @@
   [plugins.inputs]
     debug = true
 
+[[redirects]]
+  from = "/post/2023-04-innovation-library/"
+  to = "https://welcome.alkem.io/blog/2023-04-innovation-library/"
+  status = 301
+  force = true
+
 [[headers]]
   for = "/*"
   [headers.values]
