@@ -14,10 +14,10 @@ sections:
       subtitle: 
       text: |
         <div style="text-align: center;" >
-        The help contents have been moved to be part of the platform welcome site.
+        The help contents have been moved to be part of the platform website.
          
         <br> Please visit the link below to access the help center:  
-        <br>      <b><a href="https://welcome.alkem.io/elp">Help center</a></b>
+        <br>      <b><a href="https://welcome.alkem.io/help">Help Center</a></b>
         </div>
     design:
       # Use a 1-column layout
