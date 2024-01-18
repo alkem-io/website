@@ -215,6 +215,18 @@
   status = 301
   force = true
 
+[[redirects]]
+  from = "/post/2023-04-vng-renewal/"
+  to = "https://welcome.alkem.io/blog/2023-04-vng-renewal/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/post/2023-02-community-workshop/"
+  to = "https://welcome.alkem.io/blog/2023-02-community-workshop/"
+  status = 301
+  force = true
+
 
 [[headers]]
   for = "/*"
