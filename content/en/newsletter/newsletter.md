@@ -81,15 +81,15 @@ Previous newsletters:
 <p>
 <hr>
 To receive the newsletter please fill out the form below!
-<p></p>
 <script charset="utf-8" type="text/javascript" src="//js-eu1.hsforms.net/forms/v2.js"></script>
 <script>
   hbspt.forms.create({
 	region: "eu1",
-	portalId: "25488729",
-	formId: "42985962-b92a-42bc-9af2-c836f68dfad1"
+  portalId: "144061301",
+  formId: "1deba6a3-892d-4d87-b168-0d5b8c2555c4"
 });
 </script>
+
 
 <p>
 
