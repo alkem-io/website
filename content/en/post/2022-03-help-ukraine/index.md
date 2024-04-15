@@ -58,15 +58,7 @@ Want your own Space, either for specific sub-topic or language? Then please eith
 
 *note: this post has been updated to ensure consistency with the latest terminology.*
 
-## Let's connect
-<script charset="utf-8" type="text/javascript" src="//js-eu1.hsforms.net/forms/v2.js"></script>
-<script>
-  hbspt.forms.create({
-	region: "eu1",
-	portalId: "25488729",
-	formId: "370443e4-044d-49fa-91c1-877ead69145a"
-});
-</script>
+
 
 
 
