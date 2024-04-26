@@ -301,6 +301,10 @@ sections:
         <p>
         We believe this structure has the potential to benefit many other ventures looking to make positive contributions to society, so we are sharing our documents and please also reach out if you would like to learn more from our journey so far!
         </p>
+        <i>
+        <b><a href="./documents/purpose-alkemio-casestudyen-31032024.pdf" target="_blank">Purpose Foundation case study on Alkemio</a></b>: In addition to our materials which are shared below, Alkemio is also proud to be featured as a case study from <b><a href="https://purpose-economy.org/en/" target="_blank">Purpose Economy</a></b>, the leading champion for Steward Ownership. 
+        </i>
+        </p>
         <button type="button" class="collapsible" data-toggle="collapse" 
         data-target="#alkemio-sharing" id="alkemiosharing">Show more/less...
         </button>
