@@ -33,7 +33,7 @@ sections:
         # Reference an image in your `assets/media/` folder
         filename:
       cta:
-        url: 'https://eu1.hubs.ly/H08zPLw0'
+        url: 'https://eu1.hubs.ly/H09PDgC0'
         label: View One Pager
         icon_pack: fas
         icon: file-pdf
