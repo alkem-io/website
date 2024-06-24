@@ -7,7 +7,7 @@ url: "/investors"
 sections:
   - block: hero
     content:
-      title: SAFE SPACES FOR COLLABORATION,
+      title: SAFE SPACES FOR COLLABORATION
       subtitle: ON A PLATFORM DESIGNED TO BENEFIT SOCIETY
       image:
         filename:
@@ -27,7 +27,7 @@ sections:
     content:
       title: TAKING OFF WITH IMPACT INVESTORS WHO...
       text: |-
-        Want to create a better and safer future. While earning 3x-5x returns from a business backed by powerful trends in society.
+        Want to create a better and safer future while earning 3x-5x returns from a business backed by powerful trends in society.
         [A small "View investor one pager" button]
 
         **ARE WE HAPPY WITH THE FUTURE OF SOCIETY BEING DRIVEN BY PROFIT-MAXIMIZING BIG TECH?**
@@ -61,11 +61,9 @@ sections:
 
   - block: markdown
     content:
-      title: LOADING...
+      title: FUNDING PROGRESS
+      subtitle: €1.2 Million raised | Raising €2-€10 Million to scale...
       text: |-
-        **€1.2 Million raised**  
-        **Raising €2-€10 Million to scale...**
-
         Big tech isn't waiting, let's make this happen together, **now**!
 
         - **Supercharge collaboration**  
@@ -94,7 +92,7 @@ sections:
 
   - block: markdown
     content:
-      title: THE WHY AND HOW OF THE ECONOMIC RETURNS!
+      title: THE WHY AND HOW OF THE ECONOMIC RETURNS! (table is wrong - check it)
       text: |-
         The capping of economic returns to all investors and staff helps ensure alignment of all parties with the purpose of benefiting society.
 
