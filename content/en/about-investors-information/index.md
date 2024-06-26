@@ -2,33 +2,56 @@
 title: Investors
 type: landing
 
-url: "/investors"
+url: "/investors-url"
 
 sections:
-  - block: hero
+  - block: markdown
     content:
       title: SAFE SPACES FOR COLLABORATION
-      subtitle: ON A PLATFORM DESIGNED TO BENEFIT SOCIETY
-      image:
-        filename:
-      cta:
-        url: 'https://eu1.hubs.ly/H09PDgC0'
-        label: View One Pager
-        icon_pack: fas
-        icon: file-pdf
+      text: |-
+        <div style="text-align: center;"><b>on a platform designed to benefit society.</b>
+        </div>
     design:
       columns: '1'
       spacing:
-        padding: ['60px', '0', '40px', '0']
+        padding: ['60px', '0', '10px', '0']
+      # Choose an optional background color, gradient, image, or video
+      background:
+        color: white
+
+  - block: markdown
+    content:
+      title: Taking off with impact investors who...
+      text: |-
+        Want to create a better and safer future while earning 3x-5x returns from a business backed by powerful trends in society.
+    design:
+      columns: '1'
+      spacing:
+        padding: ['40px', '0', '20px', '0']
+      # Choose an optional background color, gradient, image, or video
       background:
         color: rgb(241, 244, 245)
 
   - block: markdown
     content:
-      title: TAKING OFF WITH IMPACT INVESTORS WHO...
+      title:
       text: |-
-        Want to create a better and safer future while earning 3x-5x returns from a business backed by powerful trends in society.
-        [A small "View investor one pager" button]
+        <div style="text-align: center;">
+          <a href="https://eu1.hubs.ly/H09PDgC0" class="btn btn-primary" style="font-size: 1.5em; padding: 10px 20px;">
+            <i class="fas fa-file-pdf"></i> View One Pager
+          </a>
+        </div>
+    design:
+      columns: '1'
+      spacing:
+        padding: ['10px', '0', '10px', '0']
+      background:
+        color: rgb(241, 244, 245)
+
+  - block: markdown
+    content:
+      title:
+      text: |-
 
         **ARE WE HAPPY WITH THE FUTURE OF SOCIETY BEING DRIVEN BY PROFIT-MAXIMIZING BIG TECH?**
         
@@ -40,10 +63,17 @@ sections:
         
         **WE CAN DESIGN TECHNOLOGY TO BENEFIT SOCIETY (#EU TECH)**
         
-        - Putting society first, not profits.
-        - Using open source, not black boxes.
-        - Enabling greater collaboration, not polarization.
-        - Creating safety and trust!
+        - Putting <b>society first</b>, not profits.
+        - Using <b>open source</b>, not black boxes.
+        - Enabling <b>greater collaboration</b>, not polarization.
+        - Creating <b>safety and trust</b>!
+    design:
+      columns: '1'
+      spacing:
+        padding: ['40px', '0', '10px', '0']
+      # Choose an optional background color, gradient, image, or video
+      background:
+        color: rgb(241, 244, 245)
 
   - block: markdown
     content:
@@ -58,22 +88,71 @@ sections:
         Alkemio offers a SaaS platform for change makers. Beachhead markets are the public sector and education in the Netherlands. **€170k revenue in 2023**.
         
         Aligned with powerful trends in society. Hugely scalable.
+    design:
+      columns: '1'
+      spacing:
+        padding: ['40px', '0', '20px', '0']
+      # Choose an optional background color, gradient, image, or video
+      background:
+        color: white
+
+  - block: hero
+    content:
+      title: LOADING... unable to include progress-bar image in hero block
+      image: 
+        # Reference an image in your `assets/media/` folder
+        filename: /assets/media/progress-bar.png
+      # Add your Call-To-Action (CTA) button and optional icon
+    design:
+      columns: '2'
+      spacing:
+        # Customize the section spacing. Order is top, right, bottom, left.
+        padding: ['20px', '0', '10px', '0']
+      # Choose an optional background color, gradient, image, or video
+      background:
+        color: rgb(247, 247, 247)
 
   - block: markdown
     content:
-      title: FUNDING PROGRESS
-      subtitle: €1.2 Million raised | Raising €2-€10 Million to scale...
+      title: LOADING... unable to include progress-bar image in hero block
       text: |-
-        Big tech isn't waiting, let's make this happen together, **now**!
+        <div style="text-align: center;">
+          <img src="/assets/media/progress-bar.webp" alt="Progress bar" style="max-width: 100%; height: auto;">
+        </div>
+    design:
+      columns: '1'
+      spacing:
+        padding: ['10px', '0', '10px', '0']
+      background:
+        color: white
 
-        - **Supercharge collaboration**  
-          Enabling SDG 17, the key to making progress on all UN SDGs
-        - **To scale Virtual Contributors**  
-          Expand AI / sales teams  
-          Grow team from 17 to 30+  
-          Increase revenue to €1 Million+
-        - **Provide inspiration**  
-          That we can have a safer digital future
+  - block: features
+    content:
+      title: 
+      subtitle: </br></br>
+      text:      
+        <!--Custom spacing-->
+        <div class="mb-3"></div>
+      items:
+        - name: Supercharge collaboration
+          description: </br>Enabling SDG 17, the <b>key</b> to making progress on all UN SDGs
+          icon: rocket
+          icon_pack: fas
+        - name: To scale Virtual Contributors
+          description: </br>Expand AI and Sales teams</br> Grow team from 17 to 30+</br> Increase revenue to €1 Million+
+          icon: hand-holding-dollar
+          icon_pack: fas
+        - name: Provide inspiration
+          description: </br>That we <b>can</b> have a safer digital future
+          icon: flag
+          icon_pack: fas
+    design:
+      columns: '1'
+      spacing:
+        padding: ['40px', '0', '20px', '0']
+      # Choose an optional background color, gradient, image, or video
+      background:
+        color: white
 
   - block: markdown
     content:
@@ -90,9 +169,39 @@ sections:
 
         **Simple setup, easy to scale.** A single share class for all investors, including founders. The capped returns and steward control mean there are no cap table, valuation, or investor voting rights discussions. So management can focus on scaling a very successful business.
 
+  - block: left-right
+    content:
+      title: A NEW STYLE OF INVESTMENT OPPORTUNITY
+      image:
+        # Reference an image in your `assets/media/` folder
+        filename: manifesto/community.png
+        position: 'left'
+        alt: 'nature'
+        height: 300
+       
+      # Add your Hero text here
+      text: |-
+        In line with Alkemio’s choice of Steward-Ownership, some investment features differ from a typical venture capital backed startup. Designed for long-term investors who really care about Alkemio’s purpose.
+
+        - **Guided by stewards**, not shareholders. Stewards hold and control the voting shares to ensure the business is managed to achieve the purpose.
+        - Alkemio’s purpose and independence are **legally locked in**. An independent 3rd party holds a special share with a veto right on certain decisions such as a sale or change of the purpose of the company.
+        - For **all stakeholders**, not just shareholders. Investor economic returns are capped at levels that provide attractive returns. Excess profits will be used/donated to benefit society. Profit serves purpose.
+        - With investor economic returns coming from **dividends** and/or **share repurchase**, instead of a sale of the company.
+
+        Full details of how Alkemio has implemented Steward Ownership legally, please visit our **Alkemio Group structure overview**.
+
+        **Simple setup, easy to scale.** A single share class for all investors, including founders. The capped returns and steward control mean there are no cap table, valuation, or investor voting rights discussions. So management can focus on scaling a very successful business.
+    design:
+      spacing:
+        padding: ['10px', '0', '10px', '0']
+      # Choose an optional background color, gradient, image, or video
+      background:
+        color: rgb(241, 244, 245)
+      align: center
+
   - block: markdown
     content:
-      title: THE WHY AND HOW OF THE ECONOMIC RETURNS! (table is wrong - check it)
+      title: THE WHY AND HOW OF THE ECONOMIC RETURNS!
       text: |-
         The capping of economic returns to all investors and staff helps ensure alignment of all parties with the purpose of benefiting society.
 
@@ -100,11 +209,11 @@ sections:
 
         **Example:**
 
-        | Year | Year 2-4 | Year 5 | Year 6 | Year 7 | Year 8 |
-        |------|----------|--------|--------|--------|--------|
+        |      | Year 1 | Year 2-4 | Year 5 | Year 6 | Year 7 | Year 8 |
+        |------|------|----------|--------|--------|--------|--------|
         | Investment amount | €1,000 |
         | Initial dividend entitlement amount | €3,000 |
-        | Dividend amount in each year | €0 | €0 | €0 | €200 | €300 | -€500 |
+        | Dividend amount in each year | €0 | €0 | €0 | -€200 | -€300 | -€500 |
         | Annual increase due to accrual | €0 | €0 | €210 | €211 | €204 | €184 |
         | Outstanding dividend entitlement amount | €3,000 | €3,000 | €3,210 | €3,221 | €3,125 | €2,809 |
         | Effective capped return multiple | 3.0 | 3.0 | 3.2 | 3.4 | 3.6 | 3.8 |
@@ -114,6 +223,10 @@ sections:
         - Each year the outstanding dividend entitlement amount will (a) decrease by dividends received and (b) increase at the accrual rate.
 
         The full mechanism, including issuance of certificates, is described in schedule C of the **Alkemio Holding Shareholders Agreement**.
+    design:
+      columns: '1'
+      spacing:
+        padding: ['10px', '0', '10px', '0']
 
   - block: markdown
     content:
@@ -126,33 +239,61 @@ sections:
         **Get in touch with Neil Smyth, CEO**  
         **neil@alkem.io**
 
-        **TRUSTED BY**
-        City of The Hague  
-        GovTechNL  
-        Digicampus  
-        VNG  
-        Dutch Societal Innovation Hub  
-        VU Amsterdam
-
-        **"Working together requires trust, in each other but also in the digital platform being used”** - City of The Hague
-
-  - block: hero
+  - block: markdown
     content:
-      title: 
-      image:
-        filename:
-      cta:
-        url: 'https://eu1.hubs.ly/H06kZ0d0'
-        label: Interested in investing?
-        icon_pack: fas
-        icon: euro-sign
-      cta_alt:
-        url: 'mailto: neil@alkem.io'
-        label: Do well and do good
+      title: TRUSTED BY
     design:
-      columns: '2'
       spacing:
-        padding: ['60px', '0', '40px', '0']
+        # Customize the section spacing. Order is top, right, bottom, left.
+        padding: ['30px', '0', '0px', '0']
+      background:
+        color: white
+        
+  - block: carousel-logos
+    content:
+      slides:
+        slide1:
+          - /partners/vrije-universiteit-amsterdam.svg
+          - /partners/vng.svg
+          - /partners/digicampus.svg
+        slide2:
+          - /partners/gemeente-den-haag.svg
+          - /partners/velokonzept.svg
+          - /partners/dsih.svg
+    design:
+      background:
+        color: white
+      spacing:
+        padding: ['30px', '0', '50px', '0']
+
+  - block: markdown
+    content:
+      title:
+      text: |-
+        <b>"Working together requires trust, in each other but also in the digital platform being used" </b> - City of The Hague
+    design:
+      spacing:
+        # Customize the section spacing. Order is top, right, bottom, left.
+        padding: ['30px', '0', '0px', '0']
+      background:
+        color: white
+
+  - block: markdown
+    content:
+      title:
+      text: |-
+        <div style="text-align: center;">
+          <a href="https://eu1.hubs.ly/H06kZ0d0" class="btn btn-primary" style="font-size: 1.2em; padding: 10px 20px; margin-right: 30px;">
+            <i class="fas fa-euro-sign"></i> Interested in investing?
+          </a>
+          <a href="mailto: neil@alkem.io" class="btn btn-secondary" style="font-size: 1.2em; padding: 10px 20px;">
+            Do well and do good
+          </a>
+        </div>
+    design:
+      columns: '1'
+      spacing:
+        padding: ['60px', '0', '20px', '0']
       background:
         color: white
 
