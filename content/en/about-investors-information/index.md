@@ -98,10 +98,10 @@ sections:
 
   - block: hero
     content:
-      title: LOADING... unable to include progress-bar image in hero block
+      title: Loading...
       image: 
         # Reference an image in your `assets/media/` folder
-        filename: /assets/media/progress-bar.png
+        filename: progress-bar.png
       # Add your Call-To-Action (CTA) button and optional icon
     design:
       columns: '2'
@@ -110,21 +110,7 @@ sections:
         padding: ['20px', '0', '10px', '0']
       # Choose an optional background color, gradient, image, or video
       background:
-        color: rgb(247, 247, 247)
-
-  - block: markdown
-    content:
-      title: LOADING... unable to include progress-bar image in hero block
-      text: |-
-        <div style="text-align: center;">
-          <img src="/assets/media/progress-bar.webp" alt="Progress bar" style="max-width: 100%; height: auto;">
-        </div>
-    design:
-      columns: '1'
-      spacing:
-        padding: ['10px', '0', '10px', '0']
-      background:
-        color: white
+        color: rgb(241, 244, 245)
 
   - block: features
     content:
