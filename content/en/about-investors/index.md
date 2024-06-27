@@ -2,8 +2,6 @@
 title: Investors
 type: landing
 
-url: "/investors"
-
 sections:
   - block: features
     content:

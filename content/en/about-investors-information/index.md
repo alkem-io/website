@@ -2,7 +2,7 @@
 title: Investors
 type: landing
 
-url: "/investors-url"
+url: "/investors"
 
 sections:
   - block: markdown
@@ -14,23 +14,31 @@ sections:
     design:
       columns: '1'
       spacing:
-        padding: ['60px', '0', '10px', '0']
-      # Choose an optional background color, gradient, image, or video
-      background:
-        color: white
-
-  - block: markdown
-    content:
-      title: Taking off with impact investors who...
-      text: |-
-        Want to create a better and safer future while earning 3x-5x returns from a business backed by powerful trends in society.
-    design:
-      columns: '1'
-      spacing:
-        padding: ['40px', '0', '20px', '0']
+        padding: ['30px', '0', '10px', '0']
       # Choose an optional background color, gradient, image, or video
       background:
         color: rgb(241, 244, 245)
+
+  - block: left-right
+    content:
+      title: Taking off with impact investors who...
+      image:
+        # Reference an image in your `assets/media/` folder
+        filename: safety-exit.png
+        position: 'right'
+        alt: 'nature'
+        height: 300
+       
+      # Add your Hero text here
+      text: |-
+        Want to create a better and safer future while earning 3x-5x returns from a business backed by powerful trends in society.
+    design:
+      spacing:
+        padding: ['20px', '0', '20px', '0']
+      # Choose an optional background color, gradient, image, or video
+      background:
+        color: white
+      align: center
 
   - block: markdown
     content:
@@ -44,9 +52,9 @@ sections:
     design:
       columns: '1'
       spacing:
-        padding: ['10px', '0', '10px', '0']
+        padding: ['10px', '0', '20px', '0']
       background:
-        color: rgb(241, 244, 245)
+        color: white
 
   - block: markdown
     content:
@@ -138,26 +146,21 @@ sections:
         padding: ['40px', '0', '20px', '0']
       # Choose an optional background color, gradient, image, or video
       background:
-        color: white
+        color: rgb(241, 244, 245)
 
   - block: markdown
     content:
       title: A NEW STYLE OF INVESTMENT OPPORTUNITY
-      text: |-
-        In line with Alkemio’s choice of Steward-Ownership, some investment features differ from a typical venture capital backed startup. Designed for long-term investors who really care about Alkemio’s purpose.
-
-        - **Guided by stewards**, not shareholders. Stewards hold and control the voting shares to ensure the business is managed to achieve the purpose.
-        - Alkemio’s purpose and independence are **legally locked in**. An independent 3rd party holds a special share with a veto right on certain decisions such as a sale or change of the purpose of the company.
-        - For **all stakeholders**, not just shareholders. Investor economic returns are capped at levels that provide attractive returns. Excess profits will be used/donated to benefit society. Profit serves purpose.
-        - With investor economic returns coming from **dividends** and/or **share repurchase**, instead of a sale of the company.
-
-        Full details of how Alkemio has implemented Steward Ownership legally, please visit our **Alkemio Group structure overview**.
-
-        **Simple setup, easy to scale.** A single share class for all investors, including founders. The capped returns and steward control mean there are no cap table, valuation, or investor voting rights discussions. So management can focus on scaling a very successful business.
+    design:
+      spacing:
+        # Customize the section spacing. Order is top, right, bottom, left.
+        padding: ['5px', '0', '0px', '0']
+      background:
+        color: white
 
   - block: left-right
     content:
-      title: A NEW STYLE OF INVESTMENT OPPORTUNITY
+      title:
       image:
         # Reference an image in your `assets/media/` folder
         filename: manifesto/community.png
@@ -182,7 +185,7 @@ sections:
         padding: ['10px', '0', '10px', '0']
       # Choose an optional background color, gradient, image, or video
       background:
-        color: rgb(241, 244, 245)
+        color: white
       align: center
 
   - block: markdown
@@ -213,17 +216,29 @@ sections:
       columns: '1'
       spacing:
         padding: ['10px', '0', '10px', '0']
+      background:
+        color: rgb(241, 244, 245)
 
-  - block: markdown
+  - block: hero
     content:
-      title: FOR IMPACT INVESTORS
+      title: For impact investors
+      subtitle: Join us in scaling a business backed by powerful trends in society.
       text: |-
-        Join us in scaling a business backed by powerful trends in society.
-
-        Big tech isn’t waiting, let’s make it happen together, **now**!
-
-        **Get in touch with Neil Smyth, CEO**  
-        **neil@alkem.io**
+        Big tech isn’t waiting, let’s make it happen together, **now**! </br></br>
+      image:
+        filename: get-in-touch.png
+        alt: Impact Investors
+      cta:
+        url: 'mailto:neil@alkem.io'
+        label: Contact us
+        icon_pack: fas
+        icon: envelope
+    design:
+      columns: '1'
+      spacing:
+        padding: ['30px', '0', '10px', '0']
+      background:
+        color: white
 
   - block: markdown
     content:
@@ -231,7 +246,7 @@ sections:
     design:
       spacing:
         # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ['30px', '0', '0px', '0']
+        padding: ['5px', '0', '0px', '0']
       background:
         color: white
         
@@ -260,7 +275,7 @@ sections:
     design:
       spacing:
         # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ['30px', '0', '0px', '0']
+        padding: ['30px', '0', '30px', '0']
       background:
         color: white
 
@@ -279,9 +294,9 @@ sections:
     design:
       columns: '1'
       spacing:
-        padding: ['60px', '0', '20px', '0']
+        padding: ['40px', '0', '40px', '0']
       background:
-        color: white
+        color: rgb(241, 244, 245)
 
   - block: markdown
     content:
@@ -291,5 +306,9 @@ sections:
         Any investment or business decisions made based on this information are at your own risk.
     design:
       columns: '1'
+      spacing:
+        padding: ['10px', '0', '20px', '0']
+      background:
+        color: white
 
 ---
