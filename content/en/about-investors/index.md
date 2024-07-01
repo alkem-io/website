@@ -2,7 +2,7 @@
 title: Investors
 type: landing
 
-url: "/investors"
+#old investors page, for new see about-investors-information
 
 sections:
   - block: features
