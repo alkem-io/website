@@ -99,7 +99,7 @@ sections:
     design:
       columns: '1'
       spacing:
-        padding: ['40px', '0', '20px', '0']
+        padding: ['20px', '0', '20px', '0']
       # Choose an optional background color, gradient, image, or video
       background:
         color: white
@@ -115,7 +115,7 @@ sections:
       columns: '2'
       spacing:
         # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ['20px', '0', '10px', '0']
+        padding: ['25px', '0', '10px', '0']
       # Choose an optional background color, gradient, image, or video
       background:
         color: rgb(241, 244, 245)
@@ -154,7 +154,7 @@ sections:
     design:
       spacing:
         # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ['5px', '0', '0px', '0']
+        padding: ['20px', '0', '5px', '0']
       background:
         color: white
 
@@ -182,7 +182,7 @@ sections:
         **Simple setup, easy to scale.** A single share class for all investors, including founders. The capped returns and steward control mean there are no cap table, valuation, or investor voting rights discussions. So management can focus on scaling a very successful business.
     design:
       spacing:
-        padding: ['10px', '0', '10px', '0']
+        padding: ['10px', '0', '20px', '0']
       # Choose an optional background color, gradient, image, or video
       background:
         color: white
@@ -215,7 +215,7 @@ sections:
     design:
       columns: '1'
       spacing:
-        padding: ['10px', '0', '10px', '0']
+        padding: ['25px', '0', '20px', '0']
       background:
         color: rgb(241, 244, 245)
 

@@ -2,6 +2,8 @@
 title: Investors
 type: landing
 
+#old investors page, for new see about-investors-information
+
 sections:
   - block: features
     content:
