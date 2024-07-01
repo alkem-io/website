@@ -7,21 +7,23 @@ url: "/investors"
 sections:
   - block: markdown
     content:
-      title: SAFE SPACES FOR COLLABORATION
+      title: Taking off with impact investors who...
       text: |-
-        <div style="text-align: center;"><b>on a platform designed to benefit society.</b>
+        <div style="text-align: center;">want to create a better and safer future,
+        
+        while earning 3x-5x returns from a business backed by powerful trends in society.</b>
         </div>
     design:
       columns: '1'
       spacing:
-        padding: ['30px', '0', '10px', '0']
+        padding: ['30px', '0', '40px', '0']
       # Choose an optional background color, gradient, image, or video
       background:
-        color: rgb(241, 244, 245)
+        color: white
 
   - block: left-right
     content:
-      title: Taking off with impact investors who...
+      title: 
       image:
         # Reference an image in your `assets/media/` folder
         filename: safety-exit.png
@@ -31,7 +33,7 @@ sections:
        
       # Add your Hero text here
       text: |-
-        Want to create a better and safer future while earning 3x-5x returns from a business backed by powerful trends in society.
+
     design:
       spacing:
         padding: ['20px', '0', '20px', '0']
@@ -44,15 +46,15 @@ sections:
     content:
       title:
       text: |-
-        <div style="text-align: center;">
-          <a href="https://eu1.hubs.ly/H09PDgC0" class="btn btn-primary" style="font-size: 1.5em; padding: 10px 20px;">
-            <i class="fas fa-file-pdf"></i> View One Pager
-          </a>
+      
+        <div style="text-align: center;"> Sounds like you? Big Tech isn't waiting, let's make this happen together now!
         </div>
+        
     design:
       columns: '1'
       spacing:
-        padding: ['10px', '0', '20px', '0']
+        padding: ['20px', '0', '20px', '0']
+      # Choose an optional background color, gradient, image, or video
       background:
         color: white
 
@@ -60,34 +62,54 @@ sections:
     content:
       title:
       text: |-
-
-        **ARE WE HAPPY WITH THE FUTURE OF SOCIETY BEING DRIVEN BY PROFIT-MAXIMIZING BIG TECH?**
-        
-        Especially given the disruptive power of AI, which is increasing every month.
-        
-        Are governments agile enough to regulate? Is profit maximization going to stop?
-        
-        What, then, can we do to help shape the future we want for our kids?
-        
-        **WE CAN DESIGN TECHNOLOGY TO BENEFIT SOCIETY (#EU TECH)**
-        
-        - Putting <b>society first</b>, not profits.
-        - Using <b>open source</b>, not black boxes.
-        - Enabling <b>greater collaboration</b>, not polarization.
-        - Creating <b>safety and trust</b>!
+        <div style="text-align: center;">
+          <a href="https://eu1.hubs.ly/H09PDgC0" class="btn btn-primary" style="font-size: 1.2em; padding: 10px 20px;">
+            <i class="fas fa-file-pdf"></i> View One Pager
+          </a>
+        </div>
     design:
       columns: '1'
       spacing:
-        padding: ['40px', '0', '10px', '0']
+        padding: ['10px', '0', '40px', '0']
+      background:
+        color: white
+
+  - block: markdown
+    content:
+      title:
+      text: |-
+      
+        <div style="text-align: center;"><b>Are we happy with the future of society being driven by profit-maximizing Big Tech?</b>
+        
+        </br>Especially given the disruptive power of AI, which is increasing every month.
+        
+        Are governments agile enough to regulate? Is profit maximization going to stop?
+        
+        What, then, can we do to help shape the future we want for our kids? </br></br>
+        
+        **We can design technology to benefit society (#EUTech)**
+         </br>
+        
+          Putting <b>society first</b>, not profits.</br>
+          Using <b>open source</b>, not black boxes.</br>
+          Enabling <b>greater collaboration</b>, not polarization.</br>
+          Creating <b>safety and trust</b>!</br>
+
+        </div>
+        
+    design:
+      columns: '1'
+      spacing:
+        padding: ['50px', '0', '40px', '0']
       # Choose an optional background color, gradient, image, or video
       background:
         color: rgb(241, 244, 245)
 
   - block: markdown
     content:
-      title: THIS IS ALKEMIO
+      title: This is Alkemio </br>
       text: |-
-        **Steward-owned**, a company designed for trust. Legally aligned with EU societal goals.
+        <div style="text-align: center;"><s style="color: red;"><b>Shareholder</b></s> <b><span style="color: #00a1e0;">Steward</span>-owned</b>, a company designed for trust. Legally aligned with EU societal goals.
         
         Providing safe digital spaces, with control and trust. Where people and AI work together, solving societal challenges.
         
@@ -96,10 +118,11 @@ sections:
         Alkemio offers a SaaS platform for change makers. Beachhead markets are the public sector and education in the Netherlands. **€170k revenue in 2023**.
         
         Aligned with powerful trends in society. Hugely scalable.
+        </div>
     design:
       columns: '1'
       spacing:
-        padding: ['20px', '0', '20px', '0']
+        padding: ['50px', '0', '50px', '0']
       # Choose an optional background color, gradient, image, or video
       background:
         color: white
@@ -143,20 +166,22 @@ sections:
     design:
       columns: '1'
       spacing:
-        padding: ['40px', '0', '20px', '0']
+        padding: ['40px', '0', '40px', '0']
       # Choose an optional background color, gradient, image, or video
       background:
         color: rgb(241, 244, 245)
 
   - block: markdown
     content:
-      title: A NEW STYLE OF INVESTMENT OPPORTUNITY
+      title: A new style of investment opportunity
     design:
       spacing:
         # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ['20px', '0', '5px', '0']
+        padding: ['40px', '0', '5px', '0']
       background:
         color: white
+
+# left-right block below becomes a text-only block + image below in a different block
 
   - block: left-right
     content:
@@ -176,13 +201,12 @@ sections:
         - Alkemio’s purpose and independence are **legally locked in**. An independent 3rd party holds a special share with a veto right on certain decisions such as a sale or change of the purpose of the company.
         - For **all stakeholders**, not just shareholders. Investor economic returns are capped at levels that provide attractive returns. Excess profits will be used/donated to benefit society. Profit serves purpose.
         - With investor economic returns coming from **dividends** and/or **share repurchase**, instead of a sale of the company.
+        - **Simple setup, easy to scale.** A single share class for all investors, including founders. The capped returns and steward control mean there are no cap table, valuation, or investor voting rights discussions. So management can focus on scaling a very successful business.
 
         Full details of how Alkemio has implemented Steward Ownership legally, please visit our **Alkemio Group structure overview**.
-
-        **Simple setup, easy to scale.** A single share class for all investors, including founders. The capped returns and steward control mean there are no cap table, valuation, or investor voting rights discussions. So management can focus on scaling a very successful business.
     design:
       spacing:
-        padding: ['10px', '0', '20px', '0']
+        padding: ['10px', '0', '40px', '0']
       # Choose an optional background color, gradient, image, or video
       background:
         color: white
@@ -196,9 +220,7 @@ sections:
 
         The cap level for early investors starts at 3x-3.5x, depending on timing of investment. From 4 years after the investment date, the outstanding amount payable to an investor will start to accrue at a certain annual rate, such that the effective cap level can increase to 4x-5x.
 
-        **Example:**
-
-        |      | Year 1 | Year 2-4 | Year 5 | Year 6 | Year 7 | Year 8 |
+        |   Example   | Year 1 | Year 2-4 | Year 5 | Year 6 | Year 7 | Year 8 |
         |------|------|----------|--------|--------|--------|--------|
         | Investment amount | €1,000 |
         | Initial dividend entitlement amount | €3,000 |
@@ -215,30 +237,9 @@ sections:
     design:
       columns: '1'
       spacing:
-        padding: ['25px', '0', '20px', '0']
+        padding: ['40px', '0', '40px', '0']
       background:
         color: rgb(241, 244, 245)
-
-  - block: hero
-    content:
-      title: For impact investors
-      subtitle: Join us in scaling a business backed by powerful trends in society.
-      text: |-
-        Big tech isn’t waiting, let’s make it happen together, **now**! </br></br>
-      image:
-        filename: get-in-touch.png
-        alt: Impact Investors
-      cta:
-        url: 'mailto:neil@alkem.io'
-        label: Contact us
-        icon_pack: fas
-        icon: envelope
-    design:
-      columns: '1'
-      spacing:
-        padding: ['30px', '0', '10px', '0']
-      background:
-        color: white
 
   - block: markdown
     content:
@@ -246,7 +247,7 @@ sections:
     design:
       spacing:
         # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ['5px', '0', '0px', '0']
+        padding: ['40px', '0', '0px', '0']
       background:
         color: white
         
@@ -275,39 +276,42 @@ sections:
     design:
       spacing:
         # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ['30px', '0', '30px', '0']
+        padding: ['30px', '0', '40px', '0']
       background:
         color: white
 
-  - block: markdown
+  - block: hero
     content:
-      title:
+      title: For impact investors
+      subtitle: Join us in scaling a business backed by powerful trends in society.
       text: |-
-        <div style="text-align: center;">
-          <a href="https://eu1.hubs.ly/H06kZ0d0" class="btn btn-primary" style="font-size: 1.2em; padding: 10px 20px; margin-right: 30px;">
-            <i class="fas fa-euro-sign"></i> Interested in investing?
-          </a>
-          <a href="mailto: neil@alkem.io" class="btn btn-secondary" style="font-size: 1.2em; padding: 10px 20px;">
-            Do well and do good
-          </a>
-        </div>
+        Big tech isn’t waiting, let’s make it happen together, **now**! </br></br>
+      image:
+        filename: get-in-touch.png
+        alt: Impact Investors
+      cta:
+        url: 'mailto:neil@alkem.io'
+        label: Contact us
+        icon_pack: fas
+        icon: envelope
     design:
       columns: '1'
       spacing:
-        padding: ['40px', '0', '40px', '0']
+        padding: ['30px', '0', '10px', '0']
       background:
         color: rgb(241, 244, 245)
 
   - block: markdown
     content:
       title: Disclaimer
-      subtitle: The information provided here is for general informational purposes only and should not be considered as investment or business advice. 
+      subtitle: 
       text: |-
-        Any investment or business decisions made based on this information are at your own risk.
+        <div style="text-align: center;">The information provided here is for general informational purposes only and should not be considered as investment or business advice. Any investment or business decisions made based on this information are at your own risk.
+        </div>
     design:
       columns: '1'
       spacing:
-        padding: ['10px', '0', '20px', '0']
+        padding: ['40px', '0', '20px', '0']
       background:
         color: white
 
