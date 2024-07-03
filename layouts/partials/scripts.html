@@ -1,0 +1,8 @@
+<script src="{{ "/js/elastic-apm-rum.umd.min.js" | urlize | relURL }}" crossorigin></script>
+<script>
+  elasticApm.init({
+    serviceName: 'website',
+    serverUrl: '{{ .Site.Param "apmUrl" }}',
+    active: '{{ .Site.Param "apmActive" }}' === 'true'
+  })
+</script>
