@@ -2,7 +2,7 @@
 title: Investors
 type: landing
 
-url: "/investors"
+#old investors page, for new see about-investors-information
 
 sections:
   - block: features
@@ -168,14 +168,19 @@ sections:
 
   - block: markdown
     content:
-      title: Disclaimer
-      subtitle: The information provided here is for general informational purposes only and should not be considered as investment or business advice. </br></br>
-        Any investment or business decisions made based on this information are at your own risk.
+      title: 
       text: |-
-        
+        <h2>Disclaimer</h2>
+
+        The above inxformation is shared in the interest of accelerating the wider move to a purpose-based economy. The information provided here is for general informational purposes only and should not be considered as investment or business advice. 
+
+        Any investment or business decisions made based on this information are at your own risk.
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
+      css_class: d-flex align-items-center
+      spacing:
+        padding: ['20px', '0', '20px', '0']
 
 ---
