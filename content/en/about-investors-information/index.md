@@ -21,26 +21,23 @@ sections:
       background:
         color: white
 
-  - block: left-right
+  - block: markdown
     content:
       title: 
-      image:
-        # Reference an image in your `assets/media/` folder
-        filename: safety-exit.png
-        position: 'right'
-        alt: 'nature'
-        height: 300
-       
-      # Add your Hero text here
       text: |-
-
+        <p align="center">
+          <img src="./images/safety-exit.png" alt="Alkemio Group Structure" style="width: 50%;">
+        </p>
     design:
+      background:
+        image:
+          filename:
+          flip: false
+        color: white
+      columns: '1'
+      css_class: d-flex align-items-center
       spacing:
         padding: ['20px', '0', '20px', '0']
-      # Choose an optional background color, gradient, image, or video
-      background:
-        color: white
-      align: center
 
   - block: markdown
     content:
@@ -127,49 +124,52 @@ sections:
       background:
         color: white
 
-  - block: hero
-    content:
-      title: Loading...
-      image: 
-        # Reference an image in your `assets/media/` folder
-        filename: progress-bar.png
-      # Add your Call-To-Action (CTA) button and optional icon
-    design:
-      columns: '2'
-      spacing:
-        # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ['25px', '0', '10px', '0']
-      # Choose an optional background color, gradient, image, or video
-      background:
-        color: rgb(241, 244, 245)
-
-  - block: features
+  - block: markdown
     content:
       title: 
-      subtitle: </br></br>
-      text:      
-        <!--Custom spacing-->
-        <div class="mb-3"></div>
-      items:
-        - name: Supercharge collaboration
-          description: </br>Enabling SDG 17, the <b>key</b> to making progress on all UN SDGs
-          icon: rocket
-          icon_pack: fas
-        - name: To scale Virtual Contributors
-          description: </br>Expand AI and Sales teams</br> Grow team from 17 to 30+</br> Increase revenue to €1 Million+
-          icon: hand-holding-dollar
-          icon_pack: fas
-        - name: Provide inspiration
-          description: </br>That we <b>can</b> have a safer digital future
-          icon: flag
-          icon_pack: fas
+      text: |-
+        <p align="center">
+          <img src="./images/progress-bar.png" alt="progress-bar" style="width: 80%;">
+        </p>
     design:
+      background:
+        image:
+          filename:
+          flip: false
+        color: white
       columns: '1'
+      css_class: d-flex align-items-center
       spacing:
-        padding: ['40px', '0', '40px', '0']
-      # Choose an optional background color, gradient, image, or video
+        padding: ['20px', '0', '50px', '0']
+
+  - block: markdown
+    content:
+      title: 
+      text: |-
+        <div style="display: flex; justify-content: space-around; align-items: center; padding: 20px 0;">
+          <div style="text-align: center; flex: 1; padding: 10px; margin-top: 20px;">
+            <img src="./images/sdgs.png" alt="Supercharge collaboration" style="width: 80px; height: 80px; display: block; margin: 0 auto;">
+            <h2>Supercharge collaboration</h2>
+            <p></br>Enabling SDG 17, the <b>key</b> to making progress on all UN SDGs</p>
+          </div>
+          <div style="text-align: center; flex: 1; padding: 10px; margin-top: -60px;">
+            <img src="./images/rocket.png" alt="To scale Virtual Contributors" style="width: 120px; height: 120px; display: block; margin: 0 auto;">
+            <h2>To scale Virtual Contributors</h2>
+            <p></br>Expand AI and Sales teams</br> Grow team from 17 to 30+</br> Increase revenue to €1 Million+</p>
+          </div>
+          <div style="text-align: center; flex: 1; padding: 10px;">
+            <img src="./images/to-the-sky.png" alt="Provide inspiration" style="width: 85px; height: 85px; display: block; margin: 0 auto;">
+            <h2>Provide inspiration</h2>
+            <p></br>That we <b>can</b> have a safer digital future</p>
+          </div>
+        </div>
+    design:
       background:
         color: rgb(241, 244, 245)
+      columns: '1'
+      css_class: d-flex align-items-center
+      spacing:
+        padding: ['80px', '0', '50px', '0']
 
   - block: markdown
     content:
