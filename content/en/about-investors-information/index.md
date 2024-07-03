@@ -174,10 +174,14 @@ sections:
   - block: markdown
     content:
       title: A new style of investment opportunity
+      text: |-
+        <div style="text-align: center;">
+          In line with Alkemio’s choice of Steward-Ownership, some investment features differ from a typical venture capital backed startup. Designed for long-term investors who really care about Alkemio’s purpose.
+        </div>
     design:
       spacing:
         # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ['40px', '0', '5px', '0']
+        padding: ['40px', '0', '20px', '0']
       background:
         color: white
 
@@ -188,25 +192,21 @@ sections:
       title:
       image:
         # Reference an image in your `assets/media/` folder
-        filename: manifesto/community.png
+        filename: alkemio-platform-overview.png
         position: 'left'
         alt: 'nature'
         height: 300
        
       # Add your Hero text here
       text: |-
-        In line with Alkemio’s choice of Steward-Ownership, some investment features differ from a typical venture capital backed startup. Designed for long-term investors who really care about Alkemio’s purpose.
-
         - **Guided by stewards**, not shareholders. Stewards hold and control the voting shares to ensure the business is managed to achieve the purpose.
         - Alkemio’s purpose and independence are **legally locked in**. An independent 3rd party holds a special share with a veto right on certain decisions such as a sale or change of the purpose of the company.
         - For **all stakeholders**, not just shareholders. Investor economic returns are capped at levels that provide attractive returns. Excess profits will be used/donated to benefit society. Profit serves purpose.
         - With investor economic returns coming from **dividends** and/or **share repurchase**, instead of a sale of the company.
         - **Simple setup, easy to scale.** A single share class for all investors, including founders. The capped returns and steward control mean there are no cap table, valuation, or investor voting rights discussions. So management can focus on scaling a very successful business.
-
-        Full details of how Alkemio has implemented Steward Ownership legally, please visit our **Alkemio Group structure overview**.
     design:
       spacing:
-        padding: ['10px', '0', '40px', '0']
+        padding: ['10px', '0', '10px', '0']
       # Choose an optional background color, gradient, image, or video
       background:
         color: white
@@ -214,8 +214,38 @@ sections:
 
   - block: markdown
     content:
+      title:
+      text: |-
+        <div style="text-align: center;">
+          Full details of how Alkemio has implemented Steward Ownership legally, please visit our <a href="/structure"><b>Alkemio Group structure overview</b></a>.
+        </div>
+    design:
+      spacing:
+        # Customize the section spacing. Order is top, right, bottom, left.
+        padding: ['10px', '0', '40px', '0']
+      background:
+        color: white
+
+  - block: markdown
+    content:
       title: THE WHY AND HOW OF THE ECONOMIC RETURNS!
       text: |-
+        <style>
+          table {
+            width: 100%;
+            border-collapse: collapse;
+          }
+          th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: center;
+            font-size: 0.8em; /* Adjust font size to make the table smaller */
+          }
+          th {
+            background-color: #f2f2f2;
+          }
+        </style>
+
         The capping of economic returns to all investors and staff helps ensure alignment of all parties with the purpose of benefiting society.
 
         The cap level for early investors starts at 3x-3.5x, depending on timing of investment. From 4 years after the investment date, the outstanding amount payable to an investor will start to accrue at a certain annual rate, such that the effective cap level can increase to 4x-5x.
@@ -280,26 +310,53 @@ sections:
       background:
         color: white
 
-  - block: hero
+  - block: markdown
     content:
       title: For impact investors
-      subtitle: Join us in scaling a business backed by powerful trends in society.
       text: |-
-        Big tech isn’t waiting, let’s make it happen together, **now**! </br></br>
-      image:
-        filename: get-in-touch.png
-        alt: Impact Investors
-      cta:
-        url: 'mailto:neil@alkem.io'
-        label: Contact us
-        icon_pack: fas
-        icon: envelope
+        <div style="text-align: center;">Join us in scaling a business backed by powerful trends in society. </br></br>
+        Big Tech isn't waiting, let's make it happen together, <b>now</b>!
+        </div>
+
     design:
-      columns: '1'
       spacing:
-        padding: ['30px', '0', '10px', '0']
+        # Customize the section spacing. Order is top, right, bottom, left.
+        padding: ['30px', '0', '1px', '0']
       background:
-        color: rgb(241, 244, 245)
+        color: white
+
+  - block: markdown
+    content:
+      title: 
+      text: |-
+        <p align="center">
+          <img src="./images/get-in-touch.png" alt="Alkemio Group Structure" style="width: 30%;">
+        </p>
+    design:
+      background:
+        image:
+          filename:
+          flip: false
+        color: white
+      columns: '1'
+      css_class: d-flex align-items-center
+      spacing:
+        padding: ['0', '0', '0', '0']
+
+  - block: markdown
+    content:
+      title: 
+      text: |-
+        <div style="text-align: center; padding: 30px 0;">
+          <a href="mailto:neil@alkem.io" class="btn btn-primary" style="font-size: 1.2em; padding: 10px 20px; display: inline-flex; align-items: center; text-decoration: none; color: white; background-color: #1D384A; border-radius: 5px;">
+            <i class="fas fa-envelope" style="margin-right: 8px;"></i> Email
+          </a>
+        </div>
+    design:
+      spacing:
+        padding: ['1px', '0', '50px', '0']
+      background:
+        color: white
 
   - block: markdown
     content:
@@ -313,6 +370,6 @@ sections:
       spacing:
         padding: ['40px', '0', '20px', '0']
       background:
-        color: white
+        color: rgb(241, 244, 245)
 
 ---
