@@ -9,10 +9,12 @@ sections:
     content:
       title: Taking off with impact investors who...
       text: |-
+        <h2>
         <div style="text-align: center;">want to create a better and safer future,
         
         while earning 3x-5x returns from a business backed by powerful trends in society.</b>
         </div>
+        </h2>
     design:
       columns: '1'
       spacing:
@@ -263,7 +265,7 @@ sections:
         - 4 years after the investment date, the outstanding dividend entitlement amount will accrue at an annual rate of 7%.
         - Each year the outstanding dividend entitlement amount will (a) decrease by dividends received and (b) increase at the accrual rate.
 
-        The full mechanism, including issuance of certificates, is described in schedule C of the **Alkemio Holding Shareholders Agreement**.
+        The full mechanism, including issuance of certificates, is described in schedule C of the <b><a href="./documents/alkemio_holding_shareholders_agreement_v1.1.pdf">Alkemio Holding Shareholders Agreement (SHA)</a></b>.
     design:
       columns: '1'
       spacing:
@@ -363,13 +365,20 @@ sections:
       title: Disclaimer
       subtitle: 
       text: |-
+        <p align="center">
+        The above information is shared in the interest of accelerating the wider move to a purpose-based economy. The information provided here is for general informational purposes only and should not be considered as investment or business advice. 
+        </p>
+        <p align="center">
         <div style="text-align: center;">The information provided here is for general informational purposes only and should not be considered as investment or business advice. Any investment or business decisions made based on this information are at your own risk.
         </div>
+        </p>
     design:
+      # See Page Builder docs for all section customization options.
+      # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
+      css_class: d-flex align-items-center
       spacing:
         padding: ['40px', '0', '20px', '0']
       background:
         color: rgb(241, 244, 245)
-
 ---
