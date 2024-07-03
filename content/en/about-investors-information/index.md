@@ -9,12 +9,14 @@ sections:
     content:
       title: SAFE SPACES FOR COLLABORATION
       text: |-
+        <h2>
         <div style="text-align: center;"><b>on a platform designed to benefit society.</b>
         </div>
+        </h2>
     design:
       columns: '1'
       spacing:
-        padding: ['30px', '0', '10px', '0']
+        padding: ['30px', '0', '20px', '0']
       # Choose an optional background color, gradient, image, or video
       background:
         color: rgb(241, 244, 245)
@@ -211,11 +213,11 @@ sections:
         - 4 years after the investment date, the outstanding dividend entitlement amount will accrue at an annual rate of 7%.
         - Each year the outstanding dividend entitlement amount will (a) decrease by dividends received and (b) increase at the accrual rate.
 
-        The full mechanism, including issuance of certificates, is described in schedule C of the **Alkemio Holding Shareholders Agreement**.
+        The full mechanism, including issuance of certificates, is described in schedule C of the <b><a href="./documents/alkemio_holding_shareholders_agreement_v1.1.pdf">Alkemio Holding Shareholders Agreement (SHA)</a></b>.
     design:
       columns: '1'
       spacing:
-        padding: ['25px', '0', '20px', '0']
+        padding: ['30px', '0', '20px', '0']
       background:
         color: rgb(241, 244, 245)
 
@@ -301,14 +303,20 @@ sections:
   - block: markdown
     content:
       title: Disclaimer
-      subtitle: The information provided here is for general informational purposes only and should not be considered as investment or business advice. 
       text: |-
+        <p align="center">
+        The above information is shared in the interest of accelerating the wider move to a purpose-based economy. The information provided here is for general informational purposes only and should not be considered as investment or business advice. 
+        </p>
+        <p align="center">
         Any investment or business decisions made based on this information are at your own risk.
+        </p>
     design:
+      # See Page Builder docs for all section customization options.
+      # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
+      css_class: d-flex align-items-center
       spacing:
-        padding: ['10px', '0', '20px', '0']
+        padding: ['20px', '0', '20px', '0']
       background:
         color: white
-
 ---
