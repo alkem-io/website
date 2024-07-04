@@ -9,16 +9,14 @@ sections:
     content:
       title: Taking off with impact investors who...
       text: |-
-        <h2>
         <div style="text-align: center;">want to create a better and safer future,
         
         while earning 3x-5x returns from a business backed by powerful trends in society.</b>
         </div>
-        </h2>
     design:
       columns: '1'
       spacing:
-        padding: ['30px', '0', '40px', '0']
+        padding: ['50px', '0', '40px', '0']
       # Choose an optional background color, gradient, image, or video
       background:
         color: white
@@ -81,7 +79,7 @@ sections:
         <div style="text-align: center;"><b>Are we happy with the future of society being driven by profit-maximizing Big Tech?</b>
         
         </br>Especially given the disruptive power of AI, which is increasing every month.
-        
+
         Are governments agile enough to regulate? Is profit maximization going to stop?
         
         What, then, can we do to help shape the future we want for our kids? </br></br>
@@ -108,9 +106,9 @@ sections:
     content:
       title: This is Alkemio </br>
       text: |-
-        <div style="text-align: center;"><s style="color: red;"><b>Shareholder</b></s> <b><span style="color: #00a1e0;">Steward</span>-owned</b>, a company designed for trust. Legally aligned with EU societal goals.
+        <div style="text-align: center;"><s style="color: red;"><b>Shareholder</b></s> <b><span style="color: #00a1e0;">Steward</span></b>-owned, a company designed for trust. Legally aligned with EU societal goals.</br></br>
         
-        Providing safe digital spaces, with control and trust. Where people and AI work together, solving societal challenges.
+        Providing <b>safe digital spaces</b>, with control and trust. Where people and AI work together, solving societal challenges.
         
         Introducing Virtual Contributors, created based on trusted bodies of knowledge and using AI. Ready at all times to contribute expertise, do work, and supercharge your output.
         
@@ -131,7 +129,7 @@ sections:
       title: 
       text: |-
         <p align="center">
-          <img src="./images/progress-bar.png" alt="progress-bar" style="width: 80%;">
+          <img src="./images/alkemio-platform-overview.png" alt="progress-bar" style="width: 50%;">
         </p>
     design:
       background:
@@ -142,7 +140,25 @@ sections:
       columns: '1'
       css_class: d-flex align-items-center
       spacing:
-        padding: ['20px', '0', '50px', '0']
+        padding: ['0', '0', '50px', '0']
+
+  - block: markdown
+    content:
+      title: 
+      text: |-
+        <p align="center">
+          <img src="./images/progress-bar.png" alt="progress-bar" style="width: 60%;">
+        </p>
+    design:
+      background:
+        image:
+          filename:
+          flip: false
+        color: rgb(241, 244, 245)
+      columns: '1'
+      css_class: d-flex align-items-center
+      spacing:
+        padding: ['40px', '0', '20px', '0']
 
   - block: markdown
     content:
@@ -194,7 +210,7 @@ sections:
       title:
       image:
         # Reference an image in your `assets/media/` folder
-        filename: alkemio-platform-overview.png
+        filename: hands-together.png
         position: 'left'
         alt: 'nature'
         height: 300
@@ -204,7 +220,7 @@ sections:
         - **Guided by stewards**, not shareholders. Stewards hold and control the voting shares to ensure the business is managed to achieve the purpose.
         - Alkemio’s purpose and independence are **legally locked in**. An independent 3rd party holds a special share with a veto right on certain decisions such as a sale or change of the purpose of the company.
         - For **all stakeholders**, not just shareholders. Investor economic returns are capped at levels that provide attractive returns. Excess profits will be used/donated to benefit society. Profit serves purpose.
-        - With investor economic returns coming from **dividends** and/or **share repurchase**, instead of a sale of the company.
+        - With investor economic returns coming from **dividends** and/or **share repurchase**, instead of a sale of the company. Investors may see to sell their shares privately.
         - **Simple setup, easy to scale.** A single share class for all investors, including founders. The capped returns and steward control mean there are no cap table, valuation, or investor voting rights discussions. So management can focus on scaling a very successful business.
     design:
       spacing:
@@ -230,7 +246,7 @@ sections:
 
   - block: markdown
     content:
-      title: THE WHY AND HOW OF THE ECONOMIC RETURNS!
+      title: The Why and How of the Economic Returns!
       text: |-
         <style>
           table {
@@ -266,6 +282,8 @@ sections:
         - Each year the outstanding dividend entitlement amount will (a) decrease by dividends received and (b) increase at the accrual rate.
 
         The full mechanism, including issuance of certificates, is described in schedule C of the <b><a href="./documents/alkemio_holding_shareholders_agreement_v1.1.pdf">Alkemio Holding Shareholders Agreement (SHA)</a></b>.
+        
+        The Purpose Foundation has done a great case-study on Alkemio, which you can find here.
     design:
       columns: '1'
       spacing:
@@ -275,7 +293,7 @@ sections:
 
   - block: markdown
     content:
-      title: TRUSTED BY
+      title: Trusted by
     design:
       spacing:
         # Customize the section spacing. Order is top, right, bottom, left.
@@ -366,19 +384,16 @@ sections:
       subtitle: 
       text: |-
         <p align="center">
-        The above information is shared in the interest of accelerating the wider move to a purpose-based economy. The information provided here is for general informational purposes only and should not be considered as investment or business advice. 
+        The above information is shared in the interest of accelerating the wider move to a purpose-based economy. The information provided here is for general informational purposes only and should not be considered as investment or business advice. Any investment or business decisions made based on this information are at your own risk.
         </p>
-        <p align="center">
-        <div style="text-align: center;">The information provided here is for general informational purposes only and should not be considered as investment or business advice. Any investment or business decisions made based on this information are at your own risk.
         </div>
-        </p>
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
       css_class: d-flex align-items-center
       spacing:
-        padding: ['40px', '0', '20px', '0']
+        padding: ['40px', '0', '50px', '0']
       background:
-        color: rgb(241, 244, 245)
+        color: white
 ---
