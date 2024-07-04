@@ -393,7 +393,7 @@ sections:
       columns: '1'
       css_class: d-flex align-items-center
       spacing:
-        padding: ['40px', '0', '50px', '0']
+        padding: ['40px', '0', '0', '0']
       background:
         color: white
 ---
