@@ -361,7 +361,7 @@ sections:
       columns: '1'
       css_class: d-flex align-items-center
       spacing:
-        padding: ['0', '0', '0', '0']
+        padding: ['15px', '0', '0', '0']
 
   - block: markdown
     content:
@@ -374,7 +374,7 @@ sections:
         </div>
     design:
       spacing:
-        padding: ['1px', '0', '50px', '0']
+        padding: ['0', '0', '20px', '0']
       background:
         color: rgb(241, 244, 245)
 
