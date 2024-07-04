@@ -110,7 +110,7 @@ sections:
         
         Providing <b>safe digital spaces</b>, with control and trust. Where people and AI work together, solving societal challenges.
         
-        Introducing Virtual Contributors, created based on trusted bodies of knowledge and using AI. Ready at all times to contribute expertise, do work, and supercharge your output.
+        Introducing <b>Virtual Contributors</b>, created based on trusted bodies of knowledge and using AI. Ready at all times to contribute expertise, do work, and supercharge your output.
         
         Alkemio offers a SaaS platform for change makers. Beachhead markets are the public sector and education in the Netherlands. **€170k revenue in 2023**.
         
