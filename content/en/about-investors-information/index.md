@@ -283,7 +283,7 @@ sections:
 
         The full mechanism, including issuance of certificates, is described in schedule C of the <b><a href="./documents/alkemio_holding_shareholders_agreement_v1.1.pdf">Alkemio Holding Shareholders Agreement (SHA)</a></b>.
         
-        The Purpose Foundation has done a great case-study on Alkemio, which you can find here.
+        The Purpose Foundation has conducted a great case study on Alkemio, which you can <b><a href="https://purpose-economy.org/content/uploads/purpose-alkemio-casestudyen-31032024.pdf">find here</a></b>.
     design:
       columns: '1'
       spacing:
@@ -343,7 +343,7 @@ sections:
         # Customize the section spacing. Order is top, right, bottom, left.
         padding: ['30px', '0', '1px', '0']
       background:
-        color: white
+        color: rgb(241, 244, 245)
 
   - block: markdown
     content:
@@ -357,7 +357,7 @@ sections:
         image:
           filename:
           flip: false
-        color: white
+        color: rgb(241, 244, 245)
       columns: '1'
       css_class: d-flex align-items-center
       spacing:
@@ -376,7 +376,7 @@ sections:
       spacing:
         padding: ['1px', '0', '50px', '0']
       background:
-        color: white
+        color: rgb(241, 244, 245)
 
   - block: markdown
     content:
