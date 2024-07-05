@@ -9,12 +9,14 @@
     <meta name="generator" content="Hugo Blox Builder {{ site.Data.hugoblox.version }}" />
   {{ end }}
 
-  <!-- Open Graph Meta Tags -->
+  {{ $og_image := resources.Get "media/logo_blue_background.png" }}
+
+  <!-- Open Graph Meta Tags used by Facebook & LinkedIn Meta Tags and other social apps -->
   <meta property="og:title" content="{{ .Title }} - {{ .Site.Title }}">
   <meta property="og:description" content="{{ .Params.description }}">
   <meta property="og:url" content="{{ .Permalink }}">
   <meta property="og:type" content="website">
-  <meta property="og:image" content="/media/icons/logo_blue_background.png">
+  <meta property="og:image" content="{{ $og_image.RelPermalink }}">
   <meta property="og:image:width" content="1200">
   <meta property="og:image:height" content="630">
 
@@ -22,20 +24,13 @@
   <title>Alkemio - Safe Spaces for Collaboration</title>
   <meta name="description" content="Join Alkemio: the platform designed to help you achieve your goals by making progress central.">
 
-  <!-- Facebook & LinkedIn Meta Tags -->
-  <meta property="og:url" content="https://alkem.io/home">
-  <meta property="og:type" content="website">
-  <meta property="og:title" content="Alkemio - Safe Spaces for Collaboration">
-  <meta property="og:description" content="Join Alkemio: the platform designed to help you achieve your goals by making progress central.">
-  <meta property="og:image" content="/media/icons/logo_blue_background.png">
-
   <!-- Twitter Meta Tags -->
   <meta name="twitter:card" content="summary_large_image">
   <meta property="twitter:domain" content="alkem.io">
   <meta property="twitter:url" content="https://alkem.io/home">
-  <meta name="twitter:title" content="Alkemio - Safe Spaces for Collaboration">
+  <meta name="twitter:title" content="{{ .Title }} - {{ .Site.Title }}">
   <meta name="twitter:description" content="Join Alkemio: the platform designed to help you achieve your goals by making progress central.">
-  <meta name="twitter:image" content="/media/icons/logo_blue_background.png">
+  <meta name="twitter:image" content="{{ $og_image.RelPermalink }}">
 
   {{/* EXTENSIBILITY HOOK: HEAD-START */}}
   {{ partial "blox-core/functions/get_hook" (dict "hook" "head-start" "context" .) }}
