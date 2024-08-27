@@ -422,7 +422,7 @@ sections:
       columns: '1'
       css_class: d-flex align-items-center
       spacing:
-        padding: ['20px', '0', '20px', '0']
+        padding: ['20px', '0', '40px', '0']
 
   - block: hero
     content:
@@ -431,7 +431,7 @@ sections:
         # Reference an image in your `assets/media/` folder
         filename:
       cta:
-        url: 'https://eu1.hubs.ly/H06kZ0d0'
+        url: 'https://eu1.hubs.ly/H0bZw1V0'
         label: Interested in investing?
         icon_pack: fas
         icon: euro-sign
