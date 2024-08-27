@@ -424,33 +424,27 @@ sections:
       spacing:
         padding: ['20px', '0', '40px', '0']
 
-  - block: markdown
+  - block: hero
     content:
       title:
-      text: |-
-        <div style="display: flex; justify-content: center; align-items: center;">
-          <!-- CTA Button -->
-          <a href="./documents/alkemio_investor_deck_08_2024.pdf" 
-             style="display: inline-flex; align-items: center; padding: 10px 20px; 
-                    background-color: #22303c; color: white; text-decoration: none; 
-                    border-radius: 5px;">
-            <i class="fas fa-euro-sign" style="margin-right: 8px;"></i>
-            Interested in investing?
-          </a>
-          <!-- Secondary Link -->
-          <a href="mailto:neil@alkem.io" 
-             style="margin-left: 20px; color: #22303c; 
-                    text-decoration: none; display: inline-flex; align-items: center;">
-            Contact us
-            <i class="fas fa-chevron-right" style="margin-left: 8px;"></i>
-          </a>
-        </div>
+      image:
+        # Reference an image in your `assets/media/` folder
+        filename:
+      cta:
+        url: 'https://eu1.hubs.ly/H0bZw1V0'
+        label: Interested in investing?
+        icon_pack: fas
+        icon: euro-sign
+      cta_alt:
+        url: 'mailto: neil@alkem.io'
+        label: Do well and do good
     design:
-      background:
-        color: white
       columns: '2'
       spacing:
-        padding: ['40px', '0', '40px', '0']
+        padding: ['20px', '0', '10px', '0']
+      # Choose an optional background color, gradient, image, or video
+      background:
+        color: white
 
   - block: markdown
     content:
