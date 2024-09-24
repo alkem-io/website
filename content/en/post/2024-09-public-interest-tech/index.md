@@ -6,12 +6,11 @@ date: "2024-09-24"
 lastmod: "2024-09-24"
 math: false
 diagram: false
-summary: "Connecting with the growing Public Interest Tech movement"
+summary: "Digitalization, Themes and Players"
 authors:
 - smyth-fintan
 - smyth-neil
 tags:
-- alkemio
 - public-interest-tech
 - common-good
 - steward-ownership
@@ -27,14 +26,18 @@ image:
 
 ![](./featured.png)
 
-## Connecting with growing movement for public interest technology!
+## Digitalization and Public Interest Tech
 *Digitalization* is already core to how society interacts. And *reach and influence* of the digital platforms we depend on daily are only accelerating. There is growing awareness of the importance of digitalization for our future. 
 
 
-Thankfully instead of resigning themselves to a perceived inevitable outcome, where big tech as we know it dominates more and more of society, more people and organizations  are taking action. To explore different and better ways for how technology can be built, placing the interests of people and society first. Especially for technologies that are the foundations of how our society works.
+Thankfully instead of resigning themselves to a perceived inevitable outcome, where big tech as we know it dominates more and more of society, more people and organizations are taking action. To explore different and better ways for how technology can be built, placing the interests of people and society first. Especially for technologies that are the foundations of how our society works.
 
 
-In this blogpost we have brought together some of the key themes people are focusing on, and also highlight some of the key players and initiatives worldwide. It is a fascinating topic, and one which has potential for massive impact.
+Alkemio is actively connecting within the broader Public Interest Tech movement. In this blogpost we 
+* share an overview of the **key themes** we see people are focusing on,
+* highlight some of the **key players and initiatives** worldwide that we have identified. 
+
+It is a fascinating topic, and one which has potential for massive impact.
 
 ### **Key themes** 
 * **Create**: To be proactive and create new tech designed to benefit society; encouraging innovation instead of just regulating big tech
