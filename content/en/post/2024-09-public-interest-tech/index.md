@@ -25,7 +25,7 @@ image:
   preview_only: true
 ---
 
-![](./highway.png)
+![](./featured.png)
 
 ## Connecting with growing movement for public interest technology!
 *Digitalization* is already core to how society interacts. And *reach and influence* of the digital platforms we depend on daily are only accelerating. There is growing awareness of the importance of digitalization for our future. 
@@ -59,7 +59,7 @@ Key players include: Digicampus, GovTech NL, PublicSpaces, Rathenau Institute, S
 ### **Europe**
 The EU has been a leader in regulating the dominance and behaviour of big tech companies. There is now an increased emphasis on taking positive actions and increasing innovation, including by European foundations and politicians. 
 
-Key players includes: EU Digital Service Act, Stiftung Bertelsmann, Stiftung Mercator Switzerland, Werner Stengg, Mario Draghi, Reset Tech, Katapult Future Fest
+Key players includes: EU Digital Service Act, Bertelsmann Stiftung, Stiftung Mercator Switzerland, Werner Stengg, Mario Draghi, Reset Tech, Katapult Future Fest
 
 
 ### **US**
