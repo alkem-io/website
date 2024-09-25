@@ -33,20 +33,20 @@ As the digitalization of society accelerates, more people are thinking about wha
 Digital technology is now core to how we interact, and it is expanding in areas that are key to our society. These include education and health services. As it stands, Big Tech’s influence will proliferate to many more layers of society. Thankfully, instead of resigning themselves to this perceived inevitable outcome, there is a growing movement of people taking action to promote public interest technology. These people explore different ways for how technology can be built, by placing the wellbeing of people and society first.
 
 Alkemio is actively involved in this movement. In this blog post, we:
-* (A) Share an overview of **key themes** we see people focusing on;
-* (B) Highlight some of the **key players and initiatives** worldwide. 
+- (A) Share an overview of **key themes** we see people focusing on;
+- (B) Highlight some of the **key players and initiatives** worldwide. 
 
 It is a fascinating topic, and one which has potential for massive impact.
 
 ### **Key themes** 
 
-* **Creating**: When creating, the goal is to proactively pursue and build new technological tools designed to place society before profit. Encouraging innovation is better than simply regulating Big Tech;
-* **Education**: Having safe spaces for students to engage and learn together and with AI is important, without their data being absorbed by Big Tech;
-* **Control**: Giving control of people's data back to their respective owners means pursuing the right to privacy. For governments, the equivalent is to hand digital autonomy back to nations;
-* **Digitalisation of society**: If digitalisation is the car and society the destination, AI is the foot on the accelerator. Do we really want Big Tech, known for prioritizing profit, to influence our healthcare, pensions and education? Rhetorical question, of course;
-* **Algorithms**: Algorithms should not give excessive attention to the person who shouts the loudest; by changing this, we can protect our democracies and prevent polarisation;
-* **Inclusiveness**: Technology should serve the needs of all people, not only the majority;
-* **Open and Transparent**: By using open source technology, we can trust the tools we use because they are open to scrutiny. Plus, we can learn from each other!
+- **Creating**: When creating, the goal is to proactively pursue and build new technological tools designed to place society before profit. Encouraging innovation is better than simply regulating Big Tech;
+- **Education**: Having safe spaces for students to engage and learn together and with AI is important, without their data being absorbed by Big Tech;
+- **Control**: Giving control of people's data back to their respective owners means pursuing the right to privacy. For governments, the equivalent is to hand digital autonomy back to nations;
+- **Digitalisation of society**: If digitalisation is the car and society the destination, AI is the foot on the accelerator. Do we really want Big Tech, known for prioritizing profit, to influence our healthcare, pensions and education? Rhetorical question, of course;
+- **Algorithms**: Algorithms should not give excessive attention to the person who shouts the loudest; by changing this, we can protect our democracies and prevent polarisation;
+- **Inclusiveness**: Technology should serve the needs of all people, not only the majority;
+- **Open and Transparent**: By using open source technology, we can trust the tools we use because they are open to scrutiny. Plus, we can learn from each other!
 
 
 ## **Public Interest Tech movement**
@@ -73,7 +73,7 @@ Key players include:
 ### **Europe**
 The EU has been a leader in regulating the dominance and behaviour of big tech companies. There is now an increased emphasis on taking positive actions and increasing innovation, including by European foundations and politicians. 
 
-Key players includes:
+Key players include:
 - [EU Digital Service Act](https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/digital-services-act_en#:~:text=Digital%20Services%20Act%20(DSA)%20overview,and%20the%20spread%20of%20disinformation.)
 - [Bertelsmann Stiftung](https://www.bertelsmann-stiftung.de/en/home)
 - [Stiftung Mercator Switzerland](https://www.stiftung-mercator.ch)
