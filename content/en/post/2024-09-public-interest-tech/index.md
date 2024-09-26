@@ -104,4 +104,10 @@ Some of the players include:
 Our focus has been, to date, on understanding the landscape in Europe and the US. Taiwan and Singapore stand out as taking the lead on this topic in Asia, and we will continue to explore initiatives in other regions worldwide.
 
 ## What other initiatives are out there?
-This is a large and fascinating field that has the potential to deeply impact our future. If you know of any other exciting initiatives, we'd love to hear from you. You can get in touch [<u>here</u>](https://www.alkemio.org/contact/) or through [<u>our LinkedIn</u>](https://www.linkedin.com/company/alkemio-foundation/). If you’d like to know more about what Alkemio is doing to help grow the public interest tech movement, [<u>reach out</u>](https://www.alkemio.org/contact/) to us or [<u>visit our platform</u>](https://welcome.alkem.io).
+This is a large and fascinating field that has the potential to deeply impact our future. 
+
+
+If you know of any other exciting initiatives, we'd love to hear from you. You can get in touch [<u>here</u>](https://www.alkemio.org/contact/) or through [<u>our LinkedIn</u>](https://www.linkedin.com/company/alkemio-foundation/). 
+
+
+If you’d like to know more about what Alkemio is doing to help grow the public interest tech movement, [<u>reach out</u>](https://www.alkemio.org/contact/) to us or [<u>visit our platform</u>](https://welcome.alkem.io).
