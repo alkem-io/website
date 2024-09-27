@@ -24,7 +24,7 @@ image:
   preview_only: true
 ---
 
-![](./featured.png)
+![](./header.png)
 
 ## Digitalization and Public Interest Tech
 
@@ -33,8 +33,10 @@ As the digitalization of society accelerates, more people are thinking about wha
 Digital technology is now core to how we interact, and it is expanding in areas that are key to our society. These include education and health services. As it stands, Big Tech’s influence will proliferate to many more layers of society. Thankfully, instead of resigning themselves to this perceived inevitable outcome, there is a growing movement of people taking action to promote public interest technology. These people explore different ways for how technology can be built, by placing the wellbeing of people and society first.
 
 Alkemio is actively involved in this movement. In this blog post, we:
-- (A) Share an overview of **key themes** we see people focusing on;
-- (B) Highlight some of the **key players and initiatives** worldwide. 
+
+(A) Share an overview of **key themes** we see people focusing on;
+
+(B) Highlight some of the **key players and initiatives** worldwide. 
 
 It is a fascinating topic, and one which has potential for massive impact.
 
@@ -89,15 +91,16 @@ In the US the private sector has taken the lead, especially by foundations and u
 Some of the players include:
 - [Omidyar Network](https://omidyar.com)
 - [Project Liberty](https://www.projectliberty.io)
-- [McGovern Foundation](https://www.mcgovernfoundation.org.au)
+- [McGovern Foundation](https://www.mcgovern.org)
 - [PIT-UN](https://pitcases.org)
-- [Ford Foundation](https://www.fordfoundation.org)
+- [Ford Foundation](https://www.fordfoundation.org/work/challenging-inequality/technology-and-society/)
 - [Siegel Family Endowment](https://www.siegelendowment.org)
 - [Center for Humane Technology](https://www.humanetech.com)
 - [Mozilla](https://www.mozilla.org/en-GB/?v=1)
 - [Aspen Digital Institute](https://www.aspendigital.org)
 - [All Tech is Human](https://alltechishuman.org)
 - [NewPublic](https://newpublic.org)
+- [Public Interest Tech Fund](https://www.publicinteresttech.fund)
 
 
 ### **Other regions**
