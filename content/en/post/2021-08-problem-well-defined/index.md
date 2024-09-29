@@ -22,7 +22,7 @@ image:
   placement: 1
   
 ---
-Occasionally one comes across podcasts / sources that just capture the "why" of what you are trying to achieve. For us the [podcast from the Center of Humane Technology](https://www.humanetech.com/podcast/a-problem-well-stated-is-half-solved) was one of those moments. 
+Occasionally one comes across podcasts / sources that just capture the "why" of what you are trying to achieve. For us this **[podcast from the Center of Humane Technology](https://www.humanetech.com/podcast/a-problem-well-stated-is-half-solved)** was one of those moments. 
 
 In essence unless we can effectively understand and frame the full context of a problem (a Challenge in Alkemio speak), then it is almost impossible to solve. This goes to the heart of what Alkemio is trying to achieve: putting the Challenge central. 
 
