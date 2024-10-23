@@ -19,8 +19,8 @@ role: Program Director
 
 # Organizations/Affiliations
 organizations:
-- name: Digicampus / ICTU
-  url: "https://digicampus.tech"
+- name: ICTU & GovTech NL
+  url: 
 
 
 # Social/Academic Networking
