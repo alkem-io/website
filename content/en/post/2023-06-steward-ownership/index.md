@@ -17,7 +17,7 @@ tags:
 - society
 - positive impact
 categories:
-- Foundation
+- Steward Ownership
 
 
 featured: false

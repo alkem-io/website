@@ -22,7 +22,7 @@ tags:
 
 
 categories:
-- Foundation
+- Public Interest Tech
 
 
 featured: false
