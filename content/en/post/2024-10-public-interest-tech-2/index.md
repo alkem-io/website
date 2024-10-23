@@ -23,40 +23,40 @@ image:
   preview_only: true
 ---
 
-<img src="./header.png" alt="Header Image" width="750">
+<img src="./header.webp" alt="Header Image" width="750">
 
 ## For the Technologies that Shape our Lives
 
-As the public interest tech movement continues to grow, people are exploring new ways for how this technology is owned and goverened. 
+As the public interest tech movement continues to grow, people are exploring new ways for how this technology is owned and governed.
 
-Unlike #govtech, which focuses primarily on government-related technologies, public interest tech encompasses all technologies impacting society. This broader scope highlights a significant role for private sector companies. Finding the right combination of public interests and the private sector’s entrepreneurial spirit and speed is key, though not necessarily easy!
+Unlike #govtech, which focuses primarily on government-related technologies, #PublicInterestTech encompasses all technologies impacting society. This broader scope highlights a significant role for private sector companies. Finding the right combination of public interests and the private sector’s entrepreneurial spirit and speed is key, though not necessarily easy!
 
 ### Traditional Models
 
-Historically, technology initiatives have been driven by either the public or private sector. However, each approach has its shortcomings:
+Historically, technology initiatives have been driven by either the public sector or the private sector. However, each approach has its shortcomings:
 
-- **Public Sector**: Pure public sector tech initiatives often struggle to achieve execution needed to compete in the market, meaning they do not deliver the necessary scale or deliver a quality user experience.
-- **Private Sector**: Large tech companies dominate the landscape, providing much of the technology used by the public sector. These big tech companies don’t exactly have public interests as their main priority, given their mandate to maximize profits for shareholders.
+- **Public Sector**: Pure public sector tech initiatives often struggle to achieve the level of execution needed to compete in the market, meaning they do not deliver the necessary speed, scale or quality user experience.
+- **Private Sector**: Big tech companies dominate the landscape, including providing much of the technology used by the public sector. These companies don’t exactly have public interests as their main priority, given their mandate to maximize profits for shareholders.
 
 ### Emerging Models
 
-As technology's societal role expands, more tech companies are aligning private sector power with public and societal interests. Notable examples include:
+As technology’s role in society keeps expanding, more tech companies are aligning the power of the private sector with public and societal interests. Notable examples include:
 
-- **Alkemio**: Embraces steward-ownership, combining foundation ownership with a third-party veto right to legally secure its mission — unlike OpenAI.
-- **Mozilla**: Owned exclusively by a foundation, ensuring its commitment to public interest.
+- **Alkemio**: Operating under steward-ownership, combining ownership by a foundation ownership with a third-party veto right to legally secure its mission — unlike OpenAI.
+- **Mozilla**: Owned exclusively by a foundation, ensuring its commitment to public interests.
 - **Anthropic**: Operates as a Public Benefit Corporation, prioritizing societal benefits alongside profits.
 
 Key is that the ownership and governance of these initiatives are setup to legally lock in the purpose. And we saw in the case of OpenAI what happens when the guarantee is not legally locked in. 
 
 ### Considerations for Ownership and Governance
-So how should these tech companies be owned and governed? 
+So how should these tech companies be owned and governed?
 
 In our view, some key points are:
 
-* **Forever Purpose Companies**: Legally locking in the purpose of the company for the long-term, with checks in place to ensure management cannot force a change. 
-  * **Steward-Ownership**, with a third-party holding a veto share, can achieve this. OpenAI did not have such a veto share structure.  Companies choosing "B Corp" status, whihle full of good intentions, remains controlled by shareholders - who critically can decide to change the company's purpose or sell to big tech, making the mission vulnerable over time.
+* **Forever Purpose Companies**: Legally locking in the purpose of the company for the long-term, with checks in place to ensure management cannot force a change.
+  * **Steward-Ownership**, with a third-party holding a veto share, can achieve this. OpenAI did not have such a veto share structure. Companies choosing “B Corp” status, while full of good intentions, remain controlled by shareholders - who critically can decide to change the company’s purpose or sell to big tech, making the purpose vulnerable over time.
 
-* **Benefiting All Stakeholders**: Ensure that decisions serve the company's purpose and benefit all stakeholders, not just capital providers. Implement boards or stewards committed to acting in the collective interest.
+* **Benefiting All Stakeholders**: Ensuring that decisions serve the company’s purpose and benefit all stakeholders, not just capital providers seeking to maximize their financial rewards. Through using boards or stewards committed to acting in the collective interest.
 
 * **Openness and Transparency**: Open source, so everyone knows the algorithms are designed to benefit society, and others can learn from you. Being open to views of diverse stakeholders.
 
