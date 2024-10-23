@@ -12,7 +12,7 @@ superuser: false
 weight: 2
 
 # Role/position
-role: Coordinator Digital Identity
+role: Digicampus Program director 
 
 
 # Organizations/Affiliations

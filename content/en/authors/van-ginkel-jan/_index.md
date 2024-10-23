@@ -12,7 +12,7 @@ superuser: false
 weight: 2
 
 # Role/position
-role: Corporate Director / Deputy Provincial Secretary
+role: Deputy Provincial Secretary
 
 
 # Organizations/Affiliations
