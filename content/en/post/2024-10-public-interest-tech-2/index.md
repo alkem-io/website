@@ -23,7 +23,7 @@ image:
   preview_only: true
 ---
 
-<img src="./header.png" alt="Header Image" width="750">
+<img src="./header.webp" alt="Header Image" width="750">
 
 ## For the Technologies that Shape our Lives
 
