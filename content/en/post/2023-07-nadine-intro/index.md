@@ -17,7 +17,7 @@ tags:
 
 
 categories:
-- Foundation
+- Community
 
 
 featured: false

@@ -1,12 +1,12 @@
 ---
 #widget: pages
 #headless: true
-title: 'Exploring Ownership and Governance in Public Interest Tech'
+title: 'Ownership and Governance'
 date: "2024-10-22"
 lastmod: "2024-10-22"
 math: false
 diagram: false
-summary: "Why you should be aware of Public Interest Tech"
+summary: "For the technologies that shape our lives"
 authors:
 - smyth-fintan
 tags:
@@ -14,7 +14,7 @@ tags:
 - governance
 - steward-ownership
 categories:
-- Foundation
+- Public Interest Tech
 
 featured: false
 draft: false
@@ -25,20 +25,20 @@ image:
 
 <img src="./header.png" alt="Header Image" width="750">
 
-## Ownership and Governance of Tech Companies
+## For the Technologies that Shape our Lives
 
-As the public interest tech movement continues to grow, innovators are delving into new models for ownership and governance of the technologies that shape our lives.
+As the public interest tech movement continues to grow, people are exploring new ways for how this technology is owned and goverened. 
 
-Unlike #govtech, which focuses primarily on government-related technologies, public interest tech encompasses all technologies impacting society. This broader scope highlights a significant role for private sector companies. Balancing public interests with the private sector’s entrepreneurial spirit and agility is crucial, albeit challenging.
+Unlike #govtech, which focuses primarily on government-related technologies, public interest tech encompasses all technologies impacting society. This broader scope highlights a significant role for private sector companies. Finding the right combination of public interests and the private sector’s entrepreneurial spirit and speed is key, though not necessarily easy!
 
-### Traditional Ownership Models
+### Traditional Models
 
 Historically, technology initiatives have been driven by either the public or private sector. However, each approach has its shortcomings:
 
-- **Public Sector**: Pure public sector tech initiatives often struggle to achieve the necessary scale or deliver a quality user experience.
-- **Private Sector**: Large tech companies dominate the landscape, providing much of the technology used by the public sector. These companies prioritize shareholder profits over public interests.
+- **Public Sector**: Pure public sector tech initiatives often struggle to achieve execution needed to compete in the market, meaning they do not deliver the necessary scale or deliver a quality user experience.
+- **Private Sector**: Large tech companies dominate the landscape, providing much of the technology used by the public sector. These big tech companies don’t exactly have public interests as their main priority, given their mandate to maximize profits for shareholders.
 
-### Emerging Governance Models
+### Emerging Models
 
 As technology's societal role expands, more tech companies are aligning private sector power with public and societal interests. Notable examples include:
 
@@ -46,42 +46,41 @@ As technology's societal role expands, more tech companies are aligning private 
 - **Mozilla**: Owned exclusively by a foundation, ensuring its commitment to public interest.
 - **Anthropic**: Operates as a Public Benefit Corporation, prioritizing societal benefits alongside profits.
 
-### Key Considerations for Ownership and Governance
+Key is that the ownership and governance of these initiatives are setup to legally lock in the purpose. And we saw in the case of OpenAI what happens when the guarantee is not legally locked in. 
 
-To effectively align tech companies with public interests, the following principles are essential:
+### Considerations for Ownership and Governance
+So how should these tech companies be owned and governed? 
 
-#### Forever Purpose Companies
+In our view, some key points are:
 
-- **Long-term Commitment**: Legally secure the company's mission to prevent management from altering its purpose.
-- **Steward-Ownership**: Utilize structures like a third-party holding a veto share to maintain mission integrity.
-- **Limitations of Current Models**: While "B Corp" status is well-intentioned, it allows shareholders to change the company's purpose or sell to big tech, making the mission vulnerable over time.
+* **Forever Purpose Companies**: Legally locking in the purpose of the company for the long-term, with checks in place to ensure management cannot force a change. 
+  * **Steward-Ownership**, with a third-party holding a veto share, can achieve this. OpenAI did not have such a veto share structure.  Companies choosing "B Corp" status, whihle full of good intentions, remains controlled by shareholders - who critically can decide to change the company's purpose or sell to big tech, making the mission vulnerable over time.
 
-#### Benefiting All Stakeholders
+* **Benefiting All Stakeholders**: Ensure that decisions serve the company's purpose and benefit all stakeholders, not just capital providers. Implement boards or stewards committed to acting in the collective interest.
 
-- **Inclusive Decision-Making**: Ensure that decisions serve the company's purpose and benefit all stakeholders, not just capital providers.
-- **Stewardship**: Implement boards or stewards committed to acting in the collective interest.
+* **Openness and Transparency**: Open source, so everyone knows the algorithms are designed to benefit society, and others can learn from you. Being open to views of diverse stakeholders.
 
-#### Openness and Transparency
-
-- **Open Source**: Develop open-source technologies to allow public scrutiny and foster trust.
-- **Diverse Stakeholder Engagement**: Remain receptive to diverse perspectives to ensure technologies serve broad societal needs.
 
 ### Influential Voices in Governance Models
 
 Awareness and development of new governance models are being driven by thought leaders such as:
 
-- [Annika Schneider](https://www.linkedin.com/in/annika-schneider-65a7a879/) [@Purpose](https://www.linkedin.com/company/purpose-economy/posts/?feedView=all)
 - [Martin Hullin](https://www.linkedin.com/in/martin-hullin/) [@Bertelsmann Stiftung](https://www.linkedin.com/company/bertelsmann-stiftung/)
 - [Erinch Sahan](https://www.linkedin.com/in/erinch-sahan/) [@Doughnut Economics Action Lab](https://www.linkedin.com/company/doughnut-economics-action-lab-deal/)
+- [Annika Schneider](https://www.linkedin.com/in/annika-schneider-65a7a879/) [@Purpose](https://www.linkedin.com/company/purpose-economy/posts/?feedView=all)
 - [Julie Menter](https://www.linkedin.com/in/julie-menter/) [@Transform Finance](https://www.linkedin.com/company/transform-finance/)
 - [Mads Oscar Haumann](https://www.linkedin.com/in/oscarhaumann/)
 
 ### Challenges and Community Engagement
 
-Adopting alternative ownership and governance models is not straightforward, particularly for tech companies. Sharing successful examples and fostering dialogue can help pave the way for more organizations to follow suit. There is likely no one-size-fits-all solution, and community input is invaluable.
+Adopting alternative ownership and governance models is not straightforward, particularly for tech companies that need capital to scale. 
+
+It is simply a different model than the market is used to. We believe such models are better for society - and ultimately result in more long lasting and valuable companies - but it is "different". 
+
+Sharing **successful examples** and fostering dialogue can help pave the way for more organizations to follow suit. There is likely no one-size-fits-all solution, and community input is invaluable.
 
 **We invite you to share your thoughts and examples on effective ownership and governance models for public interest tech.**
 
-Feel free to reach out [here](https://www.alkemio.org/contact/) or connect with us on [LinkedIn](https://www.linkedin.com/company/alkemio-foundation/).
+Feel free to reach out **[here](https://www.alkemio.org/contact/)** or connect with us on **[LinkedIn](https://www.linkedin.com/company/alkemio-foundation/)**.
 
-If you’d like to learn more about Alkemio’s efforts to advance the public interest tech movement, [reach out](https://www.alkemio.org/contact/) or [visit our platform](https://welcome.alkem.io).
+If you’d like to learn more about Alkemio’s efforts to advance the public interest tech movement, **[reach out](https://www.alkemio.org/contact/)** or **[visit the Alkemio platform](https://welcome.alkem.io)**.

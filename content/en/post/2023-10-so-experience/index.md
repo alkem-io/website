@@ -18,7 +18,7 @@ tags:
 - public-private-partnerships
 - public-goods
 categories:
-- Foundation
+- Steward Ownership
 
 featured: false
 draft: false

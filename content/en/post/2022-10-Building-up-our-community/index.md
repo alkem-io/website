@@ -17,7 +17,7 @@ tags:
 
 draft: false
 categories:
-- Foundation
+- Community
 
 
 featured: false
