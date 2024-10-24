@@ -36,9 +36,9 @@ main:
     url: 'background'
     weight: 3
   - parent: about-main
-    indentifier: about-news
-    name: News
-    url: 'news'
+    indentifier: about-blogs
+    name: Blogs
+    url: 'post'
     weight: 4
   - parent: about-main
     indentifier: about-contact
