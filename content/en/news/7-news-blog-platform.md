@@ -14,7 +14,7 @@ content:
         folders:
             - post
         author: ""
-        category: "Platform"
+        category: ""
         tag: ""
         publication_type: ""
         featured_only: false
