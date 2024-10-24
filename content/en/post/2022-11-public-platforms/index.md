@@ -18,7 +18,7 @@ tags:
 
 draft: false
 categories:
-- Foundation
+- Public Interest Tech
 
 
 featured: false

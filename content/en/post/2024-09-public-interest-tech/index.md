@@ -15,7 +15,7 @@ tags:
 - common-good
 - steward-ownership
 categories:
-- Foundation
+- Public Interest Tech
 
 featured: false
 draft: false

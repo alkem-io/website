@@ -17,7 +17,7 @@ tags:
 - government
 - impact
 categories:
-- Foundation
+- Community
 
 featured: false
 draft: false

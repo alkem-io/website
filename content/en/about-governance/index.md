@@ -75,7 +75,7 @@ sections:
       subtitle: 
       text: |-
         <p align="center">
-        Providing feedback and advice to the stewards in the realization of the vision of Alkemio Foundation. Participation in the Board of Advisors is a voluntary role.
+        Providing feedback and advice to the stewards in the realization of the vision of Alkemio Foundation. <br>Participation in the Board of Advisors is a voluntary role.
         </p>
     design:
       # Use a 1-column layout

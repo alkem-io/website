@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Wouter Welling
+title: Jan van Ginkel
 
 # Username (this should match the folder name)
 authors:
-- welling-wouter
+- van-ginkel-jan
 
 # Is this the primary user of the site?
 superuser: false
@@ -12,13 +12,13 @@ superuser: false
 weight: 2
 
 # Role/position
-role: Digicampus Program director 
+role: Deputy Provincial Secretary
 
 
 # Organizations/Affiliations
 organizations:
-- name: Ministry of the Interior & Kingdom Relations
-  url: "https://www.rijksoverheid.nl/ministeries/ministerie-van-binnenlandse-zaken-en-koninkrijksrelaties"
+- name: Province of South Holland
+  url: "https://www.zuid-holland.nl"
 
 
 # Social/Academic Networking
@@ -34,7 +34,7 @@ social:
 #  link: https
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/wouterwelling
+  link: https://www.linkedin.com/in/janvanginkel1965/
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
