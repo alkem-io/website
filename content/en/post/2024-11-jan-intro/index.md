@@ -52,6 +52,6 @@ He <b>[contributes widely to societally worthwhile](https://www.linkedin.com/in/
 
 <img src="./publieke_platformen.webp" alt="header" width="1000"/>
 
-That expedition was where it was first clear that there was deep alignment. It was inspiring to see the recognition and leadership from Province of South Holland on the need for digital platforms to enable collective action - with public interests guaranteed.  
+That <b>[expedition](https://kennis.zuid-holland.nl/evenementen/toekomst-van-publieke-platformen/)</b> made it abundently clear that there was deep alignment. It is inspiring to see the recognition and leadership from Province of South Holland on the need for digital platforms to enable collective action - with public interests guaranteed.  
 
 Thank you, Jan! Very much looking forward to working with you.
