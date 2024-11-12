@@ -1,12 +1,12 @@
 ---
 #widget: pages
 #headless: true
-title: 'Jan van Ginkel '
+title: 'Jan van Ginkel joins Board of Advisors '
 date: "2024-11-11"
 lastmod: "2024-11-11"
 math: false
 diagram: false
-summary: "joins Alkemio Board of Advisors"
+summary: "Welcoming a champion for public platforms!"
 authors:
 - smyth-neil
 - van-ginkel-jan
@@ -29,7 +29,7 @@ image:
 
 <img src="./featured.jpg" alt="header" width="1000"/>
 
-We are delighted and proud to announce that <b>[Jan van Ginkel](https://www.linkedin.com/in/janvanginkel1965/)</b> has joined the board of advisors of Alkemio! 
+We are delighted and proud to announce that <b>[Jan van Ginkel](https://www.linkedin.com/in/janvanginkel1965/)</b> has joined the Board of Advisors of Alkemio! 
 
 Jan has held many important positions in the public sector in the Netherlands and cares deeply about building a better society for all. 
 
@@ -42,9 +42,9 @@ I think that is very special, even though it really shouldn't be special at all.
 Alkemio therefore deserves a strong position with governments, between governments and in collaboration with residents, companies and social organizations. 
 
 I would like to contribute to this in an advisory role."</i>
+<br/>
 
-
-## About Jan
+### About Jan
 
 Jan is currently the Corporate Director/Deputy Provincial Secretary at the Province of South Holland. 
 
@@ -54,4 +54,4 @@ He <b>[contributes widely to societally worthwhile](https://www.linkedin.com/in/
 
 That <b>[expedition](https://kennis.zuid-holland.nl/evenementen/toekomst-van-publieke-platformen/)</b> made it abundently clear that there was deep alignment. It is inspiring to see the recognition and leadership from Province of South Holland on the need for digital platforms to enable collective action - with public interests guaranteed.  
 
-Thank you, Jan! Very much looking forward to working with you.
+Thank you Jan for your support 🙏 Very much looking forward to working with you 🤝
