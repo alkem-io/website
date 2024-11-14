@@ -46,7 +46,7 @@ I would like to contribute to this in an advisory role."</i>
 
 ### About Jan
 
-Jan is currently the Corporate Director/Deputy Provincial Secretary at the Province of South Holland. 
+Jan is currently the Group Director and Deputy Provincial Secretary at the Province of South Holland. 
 
 He <b>[contributes widely to societally worthwhile](https://www.linkedin.com/in/janvanginkel1965/)</b> topics. From the <b>[Province of South Holland](https://pzh.nl)</b> he has supported a wider understanding of the role that <b>[Public Platforms](https://www.zuid-holland.nl/onderwerpen/digitaal-zuid-holland/vervolg-expeditie-publieke-platformen/)</b> can and should play in society. 
 
