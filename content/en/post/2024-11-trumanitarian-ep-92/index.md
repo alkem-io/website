@@ -26,7 +26,7 @@ image:
   preview_only: true
 
 ---
-![](./header.png)
+![Neil Smyth's interview on the Trumanitarian podcast](./header.png)
 
 “Imagine building a house, but you don’t own the pipes, nor the foundations, and others can decide who communicates with who.”
 
@@ -36,15 +36,15 @@ Neil was recently invited to discuss this issue and Alkemio’s mission to offer
 
 ### The Problem with the Digital Status Quo
 
-Neil addresses a critical issue in today’s digital landscape: profit-driven platforms control the very infrastructure of our online spaces. With the analogy of building a house but not owning the foundations, Neil illustrates that this isn't a hypothetical future; it’s our present reality. This phenomenon, often referred to as "techno-feudalism," is already here.
+Neil addresses a critical issue in today’s digital landscape: profit-driven platforms control the very infrastructure of our online spaces. This limits users' ability to choose how to collaborate and their access to data. With the analogy of building a house but not owning the foundations, Neil illustrates that this isn't a hypothetical future; it’s our present reality. This phenomenon, often referred to as "[techno-feudalism](https://www.wired.com/story/yanis-varoufakis-technofeudalism-interview/)", is already here.
 
 ### Introducing Alkemio: Collective Action Reimagined 
 
 Alkemio was designed to enable collective action, providing safe digital spaces for collaborative work, backed by an organization dedicated to societal benefit.
 
-A significant milestone for Alkemio was its adoption of Steward Ownership. This commitment assures that Alkemio’s purpose remains central: the venture cannot be sold, and profit serves purpose. This diverges starkly from the prevailing model of digital platforms, where shareholder profits often take precedence over societal interests.
+A significant milestone for Alkemio was its adoption of [Steward Ownership](https://purpose-economy.org/en/whats-steward-ownership/). This commitment assures that Alkemio’s purpose remains central: the venture cannot be sold, and profit serves purpose. This diverges starkly from the prevailing model of digital platforms, where shareholder profits often take precedence over societal interests.
 
-Additionally, Alkemio’s Open Source commitment guarantees a transparent exit option for users. While Alkemio hopes to sustain its vision through a commercially hosted service, the open-source promise means users can leave if necessary.
+Additionally, Alkemio’s Open Source commitment guarantees the freedom for users to run their own version of the platform, if they so choose. While Alkemio hopes to sustain its vision through a commercially hosted service, the open-source promise means users can build and maintain their own version of Alkemio.
 
 The vision is for Alkemio to be a seed for a larger collaboration, creating a digital foundation with public interests at the core.
 
@@ -52,9 +52,11 @@ The vision is for Alkemio to be a seed for a larger collaboration, creating a di
 
 Among the many themes discussed, Lars Peter asked Neil what’s needed to scale a platform like Alkemio. Competing with established tech giants means breaking free from their playbook.
 
-Neil believes that only by offering a different narrative and fundamentally different product can a new digital foundation for society be realized. Attempting to compete within the shareholder-driven model simply won’t work.
+Neil believes that only by offering a different narrative and fundamentally different product can a new digital foundation for society be realized.
 
-However, scaling Alkemio still requires capital, though the model ensures this capital doesn’t bring voting rights or control. This safeguards the mission, while offering investors reasonable returns.
+Alkemio believes that focusing only on profit - like in a traditional business where shareholders come first — limits how much we can prioritize society's needs. Instead, we believe it’s time to change the approach, aiming to create technology that benefits everyone, not just a few shareholders. By redefining the rules, we can push for progress that genuinely supports communities, collaboration, and long-term value.
+
+Scaling Alkemio still requires capital, though Steward-Ownership ensures this capital is attached to achieving the "society-first" goals of the company. This organizational model safeguards the company mission, while offering investors reasonable returns.
 
 Over time, the network effect of many communities engaging in collective action will drive the paradigm shift needed to embed this vision into society.
 
@@ -62,7 +64,7 @@ Over time, the network effect of many communities engaging in collective action 
 
 One of the most compelling takeaways from the conversation is Neil’s challenge to listeners: reconsider the digital tools you use every day. Are they serving your interests, or are you serving theirs? And as AI becomes more integrated, have you thought about its effects on your autonomy?
 
-Neil encourages us to imagine a digital ecosystem where collaboration is free from profit-driven pressures.
+Neil encourages us to imagine a digital ecosystem where collective action is free from profit-driven pressures.
 
 ### Listen to the Full Episode
 
