@@ -60,7 +60,7 @@ sections:
       title:
       text: |-
         <div style="text-align: center;">
-          <a href="https://eu1.hubs.ly/H09PDgC0" class="btn btn-primary" style="font-size: 1.2em; padding: 10px 20px;">
+          <a href="https://eu1.hubs.ly/H0dL4Qk0" class="btn btn-primary" style="font-size: 1.2em; padding: 10px 20px;">
             <i class="fas fa-file-pdf"></i> View One Pager
           </a>
         </div>
