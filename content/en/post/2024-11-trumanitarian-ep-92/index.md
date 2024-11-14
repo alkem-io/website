@@ -38,7 +38,7 @@ Neil was recently invited to discuss this issue and Alkemio’s mission to offer
 
 Neil addresses a critical issue in today’s digital landscape: profit-driven platforms control the very infrastructure of our online spaces. This limits users' ability to choose how to collaborate and their access to data. With the analogy of building a house but not owning the foundations, Neil illustrates that this isn't a hypothetical future; it’s our present reality. This phenomenon, often referred to as "[techno-feudalism](https://www.wired.com/story/yanis-varoufakis-technofeudalism-interview/)", is already here.
 
-### Introducing Alkemio: Collective Action Reimagined 
+### Introducing Alkemio: Collective Action Reimagined
 
 Alkemio was designed to enable collective action, providing safe digital spaces for collaborative work, backed by an organization dedicated to societal benefit.
 
