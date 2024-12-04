@@ -1,11 +1,14 @@
-# widget: pages
-# headless: true
+---
+#widget: pages
+#headless: true
 
 title: 'Alkemio attends PIT-UN 2024 (virtually!)'
 date: "2024-12-04"
 lastmod: "2024-12-04"
+
 math: false
-diagram: false
+diagram: false 
+
 summary: "Our takeaways from PIT-UN Summit 2024."
 authors:
 - smyth-neil
@@ -22,10 +25,10 @@ categories:
 featured: false
 draft: false
 
-# image:
-#  placement: 1
-#  preview_only: true
-  
+#image:
+ # placement: 1
+ # preview_only: true
+    
 --- 
 
 The development and adoption of digital technologies and the resulting
