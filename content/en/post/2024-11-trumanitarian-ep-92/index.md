@@ -1,6 +1,4 @@
 ---
-#widget: pages
-#headless: true
 title: "Neil Smyth on Trumanitarian: The Alchemist"
 date: "2024-11-12"
 lastmod: "2024-11-12"
@@ -44,7 +42,7 @@ Alkemio was designed to enable collective action, providing safe digital spaces 
 
 A significant milestone for Alkemio was its adoption of [Steward Ownership](https://purpose-economy.org/en/whats-steward-ownership/). This commitment assures that Alkemio’s purpose remains central: the venture cannot be sold, and profit serves purpose. This diverges starkly from the prevailing model of digital platforms, where shareholder profits often take precedence over societal interests.
 
-Additionally, Alkemio’s Open Source commitment guarantees the freedom for users to run their own version of the platform, if they so choose. While Alkemio hopes to sustain its vision through a commercially hosted service, the open-source promise means users can build and maintain their own version of Alkemio.
+Additionally, Alkemio’s Open Source commitment guarantees the freedom for users to run their own version of the platform, if they so choose. While Alkemio hopes to sustain its vision through a commercially hosted service, the open-source promise means that users always have the alternative of self-hosting.
 
 The vision is for Alkemio to be a seed for a larger collaboration, creating a digital foundation with public interests at the core.
 
@@ -52,7 +50,7 @@ The vision is for Alkemio to be a seed for a larger collaboration, creating a di
 
 Among the many themes discussed, Lars Peter asked Neil what’s needed to scale a platform like Alkemio. Competing with established tech giants means breaking free from their playbook.
 
-Neil believes that only by offering a different narrative and fundamentally different product can a new digital foundation for society be realized.
+Neil believes that we cannot realize a different digital future by playing the same game that brought us here. We need to play a new game! Only by offering a different narrative and fundamentally different product can a new digital foundation for society be realized.
 
 Alkemio believes that focusing only on profit - like in a traditional business where shareholders come first — limits how much we can prioritize society's needs. Instead, we believe it’s time to change the approach, aiming to create technology that benefits everyone, not just a few shareholders. By redefining the rules, we can push for progress that genuinely supports communities, collaboration, and long-term value.
 
