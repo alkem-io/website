@@ -24,7 +24,17 @@ image:
   preview_only: true
 
 ---
-![Neil Smyth's interview on the Trumanitarian podcast](./header.png)
+<style>
+a {
+    text-decoration: none;
+    color: blue;
+}
+a:hover {
+    text-decoration: underline;
+}
+</style>
+
+![Neil Smyth's interview on the Trumanitarian podcast](./header.png)(https://trumanitarian.org/captivate-podcast/92-alkemio/)
 
 “Imagine building a house, but you don’t own the pipes, nor the foundations, and others can decide who communicates with who.”
 
