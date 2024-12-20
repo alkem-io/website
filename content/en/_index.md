@@ -196,7 +196,7 @@ sections:
         filename:
       # Add your Call-To-Action (CTA) button and optional icon
       cta:
-        label: See Challenges in action!
+        label: See collective action unfold!
         url: https://alkem.io/home
     design:
       columns: '2'
@@ -206,4 +206,25 @@ sections:
       # Choose an optional background color, gradient, image, or video
       background:
         color: rgb(247, 247, 247)
+
+  - block: markdown
+    content:
+      title: Podcast - Current and Alternative Digital Landscapes
+      subtitle: on Trumanitarian, Episode 92
+      text: |
+        “Imagine building a house, but you don’t own the pipes, nor the foundations, and others can decide who communicates with who.”
+
+        Our CEO, Neil Smyth, discusses the challenges posed by profit-driven digital platforms and introduces Alkemio's mission to create an alternative. In Episode 92 of the Trumanitarian podcast, hosted by Lars Peter Nissen, Neil delves into themes like techno-feudalism, steward-ownership, and the vision for a society-first digital landscape.
+
+        <p class="cta-btns big-cta text-center">
+          <a href="/post/2024-11-trumanitarian-ep-92/" class="btn btn-primary btn-lg mb-md-1 mr-2">Read More</a>
+          <a href="https://trumanitarian.org/captivate-podcast/92-alkemio/" class="btn btn-secondary btn-lg mb-md-1">Listen Now!</a>
+        </p>
+    design:
+      columns: '1'
+      background:
+        color: white
+      css_class: d-flex align-items-center
+      spacing:
+        padding: ['60px', '0', '60px', '0']
 ---
