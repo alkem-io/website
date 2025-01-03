@@ -188,7 +188,7 @@
   {{/* Load WC community block styles */}}
   {{ $wc_block_styles := resources.Match "scss/blocks/**.scss" }}
   {{ with $wc_block_styles }}
-    {{ $wc_block_styles = $wc_block_styles | resources.Concat "css/wowchemy-blocks.scss" | resources.ToCSS }}
+    {{ $wc_block_styles = $wc_block_styles | resources.Concat "css/wowchemy-blocks.scss" | css.Sass }}
     {{- if eq (getenv "WC_POST_CSS") "true" -}}
       {{- $wc_block_styles = $wc_block_styles | postCSS -}}
     {{- end -}}
