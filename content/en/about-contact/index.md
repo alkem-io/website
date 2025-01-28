@@ -45,10 +45,10 @@ sections:
       email: info@alkem.io
       #phone: 888 888 88 88
       address:
-        street: "Wilhelmina van Pruisenweg 35"
+        street: "Waldorpstraat 5"
         city: "The Hague"
         region: "South-Holland"
-        postcode: "2595 AN"
+        postcode: "2521 CA"
         country: "The Netherlands"
         country_code: NL
       coordinates:
