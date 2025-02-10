@@ -72,7 +72,7 @@ This is how it works:
 -	The rate of appreciation in this example is 7%, based on an Euribor index rate plus 4%
 -	This appreciation rate is applied to the outstanding entitlement amount, which starts at €3,500, and (i) decreases based on dividends received to date and (ii) increases based on appreciation in previous years. Therefore, the effective rate of appreciation on the actual €1,000 investment amount is likely much higher than 7%
 
-![ACE returns v. fixed capped return](./chart.png)
+![ACE returns v. fixed capped return](./ace-fixed-chart.png)
 
 In this example, the return multiple for investors grows from the initial 3.5x to 4.8x for an exit at year 10. 
 The IRR increases to 19%, compared to 15% if the capped economic return had been fixed at 3.5x. 
