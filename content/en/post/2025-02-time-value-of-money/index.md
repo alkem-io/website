@@ -34,9 +34,11 @@ a:hover {
 }
 </style> 
 
-This is a new line to test the look. 
+
 
 [![Neil Smyth's interview on the Trumanitarian podcast](./header.png)](https://trumanitarian.org/captivate-podcast/92-alkemio/)
+
+This is a new line to test the look.  
 
 “Imagine building a house, but you don’t own the pipes, nor the foundations, and others can decide who communicates with who.”
 
