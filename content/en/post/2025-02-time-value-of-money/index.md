@@ -1,22 +1,19 @@
 ---
-title: "Neil Smyth on Trumanitarian: The Alchemist"
-date: "2024-11-12"
-lastmod: "2024-11-12"
+title: "Capped economic returns, with a twist!"
+date: "2025-02-10"
+lastmod: "2025-02-10"
 math: false
 diagram: false
-summary: "Our CEO, Neil Smyth, discusses the societal impact of profit-driven digital platforms and Alkemio's mission to offer an alternative on the Trumanitarian podcast."
+summary: "Alkemio transitioned to steward-ownership in 2023. In addition to the fundamental concepts of steward-ownership, Alkemio has added a 'twist' to the capped return feature to make the company attractive to purpose-minded investors. The blog shares key lessons with this novel implementation to help other organisations."
 authors:
-  - rosso-francesco
+  - smyth-fintan
   - smyth-neil
+  - tharakan-robin
 tags:
-  - digital platforms
-  - collective action
-  - social impact
-  - open source
   - steward ownership
+  - collective action
 #categories:
   #- Platform
-
 featured: false
 draft: false
 image:
@@ -34,50 +31,90 @@ a:hover {
 }
 </style> 
 
-
-
 [![Neil Smyth's interview on the Trumanitarian podcast](./header.png)](https://trumanitarian.org/captivate-podcast/92-alkemio/)
 
-This is a new line to test the look.  
+Steward-ownership is a perfect match for purpose-driven companies. We recognised this immediately when we came across it in 2022. 
+It legally ensures the purpose will always remain the top priority and aligns all stakeholders towards it. 
+For a public interest tech company such as Alkemio, aligning our ownership and governance model with the values of our target customers in the public sector can create a unique competitive advantage. 
+Alkemio completed the transition to steward-ownership in early 2023. 
+In that journey, we worked closely with We Are Stewards and DePrioriteit, who have been instrumental in expanding awareness of and supporting companies moving to steward-ownership in the Netherlands.
 
-“Imagine building a house, but you don’t own the pipes, nor the foundations, and others can decide who communicates with who.”
+Steward-ownership is well tested for established companies such as Patagonia, Bosch, Zeiss, Novo Nordisk, and Maersk. 
+For purpose-driven early-stage startups, it is, however, still quite new, and this means it is not familiar to the investor market, even to many impact investors.
 
-This is how our CEO, Neil Smyth, explains what is happening in society due to the pervasiveness of profit-maximizing digital platforms.
+As part of aligning all stakeholders towards the purpose, a feature of steward-ownership is the capping of economic returns for all parties, including investors (footnote 1). 
+Alongside the lack of familiarity, this makes it very hard to raise money from venture capital funds, the dominant supplier of capital to startups. 
 
-Neil was recently invited to discuss this issue and Alkemio’s mission to offer an alternative on Episode 92 of the Trumanitarian podcast, hosted by Lars Peter Nissen. In this blog post, we highlight some of the key themes.
+This blog post focuses on a twist Alkemio has implemented to the capped return feature. 
+We also highlight the cost-effective and scalable structure Alkemio has used for bringing in investors.
 
-### The Problem with the Digital Status Quo
+### Time value of money
 
-Neil addresses a critical issue in today’s digital landscape: profit-driven platforms control the very infrastructure of our online spaces. This limits users' ability to choose how to collaborate and their access to data. With the analogy of building a house but not owning the foundations, Neil illustrates that this isn't a hypothetical future; it’s our present reality. This phenomenon, often referred to as "[techno-feudalism](https://www.wired.com/story/yanis-varoufakis-technofeudalism-interview/)", is already here.
+Startups typically take time to develop and be successful. 
+For purpose-driven startups, it is especially important to build the business carefully towards achieving the purpose, as opposed to the growth maximisation approach often seen in venture capital-backed startups.
 
-### Introducing Alkemio: Collective Action Reimagined
+From an investor’s perspective, however, the timing of cash flows is a key driver of their returns. 
+So when we were implementing a capped economic return at Alkemio, we struggled to balance this with the concept of a “fixed capped economic return”. 
+For example, a 3.5x return over 5 years gives a much higher IRR than 3.5x over 10 years. 
+There is always a time value to money.
 
-Alkemio was designed to enable collective action, providing safe digital spaces for collaborative work, backed by an organization dedicated to societal benefit.
+Further, if the capped economic return is a fixed amount, there isn’t an incentive for the company to quickly repay investors, raising further concerns as to the timing of economic returns and IRR. 
 
-A significant milestone for Alkemio was its adoption of [Steward Ownership](https://purpose-economy.org/en/whats-steward-ownership/). This commitment assures that Alkemio’s purpose remains central: the venture cannot be sold, and profit serves purpose. This diverges starkly from the prevailing model of digital platforms, where shareholder profits often take precedence over societal interests.
+The solution we came up with is the appreciating capped economic (“ACE”) return, with the cap growing over time. 
+This is how it works: 
 
-Additionally, Alkemio’s Open Source commitment guarantees the freedom for users to run their own version of the platform, if they so choose. While Alkemio hopes to sustain its vision through a commercially hosted service, the open-source promise means that users always have the alternative of self-hosting.
+![ACE returns v. fixed capped return](./chart.png)
 
-The vision is for Alkemio to be a seed for a larger collaboration, creating a digital foundation with public interests at the core.
 
-### The Challenges of Scaling a Mission-Driven Platform
+-	The initial capped return multiple for a certificate is set at a certain level, such as 3.5x 
+-	This means an investment of €1,000 is initially entitled to dividends of up to €3,500
+-	From year 4 onwards, the outstanding amount of such dividend rights will appreciate
+-	The rate of appreciation in this example is 7%, based on an Euribor index rate plus 4%
+-	This appreciation rate is applied to the outstanding entitlement amount, which starts at €3,500, and (i) decreases based on dividends received to date and (ii) increases based on appreciation in previous years. Therefore, the effective rate of appreciation on the actual €1,000 investment amount is likely much higher than 7%
 
-Among the many themes discussed, Lars Peter asked Neil what’s needed to scale a platform like Alkemio. Competing with established tech giants means breaking free from their playbook.
 
-Neil believes that we cannot realize a different digital future by playing the same game that brought us here. We need to play a new game! Only by offering a different narrative and fundamentally different product can a new digital foundation for society be realized.
+In this example, the return multiple for investors grows from the initial 3.5x to 4.8x for an exit at year 10. 
+The IRR increases to 19%, compared to 15% if the capped economic return had been fixed at 3.5x. 
+Further, the company is incentivised to pay dividends. These features make it a more attractive offering for investors. 
 
-Alkemio believes that focusing only on profit - like in a traditional business where shareholders come first — limits how much we can prioritize society's needs. Instead, we believe it’s time to change the approach, aiming to create technology that benefits everyone, not just a few shareholders. By redefining the rules, we can push for progress that genuinely supports communities, collaboration, and long-term value.
+The ACE return has been favourably received by angel investors in Alkemio. 
+Further details are shared on our [website](https://www.alkemio.org/investors/), which we hope can make it easier for SO companies to raise capital and together grow the investor base for purpose-driven startups.
 
-Scaling Alkemio still requires capital, though Steward-Ownership ensures this capital is attached to achieving the "society-first" goals of the company. This organizational model safeguards the company mission, while offering investors reasonable returns.
+### Simple and scalable 
 
-Over time, the network effect of many communities engaging in collective action will drive the paradigm shift needed to embed this vision into society.
+To provide a digital platform offering value to users and a huge impact on society, scalability is important for Alkemio. 
+Having a structure that enables quickly and cost-effectively raising funds from investors is a big part of this. 
 
-### Rethinking Our Digital Tools
+Alkemio chose to work with economic certificates. 
+Each certificate represents a right to future dividends, with the amount capped as detailed above. 
+The certificates do not carry voting rights, which enables the separation of economic rights from voting control. 
+This separation is another key feature of steward-ownership, with voting control being held by the stewards who are bound to make decisions towards achieving the purpose.
 
-One of the most compelling takeaways from the conversation is Neil’s challenge to listeners: reconsider the digital tools you use every day. Are they serving your interests, or are you serving theirs? And as AI becomes more integrated, have you thought about its effects on your autonomy?
+In the Netherlands, companies can issue economic certificates using a STAK structure. 
+This process is quick, with low transaction costs at issuance and for secondary trading of certificates. 
+It also brings simplicity for all parties, as this one mechanism can be used to reward investors, founders, employees and other contributors.
 
-Neil encourages us to imagine a digital ecosystem where collective action is free from profit-driven pressures.
+A core advantage of economic certificates with capped economic rights and no voting rights is that there aren’t lengthy discussions about company valuation and voting percentages when raising funds or hiring talent. 
+Once you have evaluated market conditions and decided on the capped return level for an issuance, you can issue new certificates. 
+Compared to often lengthy and expensive negotiations for venture capital-backed companies, this makes it simpler to do new capital raises and new hires as you scale your business. 
 
-### Listen to the Full Episode
+So, the founders at steward-owned startups can devote their time and energy to the most important thing: building a sustainable and profitable business to achieve the purpose. 
 
-To dive deeper into this conversation, tune into Episode 92 of the Trumanitarian podcast. [Listen to it here!](https://trumanitarian.org/episodes/92-alkemio/)
+These features also enable you to build up a very broad network of people contributing capital and time towards the purpose. 
+Alkemio’s structure is highlighted in a case study by Purpose, who has also been a valuable partner in our journey. 
+Further details are on our [website](https://www.alkemio.org/investors/). 
+
+### Growing the market for purpose-driven startups
+
+There isn’t a well-trodden path for steward-owned startups, including when it comes to raising capital. 
+Many startups come across things in their journeys that can help make it easier for other founders. 
+Through this blog post, we are sharing key learnings from Alkemio’s journey: 
+
+
+- A solution for considering the time value of money with capped economic returns. Recognizing the needs of investors in this way can help grow the pool of capital available to steward-owned startups
+- The use of a simple, cost-effective mechanism for rewarding contributors of capital and time. This makes it easier to build a broader set of contributors and frees up management resources towards the pursuit of the purpose
+
+
+ Footnote 1: Economic returns are capped so that all stakeholders (including investors, founders and employees) are aligned towards the purpose while having the potential for attractive economic returns. 
+With extra profits to be used/donated towards achieving the purpose, such that the biggest winner of the company’s success is the purpose. 
+Note that social returns for investors are not capped.
