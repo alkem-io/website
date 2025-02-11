@@ -54,7 +54,7 @@ sections:
       coordinates:
         latitude: '52.07931473185087'
         longitude: '4.341869769139752'
-      #directions: Enter Building 1 and take the stairs to Office 3.04 on Floor 2
+      #directions: Enter Building 1 and take the stairs to Office 3.04 on Floor 3
       #office_hours:
       #  - 'Monday 10:00 to 13:00'
       #  - 'Wednesday 09:00 to 10:00'
