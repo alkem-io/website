@@ -12,8 +12,8 @@ authors:
 tags:
   - steward ownership
   - collective action
-#categories:
-  #- Platform
+categories:
+  - Steward Ownership
 featured: false
 draft: false
 image:

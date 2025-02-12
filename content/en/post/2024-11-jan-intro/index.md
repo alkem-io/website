@@ -20,7 +20,7 @@ categories:
 
 
 featured: false
-draft: false
+draft: true
 image:
   placement: 1
   preview_only: true
