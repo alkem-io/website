@@ -9,7 +9,7 @@
 
 [context.production.environment]
   HUGO_ENV = "production"
-  HUGO_ENABLE_ROBOTS_TXT=false
+  HUGO_ENABLE_ROBOTS_TXT= "false"
 
 [context.deploy-preview]
   command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL  --environment $ALKEMIO_ENV"
