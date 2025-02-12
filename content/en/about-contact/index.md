@@ -20,15 +20,15 @@ sections:
 
           </div>
           <div class="col-sm mt-4">  
-
-          <script charset="utf-8" type="text/javascript" src="//js-eu1.hsforms.net/forms/v2.js"></script>
+          
+          <script charset="utf-8" type="text/javascript" src="//js-eu1.hsforms.net/forms/embed/v2.js"></script>
           <script>
             hbspt.forms.create({
-            region: "eu1",
             portalId: "144061301",
-            formId: "a308f647-e052-459b-a40b-494f1523ce41"
+            formId: "57dc58c6-1031-44c4-bc82-7ab85dcfc3cb",
+            region: "eu1"
           });
-          </script> </div>  </div>  </div>
+          </script></div>  </div>  </div>
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
@@ -38,11 +38,10 @@ sections:
   - block: contact
     content:
       title: Contact
-      subtitle: Visit us on other platforms!
+      subtitle:
       # Automatically link email and phone or display as text?
       autolink: true
       
-      email: info@alkem.io
       #phone: 888 888 88 88
       address:
         street: "Waldorpstraat 5"
@@ -54,20 +53,17 @@ sections:
       coordinates:
         latitude: '52.07931473185087'
         longitude: '4.341869769139752'
-      #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+      #directions: Enter Building 1 and take the stairs to Office 3.04 on Floor 3
       #office_hours:
       #  - 'Monday 10:00 to 13:00'
       #  - 'Wednesday 09:00 to 10:00'
       #appointment_url: 'https://calendly.com'
+      email: info@alkem.io
       contact_links:
         - icon: building
           icon_pack: far
           name: Dutch KvK \#78302633
           link: 'https://www.kvk.nl/orderstraat/product-kiezen/?kvknummer=78302633'
-        - icon: twitter # The switch to proper X icon is pending a new hugo release
-          icon_pack: fab
-          name: Visit us on X
-          link: 'https://twitter.com/Alkem_io'
         - icon: github
           icon_pack: fab
           name: Visit us on Github 
