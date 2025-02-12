@@ -1,10 +1,10 @@
 [build]
-  command = "hugo --gc --minify -b $URL"
+  command = "hugo --gc --minify -b $URL --environment $ALKEMIO_ENV"
   publish = "public"
 
 [build.environment]
   HUGO_VERSION = "0.140.2"
-  HUGO_ENABLEGITINFO = false
+  HUGO_ENABLEGITINFO = "false"
   GO_VERSION = "1.21"
 
 [context.production.environment]
@@ -12,222 +12,16 @@
   HUGO_ENABLE_ROBOTS_TXT=false
 
 [context.deploy-preview]
-  command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
+  command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL  --environment $ALKEMIO_ENV"
 
 [context.branch-deploy]
-  command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
-
-[[plugins]]
-  package = "netlify-plugin-hugo-cache-resources"
-  [plugins.inputs]
-    debug = true
+  command = "hugo --gc --minify -b $DEPLOY_PRIME_URL  --environment $ALKEMIO_ENV"
 
 [[redirects]]
   from = "/post/2023-04-innovation-library/"
   to = "https://welcome.alkem.io/blog/2023-04-innovation-library/"
   status = 301
   force = true
-
-[[redirects]]
-  from = "/post/2021-07-public-preview/"
-  to = "https://welcome.alkem.io/blog/2021-07-public-preview/"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/post/2021-07-public-preview-video/"
-  to = "https://welcome.alkem.io/blog/2021-07-public-preview-video/"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/post/2021-09-essif-lab/"
-  to = "https://welcome.alkem.io/blog/2021-09-essif-lab/"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/post/2021-09-code-for-all/"
-  to = "https://welcome.alkem.io/blog/2021-09-code-for-all/"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/post/2021-10-code4all-event/"
-  to = "https://welcome.alkem.io/blog/2021-10-code4all-event/"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/post/2021-10-interview-merijn/"
-  to = "https://welcome.alkem.io/blog/2021-10-interview-merijn/"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/post/2021-10-impactfest/"
-  to = "https://welcome.alkem.io/blog/2021-10-impactfest/"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/post/2021-11-interview-flori/"
-  to = "https://welcome.alkem.io/blog/2021-11-interview-flori/"
-  status = 301
-  force = true
-
-# Note: "2021-11-webinar" link missing on foundation site
-
-[[redirects]]
-  from = "/post/2021-12-webinar2/"
-  to = "https://welcome.alkem.io/blog/2021-12-webinar2/"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/post/2022-02-canvases/"
-  to = "https://welcome.alkem.io/blog/2022-02-canvases/"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/post/2022-03-uwv/"
-  to = "https://welcome.alkem.io/blog/2022-03-uwv/"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/post/2022-04-community/"
-  to = "https://welcome.alkem.io/blog/2022-04-community/"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/post/2022-04-translation-uwv/"
-  to = "https://welcome.alkem.io/blog/2022-04-translation-uwv/"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/post/2022-05-wisdom/"
-  to = "https://welcome.alkem.io/blog/2022-05-wisdom/"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/post/2022-05-webbers/"
-  to = "https://welcome.alkem.io/blog/2022-05-webbers/"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/post/2022-06-23-riconline/"
-  to = "https://welcome.alkem.io/blog/2022-06-23-riconline/"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/post/2022-06-29-home-page/"
-  to = "https://welcome.alkem.io/blog/2022-06-29-home-page/"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/post/2022-07-spreadsheet/"
-  to = "https://welcome.alkem.io/blog/2022-07-spreadsheet/"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/post/2022-08-knowledgebase/"
-  to = "https://welcome.alkem.io/blog/2022-08-knowledgebase/"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/post/2022-09-callouts/"
-  to = "https://welcome.alkem.io/blog/2022-09-callouts/"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/post/2022-09-ux-refresh/"
-  to = "https://welcome.alkem.io/blog/2022-09-ux-refresh/"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/post/2022-10-translations/"
-  to = "https://welcome.alkem.io/blog/2022-10-translations/"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/post/2022-12-key-concepts/"
-  to = "https://welcome.alkem.io/blog/2022-12-key-concepts/"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/post/2022-12-ui-refresh/"
-  to = "https://welcome.alkem.io/blog/2022-12-ui-refresh/"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/post/2023-04-innovation-library/"
-  to = "https://welcome.alkem.io/blog/2023-04-innovation-library/"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/post/2023-04-alkemio-spaces/"
-  to = "https://welcome.alkem.io/blog/2023-04-alkemio-spaces/"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/post/2023-05-changenow-event/"
-  to = "https://welcome.alkem.io/blog/2023-05-changenow-event/"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/post/2023-05-changenow-reflection/"
-  to = "https://welcome.alkem.io/blog/2023-05-changenow-reflection/"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/post/2023-08-velolab-introduction/"
-  to = "https://welcome.alkem.io/blog/2023-08-velolab-introduction/"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/post/2023-08-digital-twin-introduction/"
-  to = "https://welcome.alkem.io/blog/2023-08-digital-twin-introduction/"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/post/2023-10-urban-sensing-lab/"
-  to = "https://welcome.alkem.io/blog/2023-10-urban-sensing-lab/"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/post/2023-04-vng-renewal/"
-  to = "https://welcome.alkem.io/blog/2023-04-vng-renewal/"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/post/2023-02-community-workshop/"
-  to = "https://welcome.alkem.io/blog/2023-02-community-workshop/"
-  status = 301
-  force = true
-
 
 [[headers]]
   for = "/*"
