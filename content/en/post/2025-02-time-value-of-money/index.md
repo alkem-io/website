@@ -39,42 +39,42 @@ For a public interest tech company such as Alkemio, aligning our ownership and g
 Alkemio completed the transition to steward-ownership in early 2023. 
 In that journey, we worked closely with [We Are Stewards](https://wearestewards.nl/) and [DePrioriteit](https://deprioriteit.nl/), who have been instrumental in expanding awareness of and supporting companies moving to steward-ownership in the Netherlands.
 
-Steward-ownership is well tested for established companies such as Patagonia, Bosch, Zeiss, Novo Nordisk, and Maersk. 
-For purpose-driven early-stage startups, it is, however, still quite new, which means it is not familiar to the investor market, even to many impact investors.
+Steward-ownership is well tested for *established* companies such as Patagonia, Bosch, Zeiss, Novo Nordisk, and Maersk. 
+For purpose-driven *startups*, it is, however, still quite new and relatively unknown. This means it is not familiar to the investor market, even to many impact investors.
 
-As part of aligning all stakeholders towards the purpose, a feature of steward-ownership is the capping of economic returns for all parties, including investors.[^1] 
-Alongside the lack of familiarity, this makes it very hard to raise money from venture capital funds, the dominant supplier of capital to startups. 
+As part of aligning all stakeholders towards the purpose, a feature of steward-ownership is the *capping of economic returns for all parties*, including investors.[^1] 
+Alongside the lack of familiarity, this makes it very hard to raise money from venture capital (VC) funds, the dominant supplier of capital to startups. The VC model is fundamentally based on uncapped returns.
 
-This blog post focuses on a twist Alkemio has implemented to the capped return feature. 
-We also highlight the cost-effective and scalable structure Alkemio has used to bring in investors.
+Alkemio has implemented a [cost-effective and scalable structure](https://alkemio.org/structure) to bring in investors. More details below.
+
+The key focus of this blog post is on a twist Alkemio has implemented to the *capped return* feature. 
 
 ### Time value of money
+
+It is an economic truism: 100 euro now is different, and nearly always more, than 100 euro in 5 years. Similarly a 3x return over 3 years is better than a 3x return over 5 years. 
 
 Startups take time to develop and be successful. 
 For purpose-driven startups, it is especially important to build the business carefully towards achieving the purpose, as opposed to the growth maximisation approach often seen in venture capital-backed startups.
 
-From an investor’s perspective, however, the timing of cash flows is a key driver of their returns. 
+From an investor’s perspective, however, the timing of cash flows is a key driver of their returns. This is normally referred to as the "Internal Rate of Return" (IRR).
 
-When implementing steward-ownership at Alkemio, we struggled to balance investors' cash flow preferences with the concept of a “fixed capped economic return”. 
-For example, a 3.5x return over 5 years gives a much higher IRR than 3.5x over 10 years. 
+When implementing steward-ownership at Alkemio, we struggled to balance returns on investment with the concept of a *“fixed capped economic return”*. Both in terms of being able to offer an attractive return on investment, as well as ensuring that there is an incentive for the company to quickly repay investors. 
 
-There is always a time value to money.
-
-Further, if the capped economic return is a fixed amount, there isn’t an incentive for the company to quickly repay investors, raising further concerns as to the timing of economic returns and IRR. 
-
-The solution we came up with is the appreciating capped economic (“ACE”) return, with the cap growing over time. 
+The solution we came up with is the **Appreciating Capped Economic** (“ACE”) return, whereby the economic cap *grows over time*. 
 
 This is how it works: 
 
--	The initial capped return multiple for a certificate is set at a certain level, such as 3.5x 
--	This means an investment of €1,000 is initially entitled to dividends of up to €3,500
+-	The return multiple for an investment is set at a certain level, such as 3.5x 
+-	This means that an investment of €1,000 is initially entitled to dividends of up to €3,500
 -	From year 4 onwards, the outstanding amount of such dividend rights will appreciate
--	The rate of appreciation in this example is 7%, based on an Euribor index rate plus 4%
--	This appreciation rate is applied to the outstanding entitlement amount, which starts at €3,500, and (i) decreases based on dividends received to date and (ii) increases based on appreciation in previous years. Therefore, the effective rate of appreciation on the actual €1,000 investment amount is likely much higher than 7%
+-	The rate of appreciation in this example is 7%, based on an [Euribor index rate](https://www.euribor-rates.eu/en/current-euribor-rates/4/euribor-rate-12-months/) plus a risk premium of 4%
+-	This appreciation rate is applied to the outstanding entitlement amount. In the example above, the economic cap starts at €3,500, and (i) decreases based on dividends received to date and (ii) increases after year 4 for the outstanding balance. 
+
+Important to note that the appreciation rate is on the outstanding *entitlement* (so 3.5x the investment of €1,000 in this example). The result is that the effective return rate is 7% times 2.5x (3.5x minus original investment), ensuring a lower bound on the return rate (assuming the startup succeeds!).
 
 ![ACE returns v. fixed capped return](./ace-fixed-chart.png)
 
-In this example, the return multiple for investors grows from the initial 3.5x to 4.8x for an exit at year 10. 
+In this example, the return multiple for investors grows from the initial 3.5x to 4.8x for a full payment of dividends at year 10. 
 The IRR increases to 19%, compared to 15% if the capped economic return had been fixed at 3.5x. 
 Further, the company is incentivised to pay dividends. These features make it a more attractive offering for investors. 
 
@@ -86,8 +86,8 @@ Further details are shared on our [website](https://www.alkemio.org/investors/),
 To provide a digital platform offering value to users and a huge impact on society, scalability is important for Alkemio. 
 Having a structure that enables quickly and cost-effectively raising funds from investors is a big part of this. 
 
-To facilitate quick fundraising, Alkemio chose to work with economic certificates. 
-Each certificate represents a right to future dividends, with the amount capped as detailed above. 
+To facilitate effective fundraising, Alkemio chose to work with economic certificates. 
+Each certificate represents a right to future dividends, with the amount of certificates received for each investment determined as detailed above. 
 The certificates do not carry voting rights, which enables the separation of economic rights from voting control. 
 This separation is another key feature of steward-ownership, with voting control being held by the stewards who are bound to make decisions towards achieving the purpose.
 
@@ -96,7 +96,7 @@ The process is quick, with low transaction costs at issuance and for secondary t
 It also brings simplicity for all parties, as this one mechanism can be used to reward investors, founders, employees and other contributors.
 
 A core advantage of economic certificates with capped economic rights and no voting rights is that there aren’t lengthy discussions about company valuation and voting percentages when raising funds or hiring talent. 
-Once you have evaluated market conditions and decided on the capped return level for an issuance, you can issue new certificates. 
+Once you have evaluated market conditions and decided on the capped return level for an issuance, you can take in the investment and issue certificates to represent the dividend entitlements. 
 Compared to often lengthy and expensive negotiations for venture capital-backed companies, this makes it simpler to raise additional capital and  hire talent as you scale your business. 
 So, the founders at steward-owned startups can devote their time and energy to the most important thing: building a sustainable and profitable business to achieve the purpose. 
 
@@ -106,7 +106,7 @@ Alkemio’s structure is highlighted in [a case study by Purpose](https://purpos
 
 ### Growing the market for purpose-driven startups
 
-There isn’t a well-trodden path for steward-owned startups, including when it comes to raising capital. 
+There is not a well-trodden path for steward-owned startups, especially when it comes to raising capital. 
 Many startups come across things in their journeys that can help make it easier for other founders. 
 Through this blog post and resources on our [website](https://www.alkemio.org/investors/), we are sharing key learnings from Alkemio’s journey: 
 
