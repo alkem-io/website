@@ -1,20 +1,19 @@
 [build]
-  command = "hugo --gc --minify -b $URL --environment $ALKEMIO_ENV"
+  command = "hugo --gc --minify -b $URL 
   publish = "public"
 
 [build.environment]
   HUGO_VERSION = "0.140.2"
-  HUGO_ENABLEGITINFO = "false"
   GO_VERSION = "1.21"
 
 [context.production.environment]
   HUGO_ENV = "production"
 
 [context.deploy-preview]
-  command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL  --environment $ALKEMIO_ENV"
+  command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL  
 
 [context.branch-deploy]
-  command = "hugo --gc --minify -b $DEPLOY_PRIME_URL  --environment $ALKEMIO_ENV"
+  command = "hugo --gc --minify -b $DEPLOY_PRIME_URL  
 
 [[redirects]]
   from = "/post/2023-04-innovation-library/"
