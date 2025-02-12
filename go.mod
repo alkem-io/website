@@ -1,6 +1,6 @@
 module github.com/alkem-io/website
 
-go 1.19
+go 1.21
 
 require (
 	github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5 v5.9.7
