@@ -27,6 +27,9 @@ image:
   
 ---
 
+<i>Unfortunately for Alkemio, Jan left Province South Holland at the end of 2024, and decided that it was also then no longer appropriate to be on Alkemio's Board of Advisors. His willingness to support our mission, even for a limited time, is much appreciated.</i>
+<br/>
+<hr/>
 <img src="./featured.jpg" alt="header" width="1000"/>
 
 We are delighted and proud to announce that <b>[Jan van Ginkel](https://www.linkedin.com/in/janvanginkel1965/)</b> has joined the Board of Advisors of Alkemio! 
