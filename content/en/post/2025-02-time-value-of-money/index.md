@@ -1,7 +1,7 @@
 ---
 title: "Capped economic returns, with a twist!"
 date: "2025-02-10"
-lastmod: "2025-02-10"
+lastmod: "2025-02-17"
 math: false
 diagram: false
 summary: "Alkemio transitioned to steward-ownership in 2023. In addition to the fundamental features of steward-ownership, Alkemio has added a 'twist' to the capped return concept to make the company attractive to purpose-minded investors. The blog shares key lessons from this implementation to hopefully help other steward owned ventures."
@@ -30,8 +30,10 @@ a:hover {
     text-decoration: underline;
 }
 </style> 
+<!-- 
+[![Alkemio is steward-owned. Profit serves the purpose.](./banner.png](https://www.alkemio.org/structure/) --> 
 
-[![Alkemio is steward-owned. Profit serves the purpose.](./banner.jpg)](https://www.alkemio.org/structure/)
+[<img src="./banner.png" alt="Alkemio is steward-owned. Profit serves the purpose." width="600">](https://www.alkemio.org/structure/)
 
 Steward-ownership is a perfect match for purpose-driven companies. We recognised this immediately when we came across the model in 2022. 
 It legally ensures that the purpose of an organisation will always remain the top priority and aligns all stakeholders towards it. 
