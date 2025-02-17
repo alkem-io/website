@@ -10,7 +10,7 @@ main:
   - name: Manifesto
     url: 'manifesto'
     weight: 10 
-  - name: Insights
+  - name: Blog
     url: 'post' 
     weight: 20
   - name: Partners
