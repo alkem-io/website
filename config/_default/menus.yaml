@@ -9,17 +9,20 @@ main:
   #   weight: 10
   - name: Manifesto
     url: 'manifesto'
-    weight: 15
+    weight: 10 
+  - name: Blog
+    url: 'post' 
+    weight: 20
   - name: Partners
     url: 'partners'
-    weight: 20
+    weight: 30
   - name: Investing
     url: 'investors'
-    weight: 30
+    weight: 40 
   - name: About
     identifier: about-main
     url: 'about'
-    weight: 40
+    weight: 50
   - parent: about-main
     indentifier: about-governance
     name: Governance
@@ -35,10 +38,10 @@ main:
     name: Background
     url: 'background'
     weight: 3
-  - parent: about-main
-    indentifier: about-blogs
-    name: Blogs
-    url: 'post'
+  # - parent: about-main
+  #   indentifier: about-blogs
+  #   name: Blogs
+  #   url: 'post'
     weight: 4
   - parent: about-main
     indentifier: about-contact
