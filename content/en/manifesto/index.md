@@ -110,7 +110,7 @@ sections:
       title: '**Empowering society**'
       subtitle: To succeed in working on challenges, **together**.
       text: |-
-        The Alkemio foundation and platform are launched by a purpose-driven team of professionals. By <b>working together</b> with  users, partners, businesses, researchers, and citizens we believe that: 
+        The Alkemio Foundation and platform are launched by a purpose-driven team of professionals. By <b>working together</b> with  users, partners, businesses, researchers, and citizens we believe that: 
 
         - Every day we can reveal the <b>infinite potential of collaboration</b>. This is the key to success.
         - To achieve <b>systematic change</b> in how we work together on <b>challenges</b> requires inclusion and transparency. Enabled by an <b>independent digital platform</b> to support this way of <b>working together on challenges</b>.
