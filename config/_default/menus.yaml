@@ -24,17 +24,17 @@ main:
     url: 'about'
     weight: 50
   - parent: about-main
-    indentifier: about-governance
+    identifier: about-governance
     name: Governance
     url: 'about'
     weight: 1
   - parent: about-main
-    indentifier: about-structure
+    identifier: about-structure
     name: Structure
     url: 'structure'
     weight: 2
   - parent: about-main
-    indentifier: about-background
+    identifier: about-background
     name: Background
     url: 'background'
     weight: 3
@@ -42,9 +42,9 @@ main:
   #   indentifier: about-blogs
   #   name: Blogs
   #   url: 'post'
-    weight: 4
+   # weight: 4
   - parent: about-main
-    indentifier: about-contact
+    identifier: about-contact
     name: Contact
     url: 'contact'
     weight: 5
