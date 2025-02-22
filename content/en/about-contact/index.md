@@ -72,6 +72,10 @@ sections:
           icon_pack: fab
           name: Visit us on LinkedIn
           link: 'https://www.linkedin.com/company/alkemio-foundation/' 
+        - icon: bluesky
+          icon_pack: fab
+          name: Follow us on Bluesky
+          link: 'https://bsky.app/profile/alkem.io' 
 
     design:
       # Choose an optional background color, gradient, image, or video
