@@ -7,11 +7,14 @@ url: "/investors"
 sections:
   - block: markdown
     content:
-      title: Taking off with impact investors who...
+      title: Alkemio is looking for investors who...
       text: |-
-        <div style="text-align: center;">want to create a better and safer future,
-        
-        while earning attractive returns from a business aligned with powerful trends in society.</b>
+        <div style="text-align: center;">
+          Want to solve challenges in society,
+          <br/>
+          by empowering <b>collective action</b>,
+          <br/>
+          with <b>public interest technology</b> 
         </div>
     design:
       columns: '1'
@@ -60,8 +63,8 @@ sections:
       title:
       text: |-
         <div style="text-align: center;">
-          <a href="./documents/alkemio_investor_one_pager_2024_11.pdf" target="_blank" class="btn btn-primary" style="font-size: 1.2em; padding: 10px 20px;">
-            <i class="fas fa-file-pdf"></i> View One Pager
+          <a href="mailto:neil@alkem.io" class="btn btn-primary" style="font-size: 1.2em; padding: 10px 20px; display: inline-flex; align-items: center; text-decoration: none; color: white; background-color: #1D384A; border-radius: 5px;">
+            Get in touch!
           </a>
         </div>
     design:
@@ -112,7 +115,7 @@ sections:
         
         Introducing <b>Virtual Contributors</b>, created based on trusted bodies of knowledge and using AI. Ready at all times to contribute expertise, do work, and supercharge your output.
         
-        Alkemio offers a SaaS platform to enable collective action. Beachhead markets are the public sector and education in the Netherlands. **€170k revenue in 2023**.
+        Alkemio offers a SaaS platform to enable collective action. Beachhead markets are the public sector and education in the Netherlands. **€160k revenue in 2024**.
         
         Aligned with powerful trends in society. Hugely scalable.
         </div>
@@ -147,9 +150,9 @@ sections:
       title: 
       text: |-
         <p align="center">
-          Investment raised to date: <b>€1.5M</b>
+          Investment raised to date: <b>€1.8M</b>
           <br/><br/>
-          Investment being raised: <b>€2.0M</b>, target closing Q1 2025
+          Next fund raising: <b>Q2 2025</b>
           <br/>
         </p>
 
@@ -339,7 +342,8 @@ sections:
     content:
       title: For impact investors
       text: |-
-        <div style="text-align: center;">Join us in scaling a business backed by powerful trends in society. </br></br>
+        <div style="text-align: center;">Join us in scaling a business backed by powerful trends in society. </br>
+        While earning attractive returns.</br>
         Big Tech isn't waiting, let's make it happen together, <b>now</b>!
         </div>
 

@@ -36,7 +36,7 @@ And the information about the **Alkemio Foundation** has been available on: http
 
 To reiterate the relationship: **Alkemio is the platform**. It helps you make progress on challenges, together. It is backed by the **Alkemio Foundation** to guarantee it's **purpose**. 
 
-However, as our community and usage has grown, we have seen that you probably just want to get going with working on challenges! The Alkemio Foundation is important, but the platform is where users want to go and get work done.  
+However, as our community and usage has grown, we have seen that you probably just want to get going with working on challenges! Alkemio Foundation is important, but the platform is where users want to go and get work done.  
 
 And we noticed that a lot of users were first going to the main URL (https://alkem.io) and then clicking from there over to the platform...
 

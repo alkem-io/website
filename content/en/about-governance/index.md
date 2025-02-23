@@ -9,10 +9,10 @@ sections:
   - block: markdown
     content:
       title: Governance
-      subtitle: The Alkemio Foundation is governed by a Board of Directors
+      subtitle: Alkemio Foundation is governed by a Board of Directors
       text: |-
         <p align="center">
-        The Alkemio Foundation oversees the development of the Alkemio platform. This is achieved by the board members of Alkemio Foundation being the stewards of Alkemio Holding B.V., which is responsible for the Alkemio platform.
+        Alkemio Foundation oversees the development of the Alkemio platform. This is achieved by the board members of Alkemio Foundation being the stewards of Alkemio Holding B.V., which is responsible for the Alkemio platform.
         </p>
         <p align="center">
         For additional information on the structure of Alkemio, including steward-ownership, please visit the <b><a href="/structure">Structure</a></b> page.  
