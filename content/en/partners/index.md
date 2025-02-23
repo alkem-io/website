@@ -155,7 +155,7 @@ sections:
           <h2 class="text-center font-weight-bold">Become a partner</h2>
           <!-- First row -->
           <div class="row align-items-top text-center mt-4 mb-2">
-              <div>The Alkemio Foundation is open for more partners at all levels. Help build the platform and community for solving challenges in our society. Working together, to maximise the impact. Empowering society, together</div>
+              <div>Alkemio Foundation is open for more partners at all levels. Help build the platform and community for solving challenges in our society. Working together, to maximise the impact. Empowering society, together</div>
           </div>
           </div>
          
