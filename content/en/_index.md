@@ -19,17 +19,17 @@ sections:
         Connect, collaborate and contribute!
           <br> <br>
           </div>
-            <div class="col-sm m-auto"> 
-              <div style="padding:56.25% 0 0 0;position:relative;">
-                <iframe src="https://player.vimeo.com/video/898559009" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen>
-                </iframe>
-              </div>
-              <script src="https://player.vimeo.com/api/player.js"></script>
-            </div> 
-          </div>
+#            <div class="col-sm m-auto"> 
+#              <div style="padding:56.25% 0 0 0;position:relative;">
+#                <iframe src="https://player.vimeo.com/video/898559009" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen>
+#                </iframe>
+#              </div>
+#              <script src="https://player.vimeo.com/api/player.js"></script>
+#            </div> 
+#          </div>
 
-          <div style="width:50%" class="">
-          </div>
+#          <div style="width:50%" class="">
+#          </div>
     design:
       spacing:
         # Customize the section spacing. Order is top, right, bottom, left.
