@@ -69,8 +69,8 @@ This is how it works:
 -	The return multiple for an investment is set at a certain level, such as 3.5x 
 -	This means that an investment of €1,000 is initially entitled to dividends of up to €3,500
 -	From year 4 onwards, the outstanding amount of such dividend rights will appreciate
--	The rate of appreciation in this example is 7%, based on an [Euribor index rate](https://www.euribor-rates.eu/en/current-euribor-rates/4/euribor-rate-12-months/) plus a risk premium of 4%
--	This appreciation rate is applied to the outstanding entitlement amount. In the example above, the economic cap starts at €3,500, and (i) decreases based on dividends received to date and (ii) increases after year 4 for the outstanding balance. 
+-	The rate of appreciation in this example is 7%, based on an [Euribor index rate](https://www.euribor-rates.eu/en/current-euribor-rates/4/euribor-rate-12-months/) of 3%, plus a risk premium of 4%
+-	This appreciation rate is applied to the outstanding entitlement amount. In the example above, the economic cap starts at €3,500, and (i) decreases based on dividends received to date and (ii) increases after year 4 for the outstanding balance 
 
 Important to note that the appreciation rate is on the outstanding *entitlement* (so 3.5x the investment of €1,000 in this example). The result is that the effective return rate is 7% times 2.5x (3.5x minus original investment), ensuring a lower bound on the return rate (assuming the startup succeeds!).
 
@@ -78,7 +78,7 @@ Important to note that the appreciation rate is on the outstanding *entitlement*
 
 In this example, the return multiple for investors grows from the initial 3.5x to 4.8x for a full payment of dividends at year 10. 
 The IRR increases to 19%, compared to 15% if the capped economic return had been fixed at 3.5x. 
-Further, the company is incentivised to pay dividends. These features make it a more attractive offering for investors. 
+Further, the company is incentivised to pay dividends. These features make it a more attractive offering for investors, and applies to all investors, including the founders.
 
 The ACE return has been favourably received by angel investors in Alkemio. 
 Further details are shared on our [website](https://www.alkemio.org/investors/), which we hope can make it easier for other steward-owned companies to raise capital and together grow the investor base for purpose-driven startups.
