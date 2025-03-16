@@ -32,9 +32,12 @@ social:
 #- icon: envelope
 #  icon_pack: fas
 #  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/neilasmyth
+- icon: bluesky
   icon_pack: fab
-  link: https://twitter.com/neilasmyth
+  link: https://neilsmyth.bsky.social
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/neilasmyth/

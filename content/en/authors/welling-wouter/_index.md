@@ -12,7 +12,7 @@ superuser: false
 weight: 2
 
 # Role/position
-role: Digicampus Program director 
+role: Digicampus Program Director 
 
 
 # Organizations/Affiliations
