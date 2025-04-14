@@ -431,7 +431,7 @@ sections:
         # Reference an image in your `assets/media/` folder
         filename:
       cta:
-        url: 'https://eu1.hubs.ly/H0bZw1V0'
+        url: 'https://www.alkemio.org/investors'
         label: Interested in investing?
         icon_pack: fas
         icon: euro-sign
