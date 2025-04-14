@@ -38,18 +38,18 @@ sections:
                   </a>
               </div>
           </div>
-          <!-- Second row -->
-          <div class="row align-items-top text-center mt-4 mb-5">
-              <div class="col text-center">
-                  <p class="pt-2">Authority for employment services and provision of labour market and data services in the Netherlands</p>
-              </div>
-              <div class="col text-center">
-                  <a href="https://www.uwv.nl/particulieren/index.aspx" target="_blank">
-                      <img src="./logos/uwv.svg" alt="UWV logo" style="max-width: 90%; margin: auto; height: 100px;" />
-                  </a>
-              </div>
-          </div>
-          </div>
+         # <!-- Second row -->
+         # <div class="row align-items-top text-center mt-4 mb-5">
+         #     <div class="col text-center">
+         #         <p class="pt-2">Authority for employment services and provision of labour market and data services in the Netherlands</p>
+         #     </div>
+         #     <div class="col text-center">
+         #         <a href="https://www.uwv.nl/particulieren/index.aspx" target="_blank">
+         #             <img src="./logos/uwv.svg" alt="UWV logo" style="max-width: 90%; margin: auto; height: 100px;" />
+         #         </a>
+         #     </div>
+         # </div>
+         # </div>
         
     design:
         spacing:
@@ -196,7 +196,7 @@ sections:
       # Add your Call-To-Action (CTA) button and optional icon
       cta:
         label: Get in touch!
-        url: https://alkemio.org/feedback
+        url: https://www.alkemio.org/contact/
     design:
       columns: '2'
       spacing:

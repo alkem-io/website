@@ -159,7 +159,7 @@ sections:
 
   - block: left-right
     content:
-      title: Timing is right for alkemio
+      title: Timing is right for Alkemio
       image:
         # Reference an image in your `assets/media/` folder
         filename: /home/purpose_resized.png
