@@ -63,10 +63,10 @@ sections:
         - icon: building
           icon_pack: far
           name: Dutch KvK \#78302633
-          link: 'https://www.kvk.nl/orderstraat/product-kiezen/?kvknummer=78302633'
+          link: 'https://www.kvk.nl/bestellen/#/78302633' # do we need to include this link here?
         - icon: github
           icon_pack: fab
-          name: Visit us on Github 
+          name: Visit us on GitHub 
           link: 'https://github.com/alkem-io'
         - icon: linkedin
           icon_pack: fab
@@ -97,7 +97,7 @@ sections:
       # Reference an image in your `assets/media/` folder
       # filename:
       cta:
-        url: "https://alkem.io/identity/registration"
+        url: "https://welcome.alkem.io/"
         label: Want to get started?
         # icon_pack: fas
         # icon: file-pdf

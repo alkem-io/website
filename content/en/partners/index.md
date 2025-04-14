@@ -196,7 +196,7 @@ sections:
       # Add your Call-To-Action (CTA) button and optional icon
       cta:
         label: Get in touch!
-        url: https://alkemio.org/feedback
+        url: https://www.alkemio.org/contact/
     design:
       columns: '2'
       spacing:
