@@ -1,5 +1,5 @@
 {{ define "main" }}
-  {{ $paginator := .Paginate (where .RegularPages ".Params.featured" "ne" true) 9 }} <!-- Updated to paginate 9 posts per page -->
+  {{ $paginator := .Paginate (where .RegularPages ".Params.featured" "ne" true) }}
 
   {{/* Checking if paginated page or not */}}
   {{ $isPaginatedPage := false }}
@@ -9,7 +9,38 @@
     {{ end }}
   {{ end }}
 
-  {{ if not $isPaginatedPage }} 
+  {{ if not $isPaginatedPage }}
+    <!-- Featured Post Section -->
+    <section class="section overflow-hidden">
+      <div class="container">
+        <div class="row">
+          {{ with .Params.featured_blog }}
+            <div
+              class="mx-auto text-center lg:col-10"
+              data-aos="fade-up-sm">
+              <p class="mb-2 font-medium text-tertiary">
+                {{ .subtitle | markdownify }}
+              </p>
+              <h1 class="h2 md:h1 mb-6">{{ .title | markdownify }}</h1>
+              <p class="text-lg ">{{ .description | markdownify }}</p>
+            </div>
+          {{ end }}
+          <!-- Display featured post card -->
+          <div
+            class="col-12 pt-20"
+            data-aos="fade-up-sm"
+            data-aos-delay="200">
+            <div class="row gx-4 gy-5 justify-start md:gx-5">
+              {{ range (where .RegularPages ".Params.featured" true) }}
+                <div class=" md:col-6">
+                  {{ partial "components/blog-card" (dict "Context" .) }}
+                </div>
+              {{ end }}
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
   {{ end }}
 
 

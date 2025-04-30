@@ -7,7 +7,7 @@
           <h3 class="mb-4 pt-2 text-xl text-text-dark md:mb-6">
             {{ T "quick_links" }}
           </h3>
-          <ul class="flex flex-wrap gap-3">
+          <ul class="flex flex-wrap gap-4">
             {{ range site.Menus.footer_01 }}
               <li>
                 <a
@@ -17,6 +17,8 @@
                 >
               </li>
             {{ end }}
+          </ul>
+          <ul class="flex flex-wrap gap-4 mt-6">
             {{ with .Site.Params.social }}
               {{ range . }}
                 <li>
@@ -33,9 +35,10 @@
             {{ end }}
           </ul>
           <!-- Alkemio Logo and Tagline -->
-          <div class="mt-6">
-            <img src="/images/alkemio-logo.svg" alt="Alkemio Logo" class="h-12">
-            <p class="mt-2 text-sm text-text-dark">Bridging the space between us.</p>
+          <div class="mt-8 flex flex-col items-start">
+            <img src="/images/alkemio-logo.svg" alt="Alkemio Logo" class="h-8">
+            <p class="mt-4 text-sm text-text-dark font-semibold"><b>Bridging the spaces between us.</b></p>
+            <p class="mt-2 text-sm text-text-dark">{{ .Site.Params.copyright }}</p>
           </div>
         </div>
       </div>
