@@ -116,11 +116,12 @@ weight = 1
 [[footer_01]]
 name = "Newsletter"
 url = "https://welcome.alkem.io/newsletter"
+params = { target = "_blank" }
 weight = 2
 
 [[footer_01]]
 name = "Privacy Policy"
-url = "/privacy-policy" 
+url = "/privacy-policy"
 weight = 3
 
 # [[footer_01]]

@@ -13,6 +13,7 @@
                 <a
                   class="font-medium transition hover:text-tertiary"
                   href="{{ .URL | relLangURL }}"
+                  {{ if .Params.target }}target="{{ .Params.target }}"{{ else }}{{ end }}
                   >{{ .Name }}</a
                 >
               </li>
