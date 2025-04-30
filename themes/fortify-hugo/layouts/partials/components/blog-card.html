@@ -1,0 +1,71 @@
+{{ $context := .Context }}
+{{ $isBlogSingle := .IsBlogSingle }}
+
+{{ with $context }}
+  <div class="bg-body">
+    {{ if .Params.featured }}
+      <!-- This will only show on single blog pages -->
+      <div class="relative flex items-center justify-center mb-6">
+        {{ if not $isBlogSingle }}
+          <div class="absolute inset-0 z-0">
+            {{ partial "image" (dict "Src" .Params.image "Alt" "background image" "Class" "!w-full !h-full rounded-3xl object-cover") }}
+          </div>
+        {{ end }}
+        <div
+          class="relative z-10 max-w-full {{ if not $isBlogSingle }}
+            w-[80%] my-10
+          {{ end }}">
+          {{ partial "image" (dict "Src" .Params.image "Alt" "blog image" "Class" "rounded-3xl object-cover w-full !h-[300px]") }}
+        </div>
+      </div>
+    {{ else }}
+      <!-- This will show on other pages, if needed -->
+      <div class="relative flex items-center justify-center">
+        {{ partial "image" (dict "Src" .Params.image "Alt" "blog image" "Class" "!h-[300px] mb-6 rounded-3xl object-cover") }}
+      </div>
+    {{ end }}
+    <div class="mb-4 flex items-center gap-x-2">
+      <i class="fa-solid fa-calendar-days w-5 text-tertiary"></i>
+      <p class="inline-block font-medium text-tertiary">
+        {{ time.Format ":date_long" .PublishDate }}
+      </p>
+    </div>
+    <h3 class="h5 mb-3">
+      <a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>
+    </h3>
+    <p class="mb-6">{{ .Params.description | markdownify }}</p>
+    <a class="btn btn-text" href="{{ .RelPermalink }}">
+      {{ T "read_more" }} <span class="sr-only">Details</span>
+      <div class="icon-wrapper">
+        <span class="icon">
+          <svg
+            stroke="currentColor"
+            fill="currentColor"
+            stroke-width="0"
+            viewBox="0 0 448 512"
+            class="w-4"
+            height="1em"
+            width="1em"
+            xmlns="http://www.w3.org/2000/svg">
+            <path
+              d="M438.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-160-160c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L338.8 224 32 224c-17.7 0-32 14.3-32 32s14.3 32 32 32l306.7 0L233.4 393.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l160-160z"></path>
+          </svg>
+        </span>
+        <span class="icon" aria-hidden="true">
+          <svg
+            stroke="currentColor"
+            fill="currentColor"
+            stroke-width="0"
+            viewBox="0 0 448 512"
+            class="w-4"
+            height="1em"
+            width="1em"
+            xmlns="http://www.w3.org/2000/svg">
+            <path
+              d="M438.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-160-160c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L338.8 224 32 224c-17.7 0-32 14.3-32 32s14.3 32 32 32l306.7 0L233.4 393.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l160-160z"></path>
+          </svg>
+        </span>
+      </div>
+    </a>
+  </div>
+{{ end }}

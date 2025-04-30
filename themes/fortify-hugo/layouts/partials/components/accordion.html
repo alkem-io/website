@@ -1,0 +1,30 @@
+{{ with site.GetPage "sections/accordion" }}
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <div class="mx-auto text-center lg:col-10" data-aos="fade-up-sm">
+        <p class="mb-2 font-medium text-tertiary">{{ .Params.subtitle | markdownify }}</p>
+        <h2 class="mb-6">{{ .Params.title | markdownify }}</h2>
+        <p class="text-lg ">{{ .Params.description | markdownify }}</p>
+      </div>
+      <div class="col-12 pt-20" data-aos="fade-up-sm" data-aos-delay="100">
+        <div class="row g-2 justify-center">
+          {{ range $index, $item := .Params.list }}
+          <div class="lg:col-10">
+            <div class="primary-accordion">
+              <button class="primary-accordion-header bg-light!" aria-label="toggle accordion content">
+                <div> <span class="text-base">{{ add $index 1 }}.</span>
+                  <span>{{ $item.title | markdownify }}</span>
+                </div>
+              </button>
+              <div class="primary-accordion-content">{{ $item.description | markdownify }}</div>
+            </div>
+          </div>
+          {{ end }}
+        </div>
+
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}

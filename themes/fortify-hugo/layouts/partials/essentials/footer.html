@@ -1,0 +1,67 @@
+<footer class="bg-light py-6 xl:py-10">
+  <div class="container" data-aos="fade-up-sm">
+    <div class="row gy-5 justify-between lg:g-4">
+      <!-- Left Column: Quick Links, Social Media Links, and Logo with Tagline -->
+      <div class="sm:col-6 md:col-6 lg:col-6 lg:pe-16">
+        <div class="w-full">
+          <h3 class="mb-4 pt-2 text-xl text-text-dark md:mb-6">
+            {{ T "quick_links" }}
+          </h3>
+          <ul class="flex flex-wrap gap-3">
+            {{ range site.Menus.footer_01 }}
+              <li>
+                <a
+                  class="font-medium transition hover:text-tertiary"
+                  href="{{ .URL | relLangURL }}"
+                  >{{ .Name }}</a
+                >
+              </li>
+            {{ end }}
+            {{ with .Site.Params.social }}
+              {{ range . }}
+                <li>
+                  <a
+                    aria-label="{{ .title }}"
+                    href="{{ .link | safeURL }}"
+                    target="_blank"
+                    rel="noopener noreferrer nofollow">
+                    <span class="sr-only">{{ .title }}</span>
+                    <i class="{{ .icon }} text-2xl"></i>
+                  </a>
+                </li>
+              {{ end }}
+            {{ end }}
+          </ul>
+          <!-- Alkemio Logo and Tagline -->
+          <div class="mt-6">
+            <img src="assets/images/alkemio-logo.svg" alt="Alkemio Logo" class="h-12">
+            <p class="mt-2 text-sm text-text-dark">Bridging the space between us.</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Right Column: Contact Form -->
+      <div class="sm:col-6 md:col-6 lg:col-6">
+        <div class="rounded-2xl bg-light p-4 md:p-6">
+          <h3 class="mb-4 text-xl font-normal text-text-dark">{{ T "contact_us" }}</h3>
+          <form class="row g-3" action="{{ site.Params.contact_form_action }}" method="POST">
+            <div class="col-12">
+              <input id="name" name="name" class="form-input w-full" placeholder="Your Full Name" required="" type="text" />
+            </div>
+            <div class="col-12">
+              <input id="email" name="email" class="form-input w-full" placeholder="youremail@email.com" required="" type="email" />
+            </div>
+            <div class="col-12">
+              <textarea id="message" name="message" class="form-input w-full" placeholder="Write Your Message Here" required="" rows="2"></textarea>
+            </div>
+            <div class="col-12">
+              <button type="submit" class="btn btn-regular">
+                {{ T "send_message" }}
+              </button>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>

@@ -1,0 +1,157 @@
+{{ define "main" }}
+  <!-- Banner -->
+  <section class="section">
+    <div class="container">
+      <div class="row">
+        <div
+          class="mx-auto text-center lg:col-8"
+          data-aos="fade-up-sm">
+          <p class="mb-2 font-medium text-tertiary">
+            {{ .Params.subtitle | markdownify }}
+          </p>
+          <h2 class="mb-6">{{ .Params.title | markdownify }}</h2>
+          <p class="text-lg ">
+            {{ .Params.description | markdownify }}
+          </p>
+        </div>
+        <div
+          class="col-12 pt-20"
+          data-aos="fade-up-sm"
+          data-aos-delay="200">
+          <div class="row g-4 justify-center">
+            <div class="max-lg:order-last lg:col-6">
+              {{ partial "image" (dict "Src" .Params.left_image "Alt" "About Image" "Class" "w-full rounded-lg object-cover md:h-[600px]! md:rounded-3xl") }}
+            </div>
+            <div class="max-lg:order-first lg:col-6">
+              {{ partial "image" (dict "Src" .Params.right_image "Alt" "About Image" "Class" `h-[300px] w-full rounded-lg object-cover object-top md:h-[340px]! md:rounded-3xl`) }}
+              {{ with .Params.quote }}
+                <div
+                  class="relative mt-10 rounded-lg bg-tertiary p-6 pt-10 text-light md:rounded-3xl md:pt-8">
+                  <div class="mb-4 flex items-center gap-5">
+                    {{ partial "image" (dict "Src" .avatar "Alt" "CEO Image" "Class" "h-16 w-16 object-cover") }}
+                    <div>
+                      <h3 class="h6 text-inherit">{{ .name | markdownify }}</h3>
+                      <p class="text-inherit">
+                        {{ .designation | markdownify }}
+                      </p>
+                    </div>
+                  </div>
+                  <p class="text-lg  text-inherit">
+                    {{ .content | markdownify }}
+                  </p>
+                  {{ partial "image" (dict "Src" .quote_line "Alt" "quote line" "Class" "pointer-events-none absolute left-1/2 top-6 h-[2px] w-[90%] -translate-x-1/2 object-cover") }}
+                  {{ partial "image" (dict "Src" .quote_bg_shape "Alt" "quote background shape" "Class" "pointer-events-none absolute -bottom-4 -right-4 h-36 w-40 object-contain") }}
+                </div>
+              {{ end }}
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- /Banner -->
+
+  <!--Brand Logo -->
+  {{ partial "components/brand-logo.html" . }}
+  <!--/Brand Logo -->
+
+  <!-- Core Values -->
+  {{ with .Params.core_values }}
+    <section class="section">
+      <div class="container">
+        <div class="row">
+          <div
+            class="mx-auto text-center lg:col-10"
+            data-aos="fade-up-sm">
+            <p class="mb-2 text-tertiary font-medium">
+              {{ .subtitle | markdownify }}
+            </p>
+            <h2 class="mb-6">{{ .title | markdownify }}</h2>
+            <p class="text-lg ">{{ .description | markdownify }}</p>
+          </div>
+          <div class="col-12 pt-20">
+            <div class="row g-4 justify-center">
+              {{ range .list }}
+                <div
+                  class="md:col-6 lg:col-4"
+                  data-aos="fade-up-sm"
+                  data-aos-delay="200">
+                  <div
+                    class="min-h-full rounded-xl bg-light px-6 py-12 text-center md:rounded-3xl">
+                    <div
+                      class="mx-auto mb-3 flex h-12 w-12 items-center justify-center rounded-full bg-tertiary">
+                      <i class="text-xl object-cove text-white {{ .icon }}"></i>
+                    </div>
+                    <h3 class="h5 mb-2">{{ .title | markdownify }}</h3>
+                    <p>{{ .description | markdownify }}</p>
+                  </div>
+                </div>
+              {{ end }}
+            </div>
+            <div class="row g-4 justify-center pt-16">
+              {{ range .stats }}
+                <div
+                  class="md:col-4 lg:col-4"
+                  data-aos="fade-up-sm"
+                  data-aos-delay="300">
+                  <div class="text-center">
+                    <p class="mb-3 lg:text-lg ">
+                      {{ .label | markdownify }}
+                    </p>
+                    <h3 class="h2 lg:h1 mb-2">{{ .value | markdownify }}</h3>
+                  </div>
+                </div>
+              {{ end }}
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  {{ end }}
+  <!-- /Core Values -->
+
+  <!-- Our Team -->
+  {{ with .Params.our_team }}
+    <section class="section">
+      <div class="container">
+        <div class="row">
+          <div
+            class="mx-auto text-center lg:col-10"
+            data-aos="fade-up-sm">
+            <p class="mb-2 font-medium text-tertiary">
+              {{ .subtitle | markdownify }}
+            </p>
+            <h2 class="mb-6">{{ .title | markdownify }}</h2>
+            <p class="text-lg ">{{ .description | markdownify }}</p>
+          </div>
+          <div
+            class="col-12 pt-20"
+            data-aos="fade-up-sm"
+            data-aos-delay="200">
+            <div class="row g-4 justify-center">
+              {{ range .list }}
+                <div class="col-6 lg:col-3">
+                  <div
+                    class="mb-6 overflow-hidden rounded-xl bg-light text-center md:rounded-3xl">
+                    {{ partial "image" (dict "Src" .image "Alt" "quote background shape" "Class" "w-full") }}
+                  </div>
+                  <h3 class="h6 mb-1.5">{{ .name | markdownify }}</h3>
+                  <p>{{ .company | markdownify }}</p>
+                </div>
+              {{ end }}
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  {{ end }}
+  <!-- Our Team -->
+
+  <!-- Faq -->
+  {{ partial "components/accordion.html" . }}
+  <!-- /Faq -->
+
+  <!-- Call to action -->
+  {{ partial "call-to-action.html" . }}
+  <!-- /Call to action -->
+{{ end }}

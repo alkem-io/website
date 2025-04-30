@@ -1,0 +1,32 @@
+/* Navbar Toggler */
+input#nav-toggle:checked + label #show-button {
+  @apply hidden;
+}
+
+input#nav-toggle:checked + label #hide-button {
+  @apply block;
+}
+
+input#nav-toggle:checked ~ #nav-menu {
+  @apply max-lg:block;
+}
+
+/* Form Style */
+.form-input {
+  @apply w-full rounded-sm! border !border-border !px-6 !py-4 text-text-dark! transition placeholder:text-text-dark/40! focus:border-tertiary! focus:ring-0! focus:outline-none! placeholder:font-medium!;
+}
+.form-input:focus {
+  @apply shadow-transparent outline-transparent ring-transparent;
+}
+.form-label {
+  @apply mb-2 block font-normal text-text-dark;
+}
+
+/* Swiper Pagination */
+.swiper-pagination-bullet {
+  @apply bg-light h-2.5 w-2.5 opacity-100 mx-1.5;
+
+  .swiper-pagination-bullet-active {
+    @apply bg-primary h-4 w-4;
+  }
+}

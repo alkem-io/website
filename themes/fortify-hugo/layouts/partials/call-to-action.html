@@ -1,0 +1,69 @@
+<!-- Call to actions -->
+{{ with site.GetPage "sections/call-to-action" }}
+  {{ if .Params.enable }}
+    <section class="section mb-14">
+      <div class="container">
+        <div
+          class="bg-dark px-10 py-16 xl:p-20 rounded-[40px] relative overflow-hidden">
+          <div
+            class="absolute !top-1/2 !-translate-y-1/2 !left-1/2 !-translate-x-1/2 rotate-[7.83deg] pointer-events-none"
+            data-aos="fade-in"
+            data-aos-delay="200">
+            {{ partial "image" (dict "Src" .Params.image "Alt" "call to action" "Class" "h-[641px] w-auto") }}
+          </div>
+          <div class="row items-center justify-center">
+            <div class="lg:col-8 text-center">
+              <h2
+                class="text-light mb-4"
+                data-aos="fade-up-sm">
+                {{ .Title | markdownify }}
+              </h2>
+              <p
+                class="text-light text-lg  mb-6"
+                data-aos="fade-up-sm"
+                data-aos-delay="50">
+                {{ .Params.description | markdownify }}
+              </p>
+              {{ with .Params.button }}
+                {{ if .enable }}
+                  <a
+                    class="btn btn-primary-light"
+                    href="{{ .link | absURL }}"
+                    target="_self"
+                    rel="noopener"
+                    data-aos="fade-up-sm"
+                    data-aos-delay="200"
+                    >{{ .label }}<span class="icon-wrapper"
+                      ><span class="icon"
+                        ><svg
+                          stroke="currentColor"
+                          fill="currentColor"
+                          stroke-width="0"
+                          viewBox="0 0 448 512"
+                          height="1em"
+                          width="1em"
+                          xmlns="http://www.w3.org/2000/svg">
+                          <path
+                            d="M438.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-160-160c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L338.8 224 32 224c-17.7 0-32 14.3-32 32s14.3 32 32 32l306.7 0L233.4 393.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l160-160z"></path></svg></span
+                      ><span class="icon" aria-hidden="true"
+                        ><svg
+                          stroke="currentColor"
+                          fill="currentColor"
+                          stroke-width="0"
+                          viewBox="0 0 448 512"
+                          height="1em"
+                          width="1em"
+                          xmlns="http://www.w3.org/2000/svg">
+                          <path
+                            d="M438.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-160-160c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L338.8 224 32 224c-17.7 0-32 14.3-32 32s14.3 32 32 32l306.7 0L233.4 393.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l160-160z"></path></svg></span></span
+                  ></a>
+                {{ end }}
+              {{ end }}
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  {{ end }}
+{{ end }}
+<!-- /Call to actions -->
