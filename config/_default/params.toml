@@ -32,7 +32,8 @@ footer_description = "Briding the spaces between us."
 
 # background pattern
 [header]
-bg_image = "/images/header-bg.jpg"
+bg_image = "/images/bg-pattern.png"
+bg_image_alt = "Alkemio Background Image"
 
 # Preloader
 # preloader module: https://github.com/gethugothemes/hugo-modules/tree/master/components/preloader
@@ -44,7 +45,7 @@ preloader = "" # use jpg, png, svg or gif format.
 [navigation_button]
 enable = true
 label = "Visit Platform"
-link = "https://alkem.io"
+link = "https://welcome.alkem.io"
 
 # search
 # search module: https://github.com/gethugothemes/hugo-modules/tree/master/search
