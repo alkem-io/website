@@ -82,16 +82,16 @@ weight = 2
 # pageRef = "/pricing"
 # weight = 3
 
-[[main]]
-name = "Structure"
-pageRef = "/structure"
-url = "/structure"
-weight = 4
+# [[main]]
+# name = "Structure"
+# pageRef = "/structure"
+# url = "/structure"
+# weight = 4
 
-[[main]]
-name = "Contact"
-pageRef = "/contact"
-weight = 4
+# [[main]]
+# name = "Contact"
+# pageRef = "/contact"
+# weight = 4
 
 
 
