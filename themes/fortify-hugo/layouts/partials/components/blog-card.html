@@ -5,18 +5,18 @@
   <div class="bg-body blog-card">
     {{ if .Params.featured }}
       <!-- This will only show on single blog pages -->
-      <div class="relative flex items-center justify-center mb-6">
+      <div class="relative flex items-center justify-center mb-6 square">
         {{ if not $isBlogSingle }}
           <div class="absolute inset-0 z-0">
             {{ partial "image" (dict "Src" .Params.image "Alt" "background image" "Class" "!w-full !h-full rounded-3xl object-cover") }}
           </div>
         {{ end }}
-        <div
+        <!-- <div
           class="relative z-10 max-w-full {{ if not $isBlogSingle }}
             w-[80%] my-10
           {{ end }}">
           {{ partial "image" (dict "Src" .Params.image "Alt" "blog image" "Class" "rounded-3xl object-cover w-full !h-[300px]") }}
-        </div>
+        </div> -->
       </div>
     {{ else }}
       <!-- This will show on other pages, if needed -->
