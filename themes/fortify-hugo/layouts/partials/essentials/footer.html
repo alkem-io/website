@@ -48,7 +48,11 @@
       <div class="sm:col-6 md:col-6 lg:col-6">
         <div class="rounded-2xl bg-light p-4 md:p-6">
           <h3 class="mb-4 text-xl font-normal text-text-dark">{{ T "contact_us" }}</h3>
-          <form class="row g-3" action="{{ site.Params.contact_form_action }}" method="POST">
+          <form class="row g-3" name="contact" method="POST" data-netlify="true" netlify-honeypot="bot-field">
+          <input type="hidden" name="form-name" value="contact" />
+          <p class="hidden">
+            <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
+          </p>
             <div class="col-12">
               <input id="name" name="name" class="form-input w-full" placeholder="Your Full Name" required="" type="text" />
             </div>
