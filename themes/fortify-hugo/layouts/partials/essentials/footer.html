@@ -13,6 +13,7 @@
                 <a
                   class="font-medium transition hover:text-tertiary"
                   href="{{ .URL | relLangURL }}"
+                  {{ if .Params.target }}target="{{ .Params.target }}"{{ else }}{{ end }}
                   >{{ .Name }}</a
                 >
               </li>
@@ -36,7 +37,7 @@
           </ul>
           <!-- Alkemio Logo and Tagline -->
           <div class="mt-8 flex flex-col items-start">
-            <img src="/images/alkemio-logo.svg" alt="Alkemio Logo" class="h-8">
+            <img src="/images/alkemio-foundation-logo.svg" alt="Alkemio Foundation Logo" class="h-8">
             <p class="mt-4 text-sm text-text-dark font-semibold"><b>Bridging the spaces between us.</b></p>
             <p class="mt-2 text-sm text-text-dark">{{ .Site.Params.copyright }}</p>
           </div>
