@@ -135,9 +135,6 @@
           {{ end }}
         </div>
       </div>
-      <div class="">
-        {{ partial "image" (dict "Src" .image.bg_image "Alt" "Background Pattern" "Class" `pointer-events-none absolute top-0 -z-10 !h-full lg:!h-auto w-full !object-cover object-[center_top]` "Resize" false) }}
-      </div>
     </section>
   {{ end }}
   <!-- /Banner -->
@@ -178,14 +175,14 @@
       </div>
     </section>
   {{ end }}
-  <!-- /How it Works --> 
+  <!-- /How it Works -->
 
   <!-- Brand Logo -->
   <section class="section bg-white">
     <div class="container">
       <div class="row">
         <div class="mx-auto text-center lg:col-10" data-aos="fade-up-sm">
-          <h2 class="mb-6">Alkemio Foundation is proud to have worked with the following organisations</h2> 
+          <h2 class="mb-6">Alkemio Foundation is proud to have worked with the following organizations</h2>
         </div>
         <div class="col-12">
           {{ partial "components/brand-logo.html" (dict "Color" true) }}
@@ -223,18 +220,6 @@
       </div>
     </div>
   </section>
-
-  <style>
-    .featured-post-card img {
-      border: none !important; /* Ensure border is removed */
-      max-width: 100%;
-      height: auto;
-      object-fit: cover;
-    }
-    .featured-post-card {
-      margin-bottom: 20px;
-    }
-  </style>
   <!-- /Featured Blog Section -->
 
 {{ end }}

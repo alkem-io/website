@@ -2,7 +2,7 @@
   <header class="header relative">
     <nav class="navbar container">
       <!-- logo -->
-      <div class="order-0">
+      <div class="navbar-brand-container order-0">
         <!-- navbar brand/logo -->
         <a class="navbar-brand block" href="{{ site.Home.RelPermalink }}">
           {{ partial "logo" }}
@@ -63,7 +63,7 @@
             {{ end }}
           </ul>
         </li>
-        
+
         {{ else }}
         <li class="nav-item">
           <a class="nav-link {{ if $active }}active{{- end -}}" {{ if findRE `^http` .URL }} target="_blank" rel="noopener" {{ end }} href="{{- if findRE `^#` .URL -}}

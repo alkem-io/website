@@ -9,7 +9,6 @@ banner:
     left: "/images/banner-left.png"
     middle: "/images/banner-middle.png"
     right: "/images/banner-right.png"
-    bg_image: "/images/bg-pattern.png"
   button:
     get_started:
       enable: true

@@ -2,7 +2,7 @@
 # favicon module: https://github.com/gethugothemes/hugo-modules/tree/master/images#favicon-implementation
 favicon = "images/favicon.png"
 # logo module: https://github.com/gethugothemes/hugo-modules/tree/master/images#logo-implementation
-logo = "images/alkemio-logo.svg" # Must be svg...
+logo = "images/alkemio-foundation-logo.svg" # Must be svg...
 
 # use `px` or `x` with logo_width, example: "100px".
 # Note: logo_width is not work with .svg file
@@ -32,7 +32,8 @@ footer_description = "Briding the spaces between us."
 
 # background pattern
 [header]
-bg_image = "/images/header-bg.jpg"
+bg_image = "/images/bg-pattern.png"
+bg_image_alt = "Alkemio Background Image"
 
 # Preloader
 # preloader module: https://github.com/gethugothemes/hugo-modules/tree/master/components/preloader
@@ -44,7 +45,7 @@ preloader = "" # use jpg, png, svg or gif format.
 [navigation_button]
 enable = true
 label = "Visit Platform"
-link = "https://alkem.io"
+link = "https://welcome.alkem.io"
 
 # search
 # search module: https://github.com/gethugothemes/hugo-modules/tree/master/search
