@@ -8,7 +8,9 @@
       <div class="relative flex items-center justify-center mb-6 square">
         {{ if not $isBlogSingle }}
           <div class="absolute inset-0 z-0">
-            {{ partial "image" (dict "Src" .Params.image "Alt" "background image" "Class" "!w-full !h-full rounded-3xl object-cover") }}
+            <a href="{{ .RelPermalink }}">
+              {{ partial "image" (dict "Src" .Params.image "Alt" "background image" "Class" "!w-full !h-full rounded-3xl object-cover") }}
+            </a>
           </div>
         {{ end }}
         <!-- <div
