@@ -21,6 +21,9 @@
   --bs-gutter-y: 2rem;
   --bs-gutter-x: 2rem;
 }
+.square {
+  aspect-ratio: 1;
+}
 
 .copyright {
   & > a {
