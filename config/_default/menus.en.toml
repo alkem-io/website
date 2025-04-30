@@ -114,16 +114,16 @@ url = "/blog"
 weight = 1
 
 [[footer_01]]
-name = "Terms"
-url = "/terms-conditions"
-weight = 1
-
-[[footer_01]]
-name = "Privacy Policy"
-url = "/privacy-policy"
+name = "Newsletter"
+url = "https://welcome.alkem.io/newsletter"
 weight = 2
 
 [[footer_01]]
-name = "Support"
-url = "/support"
+name = "Privacy Policy"
+url = "/privacy-policy" 
 weight = 3
+
+# [[footer_01]]
+# name = "Support"
+# url = "/support"
+# weight = 3
