@@ -1,0 +1,64 @@
+/* Table of Contents */
+.table-of-content {
+  @apply overflow-hidden rounded;
+}
+
+/* Share Icons */
+.share-icons {
+  .share-link {
+    @apply h-9 w-9 rounded leading-9;
+    @apply bg-primary hover:bg-primary;
+  }
+  .share-icon svg {
+    /* Add any specific styles here if needed */
+  }
+}
+
+/* Tab */
+.tab {
+  @apply border-border overflow-hidden rounded-lg border;
+  &-nav {
+    @apply border-border bg-light pl-4;
+
+    &-item {
+      @apply text-text-dark px-8 text-lg;
+      &.active {
+        @apply border-dark;
+      }
+    }
+  }
+  &-content {
+    &-panel {
+      @apply px-4 pt-0;
+    }
+  }
+}
+
+/* Primary Accordion */
+.primary-accordion {
+  @apply border-none mb-6 overflow-hidden rounded-lg border;
+  &-header {
+    @apply text-text-dark justify-start p-8;
+  }
+  &.active > .primary-accordion-header {
+    @apply bg-quaternary;
+  }
+}
+
+/* Accordion */
+.accordion {
+  @apply border-border bg-light mb-6 overflow-hidden rounded-lg border;
+  &-header {
+    @apply text-text-dark;
+  }
+}
+
+/* Cookie Consent */
+.cookie-box {
+  @apply rounded-lg;
+}
+
+/* Slider */
+.gallery-slider {
+  @apply ml-0;
+}

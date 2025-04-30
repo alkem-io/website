@@ -1,0 +1,80 @@
+{{ define "main" }}
+  <section class="section">
+    <div class="container">
+      <div class="row">
+        <div
+          class="xl:col-9 mx-auto text-center lg:col-8"
+          data-aos="fade-up-sm">
+          <p class="mb-2 text-tertiary font-medium">
+            {{ .Params.subtitle | markdownify }}
+          </p>
+          <h1 class="h2 md:h1 mb-6">{{ .Params.title | markdownify }}</h1>
+          <p class="text-lg ">
+            {{ .Params.description | markdownify }}
+          </p>
+        </div>
+        <div
+          class="col-12 pt-20"
+          data-aos="fade-up-sm"
+          data-aos-delay="200">
+          <div class="row g-4 justify-center">
+            {{ range .Params.list }}
+              <div class="md:col-6 lg:col-4">
+                <div
+                  class="group relative min-h-full rounded-xl bg-light px-6 py-12 transition duration-300 hover:-translate-y-1 md:rounded-3xl">
+                  <a
+                    class="btn btn-icon absolute top-[8%] right-[8%] !w-14 border-primary/15"
+                    href="#?"
+                    target="_self"
+                    ><span class="icon-wrapper"
+                      ><span class="icon"
+                        ><svg
+                          stroke="currentColor"
+                          fill="currentColor"
+                          stroke-width="0"
+                          viewBox="0 0 448 512"
+                          height="1em"
+                          width="1em"
+                          xmlns="http://www.w3.org/2000/svg">
+                          <path
+                            d="M438.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-160-160c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L338.8 224 32 224c-17.7 0-32 14.3-32 32s14.3 32 32 32l306.7 0L233.4 393.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l160-160z"></path></svg></span
+                      ><span class="icon" aria-hidden="true"
+                        ><svg
+                          stroke="currentColor"
+                          fill="currentColor"
+                          stroke-width="0"
+                          viewBox="0 0 448 512"
+                          height="1em"
+                          width="1em"
+                          xmlns="http://www.w3.org/2000/svg">
+                          <path
+                            d="M438.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-160-160c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L338.8 224 32 224c-17.7 0-32 14.3-32 32s14.3 32 32 32l306.7 0L233.4 393.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l160-160z"></path></svg></span
+                    ></span>
+                  </a>
+                  {{ partial "image" (dict "Src" .image "Alt" "Tools image" "Class" "mb-3 w-28") }}
+                  <h3 class="h5 mb-2">{{ .name | markdownify }}</h3>
+                  <p>{{ .description | markdownify }}</p>
+                  <ul class="mt-4 flex flex-wrap gap-2">
+                    {{ range .list }}
+                      <li class="rounded-md bg-dark/10 px-4 py-1">
+                        {{ . | markdownify }}
+                      </li>
+                    {{ end }}
+                  </ul>
+                </div>
+              </div>
+            {{ end }}
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Faq -->
+  {{ partial "components/accordion.html" . }}
+  <!-- /Faq -->
+
+  <!-- Call to action -->
+  {{ partial "call-to-action.html" . }}
+  <!-- /Call to action -->
+{{ end }}

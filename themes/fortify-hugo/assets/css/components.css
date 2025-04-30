@@ -1,0 +1,177 @@
+/* Aos Animations */
+[data-aos="fade-up-sm"] {
+  transform: translate3d(0, 20px, 0);
+}
+
+[data-aos="fade-down-sm"] {
+  transform: translate3d(0, -20px, 0);
+}
+
+[data-aos="zoom-in-up-sm"] {
+  transform: translateZ(0) scale(0.95);
+}
+
+[data-aos="fade-left-sm"] {
+  transform: translate3d(-15px, 0, 0);
+}
+
+[data-aos="fade-right-sm"] {
+  transform: translate3d(15px, 0, 0);
+}
+
+/* Section Style */
+.section {
+  @apply py-10 md:py-14;
+}
+
+/* Container */
+.container {
+  @apply mx-auto px-4 xl:max-w-[1200px]!;
+}
+
+/* List */
+.list {
+  @apply pl-8;
+}
+
+.list li {
+  @apply relative;
+}
+
+.list li::before {
+  @apply absolute left-[-2rem] top-2 flex h-5 w-5 items-center justify-center rounded-full border bg-center bg-no-repeat text-light content-[""] sm:top-1;
+  background-size: 80%;
+  background-image: url("data:image/svg+xml,%3Csvg stroke='currentColor' fill='white' stroke-width='0' viewBox='0 0 448 512' height='200px' width='200px' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M438.6 105.4c12.5 12.5 12.5 32.8 0 45.3l-256 256c-12.5 12.5-32.8 12.5-45.3 0l-128-128c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0L160 338.7 393.4 105.4c12.5-12.5 32.8-12.5 45.3 0z'%3E%3C/path%3E%3C/svg%3E");
+}
+
+.list-dark li::before {
+  @apply border-dark bg-dark;
+}
+
+.list-tertiary li::before {
+  @apply border-tertiary bg-tertiary;
+}
+
+
+/* Social Icons */
+.social-icons {
+  li {
+    @apply inline-block;
+    a {
+      @apply flex h-9 w-8 items-center justify-center rounded text-center leading-9 text-text-dark;
+      svg {
+        @apply h-5 w-5;
+      }
+    }
+  }
+}
+
+
+
+/* Tab */
+.tab {
+  @apply overflow-hidden rounded-lg border border-border;
+  &-nav {
+    @apply flex border-b border-border bg-light;
+    @apply m-0;
+    @apply list-none;
+
+    &-item {
+      @apply cursor-pointer border-b-[3px] border-border py-2 text-lg text-text-dark opacity-80;
+      @apply my-0;
+      @apply px-8;
+
+      &.active {
+        @apply border-b-[3px] border-dark opacity-100;
+      }
+    }
+  }
+  &-content {
+    &-panel {
+      @apply p-8;
+      p {
+        @apply mb-0;
+      }
+      &.active {
+        @apply block;
+      }
+    }
+  }
+}
+
+/* Primary Accordion */
+.primary-accordion {
+  @apply mb-6 overflow-hidden rounded-lg bg-white font-primary;
+}
+
+.primary-accordion-header {
+  @apply flex gap-6 w-full cursor-pointer items-center text-left justify-between p-8 text-text-dark font-primary text-xl bg-light font-semibold;
+}
+.primary-accordion-header:hover {
+  @apply text-primary;
+}
+
+.primary-accordion-icon {
+  @apply h-[.8em] w-[.8em] rotate-[-90deg] transition-transform duration-200 shrink-0;
+}
+
+.primary-accordion-content {
+  @apply max-h-0 overflow-hidden px-8 py-0;
+}
+
+.primary-accordion.active {
+  @apply bg-quaternary;
+  .primary-accordion-header {
+    @apply bg-quaternary!;
+  }
+  .primary-accordion-icon {
+    @apply rotate-0;
+  }
+  .primary-accordion-content {
+    @apply max-h-screen pb-8 px-8 text-lg;
+  }
+}
+
+/* Modal */
+.modal {
+  @apply fixed inset-0 z-40 hidden h-full w-full overflow-auto;
+  &-overlay {
+    @apply fixed inset-0 z-40 hidden h-full w-full bg-black/40;
+  }
+  &-content {
+    @apply relative top-1/2 z-50 mx-auto max-w-[90%] -translate-y-1/2 rounded-lg bg-body p-8;
+  }
+  &-close {
+    @apply absolute right-3 top-3 h-8 w-8 rounded-full bg-light text-center leading-8 text-text-dark;
+  }
+}
+
+/* Content Style */
+.content {
+  @apply prose max-w-none;
+  @apply prose-headings:mb-[.5em] prose-headings:mt-[1em] prose-headings:font-medium prose-headings:text-text-dark;
+  @apply prose-h1:text-h1-sm;
+  @apply prose-h2:text-h2-sm;
+  @apply prose-h3:text-h3-sm;
+  @apply prose-img:max-w-full prose-img:rounded-3xl;
+  @apply prose-hr:border-border;
+  @apply prose-p:text-lg prose-p:text-text;
+  @apply prose-blockquote:rounded-lg prose-blockquote:border prose-blockquote:border-l-[10px] prose-blockquote:border-primary prose-blockquote:bg-light prose-blockquote:px-8 prose-blockquote:py-10 prose-blockquote:font-secondary prose-blockquote:text-2xl prose-blockquote:not-italic prose-blockquote:text-text-dark;
+  @apply prose-pre:rounded-lg prose-pre:bg-light;
+  @apply prose-code:px-1 prose-code:text-primary;
+  @apply prose-strong:text-text-dark;
+  @apply prose-a:text-text prose-a:underline hover:prose-a:text-primary;
+  @apply prose-li:text-text;
+  @apply prose-table:relative prose-table:overflow-hidden prose-table:rounded-lg prose-table:before:absolute prose-table:before:left-0 prose-table:before:top-0 prose-table:before:h-full prose-table:before:w-full prose-table:before:rounded-[inherit] prose-table:before:border prose-table:before:content-[""];
+  @apply prose-thead:border-border prose-thead:bg-light;
+  @apply prose-th:relative prose-th:z-10 prose-th:px-4 prose-th:py-[18px] prose-th:text-text-dark;
+  @apply prose-tr:border-border;
+  @apply prose-td:relative prose-td:z-10 prose-td:px-3 prose-td:py-[18px];
+
+  .content > *:first-child {
+    @apply mt-0;
+  }
+  .content > *:last-child {
+    @apply mb-0;
+  }
+}

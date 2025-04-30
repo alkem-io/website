@@ -1,0 +1,101 @@
+html {
+  @apply text-base-sm md:text-base;
+}
+
+body {
+  @apply bg-body text-base font-normal leading-[1.8em] text-text antialiased;
+  @apply font-primary!;
+}
+
+p br {
+  @apply max-lg:hidden;
+}
+
+.h1, h1,
+.h2, h2,
+.h3, h3,
+.h4, h4,
+.h5, h5,
+.h6, h6 {
+  @apply font-secondary font-medium text-text-dark;
+}
+
+.h1 br, h1 br,
+.h2 br, h2 br,
+.h3 br, h3 br,
+.h4 br, h4 br,
+.h5 br, h5 br,
+.h6 br, h6 br {
+  @apply max-lg:hidden;
+}
+
+h1, .h1 {
+  @apply text-h1-sm leading-[1.15em] md:text-h1;
+}
+
+h2, .h2 {
+  @apply text-h2-sm leading-[1.15em] md:text-h2;
+}
+
+h3, .h3 {
+  @apply text-h3-sm leading-[1.3em] md:text-h3;
+}
+
+h4, .h4 {
+  @apply text-h4 leading-[1.3em];
+}
+
+h5, .h5 {
+  @apply text-h5 leading-[1.3em];
+}
+
+h6, .h6 {
+  @apply text-h6 leading-[1.3em];
+}
+
+b, strong {
+  @apply font-semibold;
+}
+
+code {
+  @apply after:border-none;
+}
+
+blockquote > p {
+  @apply my-0!;
+}
+
+@font-face {
+  font-family: "ClashGrotesk";
+  font-style: normal;
+  font-weight: 500;
+  src: url("/fonts/ClashGrotesk-Medium.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "ClashGrotesk";
+  font-style: normal;
+  font-weight: 700;
+  src: url("/fonts/ClashGrotesk-Bold.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Satoshi";
+  font-style: normal;
+  font-weight: 400;
+  src: url("/fonts/Satoshi-Regular.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Satoshi";
+  font-style: normal;
+  font-weight: 500;
+  src: url("/fonts/Satoshi-Medium.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Satoshi";
+  font-style: normal;
+  font-weight: 700;
+  src: url("/fonts/Satoshi-Bold.woff2") format("woff2");
+}

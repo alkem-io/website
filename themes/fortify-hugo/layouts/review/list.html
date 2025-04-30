@@ -1,0 +1,34 @@
+{{ define "main" }}
+  <section class="section">
+    <div class="container">
+      <div class="row">
+        <div
+          class="mx-auto text-center lg:col-8 xl:col-9"
+          data-aos="fade-up-sm">
+          <p class="mb-2 font-medium text-tertiary">
+            {{ .Params.subtitle | markdownify }}
+          </p>
+          <h1 class="h2 md:h1 mb-6">{{ .Params.title | markdownify }}</h1>
+          <p class="text-lg ">{{ .Params.description | markdownify }}</p>
+        </div>
+        <div
+          class="col-12 pt-20"
+          data-aos="fade-up-sm"
+          data-aos-delay="200">
+          <div class="row g-4 justify-center">
+            {{ with site.GetPage "sections/customer-reviews" }}
+              <!-- Loop through all reviews -->
+              {{ range .Params.list }}
+                {{ partial "components/customer-reviews.html" . }}
+              {{ end }}
+            {{ end }}
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Call to action -->
+  {{ partial "call-to-action.html" . }}
+  <!-- /Call to action -->
+{{ end }}

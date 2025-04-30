@@ -1,0 +1,87 @@
+{{ define "main" }}
+{{ with .Params.hero }}
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <div class="lg:col-7 lg:pe-20 lg:pt-16" data-aos="fade-left-sm">
+        <p class="mb-2 font-medium text-tertiary">
+          {{ .subtitle | markdownify }}
+        </p>
+        <h2 class="md:text-h1 mb-6">
+          {{ .title | markdownify }}
+        </h2>
+        <p class="text-lg">{{ .description | markdownify }}</p>
+        <div class="mt-10 flex flex-col gap-10 sm:flex-row xl:mt-20">
+          {{ range .list }}
+          <div>
+            <div class="mb-3 flex h-12 w-12 items-center justify-center rounded-full bg-tertiary">
+              <i class="text-white {{ .icon }}"></i>
+            </div>
+            <h3 class="h6 mb-2 mt-5">{{ .title | markdownify }}</h3>
+            <p class="text-lg">
+              {{ .description | markdownify }}
+            </p>
+          </div>
+          {{ end }}
+        </div>
+      </div>
+      <div class="relative pt-24 lg:col-5 lg:pt-16" data-aos="fade-left-sm" data-aos-delay="200">
+        {{ partial "image" (dict "Src" .image "Alt" "logo icon" "Class" `absolute left-1/2 top-5 -z-10 w-20
+        -translate-x-1/2 lg:-top-7`) }}
+        <div class="rounded-2xl bg-light p-5 md:p-10">
+          <form class="row g-4 " action="{{ site.Params.contact_form_action }}" method="POST">
+            <div class="lg:col-6">
+              <label for="f-name" class="form-label">
+                {{ T "first_name"}} <span class="text-red-500">*</span></label><input id="f-name" name="name"
+                class="form-input" placeholder="Your First Name" required="" type="text" />
+            </div>
+            <div class="lg:col-6">
+              <label for="l-name" class="form-label">
+                {{ T "last_name" }} <span class="text-red-500">*</span></label><input id="l-name" name="name"
+                class="form-input" placeholder="Your Last Name" required="" type="text" />
+            </div>
+            <div class="col-12">
+              <label for="email" class="form-label">
+                {{ T "email" }} <span class="text-red-500">*</span></label><input id="email" name="email"
+                class="form-input" placeholder="youremail@email.com" required="" type="email" />
+            </div>
+            <div class="col-12">
+              <label for="company-name" class="form-label">
+                {{ T "company_name" }} <span class="text-red-500">*</span></label><input id="comapny-name"
+                name="company-name" class="form-input" placeholder="Your Company Name" required="" type="text" />
+            </div>
+            <div class="col-12">
+              <label for="subject" class="form-label">
+                {{ T "subject" }} <span class="text-red-500">*</span></label><input id="subject" name="subject"
+                class="form-input" placeholder="Your Company Name" required="" type="text" />
+            </div>
+            <div class="col-12">
+              <label for="message" class="form-label">
+                {{ T "write_message" }} <span class="text-red-500">*</span></label><textarea id="message" name="message"
+                class="form-input" placeholder="Write Your Message Here" required="" rows="3"></textarea>
+            </div>
+            <div class="col-12">
+              <button type="submit" class="btn btn-regular">
+                {{ T "send_message" }}
+              </button>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+
+
+
+<!-- accordion -->
+{{ partial "components/accordion" . }}
+<!-- /accordion -->
+
+
+<!-- Call to action -->
+{{ partial "call-to-action.html" . }}
+<!-- /Call to action -->
+
+{{ end }}

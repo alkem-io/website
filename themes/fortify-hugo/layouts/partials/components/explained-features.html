@@ -1,0 +1,104 @@
+{{ with site.GetPage "sections/explained-features" }}
+  <div
+    class="relative flex justify-center gap-3 max-xl:flex-wrap xl:mb-12 xl:mt-16 xl:flex-col xl:items-center xl:gap-y-8">
+    <div
+      class="order-2 flex gap-x-3 xl:order-0 max-xl:justify-center xl:items-center flex-col max-xl:gap-y-3 md:w-[60%] xl:w-auto xl:flex-row">
+      <div class="xl:order-1 xl:max-w-[370px]">
+        <div
+          class="mb-12 min-h-full rounded-xl bg-light px-6 py-12 text-center last:mb-0 md:rounded-3xl"
+          data-aos="fade-up-sm"
+          data-aos-delay="0">
+          <h3 class="h6 mb-2">
+            {{ .Params.first_list.first_item.title | markdownify }}
+          </h3>
+          <p>
+            {{ .Params.first_list.first_item.description | markdownify }}
+          </p>
+        </div>
+      </div>
+      <div class="xl:order-3 xl:max-w-[370px]">
+        <div
+          class="mb-12 min-h-full rounded-xl bg-light px-6 py-12 text-center last:mb-0 md:rounded-3xl"
+          data-aos="fade-up-sm"
+          data-aos-delay="100">
+          <h3 class="h6 mb-2">
+            {{ .Params.first_list.second_item.title | markdownify }}
+          </h3>
+          <p>
+            {{ .Params.first_list.second_item.description | markdownify }}
+          </p>
+        </div>
+      </div>
+      <div class="xl:order-2 max-xl:hidden">
+        {{ partial "image" (dict "Src" .Params.bg_image "Alt" "explained feature image" "Class" "w-full") }}
+      </div>
+    </div>
+    <div
+      class="order-2 flex gap-x-3 xl:order-0 max-xl:justify-center xl:items-center flex-col gap-y-3 sm:flex-row">
+      <div class="xl:order-1 xl:max-w-[370px]">
+        <div
+          class="mb-12 min-h-full rounded-xl bg-light px-6 py-12 text-center last:mb-0 md:rounded-3xl"
+          data-aos="fade-up-sm"
+          data-aos-delay="0">
+          <h3 class="h6 mb-2">
+            {{ .Params.second_list.first_item.title | markdownify }}
+          </h3>
+          <p>
+            {{ .Params.second_list.first_item.description | markdownify }}
+          </p>
+        </div>
+      </div>
+      <div class="xl:order-3 xl:max-w-[370px]">
+        <div
+          class="mb-12 min-h-full rounded-xl bg-light px-6 py-12 text-center last:mb-0 md:rounded-3xl"
+          data-aos="fade-up-sm"
+          data-aos-delay="100">
+          <h3 class="h6 mb-2">
+            {{ .Params.second_list.second_item.title | markdownify }}
+          </h3>
+          <p>
+            {{ .Params.second_list.second_item.description | markdownify }}
+          </p>
+        </div>
+      </div>
+      <div class="xl:order-2 max-xl:hidden">
+        {{ partial "image" (dict "Src" .Params.bg_image "Alt" "explained feature image" "Class" "w-full") }}
+      </div>
+    </div>
+    <div
+      class="order-2 flex gap-x-3 xl:order-0 max-xl:justify-center xl:items-center flex-col gap-y-3 sm:flex-row">
+      <div class="xl:order-1 xl:max-w-[370px]">
+        <div
+          class="mb-12 min-h-full rounded-xl bg-light px-6 py-12 text-center last:mb-0 md:rounded-3xl"
+          data-aos="fade-up-sm"
+          data-aos-delay="0">
+          <h3 class="h6 mb-2">
+            {{ .Params.third_list.first_item.title | markdownify }}
+          </h3>
+          <p>
+            {{ .Params.third_list.first_item.description | markdownify }}
+          </p>
+        </div>
+      </div>
+      <div class="xl:order-3 xl:max-w-[370px]">
+        <div
+          class="mb-12 min-h-full rounded-xl bg-light px-6 py-12 text-center last:mb-0 md:rounded-3xl"
+          data-aos="fade-up-sm"
+          data-aos-delay="100">
+          <h3 class="h6 mb-2">
+            {{ .Params.third_list.second_item.title | markdownify }}
+          </h3>
+          <p>
+            {{ .Params.third_list.second_item.description | markdownify }}
+          </p>
+        </div>
+      </div>
+      <div class="xl:order-2 max-xl:hidden">
+        {{ partial "image" (dict "Src" .Params.bg_image "Alt" "explained feature image" "Class" "w-full") }}
+      </div>
+    </div>
+    <div class="order-1 w-[40%] xl:order-0 sm:w-[30%]">
+      {{ partial "image" (dict "Src" .Params.image "Alt" "explained feature image" "Class" "mx-auto xl:absolute xl:left-1/2 xl:top-1/2 xl:w-[35%] xl:-translate-x-1/2 xl:-translate-y-1/2") }}
+    </div>
+  </div>
+{{ end }}

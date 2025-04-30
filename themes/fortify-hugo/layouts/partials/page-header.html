@@ -1,0 +1,10 @@
+<section>
+  <div class="container text-center" data-aos="fade-up-sm">
+    <div class="rounded-2xl px-8 pt-20">
+      <h1 class="h2 md:h1 mb-4">{{ .Title | markdownify }}</h1>
+      <p class="text-2xl font-medium text-tertiary">
+        {{ .Params.updated | markdownify }}
+      </p>
+    </div>
+  </div>
+</section>
