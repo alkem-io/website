@@ -12,7 +12,7 @@
               </h2>
             </div>
           </div>
-          <div class="col-12 pt-10" data-aos="fade-up-sm" data-aos-delay="200">
+          <div class="col-12 pt-10" style="overflow: hidden;" data-aos="fade-up-sm" data-aos-delay="200">
             <div class="swiper-container">
               <div class="swiper-wrapper">
                 {{ range .logo }}
@@ -34,13 +34,16 @@
       </div>
     </section>
   {{ end }}
-{{ end }} 
+{{ end }}
 <!--/Brand Logo -->
 
 <style>
   .swiper-container {
     padding: 20px 0;
     position: relative;
+  }
+  .swiper-wrapper{
+    height: 130px;
   }
 
   .swiper-slide {
@@ -58,7 +61,7 @@
   .swiper-button-prev {
     color: #000;
     position: absolute;
-    top: 50%;
+    top: 70%;
     transform: translateY(-50%);
     z-index: 10;
   }
