@@ -1,6 +1,6 @@
 [hugoVersion]
 extended = true
-min = "0.124.1"
+min = "0.1.1"
 
 
 # [[imports]]
@@ -24,8 +24,6 @@ path = "github.com/gethugothemes/hugo-modules/icons/font-awesome"
 # [[imports]]
 # path = "github.com/gethugothemes/hugo-modules/gzip-caching"
 
-[[imports]]
-path = "github.com/gethugothemes/hugo-modules/adsense"
 
 [[imports]]
 path = "github.com/gethugothemes/hugo-modules/accordion"
