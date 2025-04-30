@@ -13,13 +13,21 @@
             </div>
           </div>
           <div class="col-12 pt-10" data-aos="fade-up-sm" data-aos-delay="200">
-            <div
-              class="flex justify-center gap-x-12 gap-y-6 max-lg:flex-wrap">
-              {{ range .logo }}
-                <div class="flex aspect-[3.125_/_1] w-48 h-16 items-center">
-                  {{ partial "image" (dict "Src" .image "Alt" "Brand Logo" "Class" "object-contain") }}
-                </div>
-              {{ end }}
+            <div class="swiper-container">
+              <div class="swiper-wrapper">
+                {{ range .logo }}
+                  <div class="swiper-slide">
+                    <div class="flex aspect-[3.125_/_1] w-48 h-16 items-center">
+                      {{ partial "image" (dict "Src" .image "Alt" "Brand Logo" "Class" "object-contain") }}
+                    </div>
+                  </div>
+                {{ end }}
+              </div>
+              <!-- Add Pagination -->
+              <div class="swiper-pagination"></div>
+              <!-- Add Navigation -->
+              <div class="swiper-button-next"></div>
+              <div class="swiper-button-prev"></div>
             </div>
           </div>
         </div>
@@ -28,3 +36,59 @@
   {{ end }}
 {{ end }} 
 <!--/Brand Logo -->
+
+<style>
+  .swiper-container {
+    padding: 20px 0;
+    position: relative;
+  }
+
+  .swiper-slide {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .swiper-pagination {
+    margin-top: 30px; /* Increased margin to move pagination further below images */
+    text-align: center;
+  }
+
+  .swiper-button-next,
+  .swiper-button-prev {
+    color: #000;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    z-index: 10;
+  }
+
+  .swiper-button-next {
+    right: 10px;
+  }
+
+  .swiper-button-prev {
+    left: 10px;
+  }
+</style>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    new Swiper('.swiper-container', {
+      loop: true,
+      autoplay: {
+        delay: 3000,
+      },
+      slidesPerView: 3, // Display exactly 3 images per rotation
+      spaceBetween: 100, // Add spacing between slides
+      pagination: {
+        el: '.swiper-pagination',
+        clickable: true,
+      },
+      navigation: {
+        nextEl: '.swiper-button-next',
+        prevEl: '.swiper-button-prev',
+      },
+    });
+  });
+</script>
