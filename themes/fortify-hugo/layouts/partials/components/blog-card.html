@@ -2,7 +2,7 @@
 {{ $isBlogSingle := .IsBlogSingle }}
 
 {{ with $context }}
-  <div class="bg-body">
+  <div class="bg-body blog-card">
     {{ if .Params.featured }}
       <!-- This will only show on single blog pages -->
       <div class="relative flex items-center justify-center mb-6">
@@ -34,7 +34,7 @@
       <a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>
     </h3>
     <p class="mb-6">{{ .Params.description | markdownify }}</p>
-    <a class="btn btn-text" href="{{ .RelPermalink }}">
+    <a class="btn btn-text read-more" href="{{ .RelPermalink }}">
       {{ T "read_more" }} <span class="sr-only">Details</span>
       <div class="icon-wrapper">
         <span class="icon">
