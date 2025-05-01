@@ -24,14 +24,14 @@ banner:
 how_it_works:
   subtitle: "Our Activities"
   title: "What We Do"
-  description: "We empower changemakers achieve their goals through three workstreams."
+  description: "We empower changemakers achieve their goals through three work streams."
   features:
-    - title: "A Digital Platform"
-      description: "Stewarding the development of a collective action platform which puts public interests first"
-      icon: "fa-solid fa-spinner" 
     - title: "Research"
       description: "Conducting research to deepen understanding of ways of collaborating towards shared goals, at scale.  "
       icon: "fa-solid fa-code-branch" 
+    - title: "A Digital Platform"
+      description: "Stewarding the development of a collective action platform which puts public interests first"
+      icon: "fa-solid fa-spinner" 
     - title: "Advocacy"
       description: "Expanding awareness and building the field around key enablers of collective action."
       icon: "fa-solid fa-wand-sparkles" 
