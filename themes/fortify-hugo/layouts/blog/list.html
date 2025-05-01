@@ -1,5 +1,5 @@
 {{ define "main" }}
-  {{ $paginator := .Paginate (where .RegularPages ".Params.featured" "ne" true) 9 }} <!-- Updated to paginate 9 posts per page -->
+  {{ $paginator := .Paginate .RegularPages 9 }} <!-- Updated to paginate 9 posts per page -->
 
   {{/* Checking if paginated page or not */}}
   {{ $isPaginatedPage := false }}
