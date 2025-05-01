@@ -14,6 +14,7 @@
             {{ .Params.banner_origin.description | markdownify }}
           </p>
         </div>
+        {{ if .Params.banner_origin.image }}
         <div class="col-12 pt-20" data-aos="fade-up-sm" data-aos-delay="200">
           <div class="row g-4 justify-center">
             <div class="lg:col-6">
@@ -21,6 +22,7 @@
             </div>
           </div>
         </div>
+        {{ end }}
       </div>
     </div>
   </section>
@@ -41,6 +43,7 @@
             {{ .Params.banner_purpose.description | markdownify }}
           </p>
         </div>
+        {{ if .Params.banner_purpose.image }}
         <div class="col-12 pt-20" data-aos="fade-up-sm" data-aos-delay="200">
           <div class="row g-4 justify-center">
             <div class="lg:col-6">
@@ -48,6 +51,7 @@
             </div>
           </div>
         </div>
+        {{ end }}
       </div>
     </div>
   </section>
@@ -68,6 +72,7 @@
             {{ .Params.banner_so.description | markdownify }}
           </p>
         </div>
+        {{ if .Params.banner_so.image }}
         <div class="col-12 pt-20" data-aos="fade-up-sm" data-aos-delay="200">
           <div class="row g-4 justify-center">
             <div class="lg:col-6">
@@ -75,6 +80,7 @@
             </div>
           </div>
         </div>
+        {{ end}}
       </div>
     </div>
   </section>
@@ -135,11 +141,11 @@
     .social-links {
       float: right;
     }
-  
+
     .social-links a {
       color: var(--color-primary);
     }
-  
+
     .social-links a:hover {
       color: var(--color-tertiary);
     }
@@ -160,6 +166,7 @@
           {{ .Params.banner_structure.description | markdownify }}
         </p>
       </div>
+      {{ if .Params.banner_structure.image }}
       <div class="col-12 pt-20" data-aos="fade-up-sm" data-aos-delay="200">
         <div class="row g-4 justify-center">
           <div class="lg:col-6">
@@ -167,6 +174,7 @@
           </div>
         </div>
       </div>
+      {{ end }}
     </div>
   </div>
 </section>

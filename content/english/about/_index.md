@@ -6,17 +6,19 @@ banner_origin:
   description: "We are commited to helping changemakers succeed in their collective action efforts. <br> <br> Alkemio's origin story is from one of the toughest crisis of the 21st century - the COVID-19 pandemic. Our founders were part of Dutch government efforts to collectively overcome shared challenges. We experienced how, despite the best intentions, the lack of a supportive digital infrastructure was constraining our collective action efforts. Our communities depended on disparate tools, ad-hoc solutions, and predatory algorithms, from large technology companies. Even during the crisis, the Big Tech motive was profit first. <br> <br>  We imagined a purpose-built alternative. With all the building blocks for excelling at collective action, and designed from first principles to put society's interests first. With technology as an enabler, we aimed to harness the human capacity, talent, and determination to solve societal challenges, and support their endeavours."
   # left_image: "/images/about/about-2.jpg"
   # right_image: "/images/about/about-1.jpg"
+  # image: /images/about/...
 
 banner_purpose:
   title: "**Protecting the mission**"
   subtitle: "Purpose Guarantor"
   description: "As our digital platform gained traction, it was necessary to further safeguard its purpose, align its ambition, and  protect its users. <br> <br> alkem.io became steward-owned and the Alkemio Foundation became the purpose guarantor of the digital platform."
+  # image: /images/about/...
 
 banner_so:
   title: "**Balancing purpose alongside sustainable business**"
   subtitle: "Steward-Ownership"
   description: "Steward-ownership is an ownership and governance model that ensures companies remain true to their purpose alongside ensuring business sustainability. Many successful businesses in Europe adopt this model, and momentum is growing for smaller purpose-driven companies also. <br> <br> If you are interested to learn more about Alkemio and steward-ownership, this case study from Purpose Economy is a helpful starting point. <br> <br> If you are based in the Netherlands, and steward-ownership excites you, join our community here. <br> <br> A detailed over"
-
+  # image: /images/about/...
 core_values:
   title: "Our Values"
   subtitle: "Core Values"
@@ -68,4 +70,5 @@ banner_structure:
   title: "**Introducing Alkemio's Structure**"
   subtitle: "Our Structure"
   description: "Steward-ownership for smaller companies is a nascent and evolving concept. We are learning by doing, and have benefitted from inputs from other trailblazing organisations, including We Are Stewards, and Purpose. We also want to help other organisation navigate this path; to help faciliate this knowledge sharing, we have publicly shared all relevant resources. For a detailed understanding of our structure, please head to [**this page.**](/structure)"
+  # image: /images/about/...
 ---
