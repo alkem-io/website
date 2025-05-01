@@ -140,6 +140,18 @@
   <!-- /Banner -->
 
   <!-- How it Works -->
+  <style>
+    .highlight-box {
+      zoom: 1.2;
+      margin-top: -10px;
+    }
+  
+    @media (max-width: 1023px) {
+      .highlight-box {
+        margin-top: var(--bs-gutter-y);
+      }
+    }
+  </style>
   {{ with .Params.how_it_works }}
     <section class="section bg-white">
       <div class="container">
@@ -155,9 +167,10 @@
             <div class="row g-4 justify-center">
               {{ range .features }}
                 <div
-                  class="md:col-6 lg:col-4"
+                  class="lg:col-4 {{ if .highlight }} highlight-box {{ end}}"
                   data-aos="fade-up-sm"
-                  data-aos-delay="0">
+                  data-aos-delay="0"
+                >
                   <div
                     class="min-h-full rounded-xl bg-light px-6 py-12 text-center md:rounded-3xl">
                     <div
