@@ -105,8 +105,22 @@
                     class="mb-6 overflow-hidden rounded-xl bg-light text-center md:rounded-3xl">
                     {{ partial "image" (dict "Src" .image "Alt" "Team Member Image" "Class" "w-full h-auto object-cover") }}
                   </div>
+                  <div class="social-links">
+                    {{ if .bsky }}<a href="{{ .bsky }}" target="_blank" rel="noopener noreferrer">
+                      <i class="fab fa-bluesky"></i></a>{{ end }}
+                    {{ if .github }}<a href="{{ .github }}" target="_blank" rel="noopener noreferrer">
+                      <i class="fab fa-github"></i></a>{{ end }}
+                    {{ if .linkedin }}<a href="{{ .linkedin }}" target="_blank" rel="noopener noreferrer">
+                      <i class="fab fa-linkedin"></i></a>{{ end }}
+                    {{ if .website }}<a href="{{ .website }}" target="_blank" rel="noopener noreferrer">
+                      <i class="fas fa-globe"></i></a>{{ end }}
+                    {{ if .twitter }}<a href="{{ .twitter }}" target="_blank" rel="noopener noreferrer">
+                      <i class="fab fa-twitter"></i></a>{{ end }}
+                    {{ if .mastodon }}<a href="{{ .mastodon }}" target="_blank" rel="noopener noreferrer">
+                      <i class="fab fa-mastodon"></i></a>{{ end }}
+                  </div>
                   <h3 class="h6 mb-1.5">{{ .name | markdownify }}</h3>
-                  <p>{{ .company | markdownify }}</p>
+                  <p>{{ .title | markdownify }}</p>
                 </div>
               {{ end }}
             </div>
@@ -115,7 +129,21 @@
       </div>
     </section>
   {{ end }}
-  <!-- Our Team --> 
+  <!-- Our Team -->
+
+  <style>
+    .social-links {
+      float: right;
+    }
+  
+    .social-links a {
+      color: var(--color-primary);
+    }
+  
+    .social-links a:hover {
+      color: var(--color-tertiary);
+    }
+  </style>
 
  <!-- Banner 4 -->
  <section class="section">
@@ -142,6 +170,6 @@
     </div>
   </div>
 </section>
-<!-- /Banner 4 -->   
+<!-- /Banner 4 -->
 
 {{ end }}

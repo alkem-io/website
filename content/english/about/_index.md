@@ -52,9 +52,17 @@ our_team:
 
   list:
     - name: "Neil Smyth"
-      image: "/images/team/neil-smyth.png"
+      image: "/images/team/neil-smyth.jpg"
+      title: Co-founder | CEO / CTO
+      bsky: https://neilsmyth.bsky.social/
+      linkedin: https://www.linkedin.com/in/neilasmyth/
+      github: https://github.com/techsmyth
     - name: "René Honig"
       image: "/images/team/rene-honig.jpg"
+      title: Co-founder | Chief AI
+      bsky: https://renehonig.bsky.social/
+      linkedin: https://www.linkedin.com/in/renehonig/
+      github: https://github.com/renehonig
 
 banner_structure:
   title: "**Introducing Alkemio's Structure**"
