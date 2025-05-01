@@ -1,0 +1,34 @@
+/**
+  Global styles for the details & summary elements, these Read more/collapse elements
+*/
+summary {
+  list-style: none;
+  padding: 0.5rem 1rem;
+}
+
+summary:hover {
+  cursor: pointer;
+  color: var(--color-tertiary);
+}
+
+/* This is to show the text inside data-open and data-close attributes, and have different texts when opening and closing */
+details[open] summary::after {
+  content: attr(data-open);
+}
+
+details:not([open]) summary::after {
+  content: attr(data-close);
+}
+
+details {
+  background-color: var(--color-light);
+  max-height: 50px;
+  overflow: hidden;
+}
+
+details[open] {
+  transition: background-color 2s ease, max-height 1s ease;
+  /* enough to show all content */
+  max-height: 1000px;
+  background-color: transparent;
+}

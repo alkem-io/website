@@ -12,7 +12,7 @@ Sharing Alkemio’s journey to keep purpose first while being able to attract th
 **Alkemio** is in business to empower society to solve challenges effectively. This purpose is central to everything we do. We are building a team of employees, partners, and investors that share this purpose. To ensure their continued trust and achieve the long-term vision, we have chosen Steward Ownership as the core of our group structure.
 
 <details>
-<summary>Show more/less...</summary>
+<summary data-open="Close" data-close="Read more..."></summary>
 
 Alkemio offers a broad and very ambitious vision, shared by a growing community of partners. The Alkemio platform is achieving traction and we are seeing a clear need in the market. However, the journey so far is just the start. It is critical that we live up to the expectations of early adopters of the platform, with significant usage and impact on society.
 
@@ -36,7 +36,7 @@ The drivers for Alkemio were:
 We knew we had found the solution when we heard about **Steward Ownership**, which we implemented in 2023.
 
 <details>
-<summary>Show more/less...</summary>
+<summary data-open="Close" data-close="Read more..."></summary>
 
 Steward Ownership is a legal structure for companies that places purpose first and where profit serves the purpose. It is around for many years with long-term successful companies such as Bosch and Zeiss, and is now growing in popularity including with Patagonia. It provides a way to raise capital and attract top talent while ensuring the purpose remains to benefit society.
 
@@ -56,7 +56,7 @@ The new organizational structure implemented by Alkemio is shown below. All name
 **Alkemio Holding** is the Steward Ownership entity. It is a commercially and professionally run business to achieve the purpose. The value generated is distributed in accordance with the principles of Steward Ownership and the purpose.
 
 <details>
-<summary>Show more/less...</summary>
+<summary data-open="Close" data-close="Read more..."></summary>
 
 The key entities in this diagram and their roles are:
 - **Alkemio Holding BV**: the central entity, bringing together all the stakeholders. It is a holding company, raising capital, receiving and distributing profits, holding assets (IP), etc.
@@ -88,7 +88,7 @@ This is important for two key reasons:
 It is simply a *much stronger* guarantee than relying on the governance of a Foundation.
 
 <details>
-<summary>Show more/less...</summary>
+<summary data-open="Close" data-close="Read more..."></summary>
 
 The Purpose Control (PC) share is held by Stichting de Prioriteit. This entity, established also in The Netherlands, has the purpose to act as an independent party to guarantee principles of steward ownership are followed in such ventures.
 
@@ -108,7 +108,7 @@ We believe this structure has the potential to benefit many other ventures looki
 **[Purpose Foundation case study on Alkemio](./documents/purpose-alkemio-casestudyen-31032024.pdf)**: In addition to our materials which are shared below, Alkemio is also proud to be featured as a case study from [Purpose Economy](https://purpose-economy.org/en/), the leading champion for Steward Ownership.
 
 <details>
-<summary>Show more/less...</summary>
+<summary data-open="Close" data-close="Read more..."></summary>
 
 Our observation is that it is simply too much work to put purpose before profit. The analogy we have used is that for classic VC startups there is a 10 lane highway with service stations, many parties that are familiar with that journey type and can help, many fellow travellers, and at least in the earlier stages much faster travel. For purpose ventures it is currently a small side path with determined travellers, but one that is thankfully getting much better known. However, there is much to be done.
 
@@ -141,7 +141,7 @@ Please feel free to reach out if you would like to discuss / learn from our jour
 Alkemio is making great progress, in terms of both organization structure and market traction. There is still work to be done however to complete the vision, and we share some known gaps to be focused on and the long-term plan. We would also love to hear from anyone who has experience or advice to share with us as we continue down this less-travelled path!
 
 <details>
-<summary>Show more/less...</summary>
+<summary data-open="Close" data-close="Read more..."></summary>
 
 #### Roadmap near term
 
