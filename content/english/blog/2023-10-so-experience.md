@@ -15,10 +15,8 @@ categories:
   - Steward Ownership
 featured: false
 draft: false
-image: "/blog/2023-10-so-experience/featured.png"
+image: "/blog/2023-10-so-experience/alkemio-mountains.png"
 ---
-
-![header](/blog/2023-10-so-experience/header.png)
 
 ## The Inception of Alkemio: A Foundation for Change
 
