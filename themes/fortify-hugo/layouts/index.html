@@ -142,14 +142,21 @@
   <!-- How it Works -->
   <style>
     .highlight-box {
-      zoom: 1.2;
+      zoom: 1.4;
       margin-top: -10px;
     }
-  
+
     @media (max-width: 1023px) {
       .highlight-box {
+        order: -1;
         margin-top: var(--bs-gutter-y);
       }
+    }
+    .highlight-onhover {
+      transition: box-shadow 0.3s ease-in-out;
+    }
+    .highlight-onhover:hover {
+      box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
     }
   </style>
   {{ with .Params.how_it_works }}
@@ -172,7 +179,7 @@
                   data-aos-delay="0"
                 >
                   <div
-                    class="min-h-full rounded-xl bg-light px-6 py-12 text-center md:rounded-3xl">
+                    class="min-h-full rounded-xl bg-light highlight-onhover px-6 py-12 text-center md:rounded-3xl">
                     <div
                       class="mx-auto mb-3 flex h-12 w-12 items-center justify-center rounded-full bg-tertiary">
                       <i class="text-xl object-cove text-white {{ .icon }}"></i>

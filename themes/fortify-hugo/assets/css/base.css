@@ -1,5 +1,6 @@
 html {
   @apply text-base-sm md:text-base;
+  scroll-behavior: smooth;
 }
 
 body {

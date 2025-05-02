@@ -1,6 +1,12 @@
 {{ define "main" }}
+<nav class="navbar container hidden sm:flex" style="color: #ddd">
+  <a href="#origin" class="anchor">Origin</a>
+  <a href="#purpose" class="anchor">Purpose</a>
+  <a href="#steward-ownership" class="anchor">Steward Ownership</a>
+  <a href="#structure" class="anchor">Structure</a>
+</nav>
   <!-- Banner 1 -->
-  <section class="section">
+  <section class="section" id="origin">
     <div class="container">
       <div class="row">
         <div
@@ -29,7 +35,7 @@
   <!-- /Banner 1 -->
 
   <!-- Banner 2 -->
-  <section class="section">
+  <section class="section" id="purpose">
     <div class="container">
       <div class="row">
         <div
@@ -58,7 +64,7 @@
   <!-- /Banner 2 -->
 
   <!-- Banner 3 -->
-  <section class="section">
+  <section class="section" id="steward-ownership">
     <div class="container">
       <div class="row">
         <div
@@ -89,7 +95,7 @@
 
   <!-- Our Team -->
   {{ with .Params.our_team }}
-    <section class="section">
+    <section class="section" id="team">
       <div class="container">
         <div class="row">
           <div
@@ -137,23 +143,8 @@
     </section>
   {{ end }}
   <!-- Our Team -->
-
-  <style>
-    .social-links {
-      float: right;
-    }
-
-    .social-links a {
-      color: var(--color-primary);
-    }
-
-    .social-links a:hover {
-      color: var(--color-tertiary);
-    }
-  </style>
-
  <!-- Banner 4 -->
- <section class="section">
+<section class="section" id="structure">
   <div class="container">
     <div class="row">
       <div
@@ -170,7 +161,7 @@
       {{ if .Params.banner_structure.image }}
       <div class="col-12 pt-20" data-aos="fade-up-sm" data-aos-delay="200">
         <div class="row g-4 justify-center">
-          <div class="lg:col-6">
+          <div class="lg:col-8">
             <!-- {{ partial "image" (dict "Src" .Params.banner_structure.image "Alt" "Structure Image" "Class" "w-full rounded-lg object-cover md:h-[2460px]! md:rounded-3xl") }} -->
             {{ partial "image" (dict "Src" .Params.banner_structure.image "Alt" "Structure Image" "Class" "w-full h-auto rounded-lg md:rounded-3xl object-contain") }}
           </div>

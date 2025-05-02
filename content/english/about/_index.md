@@ -21,7 +21,7 @@ banner_so:
   image: "/images/gallery/so-advocacy.jpg"
 
 our_team:
-  title: "**Board of Directors**"
+  title: "Board of Directors"
   subtitle: "Our Governance"
   description: "Incorporated as a Stitching under Dutch Law, Alkemio Foundation is governed by our Board of Directors. <br><br> The members of our Board of Directors are currently the stewards of the Alkemio platform. We are currently undertaking the process to expand the number of stewards to increase diversity of thought and representation and enable the careful evolution of the platform. <br> <br> The Role of Stewards is: 
     <ul>
@@ -47,8 +47,8 @@ our_team:
       github: https://github.com/renehonig
 
 banner_structure:
-  title: "**Introducing Alkemio's Structure**"
+  title: "Introducing Alkemio's Structure"
   subtitle: "Our Structure"
-  description: "Steward-ownership for smaller companies is a nascent and evolving concept. We are learning by doing, and have benefitted from inputs from other trailblazing organisations, including We Are Stewards, and Purpose. We also want to help other organisation navigate this path; to help faciliate this knowledge sharing, we have publicly shared all relevant resources. For a detailed understanding of our structure, please head to [**this page.**](/structure)"
+  description: "Steward-ownership for smaller companies is a nascent and evolving concept. We are learning by doing, and have benefitted from inputs from other trailblazing organisations, including We Are Stewards, and Purpose. We also want to help other organisation navigate this path; to help facilitate this knowledge sharing, we have publicly shared all relevant resources. For a detailed understanding of our structure, please head to [**this page**](/structure)."
   image: "images/alkemio-group-structure.svg"
 ---

@@ -76,14 +76,28 @@
 </style>
 
 <script>
+
   document.addEventListener('DOMContentLoaded', function () {
     new Swiper('.swiper-container', {
       loop: true,
       autoplay: {
         delay: 3000,
       },
-      slidesPerView: 3, // Display exactly 3 images per rotation
-      spaceBetween: 100, // Add spacing between slides
+      breakpoints: {
+        640: {
+          slidesPerView: 1,
+          spaceBetween: 0,
+        },
+        768: {
+          slidesPerView: 2,
+          spaceBetween: 10,
+        },
+        1024: {
+          slidesPerView: 3,
+          spaceBetween: 50,
+        },
+      },
+      // spaceBetween: 100, // Add spacing between slides
       pagination: {
         el: '.swiper-pagination',
         clickable: true,
