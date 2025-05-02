@@ -17,7 +17,7 @@ banner_purpose:
 banner_so:
   title: "**Balancing purpose alongside sustainable business**"
   subtitle: "Steward-Ownership"
-  description: "Steward-ownership is an ownership and governance model that ensures companies remain true to their purpose alongside ensuring business sustainability. Many successful businesses in Europe adopt this model, and momentum is growing for smaller purpose-driven companies also. <br> <br> If you are interested to learn more about Alkemio and steward-ownership, this case study from Purpose Economy is a helpful starting point. <br> <br> If you are based in the Netherlands, and steward-ownership excites you, join our community here. <br> <br> A detailed over"
+  description: "Steward-ownership is an ownership and governance model that ensures companies remain true to their purpose alongside ensuring business sustainability. Many successful businesses in Europe adopt this model, and momentum is growing for smaller purpose-driven companies also. <br> <br> If you are interested to learn more about Alkemio and steward-ownership, [**this case study from Purpose Economy**](https://purpose-economy.org/content/uploads/purpose-alkemio-casestudyen-31032024.pdf) is a helpful starting point. <br> <br> If you are based in the Netherlands, and steward-ownership excites you, [**join our community here**](https://alkem.io/steward-ownership-nl?tab=1). <br> <br>"
   # image: /images/about/...
 core_values:
   title: "Our Values"
@@ -46,22 +46,25 @@ core_values:
 our_team:
   title: "**Board of Directors**"
   subtitle: "Our Governance"
-  description: "Incorporated as a Stitching under Dutch Law, Alkemio Foundation is governed by our Board of Directors. <br><br> The members of our Board of Directors are currently the stewards of the Alkemio platform. We are currently undertaking the process to expand the number of stewards to increase diversity of thought and representation and enable the careful evolution of the platform. <br> <br> The Role of Stewards is: <br>  
-    * safeguard the purpose of the company
-    * take decision on the strategic path for the organisation
-    * provide directions on the operational aspects, including governance, financial, and legal 
-    * allocate dividends received by Alkemio Foundation from the company towards achieving the purpose."
+  description: "Incorporated as a Stitching under Dutch Law, Alkemio Foundation is governed by our Board of Directors. <br><br> The members of our Board of Directors are currently the stewards of the Alkemio platform. We are currently undertaking the process to expand the number of stewards to increase diversity of thought and representation and enable the careful evolution of the platform. <br> <br> The Role of Stewards is: 
+    <ul>
+    <li>safeguard the purpose of the company</li>
+    <li>take decision on the strategic path for the organisation</li>
+    <li>provide directions on the operational aspects, including governance, financial, and legal</li>
+    <li>allocate dividends received by Alkemio Foundation from the company towards achieving the purpose</li>
+    </ul>"
+
 
   list:
     - name: "Neil Smyth"
       image: "/images/team/neil-smyth.jpg"
-      title: Co-founder | CEO / CTO
+      # title: Co-founder | CEO / CTO
       bsky: https://neilsmyth.bsky.social/
       linkedin: https://www.linkedin.com/in/neilasmyth/
       github: https://github.com/techsmyth
     - name: "René Honig"
       image: "/images/team/rene-honig.jpg"
-      title: Co-founder | Chief AI
+      # title: Co-founder | Chief AI
       bsky: https://renehonig.bsky.social/
       linkedin: https://www.linkedin.com/in/renehonig/
       github: https://github.com/renehonig
