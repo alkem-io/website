@@ -55,3 +55,8 @@
 .nav-dropdown-link {
   @apply text-text hover:text-tertiary block py-1 font-medium transition;
 }
+
+a:hover {
+  color: var(--color-tertiary);
+  text-decoration: underline;
+}
