@@ -1,4 +1,5 @@
 ---
+meta_title: "Home - Alkemio Foundation"
 # Banner
 banner:
   title: "Bridging the spaces <br /> between us"
@@ -23,23 +24,23 @@ banner:
 #Our Activities
 how_it_works:
   subtitle: "Our Activities"
-  title: "What We Do"
-  description: "We empower changemakers achieve their goals through three work streams."
+  title: "Empowering changemakers to <br> acheive their goals"
+  # description: "We empower changemakers achieve their goals through three work streams."
   features:
     - title: "Research"
-      description: "Conducting research to deepen understanding of ways of collaborating towards shared goals, at scale.  "
+      description: "Conducting research to deepen understanding of ways of collaborating towards shared goals, at scale"
       icon: "fa-solid fa-code-branch" 
     - title: "A Digital Platform"
       description: "Stewarding the development of a collective action platform which puts public interests first"
       icon: "fa-solid fa-spinner" 
       highlight: true
     - title: "Advocacy"
-      description: "Expanding awareness and building the field around key enablers of collective action."
+      description: "Expanding awareness and building the field around key enablers of collective action"
       icon: "fa-solid fa-wand-sparkles" 
 
 featured_blog:
-  subtitle: "Blog"
-  title: "Our Featured Blogs"
-  description: "Read our latest insights."
+  subtitle: "Our Blogs"
+  title: "Read our latest insights"
+  # description: "Read our latest insights."
 
 ---
