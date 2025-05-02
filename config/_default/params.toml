@@ -27,8 +27,8 @@ custom_script = ""
 copyright = "Copyright © 2025 Stichting Alkemio. All Rights Reserved."
 #footer description
 footer_description = "Bridging the spaces between us."
-#address
-address = "This is address"
+# address
+address = "Waldorpstraat 5, 2521 CA The Hague, The Netherlands"
 
 
 # background pattern
