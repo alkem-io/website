@@ -14,7 +14,7 @@ tags:
   - steward ownership
 featured: true
 draft: false
-image: "/blog/2024-11-trumanitarian-ep-92/header.png"
+image: "/blog/2024-11-trumanitarian-ep-92/trumanitarian-alchemist.jpg"
 ---
 
 [![](/blog/2024-11-trumanitarian-ep-92/header.png)](https://trumanitarian.org/captivate-podcast/92-alkemio/)
