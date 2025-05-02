@@ -14,10 +14,8 @@ categories:
   - Foundation
 featured: false
 draft: false
-image: "/blog/2021-06-new-name/featured.png"
+image: "/blog/2021-06-new-name/alkemio.png"
 ---
-
-![](/blog/2021-06-new-name/header.png)
 
 We are happy to announce that [**Alkemio**](https://en.wiktionary.org/wiki/alkemio) (Alchemy in Esperanto, pronounciation: /alkeˈmio/) is the new name for our open innovation platform! Our new name reflects that solving complex challenges needs a mix of knowledge, collaboration, creativity, dedication and magic.
 

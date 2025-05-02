@@ -14,10 +14,8 @@ categories:
   - Foundation
 featured: false
 draft: false
-image: "/blog/2021-09-digicampus-event/header.png"
+image: "/blog/2021-09-digicampus-event/digicampus.png"
 ---
-
-![header](/blog/2021-09-digicampus-event/header.png)
 
 [Digicampus](https://digicampus.tech), founding partner and launching customer for Alkemio, is hosting a one day summit on October 12th on "International Collaboration & Innovation". 
 
