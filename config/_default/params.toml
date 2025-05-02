@@ -27,6 +27,8 @@ custom_script = ""
 copyright = "Copyright © 2025 Stichting Alkemio. All Rights Reserved."
 #footer description
 footer_description = "Bridging the spaces between us."
+#address
+address = "This is address"
 
 
 # background pattern
