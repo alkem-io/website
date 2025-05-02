@@ -191,12 +191,23 @@
   <!-- /How it Works -->
 
   <!-- Brand Logo -->
+  {{ with .Params.brand_logo }}
   <section class="section bg-white">
     <div class="container">
       <div class="row">
         <div class="mx-auto text-center lg:col-10" data-aos="fade-up-sm">
-          <h2 class="mb-6">Alkemio Foundation is proud to have worked with the following organizations</h2>
+          <p class="mb-2 text-tertiary font-medium">
+            {{ .subtitle | markdownify }}
+          </p>
+          <h2 class="mb-6">{{ .title | markdownify }}</h2>
+          <p class="text-lg ">{{ .description | markdownify }}</p>
         </div>
+  <!-- <section class="section bg-white">
+    <div class="container">
+      <div class="row">
+        <div class="mx-auto text-center lg:col-10" data-aos="fade-up-sm">
+          <h2 class="mb-6">Alkemio Foundation is proud to have worked with the following organizations</h2>
+        </div> -->
         <div class="col-12">
           {{ partial "components/brand-logo.html" (dict "Color" true) }}
         </div>
@@ -204,6 +215,7 @@
     </div>
   </section>
   <!-- /Brand Logo -->
+  {{ end }}
 
   <!-- Adjusting the featured blog section to remove borders, resize images, and fit three posts -->
   <section class="section overflow-hidden">

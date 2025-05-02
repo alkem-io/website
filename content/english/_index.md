@@ -38,6 +38,11 @@ how_it_works:
       description: "Expanding awareness and building the field around key enablers of collective action"
       icon: "fa-solid fa-wand-sparkles" 
 
+brand_logo:
+  subtitle: "Partners and Supporters"
+  title: "We're proud to work with"
+  # description: "The logos of our current partners."
+
 featured_blog:
   subtitle: "Our Blogs"
   title: "Read our latest insights"
