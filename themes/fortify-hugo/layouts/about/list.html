@@ -1,6 +1,12 @@
 {{ define "main" }}
+<nav class="navbar container hidden sm:flex">
+  <a href="#origin" class="anchor">Origin</a>
+  <a href="#purpose" class="anchor">Purpose</a>
+  <a href="#steward-ownership" class="anchor">Steward Ownership</a>
+  <a href="#structure" class="anchor">Structure</a>
+</nav>
   <!-- Banner 1 -->
-  <section class="section">
+  <section class="section" id="origin">
     <div class="container">
       <div class="row">
         <div
@@ -29,7 +35,7 @@
   <!-- /Banner 1 -->
 
   <!-- Banner 2 -->
-  <section class="section">
+  <section class="section" id="purpose">
     <div class="container">
       <div class="row">
         <div
@@ -58,7 +64,7 @@
   <!-- /Banner 2 -->
 
   <!-- Banner 3 -->
-  <section class="section">
+  <section class="section" id="steward-ownership">
     <div class="container">
       <div class="row">
         <div
@@ -89,7 +95,7 @@
 
   <!-- Our Team -->
   {{ with .Params.our_team }}
-    <section class="section">
+    <section class="section" id="team">
       <div class="container">
         <div class="row">
           <div
@@ -138,7 +144,7 @@
   {{ end }}
   <!-- Our Team -->
  <!-- Banner 4 -->
- <section class="section">
+<section class="section" id="structure">
   <div class="container">
     <div class="row">
       <div
