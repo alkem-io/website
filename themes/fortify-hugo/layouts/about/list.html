@@ -76,7 +76,8 @@
         <div class="col-12 pt-20" data-aos="fade-up-sm" data-aos-delay="200">
           <div class="row g-4 justify-center">
             <div class="lg:col-6">
-              {{ partial "image" (dict "Src" .Params.banner_so.image "Alt" "SO Image" "Class" "w-full rounded-lg object-cover md:h-[600px]! md:rounded-3xl") }}
+              <!-- {{ partial "image" (dict "Src" .Params.banner_so.image "Alt" "SO Image" "Class" "w-full rounded-lg object-cover md:h-[600px]! md:rounded-3xl") }} -->
+              {{ partial "image" (dict "Src" .Params.banner_so.image "Alt" "SO Image" "Class" "w-full h-auto rounded-lg md:rounded-3xl object-contain") }}
             </div>
           </div>
         </div>
@@ -170,7 +171,8 @@
       <div class="col-12 pt-20" data-aos="fade-up-sm" data-aos-delay="200">
         <div class="row g-4 justify-center">
           <div class="lg:col-6">
-            {{ partial "image" (dict "Src" .Params.banner_structure.image "Alt" "Structure Image" "Class" "w-full rounded-lg object-cover md:h-[600px]! md:rounded-3xl") }}
+            <!-- {{ partial "image" (dict "Src" .Params.banner_structure.image "Alt" "Structure Image" "Class" "w-full rounded-lg object-cover md:h-[2460px]! md:rounded-3xl") }} -->
+            {{ partial "image" (dict "Src" .Params.banner_structure.image "Alt" "Structure Image" "Class" "w-full h-auto rounded-lg md:rounded-3xl object-contain") }}
           </div>
         </div>
       </div>

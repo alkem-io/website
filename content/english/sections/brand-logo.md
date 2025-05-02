@@ -10,5 +10,5 @@ brand:
     - image: "/images/partners/pzh.svg"
     - image: "/images/partners/vng.svg"
     - image: "/images/partners/vrije-universiteit-amsterdam.svg"
-    - image: "/images/partners/sidn-logo-fc.svg"
+    - image: "/images/partners/sidn-logo-fc.png"
 ---

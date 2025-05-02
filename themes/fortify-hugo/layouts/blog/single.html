@@ -40,13 +40,13 @@
           <div class="content">
             {{ .Content }}
           </div>
-          <!-- comments -->
+          <!-- comments 
           {{ if site.Config.Services.Disqus.Shortname }}
             <div class="mt-20">
               {{ template "_internal/disqus.html" . }}
             </div>
-          {{ end }}
-        </article>
+          {{ end }} -->
+        <!-- </article>
         <div class="mt-20">
           <div id="disqus_thread"></div>
           <script>
@@ -58,7 +58,7 @@
               (d.head || d.body).appendChild(s);
             })();
           </script>
-        </div>
+        </div> -->
       </div>
     </div>
   </section>
@@ -99,9 +99,5 @@
       </div>
     </div>
   </section>
-  <!-- /Related posts -->
-
-  <!-- Call to action -->
-  {{ partial "call-to-action.html" . }}
-  <!-- /Call to action -->
+  <!-- /Related posts --> 
 {{ end }}
