@@ -104,9 +104,9 @@
             <h2 class="mb-6">{{ .title | markdownify }}</h2>
             <p class="text-lg ">{{ .description | markdownify }}</p>
             {{ if .roles }}
-              <div class="text-left mt-10">
+              <div class="text-center mt-10">
                 <h3 class="text-xl mb-4">The Roles of Stewards are to:</h3>
-                <ul class="list-disc pl-6">
+                <ul class="list-disc list-inside pl-6">
                   {{ range .roles }}
                     <li>{{ .role | markdownify }}</li>
                   {{ end }}
