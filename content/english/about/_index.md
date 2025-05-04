@@ -45,10 +45,10 @@ The members of our Board of Directors are currently the Stewards of the Alkemio 
 We are currently undertaking the process to expand the number of stewards to increase diversity of thought and representation and enable the careful evolution of the platform."
 
   roles:
-    - role: "• safeguard the purpose of the company"  
-    - role: "• take decisions on the strategic path for the organization" 
-    - role: "• provide directions on the operational aspects, including governance, financial, and legal"
-    - role: "• allocate dividends received by Alkemio Foundation from the company towards achieving the purpose"
+    - role: "safeguard the purpose of the company"  
+    - role: "take decisions on the strategic path for the organization" 
+    - role: "provide directions on the operational aspects, including governance, financial, and legal"
+    - role: "allocate dividends received by Alkemio Foundation from the company towards achieving the purpose"
 
 
   list:
