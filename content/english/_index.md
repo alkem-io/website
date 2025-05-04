@@ -2,9 +2,18 @@
 meta_title: "Home - Alkemio Foundation"
 # Banner
 banner:
-  title: "Bridging the spaces <br /> between us"
-  description: "**Alkemio Foundation** supports people and organisations to achieve shared goals, <br /> by fostering purposeful collaboration and enabling collective action."
-  # In times of rapid change, our mission is to empower society to collaborate at scale, with trust, together.
+  title: "Bridging the spaces 
+  
+        
+        between us"
+  description: "Collaboration at scale towards shared goals.  
+
+
+                  With public interests guaranteed.
+                  
+                  
+                  "
+
   image:
     # main: "/images/banner.png"
     # left: "/images/banner-left.png"
@@ -25,7 +34,6 @@ banner:
 how_it_works:
   subtitle: "Our Activities"
   title: "Empowering changemakers to <br> acheive their goals"
-  # description: "We empower changemakers achieve their goals through three work streams."
   features:
     - title: "Research"
       description: "Conducting research to deepen understanding of ways of collaborating towards shared goals, at scale"

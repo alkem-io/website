@@ -14,6 +14,7 @@
             <p class="mb-8 text-lg " data-aos="fade-up-sm">
               {{ .description | markdownify }}
             </p>
+            <br/>
             {{ with .button }}
               <ul class="flex flex-wrap justify-center gap-4">
                 {{ if .get_started.enable }}
@@ -160,7 +161,7 @@
     }
   </style>
   {{ with .Params.how_it_works }}
-    <section class="section bg-white">
+    <section class="section bg-white pt-15">
       <div class="container">
         <div class="row">
           <div class="mx-auto text-center lg:col-10" data-aos="fade-up-sm">
@@ -170,7 +171,7 @@
             <h2 class="mb-6">{{ .title | markdownify }}</h2>
             <p class="text-lg ">{{ .description | markdownify }}</p>
           </div>
-          <div class="col-12 pt-20">
+          <div class="col-12 pt-10">
             <div class="row g-4 justify-center">
               {{ range .features }}
                 <div
@@ -209,19 +210,13 @@
           <h2 class="mb-6">{{ .title | markdownify }}</h2>
           <p class="text-lg ">{{ .description | markdownify }}</p>
         </div>
-  <!-- <section class="section bg-white">
-    <div class="container">
-      <div class="row">
-        <div class="mx-auto text-center lg:col-10" data-aos="fade-up-sm">
-          <h2 class="mb-6">Alkemio Foundation is proud to have worked with the following organizations</h2>
-        </div> -->
-        <div class="col-12">
+
+        <div class="col-12 pt-4">
           {{ partial "components/brand-logo.html" (dict "Color" true) }}
         </div>
       </div>
     </div>
   </section>
-  <!-- /Brand Logo -->
   {{ end }}
 
   <!-- Adjusting the featured blog section to remove borders, resize images, and fit three posts -->
@@ -238,7 +233,7 @@
           </div>
         {{ end }}
         <!-- Display featured post cards -->
-        <div class="col-12 pt-20" data-aos="fade-up-sm" data-aos-delay="200">
+        <div class="col-12 pt-10" data-aos="fade-up-sm" data-aos-delay="200">
           <div class="row gx-4 gy-5 justify-center md:gx-5">
             {{ range first 3 (where .Site.RegularPages "Params.featured" true) }}
               <div class="sm:col-6 lg:col-4">
