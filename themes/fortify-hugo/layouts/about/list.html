@@ -1,0 +1,215 @@
+{{ define "main" }}
+  <nav class="navbar container hidden sm:flex" style="color: #ddd">
+    <a href="#origin" class="anchor">Origin</a>
+    <a href="#purpose" class="anchor">Purpose</a>
+    <a href="#steward-ownership" class="anchor">Steward Ownership</a>
+    <a href="#structure" class="anchor">Structure</a>
+  </nav>
+  <!-- Banner 1 -->
+  <section class="section" id="origin">
+    <div class="container">
+      <div class="row">
+        <div class="mx-auto text-center lg:col-8" data-aos="fade-up-sm">
+          <p class="mb-2 font-medium text-tertiary">
+            {{ .Params.banner_origin.subtitle | markdownify }}
+          </p>
+          <h2 class="mb-6">{{ .Params.banner_origin.title | markdownify }}</h2>
+          {{ if .Params.banner_origin.description }}
+            {{ range .Params.banner_origin.description  }}
+              <p class="text-lg ">
+                {{ .paragraph | markdownify }}
+              </p>
+              <br/>
+            {{ end }}
+          {{ end }}
+        </div>
+        {{ if .Params.banner_origin.image }}
+          <div class="col-12 pt-20" data-aos="fade-up-sm" data-aos-delay="200">
+            <div class="row g-4 justify-center">
+              <div class="lg:col-6">
+                {{ partial "image" (dict "Src" .Params.banner_origin.image "Alt" "Banner Image" "Class" "w-full rounded-lg object-cover md:h-[600px]! md:rounded-3xl") }}
+              </div>
+            </div>
+          </div>
+        {{ end }}
+      </div>
+    </div>
+  </section>
+  <!-- /Banner 1 -->
+
+  <!-- Banner 2 -->
+  <section class="section" id="purpose">
+    <div class="container">
+      <div class="row">
+        <div class="mx-auto text-center lg:col-8" data-aos="fade-up-sm">
+          <p class="mb-2 font-medium text-tertiary">
+            {{ .Params.banner_purpose.subtitle | markdownify }}
+          </p>
+          <h2 class="mb-6">{{ .Params.banner_purpose.title | markdownify }}</h2>
+          <p class="text-lg ">
+            {{ .Params.banner_purpose.description | markdownify }}
+          </p>
+        </div>
+        {{ if .Params.banner_purpose.image }}
+          <div class="col-12 pt-20" data-aos="fade-up-sm" data-aos-delay="200">
+            <div class="row g-4 justify-center">
+              <div class="lg:col-6">
+                {{ partial "image" (dict "Src" .Params.banner_purpose.image "Alt" "Purpose Image" "Class" "w-full rounded-lg object-cover md:h-[600px]! md:rounded-3xl") }}
+              </div>
+            </div>
+          </div>
+        {{ end }}
+      </div>
+    </div>
+  </section>
+  <!-- /Banner 2 -->
+
+  <!-- Banner 3 -->
+  <section class="section" id="steward-ownership">
+    <div class="container">
+      <div class="row">
+        <div class="mx-auto text-center lg:col-8" data-aos="fade-up-sm">
+          <p class="mb-2 font-medium text-tertiary">
+            {{ .Params.banner_so.subtitle | markdownify }}
+          </p>
+          <h2 class="mb-6">{{ .Params.banner_so.title | markdownify }}</h2>
+          <p class="text-lg ">
+            {{ .Params.banner_so.description | markdownify }}
+          </p>
+        </div>
+        {{ if .Params.banner_so.image }}
+          <div class="col-12 pt-20" data-aos="fade-up-sm" data-aos-delay="200">
+            <div class="row g-4 justify-center">
+              <div class="lg:col-6">
+                <!-- {{ partial "image" (dict "Src" .Params.banner_so.image "Alt" "SO Image" "Class" "w-full rounded-lg object-cover md:h-[600px]! md:rounded-3xl") }} -->
+                {{ partial "image" (dict "Src" .Params.banner_so.image "Alt" "SO Image" "Class" "w-full h-auto rounded-lg md:rounded-3xl object-contain") }}
+              </div>
+            </div>
+          </div>
+        {{ end }}
+      </div>
+    </div>
+  </section>
+  <!-- /Banner 3 -->
+
+  <!-- Our Team -->
+  {{ with .Params.our_team }}
+    <section class="section" id="team">
+      <div class="container">
+        <div class="row">
+          <div class="mx-auto text-center lg:col-10" data-aos="fade-up-sm">
+            <p class="mb-2 font-medium text-tertiary">
+              {{ .subtitle | markdownify }}
+            </p>
+            <h2 class="mb-6">{{ .title | markdownify }}</h2>
+            <p class="text-lg ">{{ .description | markdownify }}</p>
+            {{ if .roles }}
+              <div class="text-center mt-10">
+                <h3 class="text-xl mb-4">The Roles of Stewards are to:</h3>
+                <ul class="list-disc list-inside pl-6">
+                  {{ range .roles }}
+                    <li>{{ .role | markdownify }}</li>
+                  {{ end }}
+                </ul>
+              </div>
+            {{ end }}
+          </div>
+          <div class="col-12 pt-20" data-aos="fade-up-sm" data-aos-delay="200">
+            <div class="row g-4 justify-center">
+              {{ range .list }}
+                <div class="col-6 lg:col-3">
+                  <div
+                    class="mb-6 overflow-hidden rounded-xl bg-light text-center md:rounded-3xl">
+                    {{ partial "image" (dict "Src" .image "Alt" "Team Member Image" "Class" "w-full h-auto object-cover") }}
+                  </div>
+                  <div class="social-links">
+                    {{ if .bsky }}
+                      <a
+                        href="{{ .bsky }}"
+                        target="_blank"
+                        rel="noopener noreferrer">
+                        <i class="fab fa-bluesky"></i
+                      ></a>
+                    {{ end }}
+                    {{ if .github }}
+                      <a
+                        href="{{ .github }}"
+                        target="_blank"
+                        rel="noopener noreferrer">
+                        <i class="fab fa-github"></i
+                      ></a>
+                    {{ end }}
+                    {{ if .linkedin }}
+                      <a
+                        href="{{ .linkedin }}"
+                        target="_blank"
+                        rel="noopener noreferrer">
+                        <i class="fab fa-linkedin"></i
+                      ></a>
+                    {{ end }}
+                    {{ if .website }}
+                      <a
+                        href="{{ .website }}"
+                        target="_blank"
+                        rel="noopener noreferrer">
+                        <i class="fas fa-globe"></i
+                      ></a>
+                    {{ end }}
+                    {{ if .twitter }}
+                      <a
+                        href="{{ .twitter }}"
+                        target="_blank"
+                        rel="noopener noreferrer">
+                        <i class="fab fa-twitter"></i
+                      ></a>
+                    {{ end }}
+                    {{ if .mastodon }}
+                      <a
+                        href="{{ .mastodon }}"
+                        target="_blank"
+                        rel="noopener noreferrer">
+                        <i class="fab fa-mastodon"></i
+                      ></a>
+                    {{ end }}
+                  </div>
+                  <h3 class="h6 mb-1.5">{{ .name | markdownify }}</h3>
+                  <p>{{ .title | markdownify }}</p>
+                </div>
+              {{ end }}
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  {{ end }}
+  <!-- Our Team -->
+  <!-- Banner 4 -->
+  <section class="section" id="structure">
+    <div class="container">
+      <div class="row">
+        <div class="mx-auto text-center lg:col-8" data-aos="fade-up-sm">
+          <p class="mb-2 font-medium text-tertiary">
+            {{ .Params.banner_structure.subtitle | markdownify }}
+          </p>
+          <h2 class="mb-6">
+            {{ .Params.banner_structure.title | markdownify }}
+          </h2>
+          <p class="text-lg ">
+            {{ .Params.banner_structure.description | markdownify }}
+          </p>
+        </div>
+        {{ if .Params.banner_structure.image }}
+          <div class="col-12 pt-20" data-aos="fade-up-sm" data-aos-delay="200">
+            <div class="row g-4 justify-center">
+              <div class="lg:col-8">
+                <!-- {{ partial "image" (dict "Src" .Params.banner_structure.image "Alt" "Structure Image" "Class" "w-full rounded-lg object-cover md:h-[2460px]! md:rounded-3xl") }} -->
+                {{ partial "image" (dict "Src" .Params.banner_structure.image "Alt" "Structure Image" "Class" "w-full h-auto rounded-lg md:rounded-3xl object-contain") }}
+              </div>
+            </div>
+          </div>
+        {{ end }}
+      </div>
+    </div>
+  </section>
+  <!-- /Banner 4 -->
+{{ end }}

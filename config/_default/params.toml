@@ -1,0 +1,138 @@
+#################### default parameters ################################
+# favicon module: https://github.com/gethugothemes/hugo-modules/tree/master/images#favicon-implementation
+favicon = "images/favicon.png"
+# logo module: https://github.com/gethugothemes/hugo-modules/tree/master/images#logo-implementation
+logo = "images/alkemio-foundation-logo.svg" # Must be svg...
+
+# use `px` or `x` with logo_width, example: "100px".
+# Note: logo_width is not work with .svg file
+logo_width = "134px"
+logo_height = "400px"
+# if logo_webp set false, will not generate WEBP version of logo | default is true
+logo_webp = true
+# logo text will only show when logo is missing.
+logo_text = "Alkemio"
+# theme-mode
+theme_switcher = true
+theme_default = "system" # available options [light/dark/system]
+# Main Sections
+mainSections = ["blog"]
+# contact form action
+contact_form_action = "#" # contact form works with [https://airform.io/] or [https://formspree.io]
+# google tag manager, see https://developers.google.com/tag-manager/
+google_tag_manager = "" # example: G-XXXXXXXXXX
+# custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>"
+custom_script = ""
+# copyright
+copyright = "Copyright © 2025 Stichting Alkemio. All Rights Reserved."
+#footer description
+footer_description = "Bridging the spaces between us"
+# address
+address = "Waldorpstraat 5, 2521 CA The Hague, The Netherlands"
+
+
+# background pattern
+[header]
+bg_image = "/images/bg-pattern.jpg"
+bg_image_alt = "Alkemio Background Image"
+
+# Preloader
+# preloader module: https://github.com/gethugothemes/hugo-modules/tree/master/components/preloader
+[preloader]
+enable = false
+preloader = "" # use jpg, png, svg or gif format.
+
+# Navigation button
+[navigation_button]
+enable = true
+label = "Visit Platform"
+link = "https://welcome.alkem.io"
+
+# search
+# search module: https://github.com/gethugothemes/hugo-modules/tree/master/search
+[search]
+enable = true
+primary_color = "#121212"
+include_sections = ["blog"]
+show_image = true
+show_description = true
+show_tags = true
+show_categories = true
+
+
+# seo meta data for OpenGraph / Twitter Card
+# seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
+[metadata]
+keywords = ["collective action", "public interest technology", "open source", "steward ownership", "working together", "collaboration"]
+description = "Alkemio: enabling collective action for public interest technology. We are a non-profit foundation that supports the development of open source software and steward ownership models."
+author = "Alkemio Foundation"
+image = "images/logo-icon.png"
+
+
+# site verifications
+# verification module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/site-verifications
+[site_verification]
+google = ""   # Your verification code
+bing = ""     # Your verification code
+baidu = ""    # Your verification code
+facebook = "" # Your verification code
+mastodon = "" # Your verification code
+
+# cookies
+# cookies module: https://github.com/gethugothemes/hugo-modules/tree/master/components/cookie-consent
+[cookies]
+enable = false
+expire_days = 60
+content = "This site uses cookies. By continuing to use this website, you agree to their use."
+button = "I Accept"
+
+# diagrams
+# [mermaid]
+# js_url = 'https://cdn.jsdelivr.net/npm/mermaid@latest/dist/mermaid.esm.min.mjs'
+
+######################## sidebar widgets #########################
+[widgets]
+sidebar = ["categories", "tags"]
+
+# google map
+[google_map]
+enable = false
+map_api_key = "AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU"
+map_latitude = "51.5223477"
+map_longitude = "-0.1622023"
+map_marker = "images/marker.png"
+
+# Subscription
+[quote_form]
+title = "Subscribe to Our Newsletter!"
+description = "Stay informed with our latest updates."
+submit_button_label = "Subscribe"
+placeholder = "Enter your email"
+action = "#"
+
+
+############################# social site ########################
+# [[social]]
+# title = "facebook"
+# icon = "fab fa-facebook" # fontawesome icon pack : https://fontawesome.com/icons/
+# link = "https://www.facebook.com/"
+
+# [[social]]
+# title = "twitter"
+# icon = "fab fa-twitter" # fontawesome icon pack : https://fontawesome.com/icons/
+# link = "https://twitter.com/"
+
+[[social]]
+title = "github"
+icon = "fa-brands fa-github" # fontawesome icon pack : https://fontawesome.com/icons/
+link = "https://www.github.com/alkem-io"
+
+[[social]]
+title = "linkedin"
+icon = "fa-brands fa-linkedin" # fontawesome icon pack : https://fontawesome.com/icons/
+link = "https://www.linkedin.com/company/alkemio-foundation"
+
+[[social]]
+title = "bluesky"
+icon = "fa-brands fa-bluesky" # fontawesome icon pack : https://fontawesome.com/icons/
+link = "https://bsky.app/profile/alkem.io/"

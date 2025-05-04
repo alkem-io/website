@@ -1,0 +1,63 @@
+{{ define "main" }}
+  <section class="section">
+    <div class="container">
+      <div class="row">
+        <div
+          class="xl:col-8 mx-auto text-center lg:col-8"
+          data-aos="fade-up-sm">
+          <p class="mb-2 font-medium text-tertiary">
+            {{ .Params.subtitle | markdownify }}
+          </p>
+          <h1 class="h2 md:h1 mb-6">{{ .Params.title | markdownify }}</h1>
+          <p class="text-lg ">{{ .Params.description | markdownify }}</p>
+        </div>
+        <div
+          class="col-12 mx-auto pt-20"
+          data-aos="fade-up-sm"
+          data-aos-delay="200">
+          {{ range .Params.list }}
+            <div class="row gy-5 mb-10 items-start md:g-0 last:mb-0">
+              <div class="col-auto mx-auto md:sticky md:top-20">
+                <div
+                  class="relative flex w-52 flex-col justify-start rounded-3xl bg-dark px-6 py-5">
+                  <div
+                    class="mb-2 text-base leading-relaxed text-white font-medium">
+                    <p>{{ .short_title | markdownify }}</p>
+                  </div>
+                  <p class="mb-24 text-base text-white/30">
+                    {{ $t := .date }}
+                    {{ time.Format "January 2, 2006" $t }}
+                  </p>
+                  {{ partial "image" (dict "Src" .image "Alt" "bg pattern" "Class" `pointer-events-none absolute -bottom-8 -right-8 select-none`) }}
+                  <p
+                    class="rounded-full bg-secondary px-6 py-2 text-center text-lg  font-medium">
+                    {{ .version | markdownify }}
+                  </p>
+                </div>
+              </div>
+              <div class="md:col-8 lg:col-9">
+                <div class="content prose-p:text-lg ">
+                  {{ .content | markdownify }}
+                </div>
+              </div>
+            </div>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <div class="row">
+        <div class="col-12 pt-20">
+          {{ partial "components/explained-features.html" . }}
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Call to action -->
+  {{ partial "call-to-action.html" . }}
+  <!-- /Call to action -->
+{{ end }}

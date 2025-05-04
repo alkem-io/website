@@ -1,10 +1,5 @@
 {
-    "githubPullRequests.ignoredPullRequestBranches": [
-        "develop"
-    ]
-}
-{
-    "githubPullRequests.ignoredPullRequestBranches": [
-        "develop"
+    "cSpell.words": [
+        "Alkemio"
     ]
 }

@@ -1,0 +1,111 @@
+<!--Brand Logo -->
+{{ with site.GetPage "sections/brand-logo" }}
+  {{ with .Params.brand }}
+    <section class="section bg-white pt-4">
+      <div class="container">
+        <div class="row pt-4">
+          <div class="col-12" data-aos="fade-up-sm">
+            <div class="text-center sm:flex">
+              <h2
+                class="w-full text-base pb-3 text-center font-primary text-text font-medium tracking-wide sm:whitespace-nowrap sm:pb-0 text-lg">
+                {{ .title | markdownify }}
+              </h2>
+            </div>
+          </div>
+          <div class="col-12 pt-0" style="overflow: hidden;" data-aos="fade-up-sm" data-aos-delay="200">
+            <div class="swiper-container">
+              <div class="swiper-wrapper">
+                {{ range .logo }}
+                  <div class="swiper-slide">
+                    <div class="flex aspect-[3.125_/_1] w-48 h-16 items-center">
+                      {{ partial "image" (dict "Src" .image "Alt" "Brand Logo" "Class" "object-contain") }}
+                    </div>
+                  </div>
+                {{ end }}
+              </div>
+              <!-- Add Pagination -->
+              <div class="swiper-pagination"></div>
+              <!-- Add Navigation -->
+              <div class="swiper-button-next"></div>
+              <div class="swiper-button-prev"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  {{ end }}
+{{ end }}
+<!--/Brand Logo -->
+
+<style>
+  .swiper-container {
+    padding: 20px 0;
+    position: relative;
+  }
+  .swiper-wrapper{
+    height: 130px;
+  }
+
+  .swiper-slide {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .swiper-pagination {
+    margin-top: 30px; /* Increased margin to move pagination further below images */
+    text-align: center;
+  }
+
+  .swiper-button-next,
+  .swiper-button-prev {
+    color: #000;
+    position: absolute;
+    top: 70%;
+    transform: translateY(-50%);
+    z-index: 10;
+  }
+
+  .swiper-button-next {
+    right: 10px;
+  }
+
+  .swiper-button-prev {
+    left: 10px;
+  }
+</style>
+
+<script>
+
+  document.addEventListener('DOMContentLoaded', function () {
+    new Swiper('.swiper-container', {
+      loop: true,
+      autoplay: {
+        delay: 3000,
+      },
+      breakpoints: {
+        640: {
+          slidesPerView: 1,
+          spaceBetween: 0,
+        },
+        768: {
+          slidesPerView: 2,
+          spaceBetween: 10,
+        },
+        1024: {
+          slidesPerView: 3,
+          spaceBetween: 50,
+        },
+      },
+      // spaceBetween: 100, // Add spacing between slides
+      pagination: {
+        el: '.swiper-pagination',
+        clickable: true,
+      },
+      navigation: {
+        nextEl: '.swiper-button-next',
+        prevEl: '.swiper-button-prev',
+      },
+    });
+  });
+</script>

@@ -1,0 +1,24 @@
+.featured-post-card img {
+  border: none !important;
+  /* Ensure border is removed */
+  max-width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+
+.featured-post-card {
+  margin-bottom: 20px;
+  height: 100%;
+}
+
+.blog-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  height: 100%;
+}
+
+.blog-card .read-more {
+  margin-top: auto;
+}
+
