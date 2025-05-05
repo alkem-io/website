@@ -5,6 +5,9 @@
   @apply [&:hover_.icon-wrapper_.icon:first-child]:opacity-100;
   @apply [&:hover_.icon-wrapper_.icon:last-child]:opacity-0;
 }
+a.btn {
+  text-decoration: none;
+}
 
 .btn:hover .icon:last-child {
   @apply transition-[opacity,transform] duration-[0.6s] ease-in-out;
@@ -33,7 +36,7 @@
 .btn-icon {
   @apply h-14 w-8 items-center justify-center !p-0;
   @apply [&:hover_.icon-wrapper]:gap-x-0 [&_.icon-wrapper]:gap-x-4;
-  
+
   .icon-wrapper, .icon {
     @apply w-full;
   }
@@ -68,6 +71,9 @@
 
 .btn-primary, .btn-outline-primary {
   @apply pr-2 pl-8;
+}
+.btn-dark:hover {
+  color: white;
 }
 
 .btn-light .icon-wrapper, .btn-dark .icon-wrapper, .btn-dark .icon {
