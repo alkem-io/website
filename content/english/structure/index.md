@@ -166,7 +166,7 @@ These excess profits will be for the benefit of the holder of the SE share (curr
 
 ## Alkemio is raising funds to accelerate the journey!
 
-Interested in learning how you can do well and do good? Please [visit our investors page](/investors)!
+Interested in learning how you can do well and do good? Please reach out to us!
 
 ## Disclaimer
 
