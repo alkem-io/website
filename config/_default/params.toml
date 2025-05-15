@@ -33,7 +33,7 @@ address = "Waldorpstraat 5, 2521 CA The Hague, The Netherlands"
 
 # background pattern
 [header]
-bg_image = "/images/bg-pattern.jpg"
+bg_image = "/images/foundation-bg.svg"
 bg_image_alt = "Alkemio Background Image"
 
 # Preloader
@@ -44,7 +44,7 @@ preloader = "" # use jpg, png, svg or gif format.
 
 # Navigation button
 [navigation_button]
-enable = true
+enable = false
 label = "Visit Platform"
 link = "https://welcome.alkem.io"
 
