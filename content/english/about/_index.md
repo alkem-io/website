@@ -68,6 +68,10 @@ We are currently undertaking the process to expand the number of stewards to inc
 banner_structure:
   title: "Introducing Alkemio's Structure"
   subtitle: "Our Structure"
-  description: "Steward-ownership for smaller companies is a nascent and evolving concept. We are learning by doing, and have benefitted from inputs from other trailblazing organisations, including We Are Stewards, and Purpose. We also want to help other organisation navigate this path; to help facilitate this knowledge sharing, we have publicly shared all relevant resources. For a detailed understanding of our structure, please head to [**this page**](/structure)."
+  description: "Steward-ownership for smaller companies is a nascent and evolving concept. We are learning by doing, and have benefitted from inputs from other trailblazing organizations, including [*We Are Stewards*](http://wearestewards.nl/), and [*Purpose*](https://purpose-economy.org/en/). 
+  \n\n
+  We also want to help other organizations navigate this path.
+  \n\n
+  To help facilitate this knowledge sharing, we have publicly shared all relevant resources. For a detailed explanation of our choices, all documents and in depth overview of our structure, please head to [**this page**](/structure)."
   image: "images/alkemio-group-structure.svg"
 ---
