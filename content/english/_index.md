@@ -2,18 +2,8 @@
 meta_title: "Home - Alkemio Foundation"
 # Banner
 banner:
-  title: "Bridging the spaces 
-  
-        
-        between us"
-  description: "Collaboration at scale towards shared goals.  
-
-
-                  With public interests guaranteed.
-                  
-                  
-                  "
-
+  title: "Bridging the spaces between us"
+  description: "Collaboration at scale towards shared goals. With public interests guaranteed."
   image:
     # main: "/images/banner.png"
     # left: "/images/banner-left.png"
@@ -21,30 +11,26 @@ banner:
     # right: "/images/banner-right.png"
     # bg_image: "/images/bg-pattern.png"
   button:
-    get_started:
-      enable: true
-      label: "Visit Platform"
-      link: "https://welcome.alkem.io"
     learn_more:
       enable: true
-      label: "Learn More"
+      label: "More about us"
       link: "about"
 
 #Our Activities
 how_it_works:
   subtitle: "Our Activities"
-  title: "Empowering changemakers to <br> acheive their goals"
+  title: "Empowering changemakers to <br> achieve their goals"
   features:
     - title: "Research"
       description: "Conducting research to deepen understanding of ways of collaborating towards shared goals, at scale"
-      icon: "fa-solid fa-code-branch" 
+      icon: "fa-solid fa-microscope" 
     - title: "A Digital Platform"
       description: "Stewarding the development of a collective action platform which puts public interests first"
-      icon: "fa-solid fa-spinner" 
+      icon: "fa-solid fa-users" 
       highlight: true
     - title: "Advocacy"
       description: "Expanding awareness and building the field around key enablers of collective action"
-      icon: "fa-solid fa-wand-sparkles" 
+      icon: "fa-solid fa-bullhorn" 
 
 brand_logo:
   subtitle: "Partners and Supporters"
