@@ -12,11 +12,10 @@ name = "About Us"
 pageRef = "/about"
 weight = 2
 
-# [[main]]
-# parent = "All Pages"
-# name = "Home"
-# pageRef = "/"
-# weight = 1
+[[main]]
+name = "Visit Platform"
+url = "https://www.alkem.io"
+weight = 3
 
 # [[main]]
 # parent = "All Pages"

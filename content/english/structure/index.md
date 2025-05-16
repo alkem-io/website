@@ -51,7 +51,7 @@ Core features of Steward Ownership, as implemented by Alkemio, include:
 
 The new organizational structure implemented by Alkemio is shown below. All named entities are registered in The Netherlands.
 
-![Alkemio Group Structure](./images/alkemio-group-structure.svg)
+![Alkemio Group Structure](/images/alkemio-group-structure.svg)
 
 **Alkemio Holding** is the Steward Ownership entity. It is a commercially and professionally run business to achieve the purpose. The value generated is distributed in accordance with the principles of Steward Ownership and the purpose.
 
