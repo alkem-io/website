@@ -73,7 +73,7 @@ a.btn {
   @apply pr-2 pl-8;
 }
 .btn-dark:hover {
-  color: white
+  color: white;
 }
 
 .btn-light .icon-wrapper, .btn-dark .icon-wrapper, .btn-dark .icon {
