@@ -30,7 +30,7 @@ a.btn {
 }
 
 .btn-regular {
-  @apply bg-dark px-10 py-4 text-base font-normal text-light hover:bg-tertiary;
+  @apply bg-cyan-500 px-10 py-4 text-base font-normal text-light hover:bg-blue-500 hover:text-light;
 }
 
 .btn-icon {
@@ -73,7 +73,7 @@ a.btn {
   @apply pr-2 pl-8;
 }
 .btn-dark:hover {
-  color: white;
+  color: white
 }
 
 .btn-light .icon-wrapper, .btn-dark .icon-wrapper, .btn-dark .icon {
