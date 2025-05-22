@@ -12,7 +12,7 @@ banner:
     # bg_image: "/images/bg-pattern.png"
   button:
     learn_more:
-      enable: true
+      enable: false
       label: "More about us"
       link: "about"
 
