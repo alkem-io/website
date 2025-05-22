@@ -8,14 +8,19 @@ pageRef = "/"
 weight = 1
 
 [[main]]
-name = "About Us"
+name = "About"
 pageRef = "/about"
 weight = 2
 
 [[main]]
+name = "Contribute"
+url = "/contribute"
+weight = 3
+
+[[main]]
 name = "Visit Platform"
 url = "https://www.alkem.io"
-weight = 3
+weight = 4
 
 # [[main]]
 # parent = "All Pages"
