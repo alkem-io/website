@@ -4,22 +4,20 @@
       <!-- Left Column: Quick Links, Social Media Links, and Logo with Tagline -->
       <div class="sm:col-6 md:col-6 lg:col-6 lg:pe-16">
         <div class="w-full">
-          <h3 class="mb-4 pt-2 text-xl text-text-dark md:mb-6">
+          <!-- <h3 class="mb-4 pt-2 text-xl text-text-dark md:mb-6">
             {{ T "quick_links" }}
-          </h3>
-          <ul class="flex flex-wrap gap-4">
+          </h3> -->
+          <ul class="flex flex-wrap gap-4 items-center">
             {{ range site.Menus.footer_01 }}
               <li>
                 <a
                   class="font-medium transition hover:text-tertiary"
                   href="{{ .URL | relLangURL }}"
                   {{ if .Params.target }}target="{{ .Params.target }}"{{ else }}{{ end }}
-                  >{{ .Name }}</a
-                >
+                  >{{ .Name }}</a>                  
               </li>
             {{ end }}
-          </ul>
-          <ul class="flex flex-wrap gap-4 mt-6">
+            <!-- Social Media Icons beside links -->
             {{ with .Site.Params.social }}
               {{ range . }}
                 <li>
