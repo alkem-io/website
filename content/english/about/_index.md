@@ -12,7 +12,7 @@ banner_origin:
     - paragraph: "With technology as an enabler, we aimed to harness the human capacity, talent, and determination to solve societal challenges, and support their endeavours."
   # left_image: "/images/about/about-2.jpg"
   # right_image: "/images/about/about-1.jpg"
-  # image: /images/about/...
+  image: "/images/gallery/so-advocacy.jpg" # Testing image
 
 banner_purpose:
   title: "Protecting the mission"
