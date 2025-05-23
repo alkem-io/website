@@ -1,16 +1,16 @@
 {{ define "main" }}
-  <nav class="navbar container hidden sm:flex" style="color: black">
+  <nav class="navbar container hidden sm:flex" id="navigation-anchor" style="color: black">
     <a href="#origin" class="anchor">Origin</a>
     <a href="#purpose" class="anchor">Purpose</a>
     <a href="#steward-ownership" class="anchor">Steward-Ownership</a>
-    <a href="#steward-ownership" class="anchor">Governance</a>
+    <a href="#team" class="anchor">Governance</a>
     <a href="#structure" class="anchor">Structure</a>
   </nav>
   <!-- Banner 1 -->
   <section class="section" id="origin">
     <div class="container">
       <div class="row">
-        <div class="mx-auto text-center lg:col-8" data-aos="fade-up-sm">
+        <div class="mx-auto text-left lg:col-8" data-aos="fade-up-sm">
           <p class="mb-2 font-medium text-tertiary">
             {{ .Params.banner_origin.subtitle | markdownify }}
           </p>
@@ -33,6 +33,8 @@
             </div>
           </div>
         {{ end }}
+        <a href="#navigation-anchor" class="anchor">Back To Top ↑</a>
+        <br/>
       </div>
     </div>
   </section>
@@ -42,7 +44,7 @@
   <section class="section" id="purpose">
     <div class="container">
       <div class="row">
-        <div class="mx-auto text-center lg:col-8" data-aos="fade-up-sm">
+        <div class="mx-auto text-left lg:col-8" data-aos="fade-up-sm">
           <p class="mb-2 font-medium text-tertiary">
             {{ .Params.banner_purpose.subtitle | markdownify }}
           </p>
@@ -60,6 +62,8 @@
             </div>
           </div>
         {{ end }}
+        <a href="#navigation-anchor" class="anchor">Back To Top ↑</a>
+        <br/>
       </div>
     </div>
   </section>
@@ -69,7 +73,7 @@
   <section class="section" id="steward-ownership">
     <div class="container">
       <div class="row">
-        <div class="mx-auto text-center lg:col-8" data-aos="fade-up-sm">
+        <div class="mx-auto text-left lg:col-8" data-aos="fade-up-sm">
           <p class="mb-2 font-medium text-tertiary">
             {{ .Params.banner_so.subtitle | markdownify }}
           </p>
@@ -88,6 +92,8 @@
             </div>
           </div>
         {{ end }}
+        <a href="#navigation-anchor" class="anchor">Back To Top ↑</a>
+        <br/>
       </div>
     </div>
   </section>
@@ -98,7 +104,7 @@
     <section class="section" id="team">
       <div class="container">
         <div class="row">
-          <div class="mx-auto text-center lg:col-10" data-aos="fade-up-sm">
+          <div class="mx-auto text-left lg:col-10" data-aos="fade-up-sm">
             <p class="mb-2 font-medium text-tertiary">
               {{ .subtitle | markdownify }}
             </p>
@@ -177,6 +183,8 @@
                   <p>{{ .title | markdownify }}</p>
                 </div>
               {{ end }}
+              <a href="#navigation-anchor" class="anchor">Back To Top ↑</a>
+              <br/>
             </div>
           </div>
         </div>
@@ -188,7 +196,7 @@
   <section class="section" id="structure">
     <div class="container">
       <div class="row">
-        <div class="mx-auto text-center lg:col-8" data-aos="fade-up-sm">
+        <div class="mx-auto text-left lg:col-8" data-aos="fade-up-sm">
           <p class="mb-2 font-medium text-tertiary">
             {{ .Params.banner_structure.subtitle | markdownify }}
           </p>
@@ -209,6 +217,8 @@
             </div>
           </div>
         {{ end }}
+        <a href="#navigation-anchor" class="anchor">Back To Top ↑</a>
+        <br/>
       </div>
     </div>
   </section>
