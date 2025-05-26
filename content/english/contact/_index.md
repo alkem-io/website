@@ -2,7 +2,11 @@
 meta_title: "Contact"
 title: "Contact"
 description: "Get in touch with us for support and inquiries. We are here to help!"
-draft: false
+draft: true
+_build:
+  render: false
+  list: false
+  publishResources: false 
 
 hero:
   subtitle: "Contact Us"

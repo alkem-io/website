@@ -2,7 +2,13 @@
 meta_title: "Changelog"
 subtitle: "Changelog"
 title: "Our Latest Features and Improvements"
-description: "Your Trusted Partner in Data Protection with Cutting-Edge Solutions for <br> Comprehensive Data Security."
+description: "Your Trusted Partner in Data Protection with Cutting-Edge Solutions for <br> Comprehensive Data Security." 
+draft: true
+_build:
+  render: false
+  list: false
+  publishResources: false 
+
 
 list:
   - title: "Advanced Threat Detection Module & Enhanced Two-Factor Authentication"
