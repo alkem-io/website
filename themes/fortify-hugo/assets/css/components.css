@@ -58,7 +58,7 @@
   li {
     @apply inline-block;
     a {
-      @apply flex h-9 w-8 items-center justify-center rounded text-center leading-9 text-text-dark;
+      @apply flex h-9 w-8 items-center justify-center bg-tertiary text-center leading-9 text-text-dark;
       svg {
         @apply h-5 w-5;
       }
@@ -71,7 +71,7 @@
 }
 
 .social-links a {
-  color: var(--color-primary);
+  color: var(--color-tertiary);
 }
 
 .social-links a:hover {

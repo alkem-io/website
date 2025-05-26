@@ -15,14 +15,14 @@
         </p>
       </div>
       <div class="row items-stretch">
-        {{ if .Params.banner_origin.image }}
+        <!-- {{ if .Params.banner_origin.image }}
           <div class="lg:col-6 col-12 flex items-stretch justify-center" data-aos="fade-up-sm" data-aos-delay="200">
             <div class="w-full h-full flex items-stretch mt-0">
               {{ partial "image" (dict "Src" .Params.banner_origin.image "Alt" "Banner Image" "Class" "w-full h-full object-cover rounded-lg md:h-[600px]! md:rounded-3xl") }}
             </div>
           </div>
-        {{ end }}
-        <div class="text-left lg:col-6 flex flex-col justify-stretch h-full mt-0" data-aos="fade-up-sm">
+        {{ end }} -->
+        <div class="text-center lg:col-12 flex flex-col justify-stretch h-full mt-0" data-aos="fade-up-sm">
           <h2 class="mb-6">{{ .Params.banner_origin.title | markdownify }}</h2>
           {{ if .Params.banner_origin.description }}
             {{ range .Params.banner_origin.description  }}
@@ -34,7 +34,7 @@
         </div>
       </div>
       <div class="flex justify-center mt-4">
-        <a href="#navigation-anchor" class="anchor">Back To Top ↑</a>
+      <!--  <a href="#navigation-anchor" class="anchor">Back To Top ↑</a> -->
       </div>
     </div>
   </section>

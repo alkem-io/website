@@ -2,7 +2,7 @@
 meta_title: "Who We Are - Alkemio Foundation"
 
 banner_origin:
-  title: "Alkemio Foundation,  <br> a think-do tank"
+  title: "Alkemio Foundation, a think-do tank"
   # subtitle: "About"
   description: 
     - paragraph: "From our base in The Hague, we are committed to helping change makers in The Netherlands and worldwide, succeed in their collective action efforts. Alkemio's origin story is from one of the toughest crisis of the 21st century - the COVID-19 pandemic. Our founders were part of Dutch public-private initiative to collectively overcome shared challenges. We experienced how, despite the best intentions, the lack of a supportive digital infrastructure was constraining our collective action efforts. Our communities depended on disparate tools, ad-hoc solutions, and algorithms putting the interests of large technology companies first." 
@@ -17,7 +17,7 @@ banner_purpose:
   description: 
     - paragraph: "As our digital platform gained traction, it was necessary to further safeguard its purpose, align its ambition, and  protect its users. "
     - paragraph: "alkem.io became steward-owned and the Alkemio Foundation became the purpose guarantor of the digital platform."
-  image: "/images/gallery/purpose.jpg" # Testing image
+  image: "/images/gallery/purpose.png" # Testing image
 
 banner_so:
   title: "Balancing purpose and a sustainable business"
