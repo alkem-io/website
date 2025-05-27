@@ -16,7 +16,7 @@ banner_purpose:
   # subtitle: "Purpose Guarantor"
   description: 
     - paragraph: "As our digital platform gained traction, it was necessary to further safeguard its purpose, align its ambition, and  protect its users. "
-    - paragraph: "alkem.io became steward-owned and the Alkemio Foundation became the purpose guarantor of the digital platform."
+    - paragraph: "In 2023, [**Alkemio**](https://welcome.alkem.io) became steward-owned and the Alkemio Foundation became the purpose guarantor of the digital platform."
   image: "/images/gallery/purpose.png" # Testing image
 
 banner_so:
