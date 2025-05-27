@@ -123,14 +123,14 @@ action = "#"
 # link = "https://twitter.com/"
 
 [[social]]
+title = "linkedin"
+icon = "fa-brands fa-linkedin" # fontawesome icon pack : https://fontawesome.com/icons/
+link = "https://www.linkedin.com/company/alkemio-foundation" 
+
+[[social]]
 title = "github"
 icon = "fa-brands fa-github" # fontawesome icon pack : https://fontawesome.com/icons/
 link = "https://www.github.com/alkem-io"
-
-[[social]]
-title = "linkedin"
-icon = "fa-brands fa-linkedin" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "https://www.linkedin.com/company/alkemio-foundation"
 
 [[social]]
 title = "bluesky"
