@@ -30,7 +30,7 @@ a.btn {
 }
 
 .btn-regular {
-  @apply bg-dark px-10 py-4 text-base font-normal text-light hover:bg-tertiary;
+  @apply bg-secondary px-10 py-4 text-base font-normal text-light hover:bg-tertiary hover:text-light;
 }
 
 .btn-icon {

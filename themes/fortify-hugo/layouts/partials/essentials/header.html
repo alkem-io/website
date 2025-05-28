@@ -95,9 +95,10 @@
         {{ end }}
       </ul>
 
-      <div class="order-1 ml-auto flex items-center md:order-2 lg:ml-0">
+
         <!-- navigation btn -->
         {{ if site.Params.navigation_button.enable }}
+              <div class="order-1 ml-auto flex items-center md:order-2 lg:ml-0">
         <a class="btn btn-dark hidden lg:flex" href="{{ site.Params.navigation_button.link | relLangURL }}">
           {{ site.Params.navigation_button.label }}
           <span class="icon-wrapper">
@@ -115,8 +116,9 @@
             </span>
           </span>
         </a>
+        </div>
         {{ end }}
-      </div>
+      
     </nav>
 
   </header>

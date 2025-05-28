@@ -16,8 +16,8 @@
   command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
 
 [[redirects]]
-  from = "/post/2023-04-innovation-library/"
-  to = "https://welcome.alkem.io/blog/2023-04-innovation-library/"
+  from = "/post/*"
+  to = "/blog/:splat"
   status = 301
   force = true
 
