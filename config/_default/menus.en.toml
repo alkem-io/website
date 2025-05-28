@@ -8,93 +8,19 @@ pageRef = "/"
 weight = 1
 
 [[main]]
-name = "About Us"
+name = "About"
 pageRef = "/about"
 weight = 2
+
+# [[main]]
+# name = "Contribute"
+# url = "/contribute"
+# weight = 3
 
 [[main]]
 name = "Visit Platform"
 url = "https://www.alkem.io"
-weight = 3
-
-# [[main]]
-# parent = "All Pages"
-# me = "About"
-# pageRef = "/about"
-# weight = 2
-
-# [[main]]
-# parent = "All Pages"
-# name = "Integration"
-# pageRef = "/integration"
-# weight = 3
-
-# [[main]]
-# parent = "All Pages"
-# name = "Changelog"
-# pageRef = "/changelog"
-# weight = 4
-
-# [[main]]
-#parent = "All Pages"
-# name = "Blog"
-# pageRef = "/blog"
-# weight = 5
-
-# [[main]]
-# parent = "All Pages"
-# name = "Blog Details"
-# pageRef = "/blog/post-1"
-# weight = 6
-
-# [[main]]
-# parent = "All Pages"
-# name = "Review"
-# pageRef = "/review"
-# weight = 7
-
-# [[main]]
-# parent = "All Pages"
-# name = "Privacy Policy"
-# pageRef = "/pages/privacy-policy"
-# weight = 8
-
-# [[main]]
-# parent = "All Pages"
-# name = "Terms of Conditions"
-# pageRef = "/pages/terms-conditions"
-# weight = 9
-
-# [[main]]
-# parent = "All Pages"
-# name = "404 Page"
-# pageRef = "/404"
-# weight = 10
-
-# [[main]]
-# name = "Features"
-# pageRef = "/feature"
-# weight = 2
-
-# [[main]]
-# name = "Pricing"
-# pageRef = "/pricing"
-# weight = 3
-
-# [[main]]
-# name = "Structure"
-# pageRef = "/structure"
-# url = "/structure"
-# weight = 4
-
-# [[main]]
-# name = "Contact"
-# pageRef = "/contact"
-# weight = 4
-
-
-
-
+weight = 4
 
 # footer menu
 # [[footer_01]]
@@ -108,7 +34,7 @@ weight = 3
 # weight = 2
 
 [[footer_01]]
-name = "Blog"
+name = "Blogs"
 url = "/blog"
 weight = 1
 

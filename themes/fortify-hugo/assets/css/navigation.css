@@ -19,7 +19,7 @@
     @apply max-h-full max-w-full;
   }
   img {
-    width: 330px;
+    width: 200px;
     max-width: 100%;
   }
 }

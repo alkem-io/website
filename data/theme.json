@@ -2,9 +2,9 @@
   "colors": {
     "default": {
       "theme_color": {
-        "primary": "#1d384a",
+        "primary": "#1D384A",
         "secondary": "#09BCD4",
-        "tertiary": "#1D384A",
+        "tertiary": "#079DB0",
         "quaternary": "#f1f4f5",
         "body": "#fff",
         "border": "#e0e0e0",

@@ -83,8 +83,8 @@ mastodon = "" # Your verification code
 [cookies]
 enable = false
 expire_days = 60
-content = "This site uses cookies. By continuing to use this website, you agree to their use."
-button = "I Accept"
+content = "We couldn't find a reason why this site needs to use cookies. So, we didn't. You should have a cookie though."
+button = "I like this easter egg."
 
 # diagrams
 # [mermaid]
@@ -123,14 +123,14 @@ action = "#"
 # link = "https://twitter.com/"
 
 [[social]]
+title = "linkedin"
+icon = "fa-brands fa-linkedin" # fontawesome icon pack : https://fontawesome.com/icons/
+link = "https://www.linkedin.com/company/alkemio-foundation" 
+
+[[social]]
 title = "github"
 icon = "fa-brands fa-github" # fontawesome icon pack : https://fontawesome.com/icons/
 link = "https://www.github.com/alkem-io"
-
-[[social]]
-title = "linkedin"
-icon = "fa-brands fa-linkedin" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "https://www.linkedin.com/company/alkemio-foundation"
 
 [[social]]
 title = "bluesky"
