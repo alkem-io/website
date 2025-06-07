@@ -97,7 +97,7 @@ sidebar = ["categories", "tags"]
 # google map
 [google_map]
 enable = false
-map_api_key = "AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU"
+map_api_key = "" # To be set via environment variable
 map_latitude = "51.5223477"
 map_longitude = "-0.1622023"
 map_marker = "images/marker.png"
@@ -125,7 +125,7 @@ action = "#"
 [[social]]
 title = "linkedin"
 icon = "fa-brands fa-linkedin" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "https://www.linkedin.com/company/alkemio-foundation" 
+link = "https://www.linkedin.com/company/alkemio-foundation"
 
 [[social]]
 title = "github"
